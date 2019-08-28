@@ -12,7 +12,7 @@ Mapbox Atlas allows you to run Mapbox global maps on your own infrastructure.
 
 A new study has found that at various times the British have invaded almost 90 percent of the countries around the world and only 22 which have never experienced an invasion by the British.
 
-3.[Using DeepVGI to Map Human Settlements](https://www.mdpi.com/2072-4292/11/15/1799)
+3. [Using DeepVGI to Map Human Settlements](https://www.mdpi.com/2072-4292/11/15/1799)
 
 ![](https://www.mdpi.com/remotesensing/remotesensing-11-01799/article_deploy/html/images/remotesensing-11-01799-g001-550.jpg)
 
@@ -28,7 +28,7 @@ The Assistant for Understanding Data through Reasoning, Extraction and Synthesis
 
 # Research
 
-1.[Biosensor Tattos](https://www.sciencealert.com/there-is-now-an-actual-tattoo-that-can-change-colour-based-on-glucose-levels)
+1. [Biosensor Tattos](https://www.sciencealert.com/there-is-now-an-actual-tattoo-that-can-change-colour-based-on-glucose-levels)
 
 ![](https://www.sciencealert.com/images/2019-07/tattoo-health-all.jpg)
 ![](https://www.sciencealert.com/images/2019-07/tattoo-health-tinypic.jpg)
@@ -37,7 +37,7 @@ Scientists in Germany have developed a different colour-changing dye which could
 
 It only been tested on a piece of pig skin, and haven't yet been tested in humans. But it could lead to real tattoos that let patients and doctor monitor chronic diseases such as diabetes and kidney disease in real-time.
 
-2.[3D-Printed Skin and Bone](https://www.esa.int/Our_Activities/Space_Engineering_Technology/Upside-down_3D-printed_skin_and_bone_for_humans_to_Mars)
+2. [3D-Printed Skin and Bone](https://www.esa.int/Our_Activities/Space_Engineering_Technology/Upside-down_3D-printed_skin_and_bone_for_humans_to_Mars)
 
 ![](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/11/3d_bioprinting_for_space/18887672-1-eng-GB/3D_bioprinting_for_space_large.jpg)
 
