@@ -59,7 +59,7 @@ TimescaleDB is an open-source database designed to make SQL scalable for time-se
 
 InfluxDB is a high-performance data store explicitly implemented for time series data. It allows for high throughput ingest, compression and real-time querying. It's written entirely in GO and provides expressive SQL-like query language.
 
-1. [apexcharts.js ](https://github.com/apexcharts/apexcharts.js)
+3. [apexcharts.js ](https://github.com/apexcharts/apexcharts.js)
 
 ![](https://camo.githubusercontent.com/74e7bd9769560cdaadbec5771ecd82c920fe3137/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d62616e6e65722e706e67)
 
