@@ -42,7 +42,7 @@ Thanks to Trump, we’ve got a better idea of the capabilities of US Surveillanc
 
 1. [AI Farmbots Want Jobs Americans Don't](https://www.cnn.com/2019/09/04/business/robot-farmers/index.html?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77004961&_hsenc=p2ANqtz-8d2U4S4iDBzB0IS5LFTVCl6Ip3Ybv7ct1TEh-pTLn5sPUgwEZLX1dx7qZuplNR2PcZrKtZcRC6w_j_ajRLKntFiO1VVA&_hsmi=77004961)
 
-![](../images/issue-6-1.gif)
+![](../images/issue-6-2.gif)
 
 Advances in computer vision and robotic dexterity may reach the field just in time to save U.S. agriculture from a looming labour shortage. CNN Business surveyed the latest crop of AI-powered farm bots, highlighting those capable of picking tender produce, working long hours, and withstanding outdoor conditions.
 
