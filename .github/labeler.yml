@@ -1,6 +1,3 @@
-doc:
+documentation:
   - docs/*
   - ./*.md
-assert: images/*
-png: images/*.png
-gif: images/*.gif
