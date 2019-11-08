@@ -4,6 +4,8 @@ Keep track of GeoSpatial & IoT & AI/ML content worth sharing every week.
 
 ## 2019
 
+**Nov**:
+
 **Oct**: [Issue #10](docs/issue-10.md) :rocket: | [Issue #9](docs/issue-9.md) | [Issue #8](docs/issue-8.md)
 
 **Sep**: [Issue #7](docs/issue-7.md) | [Issue #6](docs/issue-6.md) | [Issue #5](docs/issue-5.md) | [Issue #4](docs/issue-4.md)
