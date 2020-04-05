@@ -4,8 +4,18 @@ Keep track of GeoSpatial & IoT & AI/ML content worth sharing every week.
 
 ## Search
 
+1. Use [Sourcegraph.com](https://sourcegraph.com/github.com/lkcozy/weekly)
+
+2. Clone the repo to your local machine, and then run the following command in the folders:
+
+```shell
+grep -nri [keyword] docs | cat --n
 ```
-$ grep -nri [keyword] docs | cat --number
+
+For example，search `GIS` related content。
+
+```shell
+grep -nri gis docs | cat -n
 ```
 
 ## 2019
