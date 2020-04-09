@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 1
+
+## GeoSpatial
 
 1. [Koop](https://koopjs.github.io/)
 
@@ -51,7 +53,7 @@ Kepler.gl is a powerful open source geospatial analysis tool for large-scale dat
 
 Planet Analytics is a platform from the satellite imagery provider that provides road detection, building detection, and vessel detection & tracking.
 
-# AI/ML
+## AI/ML
 
 1.[Prediction Machines: The Simple Economics of AI](https://www.youtube.com/watch?v=ByvPp5xGL1I&amp=&t=2569s)
 
@@ -71,7 +73,7 @@ The fastai library simplifies training fast and accurate neural nets using moder
 
 Colaboratory is a free Jupyter notebook environment. It allows you to write and execute code, share your analyses, and access powerful computing resources, from your browser. You can even develop deep learning application with free GPU.
 
-# Research
+## Research
 
 1. [Sleep](https://time.com/4651743/insomnia-sleep-therapy/)
 

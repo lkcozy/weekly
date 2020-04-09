@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 6
+
+## GeoSpatial
 
 1. [On the extinction of species](https://www.economist.com/graphic-detail/2019/09/20/a-million-species-of-plant-and-animal-are-at-risk-of-extinction)
 
@@ -38,7 +40,7 @@ The author shows how to animate 17,000+ public libraries in the US on maps with 
 
 Thanks to Trump, we’ve got a better idea of the capabilities of US Surveillance satellites. Trump's tweet unwittingly revealed some of the capabilities of a top-secret satellite called USA 224, an optical reconnaissance satellite.
 
-# AI/ML
+## AI/ML
 
 1. [AI Farmbots Want Jobs Americans Don't](https://www.cnn.com/2019/09/04/business/robot-farmers/index.html?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77004961&_hsenc=p2ANqtz-8d2U4S4iDBzB0IS5LFTVCl6Ip3Ybv7ct1TEh-pTLn5sPUgwEZLX1dx7qZuplNR2PcZrKtZcRC6w_j_ajRLKntFiO1VVA&_hsmi=77004961)
 
@@ -50,7 +52,7 @@ Harvest bots tend to use two types of computer vision: one to identify ripe frui
 
 One major challenge with agricultural robots is adapting them for all-weather conditions, which is very different from building it for factories. The productivity of these robotics is not as equal as humans now. But their production efficiency will gradually increase and have the potential to convert the market from being supply-driven to demand-driven. That will then help to reduce food waste and raise prices.
 
-# Research
+## Research
 
 1. [Sleep is your superpower](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower)
 
@@ -58,7 +60,7 @@ One major challenge with agricultural robots is adapting them for all-weather co
 
 Sleep is your life-support system and Mother Nature's best effort yet at immortality. Sleep scientist Matt Walker shares the wonderfully good things that happen when you get to sleep -- and the alarmingly bad things that happen when you don't, for both your brain and body. Learn more about sleep's impact on your learning, memory, immune system and even your genetic code -- as well as some helpful tips for getting some shut-eye.
 
-# Tool
+## Tool
 
 1. [video-object-removal](https://github.com/zllrunning/video-object-removal)
 
@@ -73,7 +75,7 @@ Just draw a bounding box, and you can remove the object you want to remove. This
 
 Shields provides many concise, consistent, and legible badges in SVG and raster format, which can easily be included in GitHub readmes or any other web page. The service supports dozens of continuous integration services, package registries, distributions, app stores, social networks, code coverage services, and code analysis services.
 
-# Comments
+## Comments
 
 The days are long but the decades are short.
 

@@ -1,15 +1,16 @@
-# GeoSpatial
+# GISer's Weekly Issue 11
+
+## GeoSpatial
 
 1. [Drone with thermal cameras helps find boy](https://www.dpreview.com/news/1907862357/photographer-uses-drone-with-thermal-camera-to-find-missing-6-year-old-boy)
 
 ![](https://3.img-dpreview.com/files/p/E~TC4x3S590x0~articles/1907862357/Fine_Annotated.jpeg)
 
-Last month, a 6-year-old boy, Ethan, went missing on a subfreezing night in Sherburne County, Minnesota. A group of roughly 600 people showed up to search for Ethan and his dog but found nothing. A photographer learned this search at 8 pm and arrived on site about 9 pm. He arrived carrying his DJI m210RTK v2 drone equipped with an XT2 dual thermal camera. He also had 10-12 sets of batteries charged and started flying to view the heat source on the ground. After quite a few false positives - otters, deer, bear, at 1:40 am, he finally spotted the six-year-old and his dog. A ground rescue team made it to his location and saved the boy and his dog. 
+Last month, a 6-year-old boy, Ethan, went missing on a subfreezing night in Sherburne County, Minnesota. A group of roughly 600 people showed up to search for Ethan and his dog but found nothing. A photographer learned this search at 8 pm and arrived on site about 9 pm. He arrived carrying his DJI m210RTK v2 drone equipped with an XT2 dual thermal camera. He also had 10-12 sets of batteries charged and started flying to view the heat source on the ground. After quite a few false positives - otters, deer, bear, at 1:40 am, he finally spotted the six-year-old and his dog. A ground rescue team made it to his location and saved the boy and his dog.
 
 The below thermal image shows a stream of volunteers walking a path to find missing 6-year-old Ethan.
 
 ![](https://1.img-dpreview.com/files/p/E~TS590x0~articles/1907862357/Fines_Thermal_Image_of_Volunteers.jpeg)
-
 
 2. [Roaming eagle](https://www.abc.net.au/news/2019-10-26/roaming-russian-eagles-leave-scientists-broke/11642780)
 
@@ -17,7 +18,7 @@ The below thermal image shows a stream of volunteers walking a path to find miss
 
 To understand the migration trajectory of the endangered steppe eagles, Russian scientists had put tracking devices on them, and SIM card inside the device will send a message report position at regular intervals.
 
-At the beginning of October, scientists rang the alarm when several eagles left Kazakhstan and about to enter the Iran and Pakistan area, where the mobile phone signal will become International roaming. The cost of SMS will be super-expensive, which are costing 49 rubles each ($1.12) instead of the usual price of 2 to 15 rubles.
+At the beginning of October, scientists rang the alarm when several eagles left Kazakhstan and about to enter the Iran and Pakistan area, where the mobile phone signal will become International roaming. The cost of SMS will be super-expensive, which are costing 49 rubles each (\$1.12) instead of the usual price of 2 to 15 rubles.
 
 These Russian Scientists started a crowdfunding campaign and received enough money to monitor these 17 eagles for a year.
 
@@ -53,8 +54,7 @@ The globes are designed to be printed in A3, but A4 is fine too. But generally, 
 
 The 2019 Fall Foliage Map is the ultimate visual planning guide to the annual progressive changing of the leaves. While no tool can be 100% accurate, this tool is meant to help travellers better time their trips to have the best opportunity of catching peak colour each year.
 
-
-# AI/ML
+## AI/ML
 
 1. [Streamlit](https://github.com/streamlit/streamlit)
 
@@ -66,7 +66,8 @@ Streamlit lets you create apps for your machine learning projects with deceptive
 
 An online tool that answers a few questions describing the machine learning scenarios you encounter, and it returns which machine learning algorithm should be used.
 
-# Research
+## Research
+
 1.[Three Big Things: The Most Important Forces Shaping the World](https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/)
 
 ![](https://www.collaborativefund.com/uploads/1-9a3ba1.png)
@@ -79,7 +80,7 @@ Tail events drive the world. A minority of things drive the majority of outcomes
 
 Demographics, inequality, and information access will have a significant impact on the coming decades. How those Big Things end is a story yet to be told. But when it’s said we’ll have a better idea of where it began.
 
-# Tool
+## Tool
 
 1. [git-quick-stats](https://github.com/arzzen/git-quick-stats)
 

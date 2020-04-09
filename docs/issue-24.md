@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 
+# GISer's Weekly Issue 24
 
 ## GeoSpatial
 

@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 5
+
+## GeoSpatial
 
 1. [Harmoware-VIS](https://github.com/Harmoware/Harmoware-VIS)
 
@@ -30,7 +32,7 @@ The map shows global coal power capacity operating in 2010 through to 2018 (yell
 
 GeoHash is a geocoding system, which encodes a geographic location into a short string of letters and digits. It is a hierarchical spatial data structure which subdivides space into buckets of grid shape.
 
-# Research
+## Research
 
 1. [Grid Lines to Trick Your Brain](https://petapixel.com/2019/07/31/this-black-and-white-photo-uses-color-grid-lines-to-trick-your-brain/)
 
@@ -42,7 +44,7 @@ Both figures above may look like colour pictures upon first glance. They're actu
 
 According to the creator Øyvind Kolås, this is because that luminance is a lot more important than the chroma for our visual perception.
 
-# Tool
+## Tool
 
 1. [Dumper.js](https://github.com/ziishaned/dumper.js)
 
@@ -56,7 +58,7 @@ Dumper.js is a better and pretty variable inspector for your Node.js application
 
 Display macOS Dock in Touch Bar
 
-# Comments
+## Comments
 
 One of the coolest things about programming is that you really get two specialties or more. You get to learn about computer science, and programming, and things like that, but you also always are applying it in a domain. And unless you're a compiler writer or a theorem prover writer, you're going to have some other domain.
 

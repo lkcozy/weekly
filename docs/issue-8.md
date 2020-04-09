@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 8
+
+## GeoSpatial
 
 1. [Mapping How People Experience Space](https://www.mdpi.com/2220-9964/7/9/378)
 
@@ -48,7 +50,7 @@ Distributive flow maps curl like fingers branching off to their destination depi
 
 Word maps assign dominant keywords to features filling in the area of the map. Word placement is key for this type of map in terms of rotation, scaling and skewing. Large words suggest an important topic, whereas small words put less emphasis on a keyword.
 
-# AI/ML
+## AI/ML
 
 1.[Quantum Supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/)
 
@@ -70,7 +72,7 @@ The researchers built a two-dimensional simulation of a half-court complete with
 
 A cohort of NBA pros, basketball fans, and basketball non-fans evaluated the generated defences for realism. While the non-pro fans and non-fans had a hard time spotting the computer’s defensive plays, the NBA pros could tell they were not designed by a human coach.
 
-# Tool
+## Tool
 
 1. [Kaggle](https://www.kaggle.com/)
 

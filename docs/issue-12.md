@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 12
+
+## GeoSpatial
 
 1. [Hexagon Mobile Alert Bundle](https://hexagongeospatial.force.com/mappexchange/#/apps/a0q6A000000a0vXQAQ)
 
@@ -60,7 +62,7 @@ For Russia, this pipeline diversifies its export customer base. Russia’s econo
 
 In sum, the Power of Siberia is a win-win project that helps both countries mitigate their respective strategic vulnerabilities & boost economic growth.
 
-# AI/ML
+## AI/ML
 
 1. [Taloflow](https://www.taloflow.ai/)
 
@@ -78,7 +80,7 @@ The system is composed of three components.(1) A camera that automatically takes
 
 The system takes photos of wasted food as it's thrown away, using the images, the machine trains itself to recognize what has been thrown in the bin. At the first stage, a state of semi-automation is reached where users are only required to confirm the suggested food. Once trained, full automation will not require any input from the team. Users receive regular reports that highlight the volume, value, and environment impact of the waste. From their tests, it can save an average of \$35,000 per year.
 
-# Tool
+## Tool
 
 1. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)
 

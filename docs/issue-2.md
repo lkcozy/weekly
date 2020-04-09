@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 2
+
+## GeoSpatial
 
 1. [Atlas](https://docs.mapbox.com/atlas/overview/)
 
@@ -18,7 +20,7 @@ A new study has found that at various times the British have invaded almost 90 p
 
 The scarce availability of accurate and up-to-date human settlement data remains a major challenge. In recent research, a method that deploys DeepVGI, a classification method using multi-layer recursive learning, and crowdsourcing from geo-tagged images on MapSwipe, a popular map crowdsourcing site, are used together. In this case, DeepVGI classifies urban and non-urban spaces and designates spaces into given categories. Crowdsourcing by those in communities helps to validate and identify other features not easily identified on satellite imagery.
 
-# AI/ML
+## AI/ML
 
 1. [The Future of Artificial Intelligence in Firefighting](https://www.fireengineering.com/articles/2018/10/artificial-intelligence-firefighting.html#gref)
 
@@ -26,7 +28,7 @@ The scarce availability of accurate and up-to-date human settlement data remains
 
 The Assistant for Understanding Data through Reasoning, Extraction and Synthesis, or AUDREY for short, is a software application being developed by NASA Jet Propulsion Laboratory. AUDREY performs data fusion and provides tailored situational awareness to first responders. When first responders are attending an emergency, AUDREY can be an extra set of eyes and ears with a perfect memory and the ability to see through smoke, fire, and heat to augment their capabilities and their natural senses.
 
-# Research
+## Research
 
 1. [Biosensor Tattos](https://www.sciencealert.com/there-is-now-an-actual-tattoo-that-can-change-colour-based-on-glucose-levels)
 
@@ -45,7 +47,7 @@ Scientists from the University Hospital of Dresden Technical University are work
 
 This project is developed for travel to Mars or other interplanetary destinations. Because a journey to these places will involve several years in space. A 3D bioprinting capability will let crews respond to medical emergencies as they arise. For instance, brand new skin could be bioprinted in the case of burns.
 
-# Tool
+## Tool
 
 1. [mapshaper](https://github.com/mbloch/mapshaper)
 

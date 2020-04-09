@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 9
+
+## GeoSpatial
 
 1. [U.S. Landslide Inventory Map](https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=ae120962f459434b8c904b456c82669d)
 
@@ -24,13 +26,13 @@ Alibaba Group and the United Nations World Food Program (WFP) will launch a digi
 
 The Hunger Map LIVE will bring together publicly available information on food security, nutrition, conflict, weather and macro-economic data to show a holistic picture of the food security situation, using machine-learning technology to make informed predictions on food security even in areas where data is currently limited, according to a release. Advanced data-visualization tools then display the information on an interactive map at the global, country and sub-national levels.
 
-# AI/ML
+## AI/ML
 
 1. [AI Interview System](https://www.telegraph.co.uk/news/2019/09/27/ai-facial-recognition-used-first-time-job-interviews-uk-find/)
 
 ![](https://www.telegraph.co.uk/content/dam/news/2019/09/27/TELEMMGLPICT000211074639_trans_NvBQzQNjv4Bq77fGIj7q05b01U12eycGbgBGMyU79XnqbbDp2EpN56c.jpeg?imwidth=1400)
 
-Unilever is using AI technology to analyze the language, tone and facial expressions of a candidate when they are asked a set of identical job questions which they film on their mobile phone or laptop.  The algorithm selects the best applicants by assessing their performances in the video against about 25,000 pieces of facial and linguistic information compiled from previous of those who have gone on to prove to be good at the job.
+Unilever is using AI technology to analyze the language, tone and facial expressions of a candidate when they are asked a set of identical job questions which they film on their mobile phone or laptop. The algorithm selects the best applicants by assessing their performances in the video against about 25,000 pieces of facial and linguistic information compiled from previous of those who have gone on to prove to be good at the job.
 
 Hirevue, the company that developed the technology, claims it enables hiring firms to interview more candidates in the initial state rather than simply relying on CVs, and that provides a more reliable and objective indicator of future performance free of human bias. Its technology has been used in 100,000 interviews in the UK.
 
@@ -54,7 +56,7 @@ Toyota Research Institute built a household robot that users can train using a v
 
 The World Health Organization estimates that 22 percent of the world's population will be over 60 years old by 2050. Who will care for the elderly? Robots may be part of the answer.
 
-# Tool
+## Tool
 
 1. [dbdiagram.io](https://dbdiagram.io/home)
 
@@ -68,7 +70,7 @@ A free, simple tool to draw ER diagrams by just writing code. Designed for devel
 
 Wappalyzer is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, e-commerce platforms, web frameworks, server software, analytics tools and many more about accepting a project or even making an estimation.
 
-# Comments
+## Comments
 
 The best engineers are not the ones that write the most code but are instead making decisions that reduce the amount of code that needs to be written in the future.
 

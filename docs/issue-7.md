@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 7
+
+## GeoSpatial
 
 1. [World Oil Map](https://www.roqueleal.me/oilmap.html)
 
@@ -18,7 +20,7 @@ Mapbox Visual plug-in enables PowerBI to explore geographically localizable data
 
 Economics increasingly depend on geospatial data to power knowledge on everything from behavior of consumers to anticipating potential environment threats. The World Bank in August 2018 launched the Integrated Geospatial Information Framework, which is seen as a way for GIS data to be provided for governments, NGOs, and companies to make more informed decisions that not only benefit their economies but also enable sustainable development. It is also the first fully structured and standardized geospatial dataset provided directly for governments and other entities. Data standards and interoperability are a key part of the application in the framework.
 
-# Research
+## Research
 
 1. [Calculating 30 billion speed estimates a week with Apache Spark](https://blog.mapbox.com/calculating-30-billion-speed-estimates-a-week-with-apache-spark-b7cd86ff10c)
 
@@ -42,7 +44,7 @@ In their pipeline, each pySpark application produces a dataset persisted in a hi
 
 They partition all the resulting datasets by both a temporal and spatial dimension to speed up the data processing.
 
-# AI/ML
+## AI/ML
 
 1. [CivDrone](https://www.therobotreport.com/civdrone-disrupt-construction-workflows/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77292076&_hsenc=p2ANqtz-8wnDkftYh9yYEu5NBRT2-vBShPpXQuAl4Y77Oo25PtTjm_OSNCu-ajGt_TvFbdL5aO_DetLu6x44QumwclucM2G9cVRw&_hsmi=77292076)
 
@@ -66,7 +68,7 @@ The list of users spans developed countries, including the U.S., Germany, and th
 
 ![](https://carnegieendowment.org/images/article_images/201909-Feldstein-AISurveillance_WEB.jpg)
 
-# Tool
+## Tool
 
 1. [Calculus For The People](https://www.geogebra.org/m/x39ys4d7)
 
@@ -86,7 +88,7 @@ Standard Ebooks is a volunteer driven, not-for-profit project that produces new 
 
 An online tool to list Chinese classic color schemes
 
-# Comments
+## Comments
 
 Data, and lots of it is at the foundation of this initiative. However Data on its own holds very little meaning without interactive visualization tools to assist in making sense of the Data.
 

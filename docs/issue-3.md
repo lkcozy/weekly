@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 3
+
+## GeoSpatial
 
 1. [Second Sight](https://www.microsoft.com/en-us/research/product/soundscape/)
 
@@ -52,7 +54,7 @@ One new pedestrian tool, using OpenStreetMap (OSM), applies this approach, where
 
 iSTAR Pulsar is a 'big data' capture device developed in collaboration with Google, Intel and Sony for 360-degree virtualization. It has 4 x pre‐calibrated sensors synchronized to deliver a highly accurate 50MP spherical image with excellent high dynamic range (HDR). The system can be vehicle, drone, or backpack mounted to capture data everywhere. It is also designed for ease of use and does not require any photography experience or even a computer to operate. The iSTAR Pulsar app provides the ability to plan routes, as well as to view and share content online.
 
-# Videos
+## Videos
 
 1. [How I climbed a 3,000-foot vertical cliff -- without ropes | Alex Honnold](https://www.youtube.com/watch?v=6iM6M_7wBMc)
 
@@ -62,7 +64,7 @@ iSTAR Pulsar is a 'big data' capture device developed in collaboration with Goog
 
 Alex Honnold shows his unique ability to remain calm and analytical through climbing the EI Capitan without using ropes or other safety gear. To some degree, the risk is manageable as long as you consider every possibility and rehearse enough to remove all doubt. Feeling fearful is not helping you anyway. It's only hindering your performance, so keep practicing until everything you do is automatic.
 
-# Tool
+## Tool
 
 1. [FlatGeobuf](https://github.com/bjornharrtell/flatgeobuf)
 

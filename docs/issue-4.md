@@ -1,4 +1,6 @@
-# GeoSpatial
+# GISer's Weekly Issue 4
+
+## GeoSpatial
 
 1. [BeiDou has more satellites than the GPS](https://asia.nikkei.com/Business/China-tech/China-s-version-of-GPS-now-has-more-satellites-than-US-original)
 
@@ -32,7 +34,7 @@ An open-source JavaScript library for world-class 3D globes and maps
 
 CesiumJS is an open-source JavaScript library for world-class 3D globes and maps. Our mission is to create the leading 3D globe and map for static and time-dynamic content, with the best possible performance, precision, visual quality, platform support, community, and ease of use.
 
-# Research
+## Research
 
 1. [How to benchmark IoT time-series workloads in a production environment](https://blog.timescale.com/blog/how-to-benchmark-iot-time-series-workloads-in-a-production-environment/)
 
@@ -45,7 +47,7 @@ Many organizations often collect a large amount of time-series data as part of t
 
 Timescale introduced the Time Series Benchmark Suite (TSBS) as a tool for comparing and evaluating databases for time-series workloads. The primary goal of TSBS is help take the guesswork out of benchmarking by simplifying the experience of generating time-series datasets, and comparing insert & query performance on a host of database technologies.
 
-# Tool
+## Tool
 
 1. [TimescaleDB](https://github.com/timescale/timescaledb)
 
