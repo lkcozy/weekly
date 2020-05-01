@@ -27,6 +27,6 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: Issue ${{ steps.tagName.outputs.tag }}
           body: |
-            📝doc: add the ${{ steps.tagName.outputs.tag }}
+            📝doc: add the issue-${{ steps.tagName.outputs.tag }}
           draft: false
           prerelease: false
