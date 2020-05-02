@@ -17,7 +17,7 @@ jobs:
         uses: olegtarasov/get-tag@v2
         id: tagName
         with:
-          tagRegex: "issue-(.*)"
+          tagRegex: "issue-(.*)" # Optional. Returns specified group text as tag name. Full tag string is returned if regex is not defined.
       - name: Create Release
         id: create_release
         uses: actions/create-release@latest
