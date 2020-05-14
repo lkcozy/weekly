@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: pr-size-diff-label
-        uses: "pascalgn/size-label-action@ee2c1d869559066f4c5242f20c658e402e937e73"
+        uses: "lkcozy/size-label-action@master"
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           IGNORED: ".*\n!.gitignore\nyarn.lock/**"
