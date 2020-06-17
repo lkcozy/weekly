@@ -48,17 +48,23 @@ GeoNode is an open-source geospatial content management system, a platform that 
 
 Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull requests if the cost exceeds the limit. It can work with other CI systems to know if a pull request adds a massive dependency.
 
-2. [Miragejs](https://miragejs.com/)
-
-![Miragejs](https://i.morioh.com/2020/02/05/805ebb91cb4e.jpg)
-
-A client-side server to build, test and share your JavaScript app.
-
-3. [panolens.js](https://github.com/pchen66/panolens.js)
+2. [panolens.js](https://github.com/pchen66/panolens.js)
 
 ![panolens.js](https://github.com/pchen66/pchen66.github.io/raw/master/Panolens/images/panolens.gif?raw=true)
 
 Javascript panorama viewer based on Three.jsJavascript panorama viewer based on Three.js
+
+3. [AWS Toolkit for Visual Studio Code](https://aws.amazon.com/visualstudiocode/)
+
+![aws toolkit](https://d1.awsstatic.com/developer-tools/02-Toolkit-for-VS-Code-Develop-SAM-App.3b8ebcb3b219ebc40f2cddbdfd6276fa25a37466.png)
+
+AWS Toolkit for Visual Studio Code, an extension for working with AWS services including AWS Lambda. It enables you to develop AWS serverless applications locally.
+
+There many other useful [plugins](https://marketplace.visualstudio.com/search?term=AWS&target=VSCode&category=All%20categories&sortBy=Relevance) related to the AWS service.
+
+- 👍 [AWS CLI Configure](https://marketplace.visualstudio.com/items?itemName=mark-tucker.aws-cli-configure), which allows you to quickly access AWS CLI information.
+- 👍 [Serverless Console](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole): which is an alternative UI for AWS CloudWatch and DynamoDB
+- 👍 [Debugger for AWS Lambda](https://marketplace.visualstudio.com/items?itemName=thundra.thundra-debugger), which allows you to debug the AWS Lambda functions locally
 
 ## Resources
 
