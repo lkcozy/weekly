@@ -9,12 +9,30 @@
 ## AI/ML
 
 ## Research
+
 1. [Research Mapping Tools Comparison](https://musingsaboutlibrarianship.blogspot.com/?view=classic)
 
 2. [Dimensions](https://www.dimensions.ai/)
 
 [Cumulative Literature Reviews](https://osf.io/9aqrp/)
 
+## Research
+
+1. [Georgia Tech physicists unlock the secret to perfect wok-tossed fried rice](https://arstechnica.com/science/2020/02/georgia-tech-physicists-unlock-the-secret-to-perfect-wok-tossed-fried-rice/)
+
+Two Chinese-American scholars studied the physical process of Chinese fried rice and filmed five chefs fried rice. According to statistics, it takes an average of 2 minutes to stir-fry rice and stir-fry 276 times, each lasting about 1/3 seconds.
+
+2. [Early Riser or Night Owl?](https://directorsblog.nih.gov/2020/02/25/early-riser-or-night-owl-new-study-may-help-to-explain-the-difference/)
+
+![biological clock of people.](https://directorsblog.nih.gov/wp-content/uploads/2020/02/clock_card-image.jpg)
+
+American scientists have suggested that some people are used to getting up early for physiological reasons. Their biological clock cycle is 20 hours a day, causing the day to start earlier than others.
+
+3. [Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias](https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2)
+
+![gender labels](https://i.insider.com/5e4e72612c24b63a1976bc52?width=700&format=jpeg&auto=webp)
+
+A Google AI tool that can recognize objects in pictures will no longer attach gender labels like "woman" or "man" to images of people.Google said it had made the change because it was not possible to infer someone's gender solely from their appearance. It also cited its own ethical rules on AI, stating that gendering photos could exacerbate unfair bias.
 
 ## Tool
 
