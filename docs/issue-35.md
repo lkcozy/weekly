@@ -100,4 +100,5 @@ Maintaining a well-tested codebase is mission-critical, but figuring out where y
 ## Comments
 
 1. You might not think that programmers are artists, but programming is an extremely creative profession. It's a logic-based creativity
+
    -- [John Romero](https://pathmind.com/wiki/generative-adversarial-network-gan)

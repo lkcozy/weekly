@@ -2,7 +2,7 @@
 
 ## GeoSpatial
 
-1. []()
+1. [Measuring Vegetation from Satellite Imagery with NDVI](https://www.gislounge.com/measuring-vegetation-satellite-imagery-ndvi/)
 
 ![]()
 
