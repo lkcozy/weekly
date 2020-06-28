@@ -20,13 +20,13 @@ grep -nri gis docs | cat -n
 
 ## 2020
 
-**Jun** [Issue #41](docs/issue-41.md) :rocket: | [Issue #40](docs/issue-40.md) | [Issue #39](docs/issue-39.md)
+**Jun** [Issue #42](docs/issue-42.md) :rocket: | [Issue #41](docs/issue-41.md) | [Issue #40](docs/issue-40.md) | [Issue #39](docs/issue-39.md)
 
 **May** [Issue #38](docs/issue-38.md) | [Issue #37](docs/issue-37.md) | [Issue #36](docs/issue-36.md) | [Issue #35](docs/issue-35.md)
 
 **April** [Issue #34](docs/issue-34.md) | [Issue #33](docs/issue-33.md) | [Issue #32](docs/issue-32.md) | [Issue #31](docs/issue-31.md)
 
-**Mar**: [Issue #30](docs/issue-30.md) | [Issue #29](docs/issue-29.md) | [Issue #28](docs/issue-28.md) | [Issue #27](docs/issue-27.md) 🏗
+**Mar**: [Issue #30](docs/issue-30.md) | [Issue #29](docs/issue-29.md) | [Issue #28](docs/issue-28.md) | [Issue #27](docs/issue-27.md)
 
 **Feb**: [Issue #26](docs/issue-26.md) 🏗 | [Issue #25](docs/issue-25.md) 🏗 | [Issue #24](docs/issue-24.md) 🏗| [Issue #23](docs/issue-23.md) 🏗
 

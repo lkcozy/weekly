@@ -52,12 +52,6 @@ The ocean contains distinct ecosystems, but they’re much harder to see than te
 
 **The Results**: The model’s predictions aligned well with measurements taken by scientific surveys and satellite data.
 
-## Research
-
-1. []()
-
-![]()
-
 ## Tool
 
 1. [aws-sdk-mock](https://github.com/dwyl/aws-sdk-mock)

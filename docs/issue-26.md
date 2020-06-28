@@ -2,13 +2,21 @@
 
 ## GeoSpatial
 
-1. []()
+1. [Overview of Fuzzy Logic Site Selection in GIS](https://www.gislounge.com/overview-fuzzy-logic-site-selection-gis/)
 
 ![]()
 
 ## AI/ML
 
 ## Research
+
+https://musingsaboutlibrarianship.blogspot.com/2018/06/scholarcy-reference-extraction-made.html?view=classic
+
+1. [Research Mapping Tools Comparison](https://musingsaboutlibrarianship.blogspot.com/?view=classic)
+
+2. [Dimensions](https://www.dimensions.ai/)
+
+[Cumulative Literature Reviews](https://osf.io/9aqrp/)
 
 ## Videos
 

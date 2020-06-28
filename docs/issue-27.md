@@ -4,17 +4,23 @@
 
 1. [Measuring Vegetation from Satellite Imagery with NDVI](https://www.gislounge.com/measuring-vegetation-satellite-imagery-ndvi/)
 
-![]()
+![](https://i2.wp.com/www.gislounge.com/wp-content/uploads/2017/07/ndvi-map-farmland.png?w=698&ssl=1)
 
-## AI/ML
+The measurement of vegetation signatures using remote sensing sources has become a critical way to measure the effects of regional and global-scale drought and agricultural production. It is also useful in distinguishing vegetation in regions, including wild and cultivated varieties. The most common method for this is the normalized difference vegetation index (NDVI) technique.
 
-## Research
+The concept of normalized difference vegetation index (NDVI) lies with the fact that plants have evolved to reflect near-infrared light, where visible light is strongly absorbed by almost all plants in photosynthesis. The measure is thus an index of these two aspects, helping to show how vigorous plant growth is happening in regions. Calibrated results can then be used to estimate vegetation growth and overall biomass, as more vegetation growth will affect the ratio of visible light absorbed and near-infrared light reflected. The most common instrument in relation to NDVI has been moderate-resolution imaging spectroradiometer (MODIS), which is on board in the Terra and Aqua satellites. Overall, 36 spectral bands are used, giving it a wide range of data capture that covers visible and near-infra red parts of the electromagnetic spectrum.
 
-1. [Research Mapping Tools Comparison](https://musingsaboutlibrarianship.blogspot.com/?view=classic)
+2. [Littercoin](https://openlittermap.com/en/maps/The%20Netherlands/Zuid-Holland/Wassenaar/map)
 
-2. [Dimensions](https://www.dimensions.ai/)
+![](https://i0.wp.com/www.gislounge.com/wp-content/uploads/2019/04/open-litter-map.png?w=1000&ssl=1)
 
-[Cumulative Literature Reviews](https://osf.io/9aqrp/)
+Littercoin, which is a type of blockchain application developed from OpenLitterMap using geospatial data on litter that is shared among a user group. Users simply upload data about plastic litter they spot where that data is then shared and edited by different users. The littercoin rewards users when they report the location of plastic litter in a location. Littercoin does not have a monetary reward but the intent is to eventually enable a monetary incentive for people to help keep their local area clean from plastic waste.
+
+3. [Optimal siting of electric vehicle charging stations: A GIS-based fuzzy Multi-Criteria Decision Analysis](https://www.gislounge.com/using-gis-to-assess-the-impact-of-electric-cars/)
+
+![](https://i0.wp.com/www.gislounge.com/wp-content/uploads/2020/02/fuzzy-GIS-site-selection-electric-cars.jpg?w=533&ssl=1)
+
+The biggest problem with electric vehicles is the fact they require charging but are mobile, making it more complex than simply expanding networks in a given area. One work by researchers interested in this problem has assessed electric cars on recharge networks using a method applying fuzzy analytical hierarchy process, where they looked at 15 criteria, in order to determine what locations might be the best to increase power supply. The technique assesses the criteria and weighs their relevance to the power grid. From this, locations that optimize customer needs but balances electric grid capabilities is determined
 
 ## Research
 
@@ -36,8 +42,6 @@ A Google AI tool that can recognize objects in pictures will no longer attach ge
 
 ## Tool
 
-https://musingsaboutlibrarianship.blogspot.com/2018/06/scholarcy-reference-extraction-made.html?view=classic
-
 1.[change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 
 ![change-case](https://user-gold-cdn.xitu.io/2020/4/4/17145c656a57b768?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
@@ -58,9 +62,11 @@ Snipaste is a simple but powerful snipping tool, and also allows you to pin the 
 
 You can also convert text or color info in the clipboard into a floating image window. Such windows can be zoomed, rotated, flipped, made translucent, and even made click-through! If you are a programmer, a designer or whoever works much time before the computer, you will be surprised how it can help you get your work done more efficiently!
 
-1.[MQTT.js](https://github.com/mqttjs/MQTT.js)
+4. [MQTT.js](https://github.com/mqttjs/MQTT.js)
 
-[mustache.js](https://github.com/janl/mustache.js/)
+![](https://raw.githubusercontent.com/mqttjs/MQTT.js/137ee0e3940c1f01049a30248c70f24dc6e6f829/MQTT.js.png)
+
+MQTT.js is a client library for the MQTT protocol, written in JavaScript for node.js and the browser.
 
 ## Resources
 
