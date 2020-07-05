@@ -6,6 +6,22 @@
 
 ![]()
 
+2. [Fighting coronavirus with MapTiler maps](https://www.maptiler.com/media/2020-03-10-fighting-coronavirus-with-maptiler-maps-1.png)
+
+![](https://www.maptiler.com/media/2020-03-10-fighting-coronavirus-with-maptiler-maps-2.png)
+
+Berliner Morgenpost created an [interactive map](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/) that shows the current spread of the virus all over the world. The data team from Berliner Morgenpost created an interactive map showing the current state of the pandemic in each country.Diagrams show the constantly updating figures of people who are confirmed infected, cured, or died from the virus.The charts are dynamically updated as new information is constantly flowing in. The data is sourced from Johns Hopkins University CSSE, which aggregates it from WHO, CDC (USA), ECDC (Europa), NHC, DXY (China) and Meldungen der Deutschen Behörden.
+
+3. [Starlink Map](https://satellitemap.space/indexA.html)
+
+![](https://camo.githubusercontent.com/b206cd57c3fb05abcdc28b1754da464b0fb20b7c/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323030362f6267323032303036313830312e6a7067)
+
+Starlink is a global satellite Internet access project of SpaceX. It plans to launch tens of thousands of small satellites eventually, and more than 500 have been launched so far. This site can view the real-time location of all satellites.
+
+Starlink is a Big Deal 
+https://sneak.berlin/20200129/starlink/
+[Starlink is a Big Deal ](https://github.com/ruanyf/weekly/blob/master/docs/issue-113.md)
+
 ## AI/ML
 
 ## Research
