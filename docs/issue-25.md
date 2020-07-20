@@ -32,7 +32,7 @@ A guide will provide you within instructions on how to go through a research pap
 
 ![](https://miro.medium.com/max/2000/1*2MdLq0zisYQAikdZRbL1FQ.png)
 
-- Assemble collections of resources that focus on the subject matter. 
+- Assemble collections of resources that focus on the subject matter.
   - Resources can come in the form of research papers, Medium articles, blog posts, videos, GitHub repository etc.
 - Conduct a deep dive of any resource you deem relevant to the subject matter.
   - It is crucial that there’s a method to track the understanding of each shortlisted resources. Andrew Ng, suggests a table of resource plotted against your understanding level that looks similar to the table below.
@@ -56,7 +56,6 @@ If a new approach/technique/method was introduced in a paper, what are the key e
 What content within the paper is useful to you?
 What other references do you want to follow?
 
-
 - [What are some habits of highly effective ML researchers?]()
 
 [](https://www.paperswithcode.com/)
@@ -79,9 +78,17 @@ Theme UI is a library for creating themeable user interfaces based on constraint
 
 ## Resources
 
-1. []()
+1. [Illustrated notes of Chen Style taijiquan principles](https://brisbanechentaichi.weebly.com/skill-knowledge.html)
 
-![]()
+![](https://2.bp.blogspot.com/-O7ZPQbgYans/VuZjBsoEUzI/AAAAAAAAE_8/PqfIAyMaQjYoME-3cKVlPWl2aSJcO5nmA/s320/softness.jpg)
+
+Wonderful illustrated notes on the principles of Chen style taijiquan, and more broadly too!
+
+2. [The Copenhagen Catalog](https://www.copenhagencatalog.org/)
+
+![](https://d2xppkrjggxxde.cloudfront.net/principle/f49acea4-b5d0-11e8-b10a-8622d96a60c5/original.png?v=63703896171)
+
+150 principles for a new direction in tech
 
 ## Comments
 
@@ -90,5 +97,4 @@ Theme UI is a library for creating themeable user interfaces based on constraint
    -- [Albert Einstein]()
 
 2. Learn steadily rather than short burst for longevity
--- [Andrew Ng]()
-
+   -- [Andrew Ng]()

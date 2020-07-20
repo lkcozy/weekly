@@ -2,6 +2,8 @@
 
 ## GeoSpatial
 
+[PROOF OF LOCATION, BRINGING THE BLOCKCHAIN TO THE REAL WORLD](https://mapscaping.com/blogs/the-mapscaping-podcast/proof-of-location-bringing-the-blockchain-to-the-real-world)
+
 1. [Overview of Fuzzy Logic Site Selection in GIS](https://www.gislounge.com/overview-fuzzy-logic-site-selection-gis/)
 
 ![]()
@@ -18,7 +20,7 @@ Berliner Morgenpost created an [interactive map](https://interaktiv.morgenpost.d
 
 Starlink is a global satellite Internet access project of SpaceX. It plans to launch tens of thousands of small satellites eventually, and more than 500 have been launched so far. This site can view the real-time location of all satellites.
 
-Starlink is a Big Deal 
+Starlink is a Big Deal
 https://sneak.berlin/20200129/starlink/
 [Starlink is a Big Deal ](https://github.com/ruanyf/weekly/blob/master/docs/issue-113.md)
 
@@ -73,3 +75,8 @@ Design patterns are typical solutions to common problems in software design. Eac
 ![Refactoring](https://mamchenkov.net/wordpress/wp-content/uploads/2019/02/refactoring.guru_.png)
 
 Refactoring is a systematic process of improving code without creating new functionality that can transform a mess into clean code and simple design
+
+## Comments
+
+1. The mind is not a vessel to be filled, but a fire to be kindled
+   --[Plutarch]
