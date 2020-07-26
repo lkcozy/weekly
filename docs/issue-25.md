@@ -70,6 +70,18 @@ Theme UI is a library for creating themeable user interfaces based on constraint
 
 [mustache.js](https://github.com/janl/mustache.js/)
 
+[hat.sh](https://github.com/sh-dv/hat.sh)
+
+![](https://camo.githubusercontent.com/e1e78e542cc049cb79f55627b2eb602bad1d952e/68747470733a2f2f692e696d6775722e636f6d2f62745a526533632e676966)
+
+Encrypt and decrypt files in your browser. Fast, Secure client-side File Encryption and Decryption using the web crypto api
+
+[jk](https://github.com/jkcfg/jk)
+
+jk is a data templating tool designed to help writing structured configuration files.
+
+The main idea behind jk is to use a general purpose language for this task. They offer mature tooling, great runtimes, a well established ecosystem and many learning resources. jk uses Javascript and a runtime tailored for configuration.
+
 ## Videos
 
 1. []()
