@@ -2,7 +2,7 @@
 
 ## GeoSpatial
 
-1. []()
+1. [Overview of Fuzzy Logic Site Selection in GIS](https://www.gislounge.com/overview-fuzzy-logic-site-selection-gis/)
 
 ![]()
 
@@ -81,6 +81,12 @@ Encrypt and decrypt files in your browser. Fast, Secure client-side File Encrypt
 jk is a data templating tool designed to help writing structured configuration files.
 
 The main idea behind jk is to use a general purpose language for this task. They offer mature tooling, great runtimes, a well established ecosystem and many learning resources. jk uses Javascript and a runtime tailored for configuration.
+
+[Turbo Boost Switcher for Mac OS X](http://tbswitcher.rugarciap.com/)
+
+![](https://www.rugarciap.com/wp-content/uploads/2019/07/captura_web_main.png)
+
+Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.
 
 ## Videos
 
