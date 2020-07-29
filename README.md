@@ -20,7 +20,9 @@ grep -nri gis docs | cat -n
 
 ## 2020
 
-**July** [Issue #45](docs/issue-46.md) :rocket: | [Issue #45](docs/issue-45.md) | [Issue #44](docs/issue-44.md) | [Issue #43](docs/issue-43.md)
+**Aug** [Issue #47](docs/issue-47.md) :rocket:
+
+**July** [Issue #45](docs/issue-46.md) | [Issue #45](docs/issue-45.md) | [Issue #44](docs/issue-44.md) | [Issue #43](docs/issue-43.md)
 
 **Jun** [Issue #42](docs/issue-42.md) | [Issue #41](docs/issue-41.md) | [Issue #40](docs/issue-40.md) | [Issue #39](docs/issue-39.md)
 
@@ -40,11 +42,11 @@ grep -nri gis docs | cat -n
 
 **Nov**: [Issue #14](docs/issue-14.md) 🏗 | [Issue #13](docs/issue-13.md) | [Issue #12](docs/issue-12.md) | [Issue #11](docs/issue-11.md)
 
-**Oct**: [Issue #10](docs/issue-10.md) | [Issue #9](docs/issue-9.md) | [Issue #8](docs/issue-8.md)
+**Oct**: [Issue #10](docs/issue-10.md) | [Issue #9](docs/issue-9.md) | [Issue #8](docs/issue-8.md) | [Issue #7](docs/issue-7.md) |
 
-**Sep**: [Issue #7](docs/issue-7.md) | [Issue #6](docs/issue-6.md) | [Issue #5](docs/issue-5.md) | [Issue #4](docs/issue-4.md)
+**Sep**: [Issue #6](docs/issue-6.md) | [Issue #5](docs/issue-5.md) | [Issue #4](docs/issue-4.md) | [Issue #3](docs/issue-3.md)
 
-**Aug**: [Issue #3](docs/issue-3.md) | [Issue #2](docs/issue-2.md) | [Issue #1](docs/issue-1.md)
+**Aug**: [Issue #2](docs/issue-2.md) | [Issue #1](docs/issue-1.md)
 
 ## Create A New Issue Snippet
 

@@ -83,7 +83,7 @@ Finally, it mentioned four challenges that needed to be addressed: the inefficie
 
 ## Tool
 
-1. [chakra-ui](chakra-ui)
+1. [chakra-ui](https://github.com/chakra-ui/chakra-ui)
 
 ![](https://blog.graphqleditor.com/static/318fb4824b6e366fe2e57b876e58b0b5/21b4d/chakra.png)
 
