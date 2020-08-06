@@ -46,6 +46,25 @@ https://musingsaboutlibrarianship.blogspot.com/2018/06/scholarcy-reference-extra
 
 PostgREST serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
 
+- [Crossfilter](https://github.com/crossfilter/crossfilter)
+
+Crossfilter is a JavaScript library for exploring large multivariate datasets in the browser. Crossfilter supports extremely fast (<30ms) interaction with coordinated views, even with datasets containing a million or more records.
+
+Since most interactions only involve a single dimension, and then only small adjustments are made to the filter values, incremental filtering and reducing is significantly faster than starting from scratch. Crossfilter uses sorted indexes (and a few bit-twiddling hacks) to make this possible, dramatically increasing the perfor­mance of live histograms and top-K lists.
+
+- [Configurable Chart Collection (C3) - World Bank Example](http://drarmstr.github.io/chartcollection/examples/#worldbank) - ([Source](http://drarmstr.github.io/chartcollection/examples/#worldbank/source), [HTML](http://drarmstr.github.io/chartcollection/examples/#worldbank/html))
+- [Dimensional Charting JavaScript Library (dc.js)](https://dc-js.github.io/dc.js/) - ([Source](https://dc-js.github.io/dc.js/docs/stock.html))
+
+- [dc.js](https://dc-js.github.io/dc.js/)
+
+![](https://github.com/dc-js/react-dc-js/raw/master/preview.gif)
+
+dc.js is a javascript charting library with native crossfilter support, allowing highly efficient exploration on large multi-dimensional datasets (inspired by crossfilter's demo). It leverages d3 to render charts in CSS-friendly SVG format. Charts rendered using dc.js are data driven and reactive and therefore provide instant feedback to user interaction.
+
+dc.js is an easy yet powerful javascript library for data visualization and analysis in the browser and on mobile devices.
+
+[react-dc-js](https://github.com/dc-js/react-dc-js)
+
 ## Videos
 
 1. []()

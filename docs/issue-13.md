@@ -22,9 +22,7 @@ flowmap.query currently only supports ClickHouse as its database backend. ClickH
 
 Flow map drawing layer for deck.gl. It can be used for visualizing the movement of people (e.g. migration) or objects between geographic locations. The layer is rendered in WebGL and can handle large numbers of flows with an excellent rendering performance.
 
-Winnow has partnered with IKEA to reimagine the
-
-4. [geojson-thumbnail](https://github.com/mapbox/geojson-thumbnail)
+1. [geojson-thumbnail](https://github.com/mapbox/geojson-thumbnail)
 
 ![](https://user-images.githubusercontent.com/1288339/35072800-247f4dfc-fbb4-11e7-8141-b1abe76125f8.gif)
 
