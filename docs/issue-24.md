@@ -81,6 +81,9 @@ Writing is a customer service problem. Pretend you’re sending an email. Sum it
 
 Investing takes years to learn, but improves for a lifetime.
 
+3. [Online SQL Teaching](https://www.sqlteaching.com/)
+
+Online SQL Teaching
 ## Comments
 
 1.
