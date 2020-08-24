@@ -32,7 +32,7 @@ grep -nri gis docs | cat -n
 
 **Mar**: [Issue #30](docs/issue-30.md) | [Issue #29](docs/issue-29.md) | [Issue #28](docs/issue-28.md) | [Issue #27](docs/issue-27.md)
 
-**Feb**: [Issue #26](docs/issue-26.md) | [Issue #25](docs/issue-25.md) | [Issue #24](docs/issue-24.md) 🏗| [Issue #23](docs/issue-23.md) 🏗
+**Feb**: [Issue #26](docs/issue-26.md) | [Issue #25](docs/issue-25.md) | [Issue #24](docs/issue-24.md) | [Issue #23](docs/issue-23.md) 🏗
 
 **Jan**: [Issue #22](docs/issue-22.md) 🏗 | [Issue #21](docs/issue-21.md) 🏗 | [Issue #20](docs/issue-20.md) 🏗 | [Issue #19](docs/issue-19.md) 🏗
 
