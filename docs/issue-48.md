@@ -112,7 +112,3 @@ Explore, search and find the best fitting icons or vectors for your projects usi
     DD/MM/YYYY. Other formats can be confusing, really.
 
     -- [twitter](https://twitter.com/rafrasenberg/status/1286968074323865602)
-
-## Review
-
-[The week in 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/issue-1.md)
