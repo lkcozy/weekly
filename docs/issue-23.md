@@ -2,9 +2,19 @@
 
 ## GeoSpatial
 
-1. []()
+1.[The Longest Train Ride In The World](https://basementgeographer.com/the-longest-train-ride-in-the-world/)
 
-![]()
+![](https://basementgeographer.com/wp-content/uploads/2019/06/train.jpg)
+
+The longest single uninterrupted train journey, including transfers, does indeed stretch beyond London and Beijing. Starting from the Portuguese coast, one can travel by train not just into China but all the way to southern Vietnam, a distance of 17 000 km (10 566 mi).
+
+1. [Worldwide mobile data pricing](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
+
+![](https://www.mobiliseglobal.com/wp-content/uploads/2019/03/map.png)
+
+Many of the cheapest countries in which to buy mobile data fall roughly into one of two categories. Some have excellent mobile and fixed broadband infrastructure and so providers are able to offer large amounts of data, which brings down the price per gigabyte. Others with less advanced broadband networks are heavily reliant on mobile data and the economy dictates that prices must be low, as that’s what people can afford.
+
+At the more expensive end of the list, we have countries where often the infrastructure isn’t great but also where consumption is very small. People are often buying data packages of just a tens of megabytes at a time, making a gigabyte a relatively large and therefore expensive amount of data to buy. Many countries in the middle of the list have good infrastructure and competitive mobile markets, and while their prices aren’t among the cheapest in the world they wouldn’t necessarily be considered expensive by its consumers.
 
 ## AI/ML
 
@@ -32,11 +42,19 @@ Perspective is an interactive visualization component for large, real-time datas
 
 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.
 
+3. [QSpace](https://apps.apple.com/us/app/qspace/id1469774098?mt=12)
+
+![](https://ezip.awehunt.com/static/image/screen_qspace.jpg)
+
+QSpace is a clean and efficient Multi-view File Manager, also can be a FTP/SFTP/WebDAV/OneDrive client. It has the same operating habits and interface presentation as Finder, but also supports more flexible and practical features.
+
 ## Videos
 
-1. []()
+1. [Sleep is your superpower](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower)
 
-![]()
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ix_9l1yOD4q8TgjlBtDV7wHaD4%26pid%3DApi&f=1)
+
+Sleep is your life-support system and Mother Nature's best effort yet at immortality, says sleep scientist Matt Walker. In this deep dive into the science of slumber, Walker shares the wonderfully good things that happen when you get sleep -- and the alarmingly bad things that happen when you don't, for both your brain and body. Learn more about sleep's impact on your learning, memory, immune system and even your genetic code -- as well as some helpful tips for getting some shut-eye.
 
 ## Resources
 
@@ -47,7 +65,7 @@ This guide is a collection of techniques for improving the security and privacy 
 This guide is targeted to power users who wish to adopt enterprise-standard security, but is also suitable for novice users with an interest in improving their privacy and security on a Mac.
 
 A system is only as secure as its administrator is capable of making it. There is no one single technology, software, nor technique to guarantee perfect computer security; a modern operating system and computer is very complex, and requires numerous incremental changes to meaningfully improve one's security and privacy posture.
-    
+
 ## Comments
 
 1.
