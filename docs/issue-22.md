@@ -41,9 +41,15 @@ dc.js is an easy yet powerful javascript library for data visualization and anal
 
 ## Resources
 
-1. []()
+1. [math-as-code](https://github.com/Jam3/math-as-code)
 
-![]()
+![](https://camo.githubusercontent.com/bef1a3f9f31367a668d2acad38d6f8299b262fd0/687474703a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f78253230253341253344253230326b6a)
+
+```js
+const f = (k, j) => 2 * k * j;
+```
+
+This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
 
 ## Comments
 
