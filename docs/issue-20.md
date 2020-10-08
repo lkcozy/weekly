@@ -7,7 +7,7 @@
 ![](https://camo.githubusercontent.com/f5e16d70f9d3f7fdb4079721c0239cbf26196658/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323030392f6267323032303039303930372e6a7067)
 
 The Heihe–Tengchong Line is an imaginary line that divides the area of China into two roughly equal parts. This line was proposed by Chinese population geographer Hu Huanyong in 1935. East of the line: 36% of the area, but 96% of the population
-    
+
 ## AI/ML
 
 1. []()
@@ -56,6 +56,12 @@ if (process.env.NODE_ENV !== "production") {
 
 A logger for just about everything.
 
+2. [Pixelixe Graphic & Image Editor](https://chrome.google.com/webstore/detail/pixelixe-graphic-image-ed/hnddfemljlompbmggkablcffmonknpdh?hl=en)
+
+![](https://lh3.googleusercontent.com/CsuN0meGOdiB0hnH44Y38YkdF5KMVQ3-wVYskp-dvvnWWUSwi_T8y0Bc-fG3f0jivVpzZDkSMw=w640-h400-e365-rj-sc0x00ffffff)
+
+Design unique graphics in minutes from your browser, for free and without account
+
 ## Videos
 
 1. []()
@@ -64,9 +70,9 @@ A logger for just about everything.
 
 ## Resources
 
-1. []()
+1. [The number of milliseconds in a day](https://twitter.com/3blue1brown/status/1282480577036251136)
 
-![]()
+![](https://pbs.twimg.com/media/DdUemCnU0AEPvKF?format=jpg&name=small)
 
 ## Comments
 

@@ -20,7 +20,9 @@ grep -nri gis docs | cat -n
 
 ## 2020
 
-**Sep** [Issue #54](docs/issue-54.md) :rocket: | [Issue #53](docs/issue-53.md) | [Issue #52](docs/issue-52.md) | [Issue #51](docs/issue-51.md)
+**Oct**: [Issue #55](docs/issue-55.md) :rocket:
+
+**Sep** [Issue #54](docs/issue-54.md) | [Issue #53](docs/issue-53.md) | [Issue #52](docs/issue-52.md) | [Issue #51](docs/issue-51.md)
 
 **Aug** [Issue #50](docs/issue-50.md) | [Issue #49](docs/issue-49.md) | [Issue #48](docs/issue-48.md) | [Issue #47](docs/issue-47.md)
 
@@ -55,3 +57,10 @@ grep -nri gis docs | cat -n
 1. Create a new markdown file
 2. Type `giser_issue`
 3. 🚀
+
+## Acknowledgement
+
+1. [ruanyf/weekly](https://github.com/ruanyf/weekly)
+2. [deeplearning.ai](https://www.deeplearning.ai/)
+3. [GIS Lounge](https://www.gislounge.com/)
+4. [HelloGithub](https://hellogithub.com/)
