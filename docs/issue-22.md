@@ -53,9 +53,11 @@ This is a reference to ease developers into mathematical notation by showing com
 
 ## Comments
 
-1.
+1. The enemy of any creator is context switching. Once you get into a deeply creative mode, “the flow” as some call it, being disturbed to shift focus to something else completely interrupts the process. Yes, writing code is a creative process. It’s both logical and creative at the same time. We aren’t simply writing code, we are crafting it.
 
---[]()
+--[](https://humanwhocodes.com/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/)
+
+2. Throwing more engineers at a problem frequently makes it worse. The only way to get something built faster is to build a smaller thing. Having too many engineers on a project is a serious problem. Adding more engineers assumes that there are parallel tasks to be completed, but in reality, the number of parallel tasks on any one project is small and finite. When there are more engineers than can be used, engineering time ends up going away from developing and towards planning, synchronization, and coordination.
 
 ## Review
 
