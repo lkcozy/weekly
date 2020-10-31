@@ -8,6 +8,7 @@
 
 The Heihe–Tengchong Line is an imaginary line that divides the area of China into two roughly equal parts. This line was proposed by Chinese population geographer Hu Huanyong in 1935. East of the line: 36% of the area, but 96% of the population
 
+
 ## AI/ML
 
 1. []()
@@ -62,6 +63,12 @@ A logger for just about everything.
 
 Design unique graphics in minutes from your browser, for free and without account
 
+3. [Calligrapher.ai](https://www.calligrapher.ai/)
+
+![](https://camo.githubusercontent.com/395b2b0ddb311d97313cdbfea052b346827a1a2d/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323031302f6267323032303130303930322e6a7067)
+
+Online realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles.
+
 ## Videos
 
 1. []()
@@ -76,4 +83,11 @@ Design unique graphics in minutes from your browser, for free and without accoun
 
 ## Comments
 
-1.  --[]()
+1.  There are no dumb ideas. Only early ones.
+    --[Marc Andreessen](https://eriktorenberg.substack.com/p/take-asymmetric-bets)
+
+2.  The difference between successful people and really successful people is that really successful people say no to almost everything
+    --[Warren Buffett](https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html)
+
+3.  People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+    --[Steve Jobs](https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html)

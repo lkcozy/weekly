@@ -2,9 +2,7 @@
 
 ## GeoSpatial
 
-1. []()
 
-![]()
 
 ## AI/ML
 
@@ -76,9 +74,17 @@ There are several awesome lists on GitHub that collect and curate the best resou
 
 ## Resources
 
-1. []()
+1. [Advice to my young self: to succeed in your career, forget side projects and focus on your job](https://manuel.darcemont.fr/posts/focus-on-jour-job/)
 
-![]()
+Many young programmers like to do some side projects of their own after work. The author recommends **not to do side projects aimlessly, especially not to do what you like, but do those side projects that are directly related to your work.**
+
+Shallow side projects are useful to develop a first opinion about a technology that will need to be confirmed with a more elaborate project.
+
+The best way to dig a new technology is to practice it in your daily job. You’ll spend seven hours a day on it and will quickly become infinitely more proficient than if you just barely used it on nights and weekends.
+
+2. [LET'S MAKE THE WORST REACT EVER!](https://zserge.com/posts/worst-react-ever/)
+
+The author explains how to implement the simplest React, which supports JSX syntax and some basic API. The compressed code does not exceed 1KB. This article can be used to understand the principle of React.
 
 ## Comments
 

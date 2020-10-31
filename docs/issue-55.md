@@ -163,6 +163,9 @@ In conclusion, discover what’s easy for you but hard for others, then get so g
 1. What is the point of the public beta program? Is it really intended to improve the quality of the released version? If so, why do we keep hearing of bugs that are reported but persist throughout the beta cycle? Whatever its original purpose, the public beta program is now a marketing tool—a way to get Apple enthusiasts hyped about the new releases and hyped to buy the new products that come out alongside the new software.
    --[Aplle public beta program](https://leancrew.com/all-this/2020/09/betas/)
 
+2. Hydrogen fuel cells are not a source of energy, since hydrogen (H2) is not naturally found on Earth. All H2 must be generated in a process which consumes either natural gas or eletricity. Therefore H2 fuel cells are more aptly described as an energy storage system than as an energy source. Therefore the relevant comparison is between H2 fuel cells and Li ion batteries. Batteries have much higher full cycle efficiency (energy input -> storage -> energy output), but they are large and heavy. H2 can be stored in less volume and less weight, but it is less efficient. In my opinion, batteries will be a technically and economicly superior solution for all uses other than where weight is extremely critical such as in aircraft.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=24568930)
+
 ## Review
 
 [The week in 2019(Issue-7)](https://github.com/lkcozy/weekly/blob/master/docs/issue-7.md)
