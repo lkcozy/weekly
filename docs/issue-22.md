@@ -2,9 +2,12 @@
 
 ## GeoSpatial
 
-1. []()
+1. [WikiMap](https://wikimap.wiki/?base=map&lat=0.0000&lon=-0.0000&showAll=true&wiki=enwiki&zoom=3)
 
-![]()
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwikimap.wiki%2F&psig=AOvVaw05RL3UXYZioNzMKyvP6snF&ust=1604379320060000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiu---I4-wCFQAAAAAdAAAAABAO)
+
+WikiMap is a dynamic map that allows you to easily add locations to it. These locations show up on the map as markers. When you click a marker a little infowindow pops up. This infowindow can contain text, images, video, you name.
+
 
 ## AI/ML
 
