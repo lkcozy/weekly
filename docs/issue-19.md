@@ -26,6 +26,12 @@ Tasks such as segmentation, object detection, similarity measures between object
 
 OpenVINO™ toolkit is a comprehensive toolkit for quickly developing applications and solutions that solve a variety of tasks including emulation of human vision, automatic speech recognition, natural language processing, recommendation systems, and many others. Based on latest generations of artificial neural networks, including Convolutional Neural Networks (CNNs), recurrent and attention-based networks, the toolkit extends computer vision and non-vision workloads across Intel® hardware, maximizing performance. It accelerates applications with high-performance, AI and deep learning inference deployed from edge to cloud.
 
+2. [SvgPathEditor](https://github.com/Yqnn/svg-path-editor)
+
+![](https://github.com/Yqnn/svg-path-editor/raw/master/doc/screenshot.png)
+
+Edit or create SVG paths in browser
+
 ## Videos
 
 1. []()
@@ -34,9 +40,11 @@ OpenVINO™ toolkit is a comprehensive toolkit for quickly developing applicatio
 
 ## Resources
 
-1. []()
+1. [Linear Algebra](https://hefferon.net/linearalgebra/)
 
-![]()
+![](https://hefferon.net/linearalgebra/cover.png)
+
+Linear Algebra by Jim Hefferon, along with its answers to exercises, is a text for a first undergraduate course. It is Free. Use it as the main book, as a supplement, or for independent study.
 
 ## Comments
 

@@ -1,7 +1,7 @@
 # GISer's Weekly Issue 21
 
 ## GeoSpatial
-
+1. [Submarine Cable Map]
 
 
 ## AI/ML
