@@ -12,11 +12,22 @@ Tools such as OpenVINO aim to enable users to have much faster processing of vid
 
 Tasks such as segmentation, object detection, similarity measures between objects, action recognition, depth estimation, and many other tasks are incorporate as models that can be used without having to recreate them. Service tasks could then be accomplished more quickly since they only need training data, where they can even be configured to use Internet of Things (IoT) or other remote technologies that provide data to the service.
 
+2. [geogreeting](http://geogreeting.com/main.html#)
+
+![](../images/issue-19-1.png)
+
+geoGreeting is an interesting website that lets you send any message with letters made up from aerial view of buildings. Most buildings that you will find are located in the US, since the author has focused on one country. Finding a building that represent a letter when seen from an aerial view with Google Earth is not an easy task. A small community of users now help find the buildings for this website.
+
+To send a greeting, just type the message and you will be able to see where every building for every letter you type is located on the Earth. The full preview of the message can be seen at the bottom of the website.
+
+![](https://cloud.addictivetips.com/wp-content/uploads/2009/04/geogreetinglettersmadefromaerialviewofbuildings.jpg)
+
+3. [Urban Map Glass](https://www.uncommongoods.com/product/urban-map-glass#234330000020)
+
+![](https://www.uncommongoods.com/images/items/23400/234330000002_1_640px.jpg)
+Take a mental stroll through familiar streets with this rocks glass, etched with your city's distinct grid.
+
 ## AI/ML
-
-1. []()
-
-![]()
 
 ## Tool
 
@@ -32,20 +43,24 @@ OpenVINO™ toolkit is a comprehensive toolkit for quickly developing applicatio
 
 Edit or create SVG paths in browser
 
+3. [Pap.er](https://paper.meiyuan.in/)
+
+![](https://www.maxiapple.com/wp-content/uploads/2019/06/pap-er-paper-macos-mac-gratuit-2.jpg)
+
+Elegant Wallpaper App for macOS. Deliver fresh and stunning wallpapers everyday
+
 ## Videos
 
-1. []()
+1. [Bruno Simon 3D Website](https://www.youtube.com/watch?v=PN5YvuHVQXg)
 
-![]()
+![](https://assets.awwwards.com/awards/external/2019/11/5dc59648e21a6648182746_static.jpeg)
+
+An incredible personal website made with [three.js](https://threejs.org/).
 
 ## Resources
 
-1. [Linear Algebra](https://hefferon.net/linearalgebra/)
+1. [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
-![](https://hefferon.net/linearalgebra/cover.png)
-
-Linear Algebra by Jim Hefferon, along with its answers to exercises, is a text for a first undergraduate course. It is Free. Use it as the main book, as a supplement, or for independent study.
+This document contains introductory level linear algebra notes for applied machine learning. It is meant as a reference rather than a comprehensive review. If you ever get confused by matrix multiplication, don’t remember what was the L2 norm, or the conditions for linear independence, this can serve as a quick reference. It also a good introduction for people that don’t need a deep understanding of linear algebra, but still want to learn about the fundamentals to read about machine learning or to use pre-packaged machine learning solutions. Further, it is a good source for people that learned linear algebra a while ago and need a refresher.
 
 ## Comments
-
-1.  --[]()
