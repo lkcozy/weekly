@@ -32,12 +32,12 @@ Hand-written style CSS library
 
 Lottie is a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web!
 
-
 ## Videos
 
-1. []()
+1. [GitHub Arctic Code Vault](https://www.youtube.com/watch?v=fzI9FNjXQ0o&t=147s)
 
-![]()
+![](https://i.ytimg.com/vi/fzI9FNjXQ0o/maxresdefault.jpg)
+The GitHub Arctic Code Vault is a data repository preserved in the Arctic World Archive (AWA), a very-long-term archival facility 250 meters deep in the permafrost of an Arctic mountain. The archive is located in a decommissioned coal mine in the Svalbard archipelago, closer to the North Pole than the Arctic Circle. GitHub will capture a snapshot of every active public repository on 02/02/2020 and preserve that data in the Arctic Code Vault.
 
 ## Resources
 
