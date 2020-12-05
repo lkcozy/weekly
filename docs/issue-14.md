@@ -32,6 +32,26 @@ Hand-written style CSS library
 
 Lottie is a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web!
 
+3. [qier-progress](https://github.com/vortesnail/qier-progress)
+
+![](https://img.hellogithub.com/hellogithub/47/img/qier-progress.gif)
+
+qier-progress is a progress bar. It can be used for some watting time like jump links, request data, and load or upload files and images to give us feedback and reduce our anxiety.
+
+4. [Chroma](https://github.com/gka/chroma.js)
+
+```js
+chroma("#D4F880").darken().hex(); // #9BC04B
+```
+
+Chroma.js is a tiny small-ish zero-dependency JavaScript library (13.5kB) for all kinds of color conversions and color scales.
+
+5. [image-compress-without-backend](https://github.com/zerosoul/image-compress-without-backend)
+
+![](https://github.com/zerosoul/image-compress-without-backend/raw/master/demo.pc.png)
+
+Pure frontend solution to compress images
+
 ## Videos
 
 1. [GitHub Arctic Code Vault](https://www.youtube.com/watch?v=fzI9FNjXQ0o&t=147s)
