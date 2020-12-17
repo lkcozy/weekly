@@ -2,9 +2,9 @@
 
 ## GeoSpatial
 
-1. []()
+1. [GroudWork](https://groundwork.azavea.com/)
 
-![]()
+![](https://groundwork.azavea.com/assets/img/groundwork-hero-viz.png)
 
 ## AI/ML
 
@@ -61,10 +61,11 @@ The GitHub Arctic Code Vault is a data repository preserved in the Arctic World 
 
 ## Resources
 
-1. []()
+1. [20 controversial programming opinions](https://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
 
-![]()
+This article summarizes StackOverflow's top 20 most controversial programming points, such as "Design patterns are hurting good design more than they’re helping it."
 
 ## Comments
 
-1.  --[]()
+1.  The overwhelming majority of any successful products feature development is post-launch, with new features only being considered complete once they are deployed into production. A team that gets into the groove of regular, post-launch practices early is setting itself up for sustainable success.  
+    --[Pete Hodgson](https://blog.thepete.net/blog/2019/10/04/hello-production/)
