@@ -6,6 +6,21 @@
 
 ![](https://groundwork.azavea.com/assets/img/groundwork-hero-viz.png)
 
+2. [Antipodes Map](https://www.antipodesmap.com/)
+
+![](https://camo.githubusercontent.com/4d571070e9510235bb64fefb82810c74ea605edf1934072f5c7180f516503ca2/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323031322f6267323032303132303530362e6a7067)
+
+This map helps you find the antipodes (the other side of the world) of any place on Earth.
+
+The `Left` Map presents the place for which `you want to find the antipodal point`. The `Right` Map shows the `antipodal point` for the selected location on the left map.
+
+Type in the search box the country, city, address, zip code or geographical coordinates, press the Find button and our "man" will dig a tunnel from selected location on the Left Map, right through the center of the Earth, up to the other side of the world which will be represented on Right Map.
+
+Both maps can be moved and zoomed in and out. Below each map you can view the selected location address and geographical coordinates (latitude and longitude).
+
+> Latitude: is the angle between the equatorial plane and the straight line that passes through that point and through the center of the Earth.
+> Longitude is the angle east or west from a reference meridian to another meridian that passes through the point.
+
 ## AI/ML
 
 1. []()
@@ -64,6 +79,18 @@ The GitHub Arctic Code Vault is a data repository preserved in the Arctic World 
 1. [20 controversial programming opinions](https://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
 
 This article summarizes StackOverflow's top 20 most controversial programming points, such as "Design patterns are hurting good design more than they’re helping it."
+
+2. [RegExLib](https://regexlib.com/)
+
+![](https://camo.githubusercontent.com/8234c65a892291230fe22a60120d40b74e9a38743bd435639d71618ebb6d1cc4/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323031322f6267323032303132303130372e6a7067)
+
+The site collects common regular expressions. For example. searching for 'email' will return 961 regular expressions.
+
+3. [Covid illustrations]
+
+![](https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/5fc50cc9b90c661c26ffbb17_Work%20at%20home-01.svg)
+
+This site provides 24 high-quality Covid illustrations. Free for commercial and personal use.
 
 ## Comments
 
