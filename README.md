@@ -18,9 +18,13 @@ For example，search `GIS` related content。
 grep -nri gis docs | cat -n
 ```
 
+## 2021
+
+**Jan**: [Issue #67](docs/issue-67.md) :rocket:
+
 ## 2020
 
-**Dec**: [Issue #66](docs/issue-66.md) :rocket: | [Issue #65](docs/issue-65.md) | [Issue #64](docs/issue-64.md) | [Issue #63](docs/issue-63.md)
+**Dec**: [Issue #66](docs/issue-66.md) | [Issue #65](docs/issue-65.md) | [Issue #64](docs/issue-64.md) | [Issue #63](docs/issue-63.md)
 
 **Nov**: [Issue #62](docs/issue-62.md) | [Issue #61](docs/issue-61.md) | [Issue #60](docs/issue-60.md) |[Issue #59](docs/issue-59.md)
 
