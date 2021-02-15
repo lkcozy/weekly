@@ -100,4 +100,4 @@ An American challenged the Tesla auto driving from San Francisco to Los Angeles.
 
 ## Review
 
-[The week in 2019(Issue-22)](https://github.com/lkcozy/weekly/blob/master/docs/issue-22.md)
+[The week in 2020(Issue-22)](https://github.com/lkcozy/weekly/blob/master/docs/issue-22.md)

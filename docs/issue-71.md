@@ -16,7 +16,7 @@ The data are made open and accessible, enabling policy recommendations for diffe
 
 ![](https://cdn.shortpixel.ai/client/to_avif,q_lossy,ret_img,w_1140/https://www.gislounge.com/wp-content/uploads/2021/01/ocean-mapping-technology-usgs.jpg)
 
-The seafloor is the last frontier in mapping the Earth. `Understanding the depth and shape of the seafloor,` called bathymetry, is not only a mapping challenge, but it is essential if we are to `better understand ar`e oceans.` This includes understanding `ocean circulation`, which affects climate, tsunamis, environmental change, underwater geo-hazards, resources, and many other processes affecting the environment, safety, and commerce.
+The seafloor is the last frontier in mapping the Earth. `Understanding the depth and shape of the seafloor,` called bathymetry, is not only a mapping challenge, but it is essential if we are to `better understand ar`e oceans.`This includes understanding`ocean circulation`, which affects climate, tsunamis, environmental change, underwater geo-hazards, resources, and many other processes affecting the environment, safety, and commerce.
 
 Mapping the seafloor has been occurring since the early 19th century; however, obtaining accurate data has been a challenge until the sonar's invention. `Acoustics from modern sonar equipment provide the most accurate data.`
 
@@ -116,4 +116,4 @@ This full-length Docker book is rich with code examples. It will teach you all a
 
 ## Review
 
-[The week in 2019(Issue-23)](https://github.com/lkcozy/weekly/blob/master/docs/issue-23.md)
+[The week in 2020(Issue-23)](https://github.com/lkcozy/weekly/blob/master/docs/issue-23.md)
