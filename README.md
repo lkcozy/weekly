@@ -20,7 +20,7 @@ grep -nri gis docs | cat -n
 
 ## 2021
 
-**Feb**: [Issue #72](docs/issue-72.md) :rocket: | [Issue #71](docs/issue-71.md)
+**Feb**: [Issue #73](docs/issue-73.md) :rocket:| [Issue #72](docs/issue-72.md) | [Issue #71](docs/issue-71.md)
 
 **Jan**: [Issue #70](docs/issue-70.md) | [Issue #69](docs/issue-69.md) | [Issue #68](docs/issue-68.md) | [Issue #67](docs/issue-67.md)
 
