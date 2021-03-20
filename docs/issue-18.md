@@ -32,6 +32,25 @@ ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg. It enables video 
 
 A web version of snake classic game.
 
+3. [Watermelon DB](https://github.com/Nozbe/WatermelonDB)
+
+A reactive database framework. Build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast ⚡️.
+
+4. [immutable](https://github.com/immutable-js/immutable-js)
+
+Immutable.js provides many Persistent Immutable data structures including: List, Stack, Map, OrderedMap, Set, OrderedSet and Record.
+
+```js
+const { Map } = require("immutable");
+const map1 = Map({ a: 1, b: 2, c: 3 });
+const map2 = map1.set("b", 50);
+map1.get("b") + " vs. " + map2.get("b"); // 2 vs. 50
+```
+
+5. [react-spring](https://github.com/pmndrs/react-spring)
+
+react-spring is a spring-physics based animation library that should cover most of your UI related animation needs. It gives you tools flexible enough to confidently cast your ideas into moving interfaces.
+
 ## Videos
 
 1. []()

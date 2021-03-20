@@ -39,6 +39,16 @@ Learn Regular Expressions with simple, interactive exercises.
 
 Hooks for fetching, caching and updating asynchronous data in React
 
+4. [Ink](https://github.com/vadimdemedes/ink)
+
+React for CLIs. Build and test your CLI output using components.
+
+5. [RxDB](https://github.com/pubkey/rxdb)
+
+![](https://bestofreactjs.com/repo/pubkey-rxdb-react-data-managing)
+
+A realtime Database for JavaScript Applications
+
 ## Resources
 
 1. [Learn X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/)

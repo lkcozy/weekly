@@ -63,7 +63,9 @@ Computer vision is helping sushi lovers enjoy top-quality maguro. Japanese resta
 
 ## Tool
 
-1. [Classnames](A simple JavaScript utility for conditionally joining classNames together.)
+1. [Classnames](https://github.com/JedWatson/classnames)
+
+A simple JavaScript utility for conditionally joining classNames together.
 
 ```js
 classNames("foo", "bar"); // => 'foo bar'
