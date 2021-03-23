@@ -2,26 +2,62 @@
 
 ## GeoSpatial
 
-1. []()
+1. [Placekey](https://www.placekey.io/)
 
-![]()
+```
+address encoding-poi encoding@where
+223-227@5vg-7gq-tvz
+```
 
-## AI/ML
+Placekey is a free, universal standard identifier for any physical place. It presents the `what` and `where` of any physical place so that the data related to those places can be shared across organizations easily.
 
-1. []()
+How does Placekey work?
 
-![]()
-**Why it matters**:
+- ‍When both parts of a Plackey come together, the final result reads as `What@Where.` This is a unique way of shedding light on `both the descriptive element of a place as well as its geospatial position` in the physical world via a single identifier.
+- The first three characters refer to the `Address Encoding,` creating a unique identifier for a given address. An address at "555 Main Street Suite 105" will have a different Address Encoding than "555 Main Street Suite 106." However, "444 Second Street, Suite 4" will have the same address encoding as "444 2nd St. #4" to adjust for common address formats.
+- The second set of three characters in the What Part refers to the `Point-of-interest Encoding,` If a specific place has a location name (like "Central Park") and is already included in the Placekey reference datasets, these characters will be present.
+  On the other hand, the `Where Part,` on the other hand, is made up of three unique character sequences built upon[Uber's open source H3 grid system](https://github.com/uber/h3). `This information in the Where Part is based on the centroid of that place.` In other words, `it takes the latitude and longitude of a specific place and then use a conversion function to determine a hexagon in the physical world,` representing about 15,000 sq. meters, containing the centroid of that place. The Where Part of the Placekey is, therefore, the full encoding of that hexagon.
 
-**How it works**:
+2. [simplestyle-spec](https://github.com/mapbox/simplestyle-spec)
 
-**Results**:
+A simple styling convention for GeoJSON data
 
-## Research
+```json
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "title": "A title",
+        "description": "A description",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "marker-color": "#fff",
+        "stroke": "#555555",
+        "stroke-opacity": 1.0,
+        "stroke-width": 2,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      }
+    }
+  ]
+}
+```
 
-1. []()
+3. [Mapbox Static Images API](https://docs.mapbox.com/api/maps/static-images/)
 
-![]()
+```sh
+curl -g "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/[-77.043686,38.892035,-77.028923,38.904192]/400x400?access_token=YOUR_MAPBOX_ACCESS_TOKEN" --output example-mapbox-static-bbox-1.png
+```
+
+The Mapbox Static Images API serves standalone, static map images generated from Mapbox Studio styles. These images can be displayed on the web and mobile devices without the aid of a mapping library or API.
+
+> 💡 The maximum URL length that our APIs accept before returning an HTTP 414 URI too long response status code is an `8,192` byte limit imposed by AWS CloudFront
 
 ## Tool
 
@@ -47,7 +83,7 @@ React for CLIs. Build and test your CLI output using components.
 
 ![](https://bestofreactjs.com/repo/pubkey-rxdb-react-data-managing)
 
-A realtime Database for JavaScript Applications
+A real-time Database for JavaScript Applications
 
 ## Resources
 
@@ -59,18 +95,21 @@ A collection of step-by-step tutorials to gain related knowledge and skills thro
 
 2. [Mathematics for the Liberal Arts](https://courses.lumenlearning.com/waymakermath4libarts/)
 
-An online book, which is a survey of contemporary mathematical topics, most non-algebraic, appropriate for a college-level quantitative literacy topics course for liberal arts majors.
+An online book is a survey of contemporary mathematical topics, most non-algebraic, appropriate for a college-level quantitative literacy topics course for liberal arts majors.
 
 3. [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
 
 ![](https://www.codusoperandi.com/posts/images/luck-surface-area.png)
 
-The amount of serendipity that will occur in your life, your Luck Surface Area, is directly proportional to the degree to which you do something you're passionate about combined with the total number of people to whom this is effectively communicated.
+The amount of uncertainty that will occur in your life, your Luck Surface Area, is directly proportional to the degree to which you do something you're passionate about combined with the total number of people to whom this is effectively communicated.
 
-The concept could be formalized into the equation `L = D * T`, where `L` is luck, `D` is doing and `T` is telling. This demonstrates clearly that the more you do and the more people you tell about it, the larger your Luck Surface Area will become
+The concept could be formalized into the equation `L = D * T,` where `L` is luck, `D` is doing and `T` is telling. This demonstrates clearly that the more you do and the more people you know about it, the larger your Luck Surface Area will become
 
 ## Comments
 
-1. A comment is an `apology` for not choosing a more clear name, or a more reasonable set of parameters, or for the failure to use explanatory variables and explanatory functions. Apologies for making the code unmaintainable, apologies for not using well-known algorithms, apologies for writing ‘clever’ code, apologies for not having a good version control system, apologies for not having finished the job of writing the code, or for leaving vulnerabilities or flaws in the code.
+1. A comment is an `apology` for not choosing a more clear name, or a more reasonable set of parameters, or for the failure to use explanatory variables and explanatory functions. Apologies for making the code unmaintainable, apologies for not using well-known algorithms, apologies for writing 'clever' code, apologies for not having a good version control system, apologies for not having finished the job of writing the code, or for leaving vulnerabilities or flaws in the code.
 
 --[Uncle Bob](https://critter.blog/2020/09/15/dont-comment-your-code-refactor-it/)
+
+2.  With all due respect: we are completely clueless about how long things should take.
+    --[](https://kyleprifogle.com/dear-startup/)

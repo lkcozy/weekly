@@ -65,6 +65,26 @@ Highly Scalable, performant and amazing react boilerplate for react developers t
 
 Learn to build and deploy your distributed applications easily to the cloud with Docker
 
-## Comments
+2. [On the direction of react performance optimization](https://developpaper.com/on-the-direction-of-react-performance-optimization/)
 
-1.  --[]()
+![](https://imgs.developpaper.com/imgs/vl.png)
+
+The author shares several react performance optimization tips from three directions:
+
+- reduce the amount of calculation
+- using cache
+- precise recalculation range
+
+[Original](https://zhuanlan.zhihu.com/p/74229420)
+
+3. [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#1-project-structure-practices)
+
+![](https://github.com/goldbergyoni/nodebestpractices/raw/master/assets/images/banner-2.jpg)
+
+- Structure your solution by self-contained components
+- Separate component code into layers: web, services, and Data Access Layer (DAL)
+- Wrap common utilities as npm packages
+- Use environment aware, secure and hierarchical config
+- Use multi-stage builds for leaner and more secure Docker images
+
+## Comments

@@ -49,6 +49,9 @@ Edit or create SVG paths in browser
 
 Elegant Wallpaper App for macOS. Deliver fresh and stunning wallpapers everyday
 
+4. [Convict](https://www.npmjs.com/package/convict)
+
+Convict expands on the standard pattern of configuring node.js applications in a way that is more robust and accessible to collaborators, who may have less interest in digging through code in order to inspect or modify settings. By introducing a configuration schema, convict gives project collaborators more context on each setting and enables validation and early failures for when configuration goes wrong.
 ## Videos
 
 1. [Bruno Simon 3D Website](https://www.youtube.com/watch?v=PN5YvuHVQXg)
