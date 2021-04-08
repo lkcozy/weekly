@@ -20,51 +20,51 @@ grep -nri gis docs | cat -n
 
 ## 2021
 
-**April** [Issue #79](docs/issue-79.md) :rocket:
+**April** [Issue #80](docs/2021/issue-80.md) :rocket: | [Issue #79](docs/2021/issue-79.md)
 
-**Mar**: [Issue #78](docs/issue-78.md) | [Issue #77](docs/issue-77.md) | [Issue #76](docs/issue-76.md) | [Issue #75](docs/issue-75.md)
+**Mar**: [Issue #78](docs/2021/issue-78.md) | [Issue #77](docs/2021/issue-77.md) | [Issue #76](docs/2021/issue-76.md) | [Issue #75](docs/2021/issue-75.md)
 
-**Feb**: [Issue #74](docs/issue-74.md) | [Issue #73](docs/issue-73.md) | [Issue #72](docs/issue-72.md) | [Issue #71](docs/issue-71.md)
+**Feb**: [Issue #74](docs/2021/issue-74.md) | [Issue #73](docs/2021/issue-73.md) | [Issue #72](docs/2021/issue-72.md) | [Issue #71](docs/2021/issue-71.md)
 
-**Jan**: [Issue #70](docs/issue-70.md) | [Issue #69](docs/issue-69.md) | [Issue #68](docs/issue-68.md) | [Issue #67](docs/issue-67.md)
+**Jan**: [Issue #70](docs/2021/issue-70.md) | [Issue #69](docs/2021/issue-69.md) | [Issue #68](docs/2021/issue-68.md) | [Issue #67](docs/2021/issue-67.md)
 
 ## 2020
 
-**Dec**: [Issue #66](docs/issue-66.md) | [Issue #65](docs/issue-65.md) | [Issue #64](docs/issue-64.md) | [Issue #63](docs/issue-63.md)
+**Dec**: [Issue #66](docs/2020/issue-66.md) | [Issue #65](docs/2020/issue-65.md) | [Issue #64](docs/2020/issue-64.md) | [Issue #63](docs/2020/issue-63.md)
 
-**Nov**: [Issue #62](docs/issue-62.md) | [Issue #61](docs/issue-61.md) | [Issue #60](docs/issue-60.md) |[Issue #59](docs/issue-59.md)
+**Nov**: [Issue #62](docs/2020/issue-62.md) | [Issue #61](docs/2020/issue-61.md) | [Issue #60](docs/2020/issue-60.md) |[Issue #59](docs/2020/issue-59.md)
 
-**Oct**: [Issue #58](docs/issue-58.md) | [Issue #57](docs/issue-57.md) | [Issue #56](docs/issue-56.md) | [Issue #55](docs/issue-55.md)
+**Oct**: [Issue #58](docs/2020/issue-58.md) | [Issue #57](docs/2020/issue-57.md) | [Issue #56](docs/2020/issue-56.md) | [Issue #55](docs/2020/issue-55.md)
 
-**Sep** [Issue #54](docs/issue-54.md) | [Issue #53](docs/issue-53.md) | [Issue #52](docs/issue-52.md) | [Issue #51](docs/issue-51.md)
+**Sep** [Issue #54](docs/2020/issue-54.md) | [Issue #53](docs/2020/issue-53.md) | [Issue #52](docs/2020/issue-52.md) | [Issue #51](docs/2020/issue-51.md)
 
-**Aug** [Issue #50](docs/issue-50.md) | [Issue #49](docs/issue-49.md) | [Issue #48](docs/issue-48.md) | [Issue #47](docs/issue-47.md)
+**Aug** [Issue #50](docs/2020/issue-50.md) | [Issue #49](docs/2020/issue-49.md) | [Issue #48](docs/2020/issue-48.md) | [Issue #47](docs/2020/issue-47.md)
 
-**July** [Issue #45](docs/issue-46.md) | [Issue #45](docs/issue-45.md) | [Issue #44](docs/issue-44.md) | [Issue #43](docs/issue-43.md)
+**July** [Issue #45](docs/2020/issue-46.md) | [Issue #45](docs/2020/issue-45.md) | [Issue #44](docs/2020/issue-44.md) | [Issue #43](docs/2020/issue-43.md)
 
-**Jun** [Issue #42](docs/issue-42.md) | [Issue #41](docs/issue-41.md) | [Issue #40](docs/issue-40.md) | [Issue #39](docs/issue-39.md)
+**Jun** [Issue #42](docs/2020/issue-42.md) | [Issue #41](docs/2020/issue-41.md) | [Issue #40](docs/2020/issue-40.md) | [Issue #39](docs/2020/issue-39.md)
 
-**May** [Issue #38](docs/issue-38.md) | [Issue #37](docs/issue-37.md) | [Issue #36](docs/issue-36.md) | [Issue #35](docs/issue-35.md)
+**May** [Issue #38](docs/2020/issue-38.md) | [Issue #37](docs/2020/issue-37.md) | [Issue #36](docs/2020/issue-36.md) | [Issue #35](docs/2020/issue-35.md)
 
-**April** [Issue #34](docs/issue-34.md) | [Issue #33](docs/issue-33.md) | [Issue #32](docs/issue-32.md) | [Issue #31](docs/issue-31.md)
+**April** [Issue #34](docs/2020/issue-34.md) | [Issue #33](docs/2020/issue-33.md) | [Issue #32](docs/2020/issue-32.md) | [Issue #31](docs/2020/issue-31.md)
 
-**Mar**: [Issue #30](docs/issue-30.md) | [Issue #29](docs/issue-29.md) | [Issue #28](docs/issue-28.md) | [Issue #27](docs/issue-27.md)
+**Mar**: [Issue #30](docs/2020/issue-30.md) | [Issue #29](docs/2020/issue-29.md) | [Issue #28](docs/2020/issue-28.md) | [Issue #27](docs/2020/issue-27.md)
 
-**Feb**: [Issue #26](docs/issue-26.md) | [Issue #25](docs/issue-25.md) | [Issue #24](docs/issue-24.md) | [Issue #23](docs/issue-23.md)
+**Feb**: [Issue #26](docs/2020/issue-26.md) | [Issue #25](docs/2020/issue-25.md) | [Issue #24](docs/2020/issue-24.md) | [Issue #23](docs/2020/issue-23.md)
 
-**Jan**: [Issue #22](docs/issue-22.md) 🏗 | [Issue #21](docs/issue-21.md) 🏗 | [Issue #20](docs/issue-20.md) 🏗 | [Issue #19](docs/issue-19.md) 🏗
+**Jan**: [Issue #22](docs/2020/issue-22.md) 🏗 | [Issue #21](docs/2020/issue-21.md) 🏗 | [Issue #20](docs/2020/issue-20.md) 🏗 | [Issue #19](docs/2020/issue-19.md) 🏗
 
 ## 2019
 
-**Dec**: [Issue #18](docs/issue-18.md) 🏗 | [Issue #17](docs/issue-17.md) | [Issue #16](docs/issue-16.md) 🏗 | [Issue #15](docs/issue-15.md)
+**Dec**: [Issue #18](docs/2019/issue-18.md) 🏗 | [Issue #17](docs/2019/issue-17.md) | [Issue #16](docs/2019/issue-16.md) 🏗 | [Issue #15](docs/2019/issue-15.md)
 
-**Nov**: [Issue #14](docs/issue-14.md) | [Issue #13](docs/issue-13.md) | [Issue #12](docs/issue-12.md) | [Issue #11](docs/issue-11.md)
+**Nov**: [Issue #14](docs/2019/issue-14.md) | [Issue #13](docs/2019/issue-13.md) | [Issue #12](docs/2019/issue-12.md) | [Issue #11](docs/2019/issue-11.md)
 
-**Oct**: [Issue #10](docs/issue-10.md) | [Issue #9](docs/issue-9.md) | [Issue #8](docs/issue-8.md) | [Issue #7](docs/issue-7.md) |
+**Oct**: [Issue #10](docs/2019/issue-10.md) | [Issue #9](docs/2019/issue-9.md) | [Issue #8](docs/2019/issue-8.md) | [Issue #7](docs/2019/issue-7.md) |
 
-**Sep**: [Issue #6](docs/issue-6.md) | [Issue #5](docs/issue-5.md) | [Issue #4](docs/issue-4.md) | [Issue #3](docs/issue-3.md)
+**Sep**: [Issue #6](docs/2019/issue-6.md) | [Issue #5](docs/2019/issue-5.md) | [Issue #4](docs/2019/issue-4.md) | [Issue #3](docs/2019/issue-3.md)
 
-**Aug**: [Issue #2](docs/issue-2.md) | [Issue #1](docs/issue-1.md)
+**Aug**: [Issue #2](docs/2020/issue-2.md) | [Issue #1](docs/2020/issue-1.md)
 
 ## Create A New Issue Snippet
 
