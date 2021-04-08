@@ -20,7 +20,9 @@ grep -nri gis docs | cat -n
 
 ## 2021
 
-**Mar**: [Issue #78](docs/issue-78.md) :rocket: | [Issue #77](docs/issue-77.md) | [Issue #76](docs/issue-76.md) | [Issue #75](docs/issue-75.md)
+**April** [Issue #79](docs/issue-79.md) :rocket:
+
+**Mar**: [Issue #78](docs/issue-78.md) | [Issue #77](docs/issue-77.md) | [Issue #76](docs/issue-76.md) | [Issue #75](docs/issue-75.md)
 
 **Feb**: [Issue #74](docs/issue-74.md) | [Issue #73](docs/issue-73.md) | [Issue #72](docs/issue-72.md) | [Issue #71](docs/issue-71.md)
 
@@ -72,7 +74,14 @@ grep -nri gis docs | cat -n
 
 ## Acknowledgement
 
-1. [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. [deeplearning.ai](https://www.deeplearning.ai/)
-3. [GIS Lounge](https://www.gislounge.com/)
-4. [HelloGithub](https://hellogithub.com/)
+1. [GIS Lounge](https://www.gislounge.com/)
+2. [Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog)
+3. [CARTO](https://carto.com/blog/categories/news/)
+4. [OGC Newsroom](https://www.ogc.org/pressroom/pressreleases)
+5. [GeospatialWorld](https://www.geospatialworld.net/)
+6. [Open Source GIS](https://osgis.org/)
+7. [The MapScaping Podcast](https://mapscaping.podbean.com/)
+8. [The Spatial Source](https://www.spatialsource.com.au/)
+9. [ruanyf/weekly](https://github.com/ruanyf/weekly)
+10. [deeplearning.ai](https://www.deeplearning.ai/)
+11. [HelloGithub](https://hellogithub.com/)
