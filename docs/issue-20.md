@@ -68,6 +68,14 @@ Design unique graphics in minutes from your browser, for free and without accoun
 
 Online realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles.
 
+4. [navi](https://github.com/denisidoro/navi)
+
+![](https://user-images.githubusercontent.com/3226564/94310428-fff58080-ff4f-11ea-8c1c-29fac351340a.gif)
+
+An interactive cheatsheet tool for the command-line and application launchers.
+
+navi allows you to browse through cheatsheets (that you may write yourself or download from maintainers) and execute commands. Suggested values for arguments are dynamically displayed in a list.
+
 ## Videos
 
 1. []()

@@ -56,7 +56,7 @@ grep -nri gis docs | cat -n
 
 ## 2019
 
-**Dec**: [Issue #18](docs/issue-18.md) 🏗 | [Issue #17](docs/issue-17.md) 🏗 | [Issue #16](docs/issue-16.md) 🏗 | [Issue #15](docs/issue-15.md)
+**Dec**: [Issue #18](docs/issue-18.md) 🏗 | [Issue #17](docs/issue-17.md) | [Issue #16](docs/issue-16.md) 🏗 | [Issue #15](docs/issue-15.md)
 
 **Nov**: [Issue #14](docs/issue-14.md) | [Issue #13](docs/issue-13.md) | [Issue #12](docs/issue-12.md) | [Issue #11](docs/issue-11.md)
 

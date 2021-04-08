@@ -2,9 +2,11 @@
 
 ## GeoSpatial
 
-1. []()
+1. [inaturalist]()
 
-![]()
+![](https://texasbutterflyranch.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-13-at-5.12.27-PM.jpg)
+
+iNaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe.
 
 ## AI/ML
 
@@ -59,10 +61,11 @@ react-spring is a spring-physics based animation library that should cover most 
 
 ## Resources
 
-1. []()
+1. [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 
-![]()
+The goal of the numpy exercises is to serve as a reference as well as to get you to apply numpy beyond the basics. The questions are of 4 levels of difficulties with L1 being the easiest to L4 being the hardest.
 
 ## Comments
 
-1.  --[]()
+1.  Pick the fastest growing company you can find.When you're young, care more about building human quickly and not so much about financial capital. Go where other smart people are.
+    --[Miscellaneous unsolicited (and possibly biased) career advice](https://erikbern.com/2019/09/26/misc-unsolicited-career-advice.html)
