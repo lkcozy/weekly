@@ -64,7 +64,7 @@ This website aims to help you take the first steps with LaTeX, a document prepar
 
 ## Tool
 
-1. [React-Grid-Layout](https://github.com/react-grid-layout/react-grid-layout)
+1. [React Grid Layout](https://github.com/react-grid-layout/react-grid-layout)
 
 ![](https://camo.githubusercontent.com/c4c5ad848e7f3cbc45c44a115b0ab01ff36e81898893b1177440ae3522e40eb4/687474703a2f2f692e696d6775722e636f6d2f6f6f314e5436632e676966)
 

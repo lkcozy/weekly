@@ -65,7 +65,15 @@ react-spring is a spring-physics based animation library that should cover most 
 
 The goal of the numpy exercises is to serve as a reference as well as to get you to apply numpy beyond the basics. The questions are of 4 levels of difficulties with L1 being the easiest to L4 being the hardest.
 
+2. [How to Lose Time and Money](http://paulgraham.com/selfindulgence.html)
+
 ## Comments
 
 1.  Pick the fastest growing company you can find.When you're young, care more about building human quickly and not so much about financial capital. Go where other smart people are.
     --[Miscellaneous unsolicited (and possibly biased) career advice](https://erikbern.com/2019/09/26/misc-unsolicited-career-advice.html)
+
+2.  The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.
+    --[How to Lose Time and Money ](http://paulgraham.com/selfindulgence.html)
+
+3.  The most dangerous traps now are new behaviors that bypass our alarms about self-indulgence by mimicking more virtuous types. And the worst thing is, they're not even fun.
+    --Ditto
