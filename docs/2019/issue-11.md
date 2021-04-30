@@ -87,3 +87,9 @@ Demographics, inequality, and information access will have a significant impact 
 ![](https://user-images.githubusercontent.com/8818630/58364013-61e53800-7e7b-11e9-87f9-790d6744fbd5.png)
 
 git-quick-stats is a simple and efficient way to access various statistics in a git repository.
+
+2. I don't know many people whose children far surpass their parents. Most people's living conditions, social class, and economic status are similar to their parents.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-81.md)
+
+3. Normally, the change of life circumstances is a slow process, which takes several generations to accumulate.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-81.md)

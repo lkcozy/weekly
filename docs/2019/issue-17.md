@@ -2,39 +2,9 @@
 
 ## GeoSpatial
 
-1. [Mapshaper](https://github.com/mbloch/mapshaper)
-
-![](https://handsondataviz.org/images/13-transform/mapshaper-edit-annotated.png)
-
-Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON, CSV and several other data formats written in JavaScript.
-
-Mapshaper supports essential map-making tasks like `simplifying shapes, editing attribute data, clipping, erasing, dissolving, filtering and more.
-
-Mapshaper includes several command-line programs, which can be run under Mac OS X, Linux and Windows.
-
-- `mapshaper` Runs mapshaper commands.
-- `mapshaper-xl` Works the same as mapshaper, but runs with more RAM to support larger files.
-- `mapshaper-gui` Runs the mapshaper Web interface locally.
-
-2. [Determining Uncertainty in GIS Data](https://www.gislounge.com/determining-uncertainty-in-gis-data/)
-
-![](https://cdn.shortpixel.ai/client2/q_lossy,ret_img,w_1000/https://www.gislounge.com/wp-content/uploads/2019/08/uncertainty-GIS.png)
-
-Uncertainty is an unavoidable part of spatial data due to an approximation of real-world phenomena. Moreover, many real-world decision makings involve some aspects of uncertainty due to the unpredictable and unknowable nature of the problem.
-
-Spatial decision making is subjected to uncertainty, due to its operations which involves discretization and generalization on the geographical data set. The influence of uncertainty may be visible in the form of original data and measurement, assumptions or in the model structure.
-
-An uncertainty analysis helps us to define and understand the possible sources. Following an uncertainty analysis, a sensitivity analysis completes the picture by helping us to relate the amount of uncertainty and its relation to input variables. The potential sources of uncertainty could be multiple; however, criteria weights usually considered the foremost source of controversy and certainty in MCE.
-
-[In this article](https://www.semanticscholar.org/paper/A-GIS-Based-Sensitivity-Analysis-of-Multi-Criteria-Yu-Shahbaz/479ff1f96b0bbce1fa87ff49e0f6398e160446d5?p2df) the most outstanding application of uncertainty and sensitivity analysis possibilities of MCE can be discussed under renewable energy site selection, land-use evaluation and flood vulnerability.
-
 ## AI/ML
 
-1. [Deep Learning Do It Yourself!](https://dataflowr.github.io/website/)
 
-![](https://camo.githubusercontent.com/9d016703f9298cf361ba6c4767249fb98d7d44af113ba0d71fa163b85f55ae6b/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130332f6267323032313033323230312e6a7067)
-
-This site collects resources to learn Deep Learning in Modules available through the sidebar on the left. As a student, you can walk through the modules at your own pace and interact with others, thanks to the associated digital platforms.
 
 ## Research
 

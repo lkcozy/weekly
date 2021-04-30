@@ -16,11 +16,11 @@ Nominatim is a search engine for OpenStreetMap data. It supports both forward se
 
 3. [World Central Kitchen’s Chefs for America map](https://blog.mapbox.com/world-central-kitchens-map-to-feed-america-9c48dfa003df)
 
-![World Central Kitchen]https://miro.medium.com/max/2000/0*2lFYwMqXxxgjOQlv
+![World Central Kitchen](https://miro.medium.com/max/2000/0*2lFYwMqXxxgjOQlv)
 
 It's built from crowd-sourced data displaying available meals at three types of locations: School districts, restaurants, and World Central Kitchen community kitchens and meal distribution points. The goal of this project is to safely distribute healthy, fresh meals across the country to those in need due to the COVIDD-19 epidemic.
 
-4. [eXXpedition tracking map](https://exxpedition.com/news/track-the-boat/)
+4. [Expeditions tracking map](https://exxpedition.com/news/track-the-boat/)
 
 ![eXXpedition tracking map](https://miro.medium.com/max/2000/1*KmyV7syh0p0BZPZx9-Airw.png)
 
@@ -49,6 +49,10 @@ A Terminal in your pocket or on your desk to allow you to program on your iPad o
 ![tabletop.js](https://2.bp.blogspot.com/-vdYratZj9Hw/We_XS-025HI/AAAAAAAAG08/FhoOlea87OkeBV8IiRKbpgRskAZxaw2qQCLcBGAs/s1600/spreadsheettodata.png)
 
 Tabletop.js takes a Google Spreadsheets and makes it easily accessible through JavaScript.
+
+3. [PapaParse](https://github.com/mholt/PapaParse)
+
+Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 
 ## Comments
 
