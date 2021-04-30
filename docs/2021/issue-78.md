@@ -16,6 +16,16 @@ TopHap is a real estate technology company that makes investor-grade analytics e
 
 Earth2.io, the futuristic game for second earth, just launched new maps and heatmaps, all using MTS (Mapbox Tiling Service) at its core. The Earth 2 platform allows people to search, claim, purchase or bid on any piece of virtual land around the world. Users can name the land they purchase in anticipation of a future sale or hold it for future phases of Earth 2.
 
+3. [Lacuna Space-The connectivity provider aims to bring LoRaWAN everywhere](https://lacuna.space)
+
+![](https://lacuna.space/wp-content/uploads/2021/03/lacuna-satellite-launch-march-2021-05-683x1024.jpg)
+
+Lacuna, which is an UK space startup, provides an `ultra-low cost tracking and sensor detection service for small amounts of data`.
+
+The company has launched and operated 5 IoT gateway in space. Every satellite launch represents one more step in our mission to `provide LoRaWAN® connectivity to millions and millions of devices around the world` and see our service make a difference in so many applications: managing natural resources, improving food production or optimizing global infrastructure.
+
+[Lacuna Roadmap](https://www.youtube.com/watch?v=3769Xc46eUY)
+
 ## AI/ML
 
 1. [From Model-centric to Data-centric AI](https://www.deeplearning.ai/the-batch/issue-84/)

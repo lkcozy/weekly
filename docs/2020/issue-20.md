@@ -8,11 +8,45 @@
 
 The Heihe–Tengchong Line is an imaginary line that divides the area of China into two roughly equal parts. This line was proposed by Chinese population geographer Hu Huanyong in 1935. East of the line: 36% of the area, but 96% of the population
 
+2.[LoRapedia](<https://www.seeedstudio.com/blog/2020/08/03/lorapedia-an-introduction-of-lora-and-lorawan-technology/?ct=t()&mc_cid=c51163fe5f&mc_eid=406b9cebb2>)
+
+![](https://blog.seeedstudio.com/wp-content/uploads/2020/07/8.png)
+
+This is an Introduction of LoRa and LoRaWAN Technology.
+
+LoRa is a long-range and lower-power wireless communication system providing attractive features that are critical for application in Industrial IoT.
+
+On top of this wireless infrastructure sits the LoRaWAN network protocol. The open design of LoRaWAN together with the Long-range capabilities makes LoRa Technology ideal for the Internet of Things (IoT) and in recent years it has become the de facto standard for wireless IoT equipment.
+
+Since there are a lot of (and increasing) needs of IoT devices in different vertical industries, especially for low-power, long-range rote data collection scenarios, LoRa is no-doubt one of the most sought-after technologies in the market.
+
+3. [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
+
+![](https://camo.githubusercontent.com/49d25839c644663d701c7ecd1e79a499141862ac21be16046a2c90eef3fb7d3d/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130342f6267323032313034313830312e6a7067)
+
+Google Earth provides a timeline of satellite photos to see how the same location has changed from 1984 to 2020, with more than a dozen official locations currently available.
+
 ## AI/ML
 
-1. []()
+1. [Lobe.ai](https://www.lobe.ai/)
 
-![]()
+![](https://lobeai-static-prod-west.azurewebsites.net/assets/screenshot/screenshot@2x.jpg)
+
+Students can easily build, train, and apply machine learning models to track and inform plant health with Lobe.
+
+`Lobe simplifies the process of machine learning into three easy steps.` Collect and label your images. Train your model and understand your results. Then play, improve, and export your model.
+
+2. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
+
+A ranked list of awesome machine learning Python libraries. Updated weekly.
+
+3. [Lux](https://github.com/lux-org/lux)
+
+![](https://github.com/lux-org/lux-resources/raw/master/readme_img/demohighlight.gif?raw=true)
+
+Lux is a Python library that facilitate fast and easy data exploration by automating the visualization and data analysis process. By simply printing out a dataframe in a Jupyter notebook, Lux recommends a set of visualizations highlighting interesting trends and patterns in the dataset. Visualizations are displayed via an interactive widget that enables users to quickly browse through large collections of visualizations and make sense of their data.
+
+Here is a [1-min video](https://www.youtube.com/watch?v=qmnYP-LmbNU) introducing Lux, and [slides](http://dorisjunglinlee.com/files/Zillow_07_2020_Slide.pdf) from a more extended talk.
 
 ## Research
 

@@ -20,6 +20,12 @@ The Submarine Cable Map is a free and regularly updated resource from TeleGeogra
 
 ![]()
 
+2. [Binder](https://mybinder.org/)
+
+![](https://miro.medium.com/max/700/1*lWcoBaRvNzXxzGPqV_3vew.png)
+
+Turn a Git repo into a collection of interactive notebooks
+
 ## Research
 
 1. []()
@@ -28,10 +34,10 @@ The Submarine Cable Map is a free and regularly updated resource from TeleGeogra
 
 ## Tool
 
-- [Configurable Chart Collection (C3) - World Bank Example](http://drarmstr.github.io/chartcollection/examples/#worldbank) - ([Source](http://drarmstr.github.io/chartcollection/examples/#worldbank/source), [HTML](http://drarmstr.github.io/chartcollection/examples/#worldbank/html))
+- 1. [Configurable Chart Collection (C3) - World Bank Example](http://drarmstr.github.io/chartcollection/examples/#worldbank) - ([Source](http://drarmstr.github.io/chartcollection/examples/#worldbank/source), [HTML](http://drarmstr.github.io/chartcollection/examples/#worldbank/html))
 - [Dimensional Charting JavaScript Library (dc.js)](https://dc-js.github.io/dc.js/) - ([Source](https://dc-js.github.io/dc.js/docs/stock.html))
 
-- [dc.js](https://dc-js.github.io/dc.js/)
+- 2. [dc.js](https://dc-js.github.io/dc.js/)
 
 ![](https://github.com/dc-js/react-dc-js/raw/master/preview.gif)
 
@@ -39,7 +45,21 @@ dc.js is a javascript charting library with native crossfilter support, allowing
 
 dc.js is an easy yet powerful javascript library for data visualization and analysis in the browser and on mobile devices.
 
-[react-dc-js](https://github.com/dc-js/react-dc-js)
+3. [react-dc-js](https://github.com/dc-js/react-dc-js)
+
+4. [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+
+![](https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg)
+
+CLI that generates beautiful README.md files
+
+```sh
+npx readme-md-generator
+# or use default values for all question
+npx readme-md-generator -y
+# Use your own ejs README template
+npx readme-md-generator -p path/to/my/own/template.md
+```
 
 ## Videos
 

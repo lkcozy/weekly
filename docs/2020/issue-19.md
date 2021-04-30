@@ -29,6 +29,34 @@ Take a mental stroll through familiar streets with this rocks glass, etched with
 
 ## AI/ML
 
+1. [The Five Big Ideas in Artificial Intelligence](https://ai4k12.org/resources/big-ideas-poster/)
+
+![](https://i2.wp.com/ai4k12.org/wp-content/uploads/2021/03/AI4K12poster-5.png?resize=1024%2C662&ssl=1)
+
+The Artificial Intelligence (AI) for K-12 initiative ([AI4K12](https://ai4k12.org/)) is developing (1) national `guidelines` for AI education for K-12, (2) an online, `curated resource Directory to facilitate AI instruction`, and (3) a community of practitioners, researchers, resource and tool developers focused on the AI for K-12 audience.
+
+- (1) [Perception](https://ai4k12.org/big-idea-1-overview/): computers perceive the world using sensors
+- (2) Representation & Reasoning: agents maintain representations of the world and use them for reasoning.
+- (3) [Learning](https://ai4k12.org/big-idea-3-overview/): computers can learn from data
+- (4) Natural Interaction: intelligent agents require many kinds of knowledge to interact naturally with humans.
+- (5) Societal Impact: AI can impact society in both positive and negative ways.
+
+2. [Time Series 101](https://towardsdatascience.com/time-series-101-for-beginners-7427dcfdc2f1)
+
+![](https://miro.medium.com/max/700/0*AfqHPFyS5tc-9Amn)
+
+A focused on forecasting time series using Machine Learning. For this tutorial, the author uses the Regression Module of an open-source, low-code machine library in Python called PyCaret.
+
+Time series data is data collected on the same subject at different points in time, such as GDP of a country by year, a stock price of a particular company over a period of time, or your own heartbeat recorded at each second, as a matter of fact, anything that you can capture continuously at different time-intervals is a time series data.
+
+`Time series forecasting is predicting the future unknown values. `
+
+Time series forecasting can broadly be categorized into the following categories:
+
+- Classical / Statistical Models — Moving Averages, Exponential smoothing, ARIMA, SARIMA, TBATS
+- Machine Learning — Linear Regression, XGBoost, Random Forest, or any ML model - with reduction methods
+- Deep Learning — RNN, LSTM
+
 ## Tool
 
 1.  [OpenVINOv](https://docs.openvinotoolkit.org/latest/index.html)
@@ -52,6 +80,7 @@ Elegant Wallpaper App for macOS. Deliver fresh and stunning wallpapers everyday
 4. [Convict](https://www.npmjs.com/package/convict)
 
 Convict expands on the standard pattern of configuring node.js applications in a way that is more robust and accessible to collaborators, who may have less interest in digging through code in order to inspect or modify settings. By introducing a configuration schema, convict gives project collaborators more context on each setting and enables validation and early failures for when configuration goes wrong.
+
 ## Videos
 
 1. [Bruno Simon 3D Website](https://www.youtube.com/watch?v=PN5YvuHVQXg)
@@ -68,3 +97,5 @@ This document contains introductory level linear algebra notes for applied machi
 
 ## Comments
 
+1. It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter. Once you have figured out what to do, be unstoppable about getting your small handful of priorities accomplished quickly. I have yet to meet a slow-moving person who is very successful.
+   [Sam Altman](https://blog.samaltman.com/how-to-be-successful)
