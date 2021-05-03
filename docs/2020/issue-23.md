@@ -89,6 +89,11 @@ This guide is targeted to power users who wish to adopt enterprise-standard secu
 
 A system is only as secure as its administrator is capable of making it. There is no single technology, software, or technique to guarantee perfect computer security; a modern operating system and a computer are very complex and require numerous incremental changes to improve one's security and privacy posture meaningfully.
 
+2. [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+![](https://github.com/trekhleb/javascript-algorithms/raw/master/assets/big-o-graph.png)
+Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 ## Comments
 
 1. Someone has said that there are two kinds of games in the world. One is a game that pursues a clear goal, such as defeating all opponents and achieving the goal to win the game; the other is a game without a clear purpose, to tell a story or experience roaming in the game. I prefer to roam and explore in the game, such as sightseeing in a strange city. There are no tasks that must be done, there are no obstacles that must be overcome, there is no need to collect anything, there is no need to fight with someone, and I am not worried about which corner will jump out of the enemy. If you see something you are interested in, stop and enjoy it.

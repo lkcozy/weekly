@@ -20,7 +20,7 @@ grep -nri gis docs | cat -n
 
 ## 2021
 
-**April** [Issue #82](docs/2021/issue-82.md) :rocket: | [Issue #81](docs/2021/issue-81.md) | [Issue #80](docs/2021/issue-80.md) | [Issue #79](docs/2021/issue-79.md)
+**April** [Issue #83](docs/2021/issue-83.md) :rocket: |[Issue #82](docs/2021/issue-82.md)| [Issue #81](docs/2021/issue-81.md) | [Issue #80](docs/2021/issue-80.md) | [Issue #79](docs/2021/issue-79.md)
 
 **Mar**: [Issue #78](docs/2021/issue-78.md) | [Issue #77](docs/2021/issue-77.md) | [Issue #76](docs/2021/issue-76.md) | [Issue #75](docs/2021/issue-75.md)
 
@@ -56,7 +56,7 @@ grep -nri gis docs | cat -n
 
 ## 2019
 
-**Dec**: [Issue #18](docs/2019/issue-18.md) 🏗 | [Issue #17](docs/2019/issue-17.md) | [Issue #16](docs/2019/issue-16.md) 🏗 | [Issue #15](docs/2019/issue-15.md)
+**Dec**: [Issue #18](docs/2019/issue-18.md) 🏗 | [Issue #17](docs/2019/issue-17.md) | [Issue #16](docs/2019/issue-16.md)  | [Issue #15](docs/2019/issue-15.md)
 
 **Nov**: [Issue #14](docs/2019/issue-14.md) | [Issue #13](docs/2019/issue-13.md) | [Issue #12](docs/2019/issue-12.md) | [Issue #11](docs/2019/issue-11.md)
 

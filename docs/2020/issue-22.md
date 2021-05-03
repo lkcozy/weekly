@@ -79,7 +79,28 @@ const f = (k, j) => 2 * k * j;
 
 This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
 
-2. [Sit down and figure it out](https://zellwk.com/blog/figure-it-out/?ck_subscriber_id=170842630)
+2. [Visual demonstration of a \* pathfinding algorithm](https://sbfkcel.github.io/fast-astar/)
+
+![](https://camo.githubusercontent.com/0dffef89d005e2f2e3b4c1c4f276c3946b0b581b6a70f2420b41946097f9e1c5/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230313931312f6267323031393131313230312e6a7067)
+
+Fast-astar is an implementation of a\* algorithm using javascript. Small and fast.
+
+3. [Don't git pull, use git pull --rebase instead](https://blog.manos-liakos.dev/rebase-vs-pull/)
+
+![](https://blog.manos-liakos.dev/static/39833f875652a1793abffbbc15973e33/74200/git-rebase.webp)
+
+```sh
+git pull = git fetch + git merge FETCH_HEAD
+git pull --rebase =  git fetch + git rebase FETCH_HEAD
+```
+
+`Git pull --rebase` effectively reapplying our local changes on top of the remote changes, resulting in a tidy, linear commit history.
+
+> Tip #1: Use git config --global pull.rebase true to avoid typing the --rebase flag each time you pull 🧐
+
+> Tip #2: Don't forget that you can do all sorts of editing to your commits, before pushing them by using interactive rebase.
+
+4. [Sit down and figure it out](https://zellwk.com/blog/figure-it-out/?ck_subscriber_id=170842630)
 
 ## Comments
 

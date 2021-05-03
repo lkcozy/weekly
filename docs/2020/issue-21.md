@@ -1,8 +1,8 @@
 # GISer's Weekly Issue 21
 
 ## GeoSpatial
-1. [Submarine Cable Map]
 
+1. [Submarine Cable Map]
 
 ## AI/ML
 
@@ -82,9 +82,23 @@ Shallow side projects are useful to develop a first opinion about a technology t
 
 The best way to dig a new technology is to practice it in your daily job. You’ll spend seven hours a day on it and will quickly become infinitely more proficient than if you just barely used it on nights and weekends.
 
-2. [LET'S MAKE THE WORST REACT EVER!](https://zserge.com/posts/worst-react-ever/)
+2. [LET'S MAKE THE WORST REACT EVER!](https://zserge.com/posts/worst-react-ever)
 
 The author explains how to implement the simplest React, which supports JSX syntax and some basic API. The compressed code does not exceed 1KB. This article can be used to understand the principle of React.
+
+3. [Maslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
+
+![](https://36.media.tumblr.com/72e7200921159a4374b7fc163fe0f6f2/tumblr_njwlh7rZui1qgj0nao1_400.png)
+
+As in Maslow's pyramid, each layer requires the previous one. It is useless for code that is charging the wrong customer to be readable.
+
+Code should be:
+
+- **Correct**: does the code do what it's supposed to? Does it handle edge cases? Is it adequately tested to make sure that it stays correct even when other engineers modify it? Is it performant enough for this use case?
+- **Secure**: does the code have vulnerabilities? Is the data stored safely? Is personal identification information (PII) handled correctly? Could the code be used to induce a DOS? Is input validation comprehensive enough?
+- **Readable**: is the code easy to read and comprehend? Does it make clear what the business requirements are (code is written to be read by a human, not by a computer)? Are tests concise enough? Are variables, functions and classes named appropriately? Do the domain models cleanly map the real world to reduce cognitive load? Does it use consistent coding convention?
+- **Elegant**: does the code leverage well-known patterns? Does it achieve what it needs to do without sacrificing simplicity and conciseness? Would you be excited to work in this code? Would you be proud of this code?
+- **Altruist**: does the code leave the codebase better than what it was? Does it inspire other engineers to improve their code as well? Is it cleaning up unused code, improving documentation, introducing better patterns through small-scale refactoring?
 
 ## Comments
 
