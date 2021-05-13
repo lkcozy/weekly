@@ -2,6 +2,9 @@
 
 ## GeoSpatial
 
+1. [The Gray-Green Urban Divide: How Wealth and Poverty are Visible from Space](https://www.geographyrealm.com/gray-green-urban-divide-wealth-poverty-visible-space/)
+
+![](https://cdn.shortpixel.ai/client2/q_lossy,ret_img,w_700/https://www.geographyrealm.com/wp-content/uploads/2016/08/Dar-es-Salaam-Tanzania.jpg)
 ## AI/ML
 
 
