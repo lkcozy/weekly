@@ -61,6 +61,46 @@ Crossfilter is a JavaScript library for exploring large multivariate datasets in
 
 Since most interactions only involve a single dimension, and then only small adjustments are made to the filter values, incremental filtering and reducing is significantly faster than starting from scratch. Crossfilter uses sorted indexes (and a few bit-twiddling hacks) to make this possible, dramatically increasing the perfor­mance of live histograms and top-K lists.
 
+3. [flat](https://github.com/hughsk/flat)
+
+```js
+var flatten = require("flat");
+
+flatten({
+  key1: {
+    keyA: "valueI",
+  },
+  key2: {
+    keyB: "valueII",
+  },
+  key3: { a: { b: { c: 2 } } },
+});
+
+// {
+//   'key1.keyA': 'valueI',
+//   'key2.keyB': 'valueII',
+//   'key3.a.b.c': 2
+// }
+
+unflatten({
+  "three.levels.deep": 42,
+  "three.levels": {
+    nested: true,
+  },
+});
+
+// {
+//     three: {
+//         levels: {
+//             deep: 42,
+//             nested: true
+//         }
+//     }
+// }
+```
+
+Take a nested Javascript object and flatten it, or unflatten an object with delimited keys.
+
 ## Resources
 
 1. [How to write like the great entrepreneurs](https://venturehacks.com/writing)
