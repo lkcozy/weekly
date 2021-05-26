@@ -95,6 +95,10 @@ An incredible personal website made with [three.js](https://threejs.org/).
 
 This document contains introductory level linear algebra notes for applied machine learning. It is meant as a reference rather than a comprehensive review. If you ever get confused by matrix multiplication, don’t remember what was the L2 norm, or the conditions for linear independence, this can serve as a quick reference. It also a good introduction for people that don’t need a deep understanding of linear algebra, but still want to learn about the fundamentals to read about machine learning or to use pre-packaged machine learning solutions. Further, it is a good source for people that learned linear algebra a while ago and need a refresher.
 
+2. [reverse-interview](https://github.com/viraptor/reverse-interview)
+
+The repository contains several questions to ask the company during your interview. Remember that things tend to be fluid, re-organizations happens often. Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
+
 ## Comments
 
 1. It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter. Once you have figured out what to do, be unstoppable about getting your small handful of priorities accomplished quickly. I have yet to meet a slow-moving person who is very successful.

@@ -109,6 +109,14 @@ The author summarized how to build full-stack apps with
 - [Hardhat](https://hardhat.org/): Ethereum development environment
 - [Graph](https://thegraph.com/): An indexing protocol for querying decentralized networks.
 
+2. Three Thoughts on Education​
+
+David Perell shared three thoughts on education:
+
+- Americans are obsessed with schooling but indifferent to learning when they should be obsessed with learning but indifferent to schooling.​
+- If a student doesn’t know how to write, they probably don’t know how to think​
+- Teachers complain that students don't listen to them but rarely ask if they're worth listening to in the first place.
+
 ## Comments
 
 1.  I think a lot of people think they need OO, but they really just need modularity.

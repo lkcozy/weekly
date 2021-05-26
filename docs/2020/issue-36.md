@@ -4,7 +4,7 @@
 
 1. [An Airport Absolutely Stuffed With Airliners](https://www.thedrive.com/the-war-zone/33141/these-aerial-and-satellite-photos-of-an-airport-absolutely-stuffed-with-airliners-are-nuts)
 
-![airplanes](https://the-drive-3.imgix.net/https%3A%2F%2Fapi.thedrive.com%2Fwp-content%2Fuploads%2F2020%2F04%2F2352352fsf.jpg%3Fquality%3D85?w=1440&auto=compress%2Cformat&ixlib=js-1.4.1&s=64709bc05d10a2ee312d07029c914bf3)
+![airplanes](https://www.thedrive.com/content/2020/04/2352352fsf.jpg?quality=85&width=1440&quality=70)
 
 Nowhere has received more airliners for storage during this COVID-19 crisis than Southern California Logistics Airport(VCV) in Victorville, California.
 
@@ -98,10 +98,10 @@ CI/CD is a combination of terminology and tools to increase your speed and effic
 
 3. [Comparing Software Engineer Salaries Across Cities](https://javednissar.ca/comparing-software-engineer-salaries-across-cities/)
 
-![City Net Incomes](https://javednissar.ca/content/images/2020/05/net-1.svg)
+![City Net Incomes](https://heuristic-fermat-d94b2f.netlify.app/comparing-software-engineer-salaries-across-cities/net-1.svg)
 
 An analysis of software engineer salaries across a variety of cities conducted by deducting the cost of living and taxes to compare net incomes. From looking at the absolute values, we see that Zurich and Seattle are the top performers in this analysis.
 
-![City Salaries](https://javednissar.ca/content/images/2020/05/salaries-1.svg)
+![City Salaries](https://heuristic-fermat-d94b2f.netlify.app/comparing-software-engineer-salaries-across-cities/salaries-1.svg)
 
-![Cost of Living](https://javednissar.ca/content/images/2020/05/col-1.svg)
+![Cost of Living](https://heuristic-fermat-d94b2f.netlify.app/comparing-software-engineer-salaries-across-cities/col-1.svg)
