@@ -78,6 +78,10 @@ Adidas has married 3D printing with robotic automation in a mass-market footwear
 
 ![](https://spectrum.ieee.org/image/Mzc5Njc3MQ.jpeg)
 
+2. Unbundling Childhood Education
+
+David Perell shared his ideas on the future of childhood education. He thought future teachers will be explicitly focused on childcare rather than be the childcare worker and information deliver. Regarding information delivery, teachers could leverage the Internet resources and send different students to different programs based on their temperament and individual struggles.
+
 ## Tool
 
 1. [2021 Remote Work Software Market Map](https://friday.app/remote-work/market-map)

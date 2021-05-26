@@ -103,13 +103,10 @@ A tutorial to introduce how to create an ebook instance using Github, then publi
 
 1. Reversion to the mean is a powerful force.
    In economics as well as politics, extremes cannot survive for long. People tend toward average, and competitive forces in business lead to mean reversion.
-
-- [10 Rules for Forecasting](https://blogs.cfainstitute.org/investor/2019/03/04/10-rules-for-forecasting/)
+   -- [10 Rules for Forecasting](https://blogs.cfainstitute.org/investor/2019/03/04/10-rules-for-forecasting/)
 
 2. Scrum is a way to take a below-average or poor developer and turn them into an average developer. It's also great at taking great developers and turning them into average developers.
-
-- [Hacker News](https://news.ycombinator.com/item?id=23234117)
+   -- [Hacker News](https://news.ycombinator.com/item?id=23234117)
 
 3. Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
-
-- [Naval Ravikant](https://threadreaderapp.com/thread/1002103360646823936.html)
+   -- [Naval Ravikant](https://threadreaderapp.com/thread/1002103360646823936.html)
