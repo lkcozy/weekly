@@ -51,16 +51,6 @@ var poly = lookup.search(1, 2);
 console.log(poly.properties.id); // bar
 ```
 
-1. [Mapillary](https://www.mapillary.com/)
-
-![Mapillary](https://petapixel.com/assets/uploads/2015/03/mapillary.jpg)
-
-Mapillary is the street-level imagery platform that scales and automates mapping using collaboration, cameras, and computer vision. Mapillary combines images from any camera into a visualization of the world that generates map data for improving maps, developing cities, and progressing the automotive industry. Mapillary's tools enable anyone to collect, share, and use street-level images.
-
-Mapillary works on the principle that anyone can capture and use street-level images. By sharing data on a collaborative platform, everyone wins. And as the need for up-to-date maps keeps growing, computer vision is the key to scaling up map data generation. Here is a short summary of how the system works.
-
-The images on Mapillary are available for anyone to explore. The images and the data extracted from them can be used by mapmakers, cities, transport agencies, logistics and delivery companies, automotive companies, humanitarian organizations, NGOs, and anyone else who needs geospatial information from street-level images.
-
 ## AI/ML
 
 1. [AI Does the Dishes](https://dishcraft.com/)

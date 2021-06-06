@@ -6,53 +6,47 @@
 
 ![](https://camo.githubusercontent.com/f5e16d70f9d3f7fdb4079721c0239cbf26196658/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323030392f6267323032303039303930372e6a7067)
 
-The Heihe–Tengchong Line is an imaginary line that divides the area of China into two roughly equal parts. This line was proposed by Chinese population geographer Hu Huanyong in 1935. East of the line: 36% of the area, but 96% of the population
+The Heihe–Tengchong Line is an imaginary line that divides the area of China into two roughly equal parts. Chinese population geographer Hu Huanyong proposed this line in 1935. East of the line: 36% of the area, but 96% of the population
 
 2.[LoRapedia](<https://www.seeedstudio.com/blog/2020/08/03/lorapedia-an-introduction-of-lora-and-lorawan-technology/?ct=t()&mc_cid=c51163fe5f&mc_eid=406b9cebb2>)
 
 ![](https://blog.seeedstudio.com/wp-content/uploads/2020/07/8.png)
 
-This is an Introduction of LoRa and LoRaWAN Technology.
+This is an introduction to LoRa and LoRaWAN technology.
 
-LoRa is a long-range and lower-power wireless communication system providing attractive features that are critical for application in Industrial IoT.
+LoRa is a long-range and lower-power wireless communication system that provides attractive features critical for application in Industrial IoT.
 
-On top of this wireless infrastructure sits the LoRaWAN network protocol. The open design of LoRaWAN together with the Long-range capabilities makes LoRa Technology ideal for the Internet of Things (IoT) and in recent years it has become the de facto standard for wireless IoT equipment.
+On top of this wireless infrastructure sits the LoRaWAN network protocol. The open design of LoRaWAN and the Long-range capabilities make LoRa Technology ideal for the Internet of Things (IoT). In recent years it has become the de facto standard for wireless IoT equipment.
 
-Since there are a lot of (and increasing) needs of IoT devices in different vertical industries, especially for low-power, long-range rote data collection scenarios, LoRa is no-doubt one of the most sought-after technologies in the market.
+Since there are many (and increasing) needs of IoT devices in different vertical industries, especially for low-power, long-range rote data collection scenarios, LoRa is no doubt one of the most sought-after technologies in the market.
 
 3. [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
 
 ![](https://camo.githubusercontent.com/49d25839c644663d701c7ecd1e79a499141862ac21be16046a2c90eef3fb7d3d/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130342f6267323032313034313830312e6a7067)
 
-Google Earth provides a timeline of satellite photos to see how the same location has changed from 1984 to 2020, with more than a dozen official locations currently available.
+Google Earth provides a timeline of satellite photos to see how the exact location has changed from 1984 to 2020, with more than a dozen official locations currently available.
 
 ## AI/ML
 
 1. [Lobe.ai](https://www.lobe.ai/)
 
-![](https://lobeai-static-prod-west.azurewebsites.net/assets/screenshot/screenshot@2x.jpg)
+![](https://www.lobe.ai/assets/screenshot/screenshot@2x.jpg)
 
-Students can easily build, train, and apply machine learning models to track and inform plant health with Lobe.
+Students can quickly build, train, and apply machine learning models to track and inform plant health with Lobe.
 
 `Lobe simplifies the process of machine learning into three easy steps.` Collect and label your images. Train your model and understand your results. Then play, improve, and export your model.
 
 2. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 
-A ranked list of awesome machine learning Python libraries. Updated weekly.
+A ranked list of awesome machine learning Python libraries. It is updated weekly.
 
 3. [Lux](https://github.com/lux-org/lux)
 
 ![](https://github.com/lux-org/lux-resources/raw/master/readme_img/demohighlight.gif?raw=true)
 
-Lux is a Python library that facilitate fast and easy data exploration by automating the visualization and data analysis process. By simply printing out a dataframe in a Jupyter notebook, Lux recommends a set of visualizations highlighting interesting trends and patterns in the dataset. Visualizations are displayed via an interactive widget that enables users to quickly browse through large collections of visualizations and make sense of their data.
+Lux is a Python library that facilitates fast and easy data exploration by automating the visualization and data analysis process. By simply printing out a dataframe in a Jupyter notebook, Lux recommends a set of visualizations highlighting interesting trends and patterns in the dataset. Visualizations are displayed via an interactive widget that enables users to quickly browse through extensive visualizations and make sense of their data.
 
 Here is a [1-min video](https://www.youtube.com/watch?v=qmnYP-LmbNU) introducing Lux, and [slides](http://dorisjunglinlee.com/files/Zillow_07_2020_Slide.pdf) from a more extended talk.
-
-## Research
-
-1. []()
-
-![]()
 
 ## Tool
 
@@ -94,7 +88,7 @@ A logger for just about everything.
 
 ![](https://lh3.googleusercontent.com/CsuN0meGOdiB0hnH44Y38YkdF5KMVQ3-wVYskp-dvvnWWUSwi_T8y0Bc-fG3f0jivVpzZDkSMw=w640-h400-e365-rj-sc0x00ffffff)
 
-Design unique graphics in minutes from your browser, for free and without account
+Design unique graphics in minutes from your browser, for free and without an account
 
 3. [Calligrapher.ai](https://www.calligrapher.ai/)
 
@@ -108,13 +102,7 @@ Online realistic handwriting generator. Convert text to handwriting using an in-
 
 An interactive cheatsheet tool for the command-line and application launchers.
 
-navi allows you to browse through cheatsheets (that you may write yourself or download from maintainers) and execute commands. Suggested values for arguments are dynamically displayed in a list.
-
-## Videos
-
-1. []()
-
-![]()
+Navi allows you to browse through cheatsheets (you may write yourself or download from maintainers) and execute commands. Suggested values for arguments are dynamically displayed in a list.
 
 ## Resources
 

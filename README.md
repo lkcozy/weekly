@@ -56,11 +56,11 @@ grep -nri gis docs | cat -n
 
 **Feb**: [Issue #26](docs/2020/issue-26.md) | [Issue #25](docs/2020/issue-25.md) | [Issue #24](docs/2020/issue-24.md) | [Issue #23](docs/2020/issue-23.md)
 
-**Jan**: [Issue #22](docs/2020/issue-22.md) 🏗 | [Issue #21](docs/2020/issue-21.md) 🏗 | [Issue #20](docs/2020/issue-20.md) 🏗 | [Issue #19](docs/2020/issue-19.md) 🏗
+**Jan**: [Issue #22](docs/2020/issue-22.md) 🏗 | [Issue #21](docs/2020/issue-21.md) 🏗 | [Issue #20](docs/2020/issue-20.md) | [Issue #19](docs/2020/issue-19.md)
 
 ## 2019
 
-**Dec**: [Issue #18](docs/2019/issue-18.md) 🏗 | [Issue #17](docs/2019/issue-17.md) | [Issue #16](docs/2019/issue-16.md) | [Issue #15](docs/2019/issue-15.md)
+**Dec**: [Issue #18](docs/2019/issue-18.md) | [Issue #17](docs/2019/issue-17.md) | [Issue #16](docs/2019/issue-16.md) | [Issue #15](docs/2019/issue-15.md)
 
 **Nov**: [Issue #14](docs/2019/issue-14.md) | [Issue #13](docs/2019/issue-13.md) | [Issue #12](docs/2019/issue-12.md) | [Issue #11](docs/2019/issue-11.md)
 
