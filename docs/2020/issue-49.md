@@ -61,7 +61,7 @@ Solopreneurs move faster, avoid the drama of teams falling apart, reduce costs b
 
 A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 
-1. [Ananas Analytics Desktop](https://ananasanalytics.com/docs/developer-guide/overview)
+2. [Ananas Analytics Desktop](https://ananasanalytics.com/docs/developer-guide/overview)
 
 ![](https://ananasanalytics.com/blog/assets/integrate_webapi.png)
 
