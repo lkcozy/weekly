@@ -116,6 +116,10 @@ Navi allows you to browse through cheatsheets (you may write yourself or downloa
 
 The self-guided interactive tutorials are designed to introduce you to decentralized web concepts, protocols, and tools.
 
+3. [every Linux networking tool I know](https://wizardzines.com/networking-tools-poster.pdf)
+
+![](https://i.pinimg.com/originals/01/90/f9/0190f909c09dc3f60db7b6a6e64f69f0.jpg)
+
 ## Comments
 
 1.  There are no dumb ideas. Only early ones.

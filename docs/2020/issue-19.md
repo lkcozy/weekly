@@ -99,6 +99,10 @@ This document contains introductory level linear algebra notes for applied machi
 
 The repository contains several questions to ask the company during your interview. Remember that things tend to be fluid; re-organizations happen often. Having a bug tracking system doesn't make bug handling efficient, and CI/CD doesn't mean your time to deliver is necessarily short.
 
+3. [Naivecoin: a tutorial for building a cryptocurrency](https://lhartikk.github.io/jekyll/update/2017/07/14/chapter1.html)
+
+A tutorial for building a simple blockchain in TypeScript from scratch, which c will help you understand more of the technical aspects of a cryptocurrency.
+
 ## Comments
 
 1. It is much more important to work on the right thing than to work many hours. Most people waste most of their time on stuff that doesn’t matter. Once you have figured out what to do, be unstoppable about getting your tiny handful of priorities accomplished quickly. I have yet to meet a slow-moving person who is very successful.
