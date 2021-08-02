@@ -66,6 +66,12 @@ The essential concepts in RxJS are:
 - An Observable is a stream of data
 - Observers can register up to 3 callbacks
 
+3. [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
+![](https://quokkajs.com/assets/img/vsc-intro-logs.gif)
+
+A developer productivity tool for rapid JavaScript / TypeScript prototyping.
+
 ## Resources
 
 1. [9 Ways To Secure your GraphQL API — GraphQL Security Checklist](https://www.apollographql.com/blog/graphql/security/9-ways-to-secure-your-graphql-api-security-checklist/)
