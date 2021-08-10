@@ -37,6 +37,7 @@ index.load(points);
 index.getClusters([-180, -85, 180, 85], 2);
 ```
 
+A very fast geospatial point clustering library for browsers and Node.
 ## AI/ML
 
 1. [How to Drive a Balloon](https://blog.deeplearning.ai/blog/the-batch-autonomous-helium-balloons-seeing-eye-ai-muppet-models-estimate-weights-and-measures-labor-unions-fight-automation)

@@ -2,7 +2,17 @@
 
 ## GeoSpatial
 
-1. [Submarine Cable Map]
+1. [Using the World Air Quality Index API to make pollution maps](https://flothesof.github.io/world-air-quality-pollution-maps.html)
+
+This post is using the World Air Quality Index API to make Euro pollution maps in Jupyter Notebook.
+
+The result shows that the european air quality is split in two between West and East Europe, with clusters of worse air quality around industrial areas.
+
+[Colab](https://colab.research.google.com/drive/1kulrYyCBSSizlOjanwGvrwB2EXOsR01k#scrollTo=GiCNoqwiYWn1)
+
+2. [GeoViews](https://github.com/holoviz/geoviews)
+
+GeoViews is a Python library that makes it easy to explore and visualize any data that includes geographic locations.
 
 ## AI/ML
 
