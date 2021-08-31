@@ -2,7 +2,7 @@
   "Weekly Issue Template": {
     "prefix": "giser_issue",
     "body": [
-      "# GISer's Weekly Issue",
+      "# GISer's Weekly Issue 10,$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
       "",
       "## GeoSpatial",
       "",
@@ -52,7 +52,7 @@
       "   --[]()",
       "",
       "## Review",
-      "[The week in 2020(Issue-4)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-4.md)"
+      "[The week in 2020(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-5.md)"
     ],
     "description": "Weekly Issue Template"
   },

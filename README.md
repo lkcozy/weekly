@@ -79,6 +79,7 @@ grep -nri gis docs | cat -n
 1. Create a new markdown file
 2. Type `giser_issue`
 3. 🚀
+4. Release `./scripts/release.sh <issue-number>`
 
 ## Acknowledgement
 
