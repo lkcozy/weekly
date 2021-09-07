@@ -20,7 +20,9 @@ grep -nri gis docs | cat -n
 
 ## 2021
 
-**Aug** [Issue #99](docs/2020/issue-99.md) :rocket: | [Issue #98](docs/2020/issue-98.md)| [Issue #97](docs/2020/issue-97.md) | [Issue #96](docs/2020/issue-96.md)
+**Sep** [Issue #101](docs/2021/issue-101.md) :rocket:
+
+**Aug** [Issue #100](docs/2021/issue-100.md) | [Issue #99](docs/2021/issue-99.md) | [Issue #98](docs/2021/issue-98.md)| [Issue #97](docs/2021/issue-97.md) | [Issue #96](docs/2021/issue-96.md)
 
 **July** [Issue #95](docs/2021/issue-95.md) | [Issue #94](docs/2021/issue-94.md) | [Issue #93](docs/2021/issue-93.md)| [Issue #92](docs/2021/issue-92.md)
 
@@ -74,12 +76,15 @@ grep -nri gis docs | cat -n
 
 **Aug**: [Issue #2](docs/2020/issue-2.md) | [Issue #1](docs/2020/issue-1.md)
 
-## Create A New Issue Snippet
+## Create A New Issue
+
+Release `./scripts/release.sh <issue-number>`
+
+or
 
 1. Create a new markdown file
 2. Type `giser_issue`
 3. 🚀
-4. Release `./scripts/release.sh <issue-number>`
 
 ## Acknowledgement
 

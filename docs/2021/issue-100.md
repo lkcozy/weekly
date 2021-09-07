@@ -30,6 +30,8 @@ Cos4Cloud is a European Horizon 2020 project to boost citizen science technologi
 
 Cos4Cloud will create a minimum viable ecosystem where the citizen observatories, technological services, citizen science experts validating data and users are able to establish synergies and collaborate to generate high-quality data in global repositories.
 
+To enable greater compatibility when creating Citizen Science data using the SensorThings API, an extension to the SensorThings Data Model was created, built, and delivered.
+
 ## AI/ML
 
 1. [Wake Up and Smell the AI](https://read.deeplearning.ai/the-batch/issue-106/)

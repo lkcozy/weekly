@@ -61,6 +61,26 @@ A system design tool that allows you to simulate the data flow of distributed sy
 
 Handwriting Synthesis with RNNs.
 
+3. [markdown-link-check](https://github.com/tcort/markdown-link-check)
+
+Extracts links from markdown texts and checks whether each link is alive (200 OK) or dead.
+
+4. [Flat](https://github.com/netless-io/flat)
+
+![](https://github.com/netless-io/flat/raw/main/assets/flat-showcase-en.png)
+
+Flat web is an online open-source virtual classroom
+
+5. [pyinstrument](https://github.com/joerick/pyinstrument)
+
+![](https://github.com/joerick/pyinstrument/raw/main/docs/img/screenshot.jpg)
+
+Pyinstrument is a Python profiler. A profiler is a tool to help you optimize your code - make it faster. To get the biggest speed increase you should focus on the slowest part of your program. Pyinstrument helps you find it!
+
+6. [Ray](https://github.com/ray-project/ray)
+
+An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+
 ## Resources
 
 1. [Docker containers security cheat sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/)
