@@ -2,6 +2,13 @@
 
 ## GeoSpatial
 
+1. [The Kalman Filter: An algorithm for making sense of fused sensor insight](https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e)
+
+![](https://miro.medium.com/max/500/1*hvrqvbs-otMC3C1XYwDJ-A.gif)
+
+Kalman filter is used to smooth the effects of system and sensor noise in large datasets.
+![](https://raw.githubusercontent.com/piercus/kalman-filter/HEAD/demo/demo.gif)
+
 1. [Using the World Air Quality Index API to make pollution maps](https://flothesof.github.io/world-air-quality-pollution-maps.html)
 
 This post is using the World Air Quality Index API to make Euro pollution maps in Jupyter Notebook.
