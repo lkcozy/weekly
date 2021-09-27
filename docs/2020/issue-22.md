@@ -4,9 +4,9 @@
 
 1. [WikiMap](https://wikimap.wiki/?base=map&lat=0.0000&lon=-0.0000&showAll=true&wiki=enwiki&zoom=3)
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwikimap.wiki%2F&psig=AOvVaw05RL3UXYZioNzMKyvP6snF&ust=1604379320060000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiu---I4-wCFQAAAAAdAAAAABAO)
+![](https://lh3.googleusercontent.com/proxy/DGe-eF-Cgk_b1U7W726-EXZp3YJN8roJzrrPMGArW_OtVrivBrv9_ualIxx4OSPAWvz8qy06EaubeSxbD1VDwkJQcHqIB-o=s0-d)
 
-WikiMap is a dynamic map that allows you to easily add locations to it. These locations show up on the map as markers. When you click a marker a little infowindow pops up. This infowindow can contain text, images, video, you name.
+WikiMap is a dynamic map that allows you to add locations to it quickly. These locations show up on the map as markers. When you click a marker, a little info window pops up. This info window can contain text, images, video, your name.
 
 2. [Submarine Cable Map](https://www.submarinecablemap.com/)
 
@@ -14,40 +14,29 @@ WikiMap is a dynamic map that allows you to easily add locations to it. These lo
 
 The Submarine Cable Map is a free and regularly updated resource from TeleGeography.
 
+3. [WhoisXML API](https://ip-geolocation.whoisxmlapi.com/api)
+
+It provides the IP Geolocation APIs, which allow you to identify users' geographical locations. IP location helps customize web experiences, prevent fraud, ensure regulatory compliance, and more.
+
 ## AI/ML
 
-1. []()
-
-![]()
-
-2. [Binder](https://mybinder.org/)
+1. [Binder](https://mybinder.org/)
 
 ![](https://miro.medium.com/max/700/1*lWcoBaRvNzXxzGPqV_3vew.png)
 
-Turn a Git repo into a collection of interactive notebooks
-
-## Research
-
-1. []()
-
-![]()
+Turn a Git repo into a collection of interactive notebooks.
 
 ## Tool
 
-- 1. [Configurable Chart Collection (C3) - World Bank Example](http://drarmstr.github.io/chartcollection/examples/#worldbank) - ([Source](http://drarmstr.github.io/chartcollection/examples/#worldbank/source), [HTML](http://drarmstr.github.io/chartcollection/examples/#worldbank/html))
-- [Dimensional Charting JavaScript Library (dc.js)](https://dc-js.github.io/dc.js/) - ([Source](https://dc-js.github.io/dc.js/docs/stock.html))
-
-- 2. [dc.js](https://dc-js.github.io/dc.js/)
+1. [dc.js](https://dc-js.github.io/dc.js/)
 
 ![](https://github.com/dc-js/react-dc-js/raw/master/preview.gif)
 
-dc.js is a javascript charting library with native crossfilter support, allowing highly efficient exploration on large multi-dimensional datasets (inspired by crossfilter's demo). It leverages d3 to render charts in CSS-friendly SVG format. Charts rendered using dc.js are data driven and reactive and therefore provide instant feedback to user interaction.
+dc.js is a javascript charting library with native crossfilter support, allowing highly efficient exploration on large multi-dimensional datasets (inspired by crossfilter's demo). In addition, it leverages d3 to render charts in CSS-friendly SVG format. Charts generated using dc.js are data-driven and reactive and therefore provide instant feedback to user interaction.
 
-dc.js is an easy yet powerful javascript library for data visualization and analysis in the browser and on mobile devices.
+dc.js is an easy yet powerful javascript library for data visualization and analysis in browsers and mobile devices.
 
-3. [react-dc-js](https://github.com/dc-js/react-dc-js)
-
-4. [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+2. [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
 ![](https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg)
 
@@ -60,12 +49,6 @@ npx readme-md-generator -y
 # Use your own ejs README template
 npx readme-md-generator -p path/to/my/own/template.md
 ```
-
-## Videos
-
-1. []()
-
-![]()
 
 ## Resources
 
@@ -83,7 +66,7 @@ This is a reference to ease developers into mathematical notation by showing com
 
 ![](https://camo.githubusercontent.com/0dffef89d005e2f2e3b4c1c4f276c3946b0b581b6a70f2420b41946097f9e1c5/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230313931312f6267323031393131313230312e6a7067)
 
-Fast-astar is an implementation of a\* algorithm using javascript. Small and fast.
+Fastastar is an implementation of a\* algorithm using javascript. Small and fast.
 
 3. [Don't git pull, use git pull --rebase instead](https://blog.manos-liakos.dev/rebase-vs-pull/)
 
@@ -98,20 +81,16 @@ git pull --rebase =  git fetch + git rebase FETCH_HEAD
 
 > Tip #1: Use git config --global pull.rebase true to avoid typing the --rebase flag each time you pull 🧐
 
-> Tip #2: Don't forget that you can do all sorts of editing to your commits, before pushing them by using interactive rebase.
+> Tip #2: Don't forget that you can do all sorts of editing to your commits before pushing them by using interactive rebase.
 
 4. [Sit down and figure it out](https://zellwk.com/blog/figure-it-out/?ck_subscriber_id=170842630)
 
 ## Comments
 
 1. The enemy of any creator is context switching. Once you get into a deeply creative mode, “the flow” as some call it, being disturbed to shift focus to something else completely interrupts the process. Yes, writing code is a creative process. It’s both logical and creative at the same time. We aren’t simply writing code, we are crafting it.
-
---[](https://humanwhocodes.com/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/)
+   --[why engineers are grumpy](https://humanwhocodes.com/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/)
 
 2. Throwing more engineers at a problem frequently makes it worse. The only way to get something built faster is to build a smaller thing. Having too many engineers on a project is a serious problem. Adding more engineers assumes that there are parallel tasks to be completed, but in reality, the number of parallel tasks on any one project is small and finite. When there are more engineers than can be used, engineering time ends up going away from developing and towards planning, synchronization, and coordination.
+   --Ditto
 
-3. Googling only works in two scenarios: (1)When you need general answers to your questions;(2)When you can frame your questions specifically to a single topic
-
-## Review
-
-[The week in 2019(Issue-)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-.md)
+3. Googling only works in two scenarios: (1)When you need general answers to your questions;(2)When you can frame your questions specifically to a single topic.

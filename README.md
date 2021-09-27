@@ -20,7 +20,7 @@ grep -nri gis docs | cat -n
 
 ## 2021
 
-**Sep** [Issue #103](docs/2021/issue-103.md) :rocket: | [Issue #102](docs/2021/issue-102.md) | [Issue #101](docs/2021/issue-101.md)
+**Sep** [Issue #104](docs/2021/issue-104.md) :rocket: | [Issue #103](docs/2021/issue-103.md) | [Issue #102](docs/2021/issue-102.md) | [Issue #101](docs/2021/issue-101.md)
 
 **Aug** [Issue #100](docs/2021/issue-100.md) | [Issue #99](docs/2021/issue-99.md) | [Issue #98](docs/2021/issue-98.md)| [Issue #97](docs/2021/issue-97.md) | [Issue #96](docs/2021/issue-96.md)
 
@@ -62,7 +62,7 @@ grep -nri gis docs | cat -n
 
 **Feb**: [Issue #26](docs/2020/issue-26.md) | [Issue #25](docs/2020/issue-25.md) | [Issue #24](docs/2020/issue-24.md) | [Issue #23](docs/2020/issue-23.md)
 
-**Jan**: [Issue #22](docs/2020/issue-22.md) 🏗 | [Issue #21](docs/2020/issue-21.md) 🏗 | [Issue #20](docs/2020/issue-20.md) | [Issue #19](docs/2020/issue-19.md)
+**Jan**: [Issue #22](docs/2020/issue-22.md) | [Issue #21](docs/2020/issue-21.md) | [Issue #20](docs/2020/issue-20.md) | [Issue #19](docs/2020/issue-19.md)
 
 ## 2019
 
