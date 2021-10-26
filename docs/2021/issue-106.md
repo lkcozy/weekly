@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 107,2021-10-08
+# GISer's Weekly Issue 106,2021-10-08
 
 ## GeoSpatial
 
