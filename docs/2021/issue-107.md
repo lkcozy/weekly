@@ -12,6 +12,18 @@ By using easy-to-understand views, SandDance helps you find insights about your 
 
 ReactJS maps without external dependencies.
 
+3. [Watering and draining planets](https://ahstat.github.io/Topography/)
+
+![](https://ahstat.github.io/images/2014-1-11-Topography/world100.png)
+
+What the Earth would look like if the sea level suddenly changed?
+
+On this first map, we can show how the world would be if the sea level increased by +100m.
+
+On this second map, the sea level increased by +1000m.
+
+![](https://ahstat.github.io/images/2014-1-11-Topography/world1000.png)
+
 ## AI/ML
 
 1. [DeepFaceLive](https://github.com/iperov/DeepFaceLive)
