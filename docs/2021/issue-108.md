@@ -36,6 +36,37 @@ The Moon provides significantly more than most people know. The natural satellit
 
 A converter between HTML and JSON.
 
+2. [Fragstore](https://github.com/aralroca/fragstore?ck_subscriber_id=1238258824)
+
+```js
+import createStore from "fragstore";
+const { useStore } = createStore({
+  username: "Aral",
+  count: 0,
+  age: 31,
+  cart: {
+    price: 0,
+    items: [],
+  },
+});
+function Example() {
+  const [username, setUsername] = useStore.username();
+  const [cartPrice, setCartPrice] = useStore.cart.price();
+  return (
+    <>
+      <button onClick={() => setUsername("AnotherUserName")}>
+        Update {username}
+      </button>
+      <button onClick={() => setCartPrice((v) => v + 1)}>
+        Increment price: {cartPrice}€
+      </button>
+    </>
+  );
+}
+```
+
+A tiny, easy and powerful React state management library.
+
 ## Resources
 
 1. [How to develop, test, and deploy smart contracts using Ganache](https://blog.logrocket.com/develop-test-deploy-smart-contracts-ganache/)
@@ -70,6 +101,14 @@ A Three.js-based webpage 3D home model.
 
 1.  Cross-platform UI technologies prioritize coordinated featurefulness over polished UX
     --[The Persistent Gravity of Cross Platform](https://allenpike.com/2021/gravity-of-cross-platform-apps)
+
+2.  Earn More. Spend less. But the two concepts work against each other and require different soft skills.
+
+To increase your earning potential, you need to free your time for activities that make more money- this often requires spending money (e.g. eating out to save time, paying to have your shirts pressed, etc). Reducing your expenses requires the elimination of excess, or being conservative with your existing resources... this also has a cost. It's a mindset that will keep you from making more money.
+
+If there was only one rule to wealth creation: you need more coming in than going out. Being good at both is a paradox that you must master.
+
+--[My Top 10 Money Rules](https://jonpauluritis.com/articles/my-top-10-money-rules/)
 
 ## Review
 
