@@ -20,7 +20,7 @@ grep -nri gis docs | cat -n
 
 ## 2021
 
-**Nov**: [Issue #112](docs/2021/issue-112.md) :rocket: | [Issue #111](docs/2021/issue-111.md) | [Issue #110](docs/2021/issue-110.md) | [Issue #109](docs/2021/issue-109.md)
+**Nov**: [Issue #113](docs/2021/issue-113.md) :rocket: | [Issue #112](docs/2021/issue-112.md) | [Issue #111](docs/2021/issue-111.md) | [Issue #110](docs/2021/issue-110.md) | [Issue #109](docs/2021/issue-109.md)
 
 **Oct**: [Issue #108](docs/2021/issue-108.md) | [Issue #107](docs/2021/issue-107.md) |[Issue #106](docs/2021/issue-106.md) | [Issue #105](docs/2021/issue-105.md)
 
@@ -107,3 +107,4 @@ or
 13. [Harvard Business Review Home](https://hbr.org/)
 14. [Towards Data Science](https://medium.com/tag/towards-data-science)
 15. [dev.to](https://dev.to/)
+16. [LogRocket](https://blog.logrocket.com/)
