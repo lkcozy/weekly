@@ -11,6 +11,7 @@ Spatial computing will help boost factory performance and remote manufacturing. 
 2. [OGC Reference Model](https://en.wikipedia.org/wiki/OGC_Reference_Model)
 
 ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.opengeospatial.org%2Fpub%2Fwww%2Fows10%2Frfq%2Fgraphics%2Frmodp.png&f=1&nofb=1)
+
 It describes a framework for the ongoing work of the OGC and their specifications and implementing interoperable solutions and applications for geospatial services, data, and applications.
 
 3. [Esri Field Maps](https://www.esri.com/en-us/arcgis/products/arcgis-field-maps/overview)
