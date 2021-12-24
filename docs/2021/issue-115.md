@@ -40,7 +40,9 @@ A curated list of the latest breakthroughs in AI by release date with a clear vi
 
 2. [Design and Development of an Integrated Internet of Audio and Video Sensors for COVID-19 Coughing and Sneezing Recognition](https://ieeexplore.ieee.org/abstract/document/9623141)
 
-![]()
+![](https://ieeexplore-ieee-org.ezproxy.lib.ucalgary.ca/mediastore_new/IEEE/content/media/9623060/9623064/9623141/9623141-fig-4-source-small.gif)
+
+To provide COVID-19 situational awareness and early warnings, authors proposed a real-time integrated Internet of Things (IoT) architecture to improve the results of coughing and sneezing recognition by combining audio and video processing results.
 
 ## Tool
 
