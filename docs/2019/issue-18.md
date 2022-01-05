@@ -20,15 +20,7 @@ iNaturalist is a citizen science project and online social network of naturalist
 
 ## AI/ML
 
-1. [QuillBot](https://quillbot.com/)
-
-![](https://quillbot.com/help/article_attachments/360100297794/mceclip1.png)
-
-QuillBot's paraphraser will re-write your text but keep the meaning.
-
-QuillBot's summarizer can quickly condense articles, papers, or documents to the key points.
-
-2. [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+1. [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 
 ![](https://research.fb.com/wp-content/uploads/2018/05/ml-academy-hero-graphic.png?w=2542&h=1120&crop=1)
 
