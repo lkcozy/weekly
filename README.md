@@ -18,9 +18,13 @@ For example，search `GIS` related content。
 grep -nri gis docs | cat -n
 ```
 
+## 2022
+
+**Jan**: [Issue #119](docs/2021/issue-67.md) :rocket:
+
 ## 2021
 
-**Dec**: [Issue #118](docs/2021/issue-118.md) [Issue #117](docs/2021/issue-117.md) :rocket: | [Issue #116](docs/2021/issue-116.md) | [Issue #115](docs/2021/issue-115.md) | [Issue #114](docs/2021/issue-114.md)
+**Dec**: [Issue #118](docs/2021/issue-118.md) | [Issue #117](docs/2021/issue-117.md) | [Issue #116](docs/2021/issue-116.md) | [Issue #115](docs/2021/issue-115.md) | [Issue #114](docs/2021/issue-114.md)
 
 **Nov**: [Issue #113](docs/2021/issue-113.md) | [Issue #112](docs/2021/issue-112.md) | [Issue #111](docs/2021/issue-111.md) | [Issue #110](docs/2021/issue-110.md) | [Issue #109](docs/2021/issue-109.md)
 
@@ -94,19 +98,20 @@ or
 
 ## Acknowledgement
 
-1. [GIS Lounge](https://www.gislounge.com/)
-2. [Uber Visualization Blog](https://medium.com/vis-gl)
-3. [Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog)
-4. [CARTO](https://carto.com/blog/categories/news/)
-5. [OGC Newsroom](https://www.ogc.org/pressroom/pressreleases)
-6. [GeospatialWorld](https://www.geospatialworld.net/)
-7. [Open Source GIS](https://osgis.org/)
-8. [The MapScaping Podcast](https://mapscaping.podbean.com/)
-9. [The Spatial Source](https://www.spatialsource.com.au/)
-10. [ruanyf/weekly](https://github.com/ruanyf/weekly)
-11. [Deeplearning.ai](https://www.deeplearning.ai/)
-12. [HelloGithub](https://hellogithub.com/)
-13. [Harvard Business Review Home](https://hbr.org/)
-14. [Towards Data Science](https://medium.com/tag/towards-data-science)
-15. [dev.to](https://dev.to/)
-16. [LogRocket](https://blog.logrocket.com/)
+1. [GIS Lounge](https://www.gislounge.com/): An information site covering research and case studies about the applications of geographic information systems, geospatial technologies, and cartography.
+2. [Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks.
+3. [Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world.
+4. [CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog.
+5. [OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom.
+6. [The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
+7. [The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
+8. [Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly.
+9. [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
+10. [HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub.
+11. [Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
+12. [Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
+13. [dev.to](https://dev.to/): The developers' community.
+14. [LogRocket](https://blog.logrocket.com/): LogRocket technical blog.
+15. [David Perell](https://perell.com/): A writer, teacher, and podcaster.
+16. [Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
+17. [Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
