@@ -22,6 +22,8 @@ The result shows that the European air quality is split in two between West and 
 
 3. [GeoViews](https://github.com/holoviz/geoviews)
 
+![](https://static.wixstatic.com/media/cccccf_fb46f318b6f847ebb220de2f0d639a0b~mv2.png/v1/fill/w_360,h_182,al_c,q_95/cccccf_fb46f318b6f847ebb220de2f0d639a0b~mv2.webp)
+
 GeoViews is a Python library that makes it easy to explore and visualize any data that includes geographic locations.
 
 ## AI/ML
@@ -98,7 +100,7 @@ Shallow side projects are helpful to develop the first opinion about a technolog
 
 The best way to dig a new technology is to practice it in your daily job. You'll spend seven hours a day on it and will quickly become infinitely more proficient than if you just barely used it on nights and weekends.
 
-2. [Let S Make The Worst React Ever](https://zserge.com/posts/worst-react-ever)
+2. [Let's Make The Worst React Ever](https://zserge.com/posts/worst-react-ever)
 
 The author explains how to implement the simplest React, which supports JSX syntax and some basic API. The compressed code does not exceed 1KB. This article can be used to understand the principle of React.
 
