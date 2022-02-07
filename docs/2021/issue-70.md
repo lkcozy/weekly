@@ -92,7 +92,7 @@ An American challenged the Tesla auto driving from San Francisco to Los Angeles.
 
     --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-143.md)
 
-2.  With thethe development of capitalism today, there is already a feeling that the world is at the end of the world. In addition to printing money to stimulate the economy, the government cannot find a good way to solve various problems. However, the new technological revolution is creating incredible technological miracles, making people feel fairyland. But for most people, it is a cold fairyland and cannot change their destiny.
+2.  With the development of capitalism today, there is already a feeling that the world is at the end of the world. In addition to printing money to stimulate the economy, the government cannot find a good way to solve various problems. However, the new technological revolution is creating incredible technological miracles, making people feel fairyland. But for most people, it is a cold fairyland and cannot change their destiny.
     --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-143.md)
 
 3.  Solutions should be as simple as possible. Assume the next person to maintain your code won't be as smart as you. When you can use fewer technologies, do so.

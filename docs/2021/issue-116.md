@@ -51,6 +51,10 @@ There’s a way to “bootstrap” your way to an audience: curation.
 - The Thought Leader Strategy: curate a summary of your favorite thought leader’s best work.
 - The Idea Strategy: pick an idea you’re interested in and curate a list of the best resources on the topic.
 
+2. [GraphQL local state management with Apollo](https://blog.logrocket.com/graphql-local-state-management-apollo/)
+
+In this tutorial, we’ll learn how to set up a GraphQL API in Node.js and how to manage data from the API locally in a React app with Apollo Client.
+
 ## Comments
 
 1. Most times, not everyone on a team agrees with the course of action. Even when you have enough cognitive diversity in the room, people still keep their mouths shut because people in power tend to reward people who agree with them while punishing those who dare to speak up with a dissenting view.
