@@ -69,12 +69,6 @@ ZX, a Node.js executable, enables developers to write CLI scripts using JavaScri
 
 [A simple tutorial of writing Bash scripts with zx](https://blog.logrocket.com/writing-js-based-bash-scripts-zx/)
 
-4. [ToolJet](https://github.com/ToolJet/ToolJet)
-
-![](https://user-images.githubusercontent.com/7828962/149466475-1d1f0b3e-8e25-49e8-a5c9-73e068f78de9.png)
-
-ToolJet is an open-source low-code framework to quickly build and deploy internal tools without much effort from the engineering teams.
-
 ## Videos
 
 1. [Architecture Without Architects](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=6beddbf093&e=b1367de9f9)
