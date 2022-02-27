@@ -22,7 +22,7 @@ The standard workflow for fuzzy logic is as follows:
 
 Defining the problem and selection criteria is the most important step in fuzzy logic site selection. It helps the user determine the type of data needed for the analysis. Fuzzy logic membership (discussed further below) is an important reclassification step. Reclassification is used to simplify the interpretation of raster data by changing a single input value into a new output value (ESRI). Fuzzy overlay allows the user to overlay the various reclassified layers to analyze the possibility of a specific occurrence. This can then be used to verify the results and use them to choose the best site.
 
-1. [Interactive GIS in Jupyter with ipyleaflet](https://blog.jupyter.org/interactive-gis-in-jupyter-with-ipyleaflet-52f9657fa7a)
+2. [Interactive GIS in Jupyter with ipyleaflet](https://blog.jupyter.org/interactive-gis-in-jupyter-with-ipyleaflet-52f9657fa7a)
 
 ![](https://miro.medium.com/max/700/1*a8s90I7Kj3DyBjmh_LjAaw.gif)
 
