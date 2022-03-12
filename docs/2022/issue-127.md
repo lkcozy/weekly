@@ -6,7 +6,7 @@
 
 ![](https://scholarlyoa.com/wp-content/uploads/2020/10/What-Is-Geographic-Information-Systems-Featured.jpg)
 
-A GIS software program is a computer program to support the use of a geographic information system, providing the ability to create, store, manage, query, analyze, and visualize geographic data, t hat is, data representing phenomena for which location is important.
+A GIS software program is a computer program to support the use of a geographic information system, providing the ability to create, store, manage, query, analyze, and visualize geographic data, that is, data representing phenomena for which location is important.
 
 The GIS software industry encompasses a broad range of commercial and open-source products that provide some or all of these capabilities within various information technology architectures.
 
@@ -14,29 +14,29 @@ The GIS software industry encompasses a broad range of commercial and open-sourc
 
 ![](https://raw.githubusercontent.com/FraunhoferIOSB/FROST-Server/master/docs/images/FROST-Server-darkgrey.png)
 
-The FRaunhofer Opensource SensorThings-Server is the first complete, open-source implementation of the OGC SensorThings API Part 1: Sensing.
+The FRaunhofer Opensource SensorThings-Server is the first complete, open-source OGC SensorThings API Part 1: Sensing.
 
 3. [The Role of UX and UI in GIS](https://www.gislounge.com/the-role-of-ux-and-ui-in-gis/)
 
 ![](https://cdn.shortpixel.ai/spai/w_810+q_glossy+ret_img+to_webp/https://www.gislounge.com/wp-content/uploads/2022/03/google-earth-screenshot.jpg)
 
-The nature of GIS is heavily intertwined with the world of design. Maps themselves are a user interface, and a user experience, serving as a visual tool to communicate and provide insight on a specific region and subject.
+The nature of GIS is heavily intertwined with the world of design. Maps are a user interface and a user experience, serving as a visual tool to communicate and provide insight into a specific region and subject.
 
-Jeff Siarto of Element 84 discusses with the MapScaping Podcast `how design is present and changing in the geospatial industry`.
+Jeff Siarto of Element 84 discusses with the MapScaping Podcast `how design is present and changing in the geospatial industry.`
 
-A key aspect to designing an experience for a GIS application is `having an understanding of the audience`. Who will be using the map, and what will they be using it for? Planning to predict and meet the needs of your niche provides a superior user experience with a higher chance of creating a returning customer.
+A key aspect of designing an experience for a GIS application is `understanding of the audience .`Who will be using the map, and what will they use it for? Planning to predict and meet the needs of your niche provides a superior user experience with a higher chance of creating a returning customer.
 
 4. [Public World Atlas with 2,500 Datasets](https://towardsdatascience.com/ive-built-a-public-world-atlas-with-2-500-datasets-to-explore-8b9ae799e345)
 
 ![](https://miro.medium.com/max/700/1*Dey-gEpf3fHfsxMjksUM0Q.png)
 
-This site is a window to thousands of datasets. Gazing through this 'window' you can see the data as it should be seen: through powerful visualisations like maps and charts. With over 12 million data points spanning 100 categories, find a dataset that interests you and analyse it using a suite of interactive charts. All data is fully sourced and available for download. I
+This site is a window to thousands of datasets. Gazing through this 'window', you can see the data as it should be seen: through powerful visualizations like maps and charts. With over 12 million data points spanning 100 categories, find a dataset that interests you and analyze it using a suite of interactive charts. All data is entirely sourced and available for download. I
 
 5. [Greppo](https://github.com/greppo-io/greppo)
 
 ![](https://miro.medium.com/max/1400/1*roDG3MBZhff1om23mZmU1w.gif)
 
-Greppo is an open-source Python framework for building geospatial web-apps. It provides ready to use frontend and backend components as functions that act as an API between the frontend interactive component and the bound backend variable.
+Greppo is an open-source Python framework for building geospatial web apps. It provides ready-to-use frontend and backend components as functions that act as an API between the interactive frontend component and the bound backend variable.
 
 [A geospatial dashboard built by Greppo](https://towardsdatascience.com/build-a-geospatial-dashboard-in-python-using-greppo-60aff44ba6c9)
 
@@ -60,11 +60,11 @@ DevUtils.app is a developer Utilities for macOS.
 
 ![](https://www.drorpoleg.com/content/images/size/w1462/2021/04/The-Talent-Equation.png)
 
-Dror Poleg with an interesting formula: [The level of in-person interaction] multiplied by [the size of the talent pool] equals [The rate of innovation and financial success]. Maybe the right way to think about it is that the talent pool's size becomes more important as the company matures. While it's still pre Product Market Fit, the level of in-person interaction might be more important.
+Dror Poleg with an interesting formula: [The level of in-person interaction] multiplied by [the size of the talent pool] equals [The rate of innovation and financial success]. Maybe the right way to think about it is that the talent pool's size becomes more important as the company matures. While it's still pre Product Market Fit, the level of in-person interaction might be more critical.
 
 2. [30 rules for a life well lived](https://twitter.com/Nicolascole77/status/1489275823999762432)
 
-Nicolas Cole wrote an inspirational thread with many gems to consider when designing your life. This one is my favorite: "Play the long game. Slow and steady consistency is the most powerful driver of growth."
+Nicolas Cole wrote an inspirational thread with many gems to consider when designing your life. This one is my favourite: "Play the long game. Slow and steady consistency is the most powerful driver of growth."
 
 3. [How Do the Most Experienced Engineers in an Organization Get "Stuck"?](https://twitter.com/GergelyOrosz/status/1499393647120314368)
 
@@ -74,19 +74,19 @@ Use Gergely Orosz's list when building an onboarding plan for senior engineers j
 
 ## Comments
 
-1.  Stop calling meetings so you can simply organize your own thoughts with witnesses.
-    --[Amber Naslund](https://twitter.com/AmberCadabra/status/1496504515125776393)
+1. Stop calling meetings so you can simply organize your own thoughts with witnesses.
+   --[Amber Naslund](https://twitter.com/AmberCadabra/status/1496504515125776393)
 
-2.  The best part of free software is it sometimes produces stuff you never would have been willing to pay to develop(Linux), and sometimes a quality levels too high to be rational for the market to provide.
+2. The best part of free software is it sometimes produces stuff you never would have been willing to pay to develop(Linux), and sometimes a quality levels too high to be rational for the market to provide.
 
 The worst part of free software is you get what you get, and the developers don't have to listen to you.
 --[apenwarr.ca](https://apenwarr.ca/log/20211229)
 
-3.  Spend more time doing things you never regret. Make your list—then spend more time on it!
-    --[@SahilBloom](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=3fcc0bb05d&e=b1367de9f9)
+3. Spend more time doing things you never regret. Make your list—then spend more time on it!
+   --[@SahilBloom](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=3fcc0bb05d&e=b1367de9f9)
 
-4.  Writing cultures have this neat side effect of overcoming some drawbacks of hierarchy and org boundaries. Anyone in the company can write an insightful proposal for how something should be improved, and it will get noticed if it’s compelling. Meetings can never scale like that.
-    --[@shreyas](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=492fc8d501&e=b1367de9f9)
+4. Writing cultures have this neat side effect of overcoming some drawbacks of hierarchy and org boundaries. Anyone in the company can write an insightful proposal for how something should be improved, and it will get noticed if it's compelling. Meetings can never scale like that.
+   --[@shreyas](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=492fc8d501&e=b1367de9f9)
 
 ## Review
 
