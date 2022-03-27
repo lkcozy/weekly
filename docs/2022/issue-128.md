@@ -26,6 +26,14 @@ This project publishes a web UI's real-time locations of municipal transport veh
 
 A powerful, self-hosted data logger for your Tesla.
 
+## Research
+
+1. [Zotero](https://www.zotero.org/)
+
+![](https://www.zotero.org/static/images/home/screenshot-1.4.png)
+
+Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+
 ## Tool
 
 1. [No-JS fingerprinting](https://noscriptfingerprint.com/)

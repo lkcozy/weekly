@@ -20,7 +20,7 @@ grep -nri gis docs | cat -n
 
 ## 2022
 
-**March**: [Issue #129](docs/2022/issue-129.md) :rocket: | [Issue #128](docs/2022/issue-128.md) | [Issue #127](docs/2022/issue-127.md)
+**March**: [Issue #130](docs/2022/issue-130.md) :rocket: | [Issue #129](docs/2022/issue-129.md) | [Issue #128](docs/2022/issue-128.md) | [Issue #127](docs/2022/issue-127.md)
 
 **February**: [Issue #126](docs/2022/issue-126.md) | [Issue #125](docs/2022/issue-125.md) | [Issue #124](docs/2022/issue-124.md) | [Issue #123](docs/2022/issue-123.md)
 
@@ -119,3 +119,7 @@ or
 15. [David Perell](https://perell.com/): A writer, teacher, and podcaster.
 16. [Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
 17. [Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
+
+## Resources
+
+- [Nitter](https://nitter.net/): A free and open source alternative Twitter front-end focused on privacy and performance.
