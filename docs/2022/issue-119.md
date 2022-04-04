@@ -32,6 +32,20 @@ Machines are doing light janitorial work in the uncontrolled environment of Goog
 
 But many people's jobs are being threatened. So it's essential to provide workers with retraining, re-skilling, and safety nets to ensure no one is left behind.
 
+## Research
+
+1. [The Basics of Article Usage in English](https://www.aje.com/arc/editing-tip-basics-article-usage/?utm_medium=email)
+
+![](https://www.aje.com/dist/img/arc/AJE-Article-Flowchart.png)
+
+Using articles such as ‘a,’ ‘an,’ and ‘the’ is one of the trickiest aspects of writing in English. Learn more about how to avoid common pitfalls.
+
+2. [What Is Academic Writing? | Dos and Don’ts for Students](https://www.scribbr.com/category/academic-writing/)
+
+Academic writing is a formal style of writing used in universities and scholarly publications.
+
+Academic writing follows the same writing process as other types of texts, but it has specific conventions in terms of content, structure and style.
+
 ## Tool
 
 1. [xxh](https://github.com/xxh/xxh)

@@ -36,6 +36,10 @@ Write code in your favourite language, and Pulumi automatically provisions and m
 
 An open-source regular expression visual editor automatically generates a visualization of a regular expression by typing it in and editing each node on a web page.
 
+3. [Gitlanding](https://github.com/thieryw/gitlanding)
+
+Gitlanding helps you create a beautiful landing page for your GitHub projects.
+
 ## Videos
 
 1. [How to Win by Being 'Low Status'](https://www.youtube.com/watch?v=5stofpwgjtU)

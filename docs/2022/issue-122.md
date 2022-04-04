@@ -57,6 +57,10 @@ seven advices on writing a engineer resume.
 
 In this tutorial, we’ll learn about the blockchain, discuss NFTs, and finally, compare Ethereum and Flow for developing NFTs.
 
+4. [study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
+
+A curated list of awesome public courses and wonderful study resource. Most of them are AI/ML related.
+
 ## Comments
 
 1.  We're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people.

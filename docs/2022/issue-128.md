@@ -93,6 +93,12 @@ This article gathers valuable resources to build a strong understanding of block
 2. It seems to me, that once a company reaches a tipping point of more than 50% non-engineers in upper management, it's the demise of the company as an engineering company, and it will slowly drift in the direction of being a technology holding company only.
    --[Hacker News Reader](https://news.ycombinator.com/item?id=29905415)
 
+3. The more sites are insecure, the more of them will be taken over by malicious people, the more of those attacks will reach as far as sites I personally care about.
+   --[Simont](https://andrewducker.dreamwidth.org/4085856.html?thread=28352864#cmt28352864)
+
+4. The more money they cost, the more companies will take a cost-benefit decision not to bother with them, neglecting the externalized cost of those knock-on effects of their insecurity on everyone else.
+   --Ditto
+
 ## Review
 
 - [The week in 2021(Issue-77)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-76.md)

@@ -31,6 +31,20 @@ A Major League Baseball stadium will be using computer vision to detect weapons 
 - The system scans visitors with microwaves, which penetrate various materials and constructs a 3D image of the body in real-time.
 - A machine learning model interprets the imagery.
 
+## Research
+
+1. [Words to avoid in academic writing](https://proofreading.org/blog/words-to-avoid-in-academic-writing/)
+
+| Category                              | Common Examples                                     |
+| ------------------------------------- | --------------------------------------------------- |
+| informal expressions                  | good/bad, big/small, sort of/kind of                |
+| vague expressions                     | a lot, a couple of, thing, stuff                    |
+| exaggerations                         | always/never, definitely, every/none, best/greatest |
+| opinionated or subjective expressions | naturally/obviously, of course, should              |
+| clichés                               | at the end of the day, a happy medium               |
+| fillers                               | literally, serves to/helps to, really               |
+| contractions                          | can’t, won’t, don’t, isn’t, it’s                    |
+
 ## Tool
 
 1. [Appwrite](https://github.com/appwrite/appwrite)
@@ -38,6 +52,12 @@ A Major League Baseball stadium will be using computer vision to detect weapons 
 ![](https://github.com/appwrite/appwrite/raw/master/public/images/github.png)
 
 Appwrite is an end-to-end backend server for Web, Mobile, Native, or Backend apps package as a set of Docker microservices. Appwrite abstracts the complexity and repetitiveness required to build a modern backend API from scratch and allows you to make secure apps faster.
+
+2. [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba?utm_source=chrome-ntp-icon)
+
+![](https://lh3.googleusercontent.com/NhJI3YHU8I1F3cEL_AQct8np0SpmrJG6ddAK65qU975-Sj4CKX7P_JQDlaABm6OBm_YRN5N1_1gy0P2hZIIfVBOA=w640-h400-e365-rj-sc0x00ffffff)
+
+A Chrome extension for displaying a table of contents for every web page, making it easier to read/navigate long articles, documentations and online books.
 
 ## Videos
 
