@@ -20,7 +20,7 @@ grep -nri gis docs | cat -n
 
 ## 2022
 
-**April** [Issue #132](docs/2022/issue-132.md) :rocket: | [Issue #131](docs/2022/issue-131.md)
+**April** [Issue #133](docs/2022/issue-133.md) :rocket: | [Issue #132](docs/2022/issue-132.md) | [Issue #131](docs/2022/issue-131.md)
 
 **March**: [Issue #130](docs/2022/issue-130.md) | [Issue #129](docs/2022/issue-129.md) | [Issue #128](docs/2022/issue-128.md) | [Issue #127](docs/2022/issue-127.md)
 
@@ -112,15 +112,16 @@ or
 6. [The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
 7. [The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
 8. [Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly.
-9. [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
-10. [HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub.
-11. [Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
-12. [Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
-13. [dev.to](https://dev.to/): The developers' community.
-14. [LogRocket](https://blog.logrocket.com/): LogRocket technical blog.
-15. [David Perell](https://perell.com/): A writer, teacher, and podcaster.
-16. [Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
-17. [Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
+9. [Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
+10. [The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
+11. [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
+12. [HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub.
+13. [Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
+14. [Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
+15. [dev.to](https://dev.to/): The developers' community.
+16. [LogRocket](https://blog.logrocket.com/): LogRocket technical blog.
+17. [David Perell](https://perell.com/): A writer, teacher, and podcaster.
+18. [Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
 
 ## Resources
 

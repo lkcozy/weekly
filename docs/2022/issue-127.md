@@ -54,6 +54,12 @@ CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" 
 
 DevUtils.app is a developer Utilities for macOS.
 
+3. [Portmaster](https://safing.io/portmaster/#download)
+
+![](https://safing.io/assets/img/page-specific/portmaster/full-interface.png)
+
+Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
+
 ## Resources
 
 1. [The Talent Equation](https://www.drorpoleg.com/the-talent-equation/)

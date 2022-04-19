@@ -78,6 +78,18 @@ Slate is a completely customizable framework for building rich text editors.
 
 Never ever use pixelation as a redaction technique.
 
+3. [Altair GraphQL Client](https://altair.sirmuel.design/#download)
+
+![](https://altair.sirmuel.design/assets/img/app-shot.png)
+
+Altair GraphQL Client helps you debug GraphQL queries and implementations - taking care of the hard part so you can focus on actually getting things done.
+
+4. [Fig](https://fig.io/)
+
+![](https://fig.io/images/slideshow/screenshots/docker.png)
+
+Fig adds IDE-style autocomplete to your existing terminal. Move faster with Fig.
+
 ## Resources
 
 1. [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)

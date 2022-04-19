@@ -59,6 +59,11 @@ Appwrite is an end-to-end backend server for Web, Mobile, Native, or Backend app
 
 A Chrome extension for displaying a table of contents for every web page, making it easier to read/navigate long articles, documentations and online books.
 
+3. [react-admin](https://github.com/marmelab/react-admin)
+
+![](https://camo.githubusercontent.com/dd27c15dedaf9f1a634b9f60307ff9c22c3b77a594384426044a3b3c49e6f105/68747470733a2f2f6d61726d656c61622e636f6d2f72656163742d61646d696e2f696d672f72656163742d61646d696e2d64656d6f2d7374696c6c2e706e67)
+
+A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design.
 ## Videos
 
 1. [Noam Chomsky - On Being Truly Educated](https://www.youtube.com/watch?v=eYHQcXVp4F4)

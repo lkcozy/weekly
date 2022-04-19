@@ -20,6 +20,12 @@ Where landscapes and viewsheds are everything you can see from a point, sound sh
 
 Using arrays of underwater microphones, called hydrophones, scientists can use sound to create images of the environment by converting sound waves to electrical signals.
 
+3. [Visualize The Invisible SO2 with NASA Data and Python](https://towardsdatascience.com/visualize-the-invisible-so2-with-nasa-data-and-python-2619f8ed4ea1)
+
+![](https://miro.medium.com/max/1400/1*WUYcpT8b_z3Jic56puw49g.gif)
+
+This article will show how to visualize SO2 movement after the eruption with a scatter plot and heat map.
+
 ## Tool
 
 1. [cron-parser](https://github.com/harrisiirak/cron-parser)

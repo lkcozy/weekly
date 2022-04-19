@@ -26,7 +26,7 @@ The Line will consist of three layers, including one on the surface for `pedestr
 
 At first glance, the design seems unique, but it makes perfect sense when you think about it carefully. Since there is only one main road, public transport can be fully utilized, and there is only one route, which is very efficient. Various utility pipelines need only be built on a single main pipe, with branches on either side.
 
-3. [NASA'sNASA's Hubble Telescope Captures a Rare Metal Asteroid Worth 70,000 Times the Global Economy](https://robbreport.com/lifestyle/news/rare-psyche-asteroid-worth-way-more-than-the-global-economy-1234577976/)
+3. [NASA's Hubble Telescope Captures a Rare Metal Asteroid Worth 70,000 Times the Global Economy](https://robbreport.com/lifestyle/news/rare-psyche-asteroid-worth-way-more-than-the-global-economy-1234577976/)
 
 ![](https://robbreport.com/wp-content/uploads/2020/10/Psyche-16-Asteroid-01.jpg?w=1000)
 
