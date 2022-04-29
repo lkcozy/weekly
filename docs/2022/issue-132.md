@@ -42,6 +42,12 @@ A remote desktop software is written in Rust. Works out of the box; no configura
 
 GitHub Copilot is a recent IDE extension developed by GitHub that, using a model trained by OpenAI on code and text, can give incredibly useful autocompletion.
 
+4. [rubiks-cube](https://github.com/pengfeiw/rubiks-cube)
+
+![](https://img.hellogithub.com/i/0W3BZiJjTw9nNkd.gif)
+
+Three.Js-based 3D Rubik's cube. Support customized Rubik's cube order.
+
 ## Resources
 
 1. [How to Criticize Coworkers](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/)

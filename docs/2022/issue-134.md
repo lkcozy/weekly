@@ -24,6 +24,10 @@ The goal is to standardize how geospatial data is represented in Parquet to furt
 
 DOAJ is a community-curated online directory that indexes and provides access to high-quality, open access, peer-reviewed journals.
 
+2. [Writing a Research Paper for an Academic Journal: A Five-step Recipe for Perfection](https://www.aje.com/arc/writing-a-research-paper-for-an-academic-journal-a-five-step-recipe-for-perfection/)
+
+The answer to writing the perfect research paper is as simple as following a step-by-step recipe. Here we bring to you a recipe for effortlessly planning, writing, and publishing your paper as a peer reviewed journal article.
+
 ## Tool
 
 1. [JSON Visio](https://github.com/AykutSarac/jsonvisio.com)
@@ -35,6 +39,18 @@ JSON Visio is a data visualization tool for your json data that seamlessly illus
 2. [fast-json-stringify](https://github.com/fastify/fast-json-stringify)
 
 fast-json-stringify is significantly faster than JSON.stringify() for small payloads. Its performance advantage shrinks as your payload grows.
+
+3. [Monitoror](https://github.com/monitoror/monitoror)
+
+![](https://img.hellogithub.com/i/GxQ8Tyi5W4bJ6mE.png)
+
+Monitoror is a wallboard monitoring app to monitor server status; monitor CI builds progress or even display critical values.
+
+4. [StreamX](https://github.com/streamxhub/streamx)
+
+![](https://user-images.githubusercontent.com/13284744/142746863-856ef1cd-fa0e-4010-b359-c16ca2ad2fb7.png)
+
+The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.
 
 ## Resources
 
@@ -93,7 +109,7 @@ Don't wait till tomorrow. Tomorrow is where dreams go to die.
 
 --[FS](https://fs.blog/brain-food/april-17-2022/)
 
-4. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to lve what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+4. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
    --[Steve Jobs](https://www.brainyquote.com/quotes/steve_jobs_416859)
 
 ## Review

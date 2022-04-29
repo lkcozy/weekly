@@ -44,6 +44,18 @@ Learn more about this work on [project website](https://leggedrobotics.github.io
 
 A research group from ETH Zurich presents a perceptive locomotion controller for quadrupedal robots that combines fast locomotion and exceptional robustness on challenging terrain.
 
+## Tools
+
+1. [modin](https://github.com/modin-project/modin)
+
+![](https://github.com/modin-project/modin/raw/master/docs/img/Modin_Speedup.svg)
+
+Modin is a drop-in replacement for pandas. While pandas is single-threaded, Modin lets you instantly speed up your workflows by scaling pandas so it uses all of your cores. Modin works especially well on larger datasets, where pandas becomes painfully slow or runs out of memory.
+
+2. [extract ppt from a video](https://github.com/wudududu/extract-video-ppt)
+
+If The video content is included ppt, then this tool can extract the ppt from the video and export a pdf file.
+
 ## Resources
 
 1. [Three systems I use to organize my life](https://medium.com/@joashxu/three-systems-i-use-to-organize-my-life-b3180a303d96)
