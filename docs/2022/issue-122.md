@@ -41,6 +41,12 @@ Hitomi Downloader is an utility to download images/videos/music/text from variou
 
 iGlance is a small system monitor that displays current stats about your macOS on the menu bar.
 
+4. [TypeScript Error Translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator#tserror)
+
+![](https://raw.githubusercontent.com/mattpocock/ts-error-translator/main/assets/screenshot.png)
+
+A VSCode extension to turn TypeScript errors into plain English.
+
 ## Resources
 
 1. [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
