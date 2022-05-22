@@ -82,7 +82,7 @@ In 2021, the Big Five tech giants—Apple, Amazon, Google (Alphabet), Meta, and 
 
 What are the sources of this revenue, and how does it break down?
 
-2. [Type Challenge](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
+2. [Type Challenge](https://github.com/type-challenges/type-challenges)
 
 ![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051010.webp)
 

@@ -4,7 +4,7 @@
 
 1. [Learning to navigate in cities without a map](https://deepmind.com/blog/article/learning-to-navigate-cities-without-a-map)
 
-![n](https://lh3.googleusercontent.com/I7xzcTketayco4qWBEG11C0NfpqLhZJBr2S5V38XBa6W4I9bkCDhtXlbE1gr2_RBJ7oBrKINQE5UDH-Yhb2EfWKV4O3dYjpoL7kc=w1440-rw-v1)
+![n](https://assets-global.website-files.com/621e749a546b7592125f38ed/622681de9a678443ffbca1e1_Stop%20Motion.gif)
 
 Navigating through unstructured environments is a basic capability of intelligent creatures, and thus is of fundamental interest in the study and development of artificial intelligence. Long-range navigation is a complex cognitive task that relies on developing an internal representation of space, grounded by recognizable landmarks and robust visual processing, that can simultaneously support continuous self-localization ("I am here") and a representation of the goal ("I am going there"). Building upon recent research that applies deep reinforcement learning to maze navigation problems, we present an end-to-end deep reinforcement learning approach that can be applied on a city scale. Recognizing that successful navigation relies on the integration of general policies with locale-specific knowledge, Scientists proposed a dual pathway architecture that allows locale-specific features to be encapsulated, while still enabling transfer to multiple cities. They present an interactive navigation environment that uses Google StreetView for its photographic content and worldwide coverage and demonstrate that our learning method allows agents to learn to navigate multiple cities and to traverse to target destinations that may be kilometres away. The project webpage this HTTP URL contains a video summarising our research and showing the trained agent in diverse city environments and on the transfer task, the form to request the StreetLearn dataset and links to further resources. The StreetLearn environment code is available at this https URL
 
@@ -29,7 +29,7 @@ coronavirus (COVID-19)
 
 The workshop gave an overview of selected COVID-19 data mapping and visualization websites. Then two scientists detailed described how to animate COVID-19 spatial-temporal data using ArcGIS Online and how to map COVID-19 data with space and time in ArcGIS Pro. Finally, the author shared some understanding of COVID-19 with spatial analysis.
 
-4. [Shopping and sunbathing: how America responds to quarantine]()
+4. [Shopping and sunbathing: how America responds to quarantine](https://www.mapbox.com/blog/shopping-and-sunbathing-how-america-responds-to-quarantine)
 
 ![grocery store visits](https://miro.medium.com/max/1400/0*fRXqp0CF_VUFTHYp)
 Change in grocery store visits, January to April, aggregated by zip code for Saturday, April 5th, 2020. Darker brown indicates significant negative change (fewer visits). Teal indicates positive change (more visits).
@@ -83,7 +83,7 @@ It can be hard even for humans to recognize fakery. But Facebook, as one of the 
 
 ## Tool
 
-1.[Loom](https://www.loom.com/) https://www.loom.com/blog/coronavirus-response
+1.[Loom](https://www.loom.com/)
 
 ![loom](https://assets-global.website-files.com/5c991ff59b4c11294d51a8bd/5ddccbf979f3f92cd3ca24e4_hero.gif)
 
