@@ -122,6 +122,12 @@ In short, they allow crypto assets to be used on non-native blockchains. For exa
 2. A life spent looking for shortcuts is a long road to nowhere.
    --[@naval](https://twitter.com/naval/status/1523087166938648576)
 
+3. Deprecate yourself. Don't be the go-to person for the code. Optimize it for people to find their way fixing bugs and adding features to the code. Free yourself to move on to the next project/company. Don't own the code or you'll never grow beyond that.
+   --[My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
+
+4. Private blockchains are entirely useless. If you already have a permissioned system, there is not point in using a trustless and permission less database.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=30775374)
+
 ## Review
 
 - [The week in 2021(Issue-88)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-88.md)
