@@ -72,6 +72,27 @@ Nexe is a command-line utility that compiles your Node.js application into a sin
 
 Learn how to easily write an ABSTRACT (and then a PAPER) using the SIMPLE FOUR QUESTION method!
 
+- Why did you do the study?
+  - Justify the need for the study
+  - Introduction
+    - Background
+    - Problem
+    - Research Questions/hypothesis
+- What did you do?
+  - Describe what was done
+  - Methods
+    - Aim
+    - Materials/procedures
+- What did you find?
+  - Describe what was found
+  - Results & illustrations
+  - Summary of findings
+- What did you conclude?
+  - Argue what you add to the field
+  - Discussion
+    - Meaning of findings
+    - Solution & implications
+
 ## Resources
 
 1. [Seven tactics for resolving technical disagreements](https://www.cenizal.com/seven-tactics-for-resolving-technical-disagreements/)
