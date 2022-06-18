@@ -122,18 +122,6 @@ Watch this [brief video](https://vimeo.com/143407878) for an overview of making 
 
 Maccy helps you keep multiple copies in your clipboard and paste whichever you like. Also, it enables you to search among the copied items and supports images!
 
-6. [App Tamer](https://www.stclairsoft.com/AppTamer/)
-
-![](https://miro.medium.com/max/998/0*iNlEAP80o6ilrAdX.png)
-
-Using App Tamer, you can limit the CPU usage of apps. This saves some battery and avoids making your Mac overheat.
-
-7. [SwiftBar](https://github.com/swiftbar/SwiftBar)
-
-![](https://user-images.githubusercontent.com/222100/101261866-267e2780-3708-11eb-9042-a57ad0ac6c78.gif)
-
-SwiftBar is a powerful macOS menu bar customization tool.
-
 ## Resources
 
 1. [7 TypeScript Utility Types For React Developers](https://www.chakshunyu.com/blog/7-typescript-utility-types-for-react-developers/)
