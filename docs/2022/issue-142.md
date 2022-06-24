@@ -2,7 +2,7 @@
 
 ## GeoSpatial
 
-2. [An Introduction to The Spatial Web](https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45)
+1. [An Introduction to The Spatial Web](https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45)
 
 ![](https://www2.deloitte.com/content/dam/insights/us/articles/6645_Spatial-web-strategy/Figures/6645_Fig1.jpg)
 

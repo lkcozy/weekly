@@ -1,8 +1,18 @@
-# Weekly Updates
+# 🌏 GISer Weekly Updates
 
 Keep track of GeoSpatial & IoT & AI/ML content worth sharing every week.
 
-## Search
+- [🌏 GISer Weekly Updates](#-giser-weekly-updates)
+  - [🔎 Search](#-search)
+  - [🐯 2022](#-2022)
+  - [🐮 2021](#-2021)
+  - [🐹 2020](#-2020)
+  - [🐷 2019](#-2019)
+  - [🎉 Create A New Issue](#-create-a-new-issue)
+  - [👍 Acknowledgement](#-acknowledgement)
+  - [🛠 Resources](#-resources)
+
+## 🔎 Search
 
 1. Use [Sourcegraph.com](https://sourcegraph.com/github.com/lkcozy/weekly)
    Or
@@ -18,9 +28,9 @@ For example，search `GIS` related content。
 grep -nri gis docs | cat -n
 ```
 
-## 2022
+## 🐯 2022
 
-**Jun** [Issue #141](docs/2022/issue-141.md) :rocket: | [Issue #140](docs/2022/issue-140.md)
+**Jun** [Issue #143](docs/2022/issue-143.md) :rocket: | [Issue #142](docs/2022/issue-142.md) | [Issue #141](docs/2022/issue-141.md) |[Issue #140](docs/2022/issue-140.md)
 
 **May** [Issue #139](docs/2022/issue-139.md) | [Issue #138](docs/2022/issue-138.md)| [Issue #137](docs/2022/issue-137.md) | [Issue #136](docs/2022/issue-136.md)
 
@@ -32,7 +42,7 @@ grep -nri gis docs | cat -n
 
 **January**: [Issue #122](docs/2022/issue-122.md) | [Issue #121](docs/2022/issue-121.md) | [Issue #120](docs/2022/issue-120.md) | [Issue #119](docs/2022/issue-119.md)
 
-## 2021
+## 🐮 2021
 
 **December**: [Issue #118](docs/2021/issue-118.md) | [Issue #117](docs/2021/issue-117.md) | [Issue #116](docs/2021/issue-116.md) | [Issue #115](docs/2021/issue-115.md) | [Issue #114](docs/2021/issue-114.md)
 
@@ -58,7 +68,7 @@ grep -nri gis docs | cat -n
 
 **January**: [Issue #70](docs/2021/issue-70.md) | [Issue #69](docs/2021/issue-69.md) | [Issue #68](docs/2021/issue-68.md) | [Issue #67](docs/2021/issue-67.md)
 
-## 2020
+## 🐹 2020
 
 **December**: [Issue #66](docs/2020/issue-66.md) | [Issue #65](docs/2020/issue-65.md) | [Issue #64](docs/2020/issue-64.md) | [Issue #63](docs/2020/issue-63.md)
 
@@ -84,7 +94,7 @@ grep -nri gis docs | cat -n
 
 **January**: [Issue #22](docs/2020/issue-22.md) | [Issue #21](docs/2020/issue-21.md) | [Issue #20](docs/2020/issue-20.md) | [Issue #19](docs/2020/issue-19.md)
 
-## 2019
+## 🐷 2019
 
 **December**: [Issue #18](docs/2019/issue-18.md) | [Issue #17](docs/2019/issue-17.md) | [Issue #16](docs/2019/issue-16.md) | [Issue #15](docs/2019/issue-15.md)
 
@@ -96,7 +106,7 @@ grep -nri gis docs | cat -n
 
 **August**: [Issue #2](docs/2020/issue-2.md) | [Issue #1](docs/2020/issue-1.md)
 
-## Create A New Issue
+## 🎉 Create A New Issue
 
 Release `./scripts/release.sh <issue-number>`
 
@@ -106,27 +116,28 @@ or
 2. Type `giser_issue`
 3. 🚀
 
-## Acknowledgement
+## 👍 Acknowledgement
 
-1. [GIS Lounge](https://www.gislounge.com/): An information site covering research and case studies about the applications of geographic information systems, geospatial technologies, and cartography.
-2. [Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks.
-3. [Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world.
-4. [CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog.
-5. [OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom.
-6. [The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
-7. [The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
-8. [Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly.
-9. [Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
-10. [The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
-11. [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
-12. [HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub.
-13. [Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
-14. [Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
-15. [dev.to](https://dev.to/): The developers' community.
-16. [LogRocket](https://blog.logrocket.com/): LogRocket technical blog.
-17. [David Perell](https://perell.com/): A writer, teacher, and podcaster.
-18. [Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
+1. 🌏[GIS Lounge](https://www.gislounge.com/): An information site covering research and case studies about the applications of geographic information systems, geospatial technologies, and cartography.
+2. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks.
+3. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world.
+4. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog.
+5. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom.
+6. 🌏[The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
+7. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
+8. 🖥🇨🇳[Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly.
+9. 💡[Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
+10. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
+11. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
+12. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub.
+13. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
+14. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
+15. 🖥[dev.to](https://dev.to/): The developers' community.
+16. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog.
+17. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
+18. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
+19. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer.
 
-## Resources
+## 🛠 Resources
 
 - [Nitter](https://nitter.net/): A free and open source alternative Twitter front-end focused on privacy and performance.
