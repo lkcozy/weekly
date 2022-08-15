@@ -2,7 +2,7 @@
   "Weekly Issue Template": {
     "prefix": "giser_issue",
     "body": [
-      "# GISer's Weekly Issue 14, $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+      "# GISer's Weekly Issue 15, $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
       "",
       "## GeoSpatial",
       "",
@@ -52,8 +52,9 @@
       "   --[]()",
       "",
       "## Review",
-      "- [The week in 2021(Issue-9)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-9.md)",
-      "- [The week in 2020(Issue-4)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-4.md)"
+      "- [The week in 2021(Issue-9)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-10.md)",
+      "- [The week in 2020(Issue-4)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-5.md)",
+      "- [The week in 2019(Issue-2)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-2.md)"
     ],
     "description": "Weekly Issue Template"
   },

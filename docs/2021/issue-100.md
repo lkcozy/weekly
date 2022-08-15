@@ -113,4 +113,5 @@ From picking a subject and crafting a presentation to gathering and synthesizing
 
 ## Review
 
-[The week in 2020(Issue-51)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-51.md)
+- [The week in 2020(Issue-51)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-51.md)
+- [The week in 2019(Issue-3)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-3.md)

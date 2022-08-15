@@ -137,4 +137,5 @@ To explain why explanations are challenging. The author came up with a list of 1
 
 ## Review
 
-[The week in 2020(Issue-50)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-50.md)
+- [The week in 2020(Issue-50)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-50.md)
+- [The week in 2019(Issue-2)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-2.md)

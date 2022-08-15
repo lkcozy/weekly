@@ -101,4 +101,5 @@ A clear and straightforward explanation of how the blockchain work in 7 steps.
 
 ## Review
 
-[The week in 2020(Issue-58)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-58.md)
+- [The week in 2020(Issue-58)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-58.md)
+- [The week in 2019(Issue-10)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-10.md)

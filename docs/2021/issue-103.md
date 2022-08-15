@@ -116,4 +116,5 @@ A math textbook for programmers with no mathematical foundation. It introduces c
 
 ## Review
 
-[The week in 2020(Issue-54)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-54.md)
+- [The week in 2020(Issue-54)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-54.md)
+- [The week in 2019(Issue-6)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-6.md)

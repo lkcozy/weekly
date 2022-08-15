@@ -112,4 +112,5 @@ If there was only one rule to wealth creation: you need more coming in than goin
 
 ## Review
 
-[The week in 2020(Issue-59)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-59.md)
+- [The week in 2020(Issue-59)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-59.md)
+- [The week in 2019(Issue-11)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-11.md)

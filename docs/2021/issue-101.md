@@ -129,4 +129,5 @@ AWS (Amazon Web Service) now contains more than 50 products. The official introd
 
 ## Review
 
-[The week in 2020(Issue-52)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-52.md)
+- [The week in 2020(Issue-52)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-52.md)
+- [The week in 2019(Issue-4)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-4.md)

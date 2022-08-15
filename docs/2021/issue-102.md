@@ -109,4 +109,5 @@ A textbook of Machine Learning from Uppsala University.
 
 ## Review
 
-[The week in 2020(Issue-53)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-53.md)
+- [The week in 2020(Issue-53)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-53.md)
+- [The week in 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)

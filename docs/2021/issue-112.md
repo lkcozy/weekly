@@ -96,4 +96,5 @@ Tutorial on getting started with Blockchain on IBM Bluemix
 
 ## Review
 
-[The week in 2020(Issue-63)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-63.md)
+- [The week in 2020(Issue-63)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-63.md)
+- [The week in 2019(Issue-15)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-15.md)

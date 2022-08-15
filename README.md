@@ -30,7 +30,7 @@ grep -nri gis docs | cat -n
 
 ## 🐯 2022
 
-**Aug** [Issue #149](docs/2022/issue-149.md) :rocket:
+**Aug** [Issue #150](docs/2022/issue-150.md) :rocket: | [Issue #149](docs/2022/issue-149.md)
 
 **July** [Issue #148](docs/2022/issue-148.md) | [Issue #147](docs/2022/issue-147.md) | [Issue #146](docs/2022/issue-146.md) | [Issue #145](docs/2022/issue-145.md) | [Issue #144](docs/2022/issue-144.md)
 
