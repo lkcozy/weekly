@@ -95,6 +95,6 @@ A collection of 30+ React and TypeScript codebases that are organized into diffe
 
 ## Review
 
-- [The week in 2021(Issue-99)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-9.md)
-- [The week in 2020(Issue-50)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-4.md)
+- [The week in 2021(Issue-99)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-99.md)
+- [The week in 2020(Issue-50)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-50.md)
 - [The week in 2019(Issue-2)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-2.md)
