@@ -94,13 +94,16 @@ This article explored the evolution of Web 1.0, Web 2.0, Web 3.0, Web3, and work
 
 web3.js is a collection of JavaScript libraries to interact with a local or remote Ethereum node using HTTP, IPC or WebSocket.
 
-> Web 1.0: read
-> Web 2.0: read + write
-> Web 3.0: read + write + own
+- Web 1.0: read
+- Web 2.0: read + write
+- Web 3.0: read + write + own
 
 > A blockchain is a public database that is updated and shared across many computers in a network
+
 > Block refers to data and state being stored in consecutive groups.
+
 > Chain refers to that each block cryptographically references its parent. i.e., blocks get chained together.
+
 > Smart contracts are apps and services which are executed automatically.
 
 3. [Use Ethers.js to Interact With the Ethereum Virtual Machine in Remix](https://betterprogramming.pub/use-ethers-js-to-interact-with-the-ethereum-virtual-machine-in-remix-a0559fe5a0f1)

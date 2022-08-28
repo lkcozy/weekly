@@ -26,7 +26,7 @@ OpenAI's DALL-E 2 is a dream tool and existential threat to visual artists. DALL
 
 ## Research
 
-1. [Why was my scientific paper/grant rejected? ](https://butlerscicomm.com/what-to-do-when-the-importance-isnt-clear/)
+1. [Why was my scientific paper/grant rejected?](https://butlerscicomm.com/what-to-do-when-the-importance-isnt-clear/)
 
 Most scientific manuscripts and grants get rejected due to unclear importance. The main reasons for unclear extent in your paper/grant:
 

@@ -30,7 +30,7 @@ grep -nri gis docs | cat -n
 
 ## 🐯 2022
 
-**Aug** [Issue #151](docs/2022/issue-151.md) :rocket: | [Issue #150](docs/2022/issue-150.md) | [Issue #149](docs/2022/issue-149.md)
+**Aug** [Issue #152](docs/2022/issue-152.md) :rocket: | [Issue #151](docs/2022/issue-151.md) | [Issue #150](docs/2022/issue-150.md) | [Issue #149](docs/2022/issue-149.md)
 
 **July** [Issue #148](docs/2022/issue-148.md) | [Issue #147](docs/2022/issue-147.md) | [Issue #146](docs/2022/issue-146.md) | [Issue #145](docs/2022/issue-145.md) | [Issue #144](docs/2022/issue-144.md)
 
@@ -131,16 +131,17 @@ or
 7. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
 8. 🖥🇨🇳[Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly.
 9. 💡[Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
-10. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
-11. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
-12. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub.
-13. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
-14. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
-15. 🖥[dev.to](https://dev.to/): The developers' community.
-16. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog.
-17. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
-18. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
-19. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer.
+10. 🖥[React Newsletter](https://reactnewsletter.com/issues): Stay up to date on the latest React news, tutorials, resources, and more.
+11. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
+12. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
+13. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub.
+14. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
+15. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
+16. 🖥[dev.to](https://dev.to/): The developers' community.
+17. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog.
+18. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
+19. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
+20. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer.
 
 ## 🛠 Resources
 
