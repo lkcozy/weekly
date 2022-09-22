@@ -45,10 +45,10 @@ Numerous recent studies have led to an understanding that personality traits, te
 The top five attributes of great engineers:
 
 - Being a competent coder. Paying attention to details, mentally capable of handling complexity.
-- Maximizing the current value of their work. Anticipating future needs avoids analysis paralysis and is intentional about trade-offs.
-- Practicing informed decision-making. Gathering information to make informed decisions, data-driven, open-minded.
-- Enabling others to make decisions efficiently. Create shared understanding with others, and create shared success.
-- Continuous learning. Desire, ability, and capacity to learn or figure out how something works.
+- Maximizing the current value of their work. Anticipating future needs avoids analysis paralysis and is intentional about trade-offs. Great engineers distinguish themselves from others by considering the context of their software product, maximizing the value of their current actions, adjusted for probable future value and costs.
+- Practicing informed decision-making. Gathering information to make informed decisions, data-driven, open-minded. Great engineers differentiated themselves from others by going through the right processes for making informed decisions.
+- Enabling others to make decisions efficiently. Create shared understanding with others, and create shared success. Great engineers distinguished themselves by making others' jobs easier, helping them to make their decisions more efficiently (or, at minimum, they did not make them worse).
+- Continuous learning. Desire, ability, and capacity to learn or figure out how something works. It's not a specific set of knowledge but rather the desire, ability, and capacity to learn that distinguishes great engineers.
 
 ## Tool
 
