@@ -30,7 +30,7 @@ grep -nri gis docs | cat -n
 
 ## 🐯 2022
 
-**September** [Issue #155](docs/2022/issue-155.md) :rocket: | [Issue #154](docs/2022/issue-154.md) | [Issue #153](docs/2022/issue-153.md)
+**September** [Issue #156](docs/2022/issue-156.md) :rocket: | [Issue #155](docs/2022/issue-155.md) | [Issue #154](docs/2022/issue-154.md) | [Issue #153](docs/2022/issue-153.md)
 
 **August** [Issue #152](docs/2022/issue-152.md) | [Issue #151](docs/2022/issue-151.md) | [Issue #150](docs/2022/issue-150.md) | [Issue #149](docs/2022/issue-149.md)
 
@@ -124,26 +124,28 @@ or
 
 ## 👍 Acknowledgement
 
-1. 🌏[GIS Lounge](https://www.gislounge.com/): An information site covering research and case studies about the applications of geographic information systems, geospatial technologies, and cartography.
-2. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks.
-3. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world.
-4. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog.
-5. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom.
+1. 🌏[GIS Lounge](https://www.gislounge.com/): An information site covering research and case studies about the applications of geographic information systems, geospatial technologies, and cartography
+2. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks
+3. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world
+4. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog
+5. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom
 6. 🌏[The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
 7. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
-8. 🖥🇨🇳[Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly.
+8. 🖥🇨🇳[Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly
 9. 💡[Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
-10. 🖥[React Newsletter](https://reactnewsletter.com/issues): Stay up to date on the latest React news, tutorials, resources, and more.
-11. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
-12. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
-13. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub.
-14. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
-15. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
-16. 🖥[dev.to](https://dev.to/): The developers' community.
-17. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog.
-18. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
-19. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home.
-20. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer.
+10. 💡[Software Engineering Research](https://abinoda.substack.com/): A newsletter brings you the latest research on developer productivity and experience
+11. 🖥[React Newsletter](https://reactnewsletter.com/issues): Stay up to date on the latest React news, tutorials, resources, and more
+12. 🖥[JavaScript Weekly](https://javascriptweekly.com/): A newsletter of JavaScript articles, news and cool projects
+13. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
+14. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
+15. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub
+16. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
+17. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
+18. 🖥[dev.to](https://dev.to/): The developers' community.
+19. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog
+20. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
+21. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home
+22. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer
 
 ## 🛠 Resources
 
