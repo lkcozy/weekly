@@ -30,7 +30,9 @@ grep -nri gis docs | cat -n
 
 ## 🐯 2022
 
-**September** [Issue #156](docs/2022/issue-156.md) :rocket: | [Issue #155](docs/2022/issue-155.md) | [Issue #154](docs/2022/issue-154.md) | [Issue #153](docs/2022/issue-153.md)
+**October**: [Issue #157](docs/2022/issue-157.md) :rocket:
+
+**September** | [Issue #156](docs/2022/issue-156.md) | [Issue #155](docs/2022/issue-155.md) | [Issue #154](docs/2022/issue-154.md) | [Issue #153](docs/2022/issue-153.md)
 
 **August** [Issue #152](docs/2022/issue-152.md) | [Issue #151](docs/2022/issue-151.md) | [Issue #150](docs/2022/issue-150.md) | [Issue #149](docs/2022/issue-149.md)
 
