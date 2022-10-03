@@ -30,25 +30,25 @@ grep -nri gis docs | cat -n
 
 ## 🐯 2022
 
-**October**: [Issue #157](docs/2022/issue-157.md) :rocket:
+**October**: [Reading Fragments](fragments/2022.10.md) | [Issue #158](docs/2022/issue-158.md) :rocket: | [Issue #157](docs/2022/issue-157.md)
 
-**September** | [Issue #156](docs/2022/issue-156.md) | [Issue #155](docs/2022/issue-155.md) | [Issue #154](docs/2022/issue-154.md) | [Issue #153](docs/2022/issue-153.md)
+**September**: [Reading Fragments](fragments/2022.09.md) | [Issue #156](docs/2022/issue-156.md) | [Issue #155](docs/2022/issue-155.md) | [Issue #154](docs/2022/issue-154.md) | [Issue #153](docs/2022/issue-153.md)
 
-**August** [Issue #152](docs/2022/issue-152.md) | [Issue #151](docs/2022/issue-151.md) | [Issue #150](docs/2022/issue-150.md) | [Issue #149](docs/2022/issue-149.md)
+**August**: [Reading Fragments](fragments/2022.08.md) | [Issue #152](docs/2022/issue-152.md) | [Issue #151](docs/2022/issue-151.md) | [Issue #150](docs/2022/issue-150.md) | [Issue #149](docs/2022/issue-149.md)
 
-**July** [Issue #148](docs/2022/issue-148.md) | [Issue #147](docs/2022/issue-147.md) | [Issue #146](docs/2022/issue-146.md) | [Issue #145](docs/2022/issue-145.md) | [Issue #144](docs/2022/issue-144.md)
+**July**: [Reading Fragments](fragments/2022.07.md) | [Issue #148](docs/2022/issue-148.md) | [Issue #147](docs/2022/issue-147.md) | [Issue #146](docs/2022/issue-146.md) | [Issue #145](docs/2022/issue-145.md) | [Issue #144](docs/2022/issue-144.md)
 
-**Jun**| [Issue #143](docs/2022/issue-143.md) | [Issue #142](docs/2022/issue-142.md) | [Issue #141](docs/2022/issue-141.md) |[Issue #140](docs/2022/issue-140.md)
+**Jun**: [Reading Fragments](fragments/2022.06.md) | [Issue #143](docs/2022/issue-143.md) | [Issue #142](docs/2022/issue-142.md) | [Issue #141](docs/2022/issue-141.md) |[Issue #140](docs/2022/issue-140.md)
 
-**May** [Issue #139](docs/2022/issue-139.md) | [Issue #138](docs/2022/issue-138.md)| [Issue #137](docs/2022/issue-137.md) | [Issue #136](docs/2022/issue-136.md)
+**May**: [Reading Fragments](fragments/2022.05.md) | [Issue #139](docs/2022/issue-139.md) | [Issue #138](docs/2022/issue-138.md)| [Issue #137](docs/2022/issue-137.md) | [Issue #136](docs/2022/issue-136.md)
 
-**April** [Issue #135](docs/2022/issue-135.md) | [Issue #134](docs/2022/issue-134.md) | [Issue #133](docs/2022/issue-133.md) | [Issue #132](docs/2022/issue-132.md) | [Issue #131](docs/2022/issue-131.md)
+**April**: [Reading Fragments](fragments/2022.04.md) | [Issue #135](docs/2022/issue-135.md) | [Issue #134](docs/2022/issue-134.md) | [Issue #133](docs/2022/issue-133.md) | [Issue #132](docs/2022/issue-132.md) | [Issue #131](docs/2022/issue-131.md)
 
-**March**: [Issue #130](docs/2022/issue-130.md) | [Issue #129](docs/2022/issue-129.md) | [Issue #128](docs/2022/issue-128.md) | [Issue #127](docs/2022/issue-127.md)
+**March**: [Reading Fragments](fragments/2022.03.md) | [Issue #130](docs/2022/issue-130.md) | [Issue #129](docs/2022/issue-129.md) | [Issue #128](docs/2022/issue-128.md) | [Issue #127](docs/2022/issue-127.md)
 
-**February**: [Issue #126](docs/2022/issue-126.md) | [Issue #125](docs/2022/issue-125.md) | [Issue #124](docs/2022/issue-124.md) | [Issue #123](docs/2022/issue-123.md)
+**February**: [Reading Fragments](fragments/2022.02.md) | [Issue #126](docs/2022/issue-126.md) | [Issue #125](docs/2022/issue-125.md) | [Issue #124](docs/2022/issue-124.md) | [Issue #123](docs/2022/issue-123.md)
 
-**January**: [Issue #122](docs/2022/issue-122.md) | [Issue #121](docs/2022/issue-121.md) | [Issue #120](docs/2022/issue-120.md) | [Issue #119](docs/2022/issue-119.md)
+**January**: [Reading Fragments](fragments/2022.01.md) | [Issue #122](docs/2022/issue-122.md) | [Issue #121](docs/2022/issue-121.md) | [Issue #120](docs/2022/issue-120.md) | [Issue #119](docs/2022/issue-119.md)
 
 ## 🐮 2021
 
