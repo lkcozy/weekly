@@ -70,7 +70,7 @@ absurd-sql intercepts read/write requests from SQLite and fetching and persistin
 
 This post shows how a good CI solution can automate your engineering workflow and help you focus on actual challenges instead of chores.
 
-2. [Teaching by filling in knowledge gaps](ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/)
+2. [Teaching by filling in knowledge gaps](https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/)
 
 The author describes his steps for explaining something:
 
@@ -89,7 +89,7 @@ More than 84 Blockchain Consensus were described.
 
 ## Comments
 
-1.  Decentralization is more difficult than centralization, and because decentralized options often remove the commercial incentive available to centralized options, no one's really pushing it.
+1.  Decentralization is more difficult than centralization, and because decentralized options often remove the commercial incentive available to centralized options, no one's really pushing it. There’s not enough money available for someone to spend the time and energy needed to build truly great options, that remain true to the decentralized nature.
     --[Sharing files without T&C](https://blog.cfelde.com/2021/08/sharing-files-without-terms-and-conditions/)
 
 ## Review

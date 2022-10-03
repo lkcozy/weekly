@@ -131,11 +131,25 @@ Quokka.js is a developer productivity tool for rapid JavaScript / TypeScript pro
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCLaoOCvUwAEy8IF.png&f=1&nofb=1)
 
+Good managers do the things right. Good leadership does the right thing.
+
 Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.slidesharecdn.com%2Fgoodmanager-greatleader-v1-160323152425%2F95%2Fgood-manager-great-leader-3-638.jpg%3Fcb%3D1458746925&f=1&nofb=1)
+Manager focus on goals and objectives, telling how and when for shorter range.
 
-2. [Build Personal Moats](https://eriktorenberg.substack.com/p/build-personal-moats)
+- Tells: this is what I want you to do and here is how I want you to do it.
+- Plans the details: I'll send out a memo to everyone and set a timer for us to meet
+- Minimizes risks: time is money. The sooner I get this done, the better.
+
+Leader focus on vision, selling what and hwy for longer range.
+
+- Sells: I have this great idea. And I know it will work if I can get you to be part of it.
+- Sets the direction: Let's get everyone together. I've got some exciting news you'll all want to hear.
+- Takes risks: This might stretch us, but the payoff will make it worthwhile.
+
+![](https://camo.githubusercontent.com/24ac42b3e46b791aadb806ae17434f3cd363bf5d70ee578c9acae83e4adaccbe/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246696d6167652e736c696465736861726563646e2e636f6d253246676f6f646d616e616765722d67726561746c65616465722d76312d3136303332333135323432352532463935253246676f6f642d6d616e616765722d67726561742d6c65616465722d332d3633382e6a706725334663622533443134353837343639323526663d31266e6f66623d31)
+
+1. [Build Personal Moats](https://eriktorenberg.substack.com/p/build-personal-moats)
 
 A personal moat is a set of unique and accumulating competitive advantages in the context of your career.
 

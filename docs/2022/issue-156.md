@@ -71,12 +71,6 @@ A ridiculous collection of cheatsheets.
 
 explainshell is a tool (with a web interface) capable of parsing man pages, extracting options and explaining a given command line by matching each argument to the relevant help text in the man page.
 
-6. [Tesseract.js](https://github.com/naptha/tesseract.js#tesseractjs)
-
-![](https://github.com/naptha/tesseract.js/raw/master/docs/images/demo.gif)
-
-Tesseract.js is a javascript library that gets words in almost any language out of images.
-
 ## Videos
 
 1. [Joining a Startup as a New Grad](https://nitter.net/andykreed/status/1569042942807142400)
