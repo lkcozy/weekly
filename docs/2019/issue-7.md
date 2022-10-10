@@ -4,11 +4,11 @@
 
 1. [World Oil Map](https://www.roqueleal.me/oilmap.html)
 
-![](https://media.licdn.com/dms/image/C5612AQEwTaYpigjDzw/article-cover_image-shrink_720_1280/0?e=1575504000&v=beta&t=L2pbghXyN0zLTW1e68GDb1-paQ8q72KTwLnKYkHYpbk)
+![](https://media-exp1.licdn.com/dms/image/C5612AQEwTaYpigjDzw/article-cover_image-shrink_720_1280/0/1549470420739?e=1670457600&v=beta&t=ARM0Jw7YscVKLM3iINM-Qv61uZ6WRLZY8A7siUtJCz8)
 
 World OilMap is an independent initiative to monitor the Oil & Gas industry of world. It's an open, interactive and intuitive tool to be used by industry stakeholders for collecting and visualizing information about the World oil and gas industry.
 
-2. [Mapbox Visual in PowerBI](https://blog.mapbox.com/bringing-data-to-life-with-powerbi-ccaf214eaf16)
+1. [Mapbox Visual in PowerBI](https://blog.mapbox.com/bringing-data-to-life-with-powerbi-ccaf214eaf16)
 
 ![](https://miro.medium.com/max/960/1*TeKx-jyuqJiZ692eIjrGsQ.gif)
 

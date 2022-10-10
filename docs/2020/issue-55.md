@@ -138,10 +138,10 @@ Awesome List of resources on leading people and being a manager. Geared toward t
 Manager focus on goals and objectives, telling how and when for shorter range.
 
 - Tells: this is what I want you to do and here is how I want you to do it.
-- Plans the details: I'll send out a memo to everyone and set a timer for us to meet
+- Plans the details: I'll send out a memo to everyone and set a timer for us to meet.
 - Minimizes risks: time is money. The sooner I get this done, the better.
 
-Leader focus on vision, selling what and hwy for longer range.
+Leader focus on vision, selling what and why for longer range.
 
 - Sells: I have this great idea. And I know it will work if I can get you to be part of it.
 - Sets the direction: Let's get everyone together. I've got some exciting news you'll all want to hear.
@@ -149,7 +149,7 @@ Leader focus on vision, selling what and hwy for longer range.
 
 ![](https://camo.githubusercontent.com/24ac42b3e46b791aadb806ae17434f3cd363bf5d70ee578c9acae83e4adaccbe/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246696d6167652e736c696465736861726563646e2e636f6d253246676f6f646d616e616765722d67726561746c65616465722d76312d3136303332333135323432352532463935253246676f6f642d6d616e616765722d67726561742d6c65616465722d332d3633382e6a706725334663622533443134353837343639323526663d31266e6f66623d31)
 
-1. [Build Personal Moats](https://eriktorenberg.substack.com/p/build-personal-moats)
+2. [Build Personal Moats](https://eriktorenberg.substack.com/p/build-personal-moats)
 
 A personal moat is a set of unique and accumulating competitive advantages in the context of your career.
 
@@ -175,7 +175,7 @@ In conclusion, discover what’s easy for you but hard for others, then get so g
 ## Comments
 
 1. What is the point of the public beta program? Is it really intended to improve the quality of the released version? If so, why do we keep hearing of bugs that are reported but persist throughout the beta cycle? Whatever its original purpose, the public beta program is now a marketing tool—a way to get Apple enthusiasts hyped about the new releases and hyped to buy the new products that come out alongside the new software.
-   --[Aplle public beta program](https://leancrew.com/all-this/2020/09/betas/)
+   --[Apple public beta program](https://leancrew.com/all-this/2020/09/betas/)
 
 2. Hydrogen fuel cells are not a source of energy, since hydrogen (H2) is not naturally found on Earth. All H2 must be generated in a process which consumes either natural gas or eletricity. Therefore H2 fuel cells are more aptly described as an energy storage system than as an energy source. Therefore the relevant comparison is between H2 fuel cells and Li ion batteries. Batteries have much higher full cycle efficiency (energy input -> storage -> energy output), but they are large and heavy. H2 can be stored in less volume and less weight, but it is less efficient. In my opinion, batteries will be a technically and economicly superior solution for all uses other than where weight is extremely critical such as in aircraft.
    --[Hacker News Reader](https://news.ycombinator.com/item?id=24568930)

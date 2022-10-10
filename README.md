@@ -1,6 +1,6 @@
 # 🌏 GISer Weekly Updates
 
-Keep track of GeoSpatial & IoT & AI/ML content worth sharing every week.
+Keep track of GeoSpatial & IoT & AI/ML & other interesting content worth sharing every week.
 
 - [🌏 GISer Weekly Updates](#-giser-weekly-updates)
   - [🔎 Search](#-search)
@@ -14,7 +14,7 @@ Keep track of GeoSpatial & IoT & AI/ML content worth sharing every week.
 
 ## 🔎 Search
 
-1. Use [Sourcegraph.com](https://sourcegraph.com/github.com/lkcozy/weekly)
+1. Type the key `.` to use [github.dev web-based editor](https://github.dev/lkcozy/weekly)
    Or
 2. Clone the repo to your local machine, and then run the following command in the folders:
 
@@ -127,15 +127,15 @@ or
 ## 👍 Acknowledgement
 
 1. 🌏[GIS Lounge](https://www.gislounge.com/): An information site covering research and case studies about the applications of geographic information systems, geospatial technologies, and cartography
-2. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks
-3. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world
-4. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog
-5. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom
-6. 🌏[The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
-7. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
-8. 🖥🇨🇳[Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly
-9. 💡[Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
-10. 💡[Software Engineering Research](https://abinoda.substack.com/): A newsletter brings you the latest research on developer productivity and experience
+2. 🖥🇨🇳[Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly
+3. 💡[Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
+4. 💡[Software Engineering Research](https://abinoda.substack.com/): A newsletter brings you the latest research on developer productivity and experience
+5. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks
+6. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world
+7. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog
+8. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom
+9. 🌏[The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
+10. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
 11. 🖥[React Newsletter](https://reactnewsletter.com/issues): Stay up to date on the latest React news, tutorials, resources, and more
 12. 🖥[JavaScript Weekly](https://javascriptweekly.com/): A newsletter of JavaScript articles, news and cool projects
 13. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
@@ -152,3 +152,8 @@ or
 ## 🛠 Resources
 
 - [Nitter](https://nitter.net/): A free and open source alternative Twitter front-end focused on privacy and performance.
+- [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp): A news manager that tracks any online source you choose
+- [Saladict](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=en):Pop-up Dictionary and Page Translator
+- [Scholarcy](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib?hl=en-GB): Summarizes research articles, creates interactive flashcards, highlights key points, links to open-access versions of each citation
+- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en-GB): Grammar Checker and Writing App
+- [QuillBot](https://chrome.google.com/webstore/detail/quillbot-for-chrome/iidnbdjijdkbmajdffnidomddglmieko): Grammar Checker, Paraphraser, & Summarizer
