@@ -38,6 +38,7 @@ else
     new_issue_no=$((issue_no + 1))
     new_issue_path="docs/$current_year/issue-$new_issue_no.md"
     touch "$new_issue_path"
-    echo release_note
+    echo "${release_note}"
+
     code "$new_issue_path"
 fi
