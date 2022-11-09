@@ -22,9 +22,7 @@ else
     git push
     echo "Release GISer Issue-$issue_no successfully."
 
-    # list_current_year_issues=$(ls -l docs/$current_year)
-    # exclude_directory=$(grep -v ^d)
-    # count_number=$(wc -l | tr -d ' ')
+    current_year=$(date +'%Y')
     file_prefix="issue-*"
     years_count=$(find ./docs -maxdepth 1 -type d | grep -c docs/)
     all_issues_count=$(find ./docs -name "$file_prefix" | wc -l | tr -d ' ')
@@ -34,7 +32,6 @@ else
     gh release create "${issue_tag}" --notes "${release_note}"
 
     # Crete the next issue
-    current_year=$(date +'%Y')
     new_issue_no=$((issue_no + 1))
     new_issue_path="docs/$current_year/issue-$new_issue_no.md"
     touch "$new_issue_path"
