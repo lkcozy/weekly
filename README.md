@@ -30,7 +30,7 @@ grep -nri gis docs | cat -n
 
 ## 🐯 2022
 
-**November**: [Reading Fragments](fragments/2022.11.md) | [Issue #164](docs/2022/issue-164.md) :rocket: | [Issue #163](docs/2022/issue-163.md) | [Issue #162](docs/2022/issue-162.md)
+**November**: [Reading Fragments](fragments/2022.11.md) | [Issue #165](docs/2022/issue-165.md) :rocket: | [Issue #164](docs/2022/issue-164.md) | [Issue #163](docs/2022/issue-163.md) | [Issue #162](docs/2022/issue-162.md)
 
 **October**: [Reading Fragments](fragments/2022.10.md) | [Issue #161](docs/2022/issue-161.md) | [Issue #160](docs/2022/issue-160.md) | [Issue #159](docs/2022/issue-159.md) | [Issue #158](docs/2022/issue-158.md) | [Issue #157](docs/2022/issue-157.md)
 
@@ -151,6 +151,7 @@ or
 21. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
 22. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home
 23. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer
+24. 🖥🇨🇳[BestXTools Weekly](https://discuss-cn.bestxtools.com/): finds and shares fun, creative, free and easy-to-use tools
 
 ## 🛠 Resources
 
