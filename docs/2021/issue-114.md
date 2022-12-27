@@ -123,4 +123,5 @@ The path isn't a straight line; It's a spiral. You continually come back to thin
 
 ## Review
 
-[The week in 2020(Issue-65)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-65.md)
+- [The week in 2020(Issue-62)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-62.md)
+- [The week in 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)

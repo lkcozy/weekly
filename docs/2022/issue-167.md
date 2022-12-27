@@ -74,9 +74,11 @@ py.import("test.py").then(async function (pymodule) {
 
 Call Python from NodeJS directly in-process without spawning processes.
 
-1. [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT)
+2. [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT)
 
 ![](https://github.com/lencx/ChatGPT/raw/main/assets/chat.png)
+
+![](https://cdn.sspai.com/2022/12/26/article/ac3e2542a1e875d21cf85e5f59e860e2?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 ## Resources
 

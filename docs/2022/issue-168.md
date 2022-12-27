@@ -107,5 +107,5 @@ Givers think conversations unfold as a series of invitations; takers think conve
 ## Review
 
 - [The week in 2021(Issue-116)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-116.md)
-- [The week in 2020(Issue-65)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-65.md)
-- [The week in 2019(Issue-17)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-17.md)
+- [The week in 2020(Issue-64)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-64.md)
+- [The week in 2019(Issue-16)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-16.md)

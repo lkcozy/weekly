@@ -101,4 +101,5 @@ Ridiculously Uncomplicated macOS Python Statusbar apps.
 
 ## Review
 
-[The week in 2020(Issue-69)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-69.md)
+- [The week in 2020(Issue-66)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-66.md)
+- [The week in 2019(Issue-18)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-18.md)

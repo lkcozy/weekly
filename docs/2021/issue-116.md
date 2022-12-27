@@ -58,10 +58,10 @@ In this tutorial, we’ll learn how to set up a GraphQL API in Node.js and how t
 ## Comments
 
 1. Most times, not everyone on a team agrees with the course of action. Even when you have enough cognitive diversity in the room, people still keep their mouths shut because people in power tend to reward people who agree with them while punishing those who dare to speak up with a dissenting view.
-   --[An Approach to Making Better Decisions](https://click.convertkit-mail4.com/qdud448errh7hlmnlnb8/x0h4o5l0a6hn3n8kwgu5/aHR0cHM6Ly9mcy5ibG9nL2thaG5lbWFuLWJldHRlci1kZWNpc2lvbnMv)
+   --[An Approach to Making Better Decisions](https://fs.blog/kahneman-better-decisions/)
 
 2. Microfame is the best kind of fame, because it combines an easier task (be famous to fewer people) with a better outcome (be famous to the right people).
-   --[Writing is Networking for Introverts](https://click.convertkit-mail4.com/qdud448errh7hlmnlnb8/dpheh0hq5qzdewtm/aHR0cHM6Ly9ieXJuZWhvYmFydC5tZWRpdW0uY29tL3dyaXRpbmctaXMtbmV0d29ya2luZy1mb3ItaW50cm92ZXJ0cy01Y2FjMTRhZDRjNzc=)
+   --[Writing is Networking for Introverts](https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77)
 
 3. The willingness to accept responsibility for one's own life is the source from which self-respect springs.
    --[Joan Didion]()
@@ -77,4 +77,5 @@ In this tutorial, we’ll learn how to set up a GraphQL API in Node.js and how t
 
 ## Review
 
-[The week in 2020(Issue-67)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-67.md)
+- [The week in 2020(Issue-64)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-64.md)
+- [The week in 2019(Issue-16)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-16.md)
