@@ -4,10 +4,10 @@ Keep track of GeoSpatial & IoT & AI/ML & other interesting content worth sharing
 
 - [🌏 GISer Weekly Updates](#-giser-weekly-updates)
   - [🔎 Search](#-search)
+  - [🐰 2023](#-2023)
   - [🐯 2022](#-2022)
   - [🐮 2021](#-2021)
-  - [🐮 2021](#-2021-1)
-  - [🐹 2020](#-2020)
+  - [� 2020](#-2020)
   - [🐷 2019](#-2019)
   - [🎉 Create A New Issue](#-create-a-new-issue)
   - [👍 Acknowledgement](#-acknowledgement)
@@ -29,11 +29,13 @@ For example，search `GIS` related content。
 grep -nri gis docs | cat -n
 ```
 
+## 🐰 2023
+
+**January**: [Reading Fragments](fragments/2023.01.md) | [Issue #171](docs/2023/issue-170.md) :rocket:
+
 ## 🐯 2022
 
-## 🐮 2021
-
-**December**: [Reading Fragments](fragments/2022.12.md) | [Issue #170](docs/2022/issue-170.md) :rocket: | [Issue #169](docs/2022/issue-169.md) | [Issue #168](docs/2022/issue-168.md) | [Issue #167](docs/2022/issue-167.md) ｜ [Issue #166](docs/2022/issue-166.md)
+**December**: [Reading Fragments](fragments/2022.12.md) | [Issue #170](docs/2022/issue-170.md) | [Issue #169](docs/2022/issue-169.md) | [Issue #168](docs/2022/issue-168.md) | [Issue #167](docs/2022/issue-167.md) ｜ [Issue #166](docs/2022/issue-166.md)
 
 **November**: [Reading Fragments](fragments/2022.11.md) | [Issue #165](docs/2022/issue-165.md) | [Issue #164](docs/2022/issue-164.md) | [Issue #163](docs/2022/issue-163.md) | [Issue #162](docs/2022/issue-162.md)
 

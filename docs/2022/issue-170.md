@@ -6,6 +6,8 @@
 
 ![](https://github.com/organicmaps/organicmaps/raw/master/android/src/fdroid/play/listings/en-US/graphics/phone-screenshots/1.jpg)
 
+Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware.
+
 ## AI/ML
 
 1. [doccano](https://github.com/doccano/doccano)
