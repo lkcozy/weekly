@@ -7,7 +7,7 @@ Keep track of GeoSpatial & IoT & AI/ML & other interesting content worth sharing
   - [🐰 2023](#-2023)
   - [🐯 2022](#-2022)
   - [🐮 2021](#-2021)
-  - [� 2020](#-2020)
+  - [🐹 2020](#-2020)
   - [🐷 2019](#-2019)
   - [🎉 Create A New Issue](#-create-a-new-issue)
   - [👍 Acknowledgement](#-acknowledgement)
@@ -31,7 +31,7 @@ grep -nri gis docs | cat -n
 
 ## 🐰 2023
 
-**January**: [Reading Fragments](fragments/2023.01.md) | [Issue #171](docs/2023/issue-170.md) :rocket:
+**January**: [Reading Fragments](fragments/2023.01.md) | [Issue #171](docs/2023/issue-171.md) :rocket:
 
 ## 🐯 2022
 
