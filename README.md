@@ -31,7 +31,7 @@ grep -nri gis docs | cat -n
 
 ## 🐰 2023
 
-**January**: [Reading Fragments](fragments/2023.01.md) | [Issue #173](docs/2023/issue-173.md) :rocket: | [Issue #172](docs/2023/issue-172.md) | [Issue #171](docs/2023/issue-171.md)
+**January**: [Reading Fragments](fragments/2023.01.md) | [Issue #174](docs/2023/issue-174.md) :rocket: | [Issue #173](docs/2023/issue-173.md) | [Issue #172](docs/2023/issue-172.md) | [Issue #171](docs/2023/issue-171.md)
 
 ## 🐯 2022
 
@@ -160,6 +160,7 @@ or
 23. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home
 24. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer
 25. 🖥🇨🇳[BestXTools Weekly](https://discuss-cn.bestxtools.com/): finds and shares fun, creative, free and easy-to-use tools
+26. 📊[Visual Capitalist](https://www.visualcapitalist.com/)
 
 ## 🛠 Resources
 
