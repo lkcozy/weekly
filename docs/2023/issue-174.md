@@ -104,8 +104,11 @@ Keeping track of a whole project and its packages in a single repository can be 
 2. People's problems are so much more difficult to resolve. It's emotionally exhausting to lead a team. People are unpredictable. They fight, get sad, and hold grudges. Everyone wants things, and sometimes those wants conflict. [...] The tradeoff is that you learn and grow so much from managing people. You develop lasting relationships with the people you help to grow. Managing is about empathy, and you'll learn a lot.
    --[Engineer-Manager-Engineer: The Career Path Nobody Talks About](https://medium.com/developer-purpose/engineer-manager-engineer-the-career-path-nobody-talks-about-238bc775dd13)
 
-3. Never forget that your unconscious is smarter, faster, and more powerful than you. It may even control you. You will never know all of its secrets.
-   --[A Mind of Its Own: How Your Brain Distorts and Deceives](https://www.amazon.com/Mind-Its-Own-Distorts-Deceives-ebook/dp/B005GQR074?_encoding=UTF8&qid=1674133309&sr=8-1&linkCode=sl1&tag=farnamstreet-20&linkId=2ac24475103639d5a8de1c110f219877&language=en_US&ref_=as_li_ss_tl)
+3. The paradoxical union of intellectual humility and ambition is something that every student can … and should cultivate. It’s what makes learning possible.
+   --[The Key to Success](https://www.nytimes.com/2023/01/03/opinion/college-learning-students-success.html?unlocked_article_code=F3f26z22714tBrMI8BXaTkTAkVba0pX7JIor01URH6hLh-DffAxp2iF8G9bgqcngbCfA7RKwGOV5H_Gkv8R5BFc9-H7Z906Z2Az1NOcrYXqbp4DzbcorMvAGYRVNVa2JDEkrg6xt-YVfX3_JFS0NvV575syeVi1lvUKr_e6RW8-QsATzN2x4Boaz2k7yGLOMCcodOTTO81eyqEnjxvh8-upwHrTPklgEmCMOGHCDx9PX2g1E3IvnQIz6apaCfYLjfFQ1eKlO2Wc5BpwI9dMIebHClW9SYrSS_B3x-5tEk-iibC5hqNEagml2-oLUDT4_chIbD6yWqh2H567R30RQH0EMmIm3aaoWA9YD)
+
+4. Reading a lot (mostly on how things work and why they were created), re-doing (for yourself) technical design reviews, and having side projects are ways to remain technical (enough) as an engineering manager.
+   --[Leading With Confidence](https://softwareleadweekly.com/issues/531)
 
 ## Review
 
