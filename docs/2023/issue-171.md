@@ -125,6 +125,6 @@ Action creates progress. Progress creates momentum. Momentum creates motivation.
 
 ## Review
 
-- [The week in 2022(Issue-119)](https://github.com/lkcozy/weekly/blob/master/docs/2022/issue-119.md)
-- [The week in 2021(Issue-67)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-67.md)
-- [The week in 2020(Issue-19)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-19.md)
+- [The week in 2022(Issue-119)](../2022/issue-119.md)
+- [The week in 2021(Issue-67)](../2021/issue-67.md)
+- [The week in 2020(Issue-19)](../2020/issue-19.md)
