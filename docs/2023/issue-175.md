@@ -24,6 +24,12 @@ The largest ai tools directory updated daily
 
 A git prepare-commit-msg hook for authoring commit messages with GPT-3. With this tool, you can easily generate clear, comprehensive and descriptive commit messages letting you focus on writing code.
 
+4. [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+![](https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/master/screenshot.png)
+
+A browser interface based on Gradio library for Stable Diffusion.
+
 ## Tool
 
 1. [Diode](https://www.withdiode.com/)
@@ -69,13 +75,19 @@ In this article, you will learn about GraphQL types: the five built-in scalar ty
 
 A pamphlet that covers the basics of cryptocurrency.
 
-4. [Getting a Job as an Engineering Executive](https://softwareleadweekly.com/issues/532)
+4. [Getting a Job as an Engineering Executive](https://lethain.com/getting-engineering-executive-job/)
+
+The article offers advice on how to advance in a technical career and become an engineering executive. The author suggests focusing on building relationships with people in the industry, seeking out a mentor, and continuously learning new skills.
+
+He also recommends being intentional about career goals and developing a personal brand, as well as building a track record of success and leadership.
+
+Finally, the author stresses the importance of being patient and persistent in pursuing career advancement opportunities.
 
 It's helpful to understand your negotiation strategy (and what to expect) at different stages of the company.
 
 ## Comments
 
-1. Back to back meetings create an illusion of productivity。 The reason I’m concerned about the current meeting overload culture, is the trade-off being proactive and reactive work.
+1. Back to back meetings create an illusion of productivity. The reason I’m concerned about the current meeting overload culture, is the trade-off being proactive and reactive work.
    --[Jack Turner](https://medium.com/illumination/back-to-back-meetings-create-an-illusion-of-productivity-why-the-best-leaders-keep-an-empty-adbb02abdc0f)
 
 2. The difference between open and closed-minded people: Over time, the person who approaches life with an openness to being wrong and a willingness to learn outperforms the person who doesn’t.
