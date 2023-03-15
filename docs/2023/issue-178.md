@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 178, 2023-02-22
+# GISer's Weekly Issue 178, 2023-02-27
 
 ## GeoSpatial
 
@@ -16,11 +16,7 @@ This graphic by theWORLDMAPS uses data from FlixPatrol to highlight the streamin
 
 In recent years, video streaming has become an integral part of global entertainment. From Netflix and Amazon Prime to HBO Max and Apple TV, consumers today have many choices when it comes to streaming services.
 
-3. [Human mobility and COVID-19 transmission: a systematic review and future directions](https://www.tandfonline.com/doi/full/10.1080/19475683.2022.2041725)
-
-The article reviews the studies that have used human mobility data to analyze COVID-19 transmission and provides a systematic framework for future research. They propose a conceptual model that links human mobility data, COVID-19 transmission dynamics, and intervention measures. They suggest some challenges and opportunities for future research on human mobility and COVID-19 transmission.
-
-4. [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
+3. [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022004.webp)
 
