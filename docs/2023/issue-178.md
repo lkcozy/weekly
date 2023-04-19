@@ -78,7 +78,7 @@ Centuripe, a small town tucked in the hills of Sicily, is known as “the balcon
 
 ## Resources
 
-1. [https://www.zhenghao.io/posts/bad-interview-practices](https://www.zhenghao.io/posts/bad-interview-practices)
+1. [Three Common Interview Practices](https://www.zhenghao.io/posts/bad-interview-practices)
 
 The article discusses some bad interview practices that can lead to poor candidate experience and missed hiring opportunities.
 

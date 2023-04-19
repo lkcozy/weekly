@@ -70,7 +70,7 @@ The document argues that writing is a crucial skill for software engineers becau
 
 3. Those who seek to suppress disinformation may be destined, themselves, to sow it.
 
---[Megan Stack](https://www.nytimes.com/2023/03/28/opinion/covid-lab-leak-theory-disinformation.html?smid=nytcore-ios-share&referringSource=articleShare)
+--[Megan Stack](https://www.nytimes.com/2023/03/28/opinion/covid-lab-leak-theory-disinformation.html?smid=nytcore-ios-share)
 
 4. Reading won't be obsolete till writing is, and writing won't be obsolete till thinking is.
 
