@@ -31,7 +31,7 @@ grep -nri gis docs | cat -n
 
 ## 🐰 2023
 
-**April**: [Reading Fragments](fragments/2023.04.md) | [Issue #185](docs/2023/issue-185.md) :rocket: | [Issue #184](docs/2023/issue-184.md) | [Issue #183](docs/2023/issue-183.md) | [Issue #182](docs/2023/issue-182.md)
+**April**: [Reading Fragments](fragments/2023.04.md) | [Issue #185](docs/2023/issue-186.md) :rocket: | [Issue #185](docs/2023/issue-185.md) | [Issue #184](docs/2023/issue-184.md) | [Issue #183](docs/2023/issue-183.md) | [Issue #182](docs/2023/issue-182.md)
 
 **March**: [Reading Fragments](fragments/2023.03.md) | [Issue #181](docs/2023/issue-181.md) | [Issue #180](docs/2023/issue-180.md) | [Issue #179](docs/2023/issue-179.md)
 
@@ -146,24 +146,25 @@ or
 3. 💡[Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
 4. 💡[Software Engineering Research](https://abinoda.substack.com/): A newsletter brings you the latest research on developer productivity and experience
 5. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home
-6. 💡[Abundant Game](https://blog.abundantgame.com/): Reflections on thinking, rationality, mindfulness, philosophy, human psychology and behavior, for those who believe life is rich and full of possibilities.
-7. 🖥[ByteByteGo Newsletter](https://blog.bytebytego.com/): A popular weekly newsletter covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series.
-8. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks
-9. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world
-10. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog
-11. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom
-12. 🌏[The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
-13. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
-14. 🖥[React Newsletter](https://reactnewsletter.com/issues): Stay up to date on the latest React news, tutorials, resources, and more
-15. 🖥[JavaScript Weekly](https://javascriptweekly.com/): A newsletter of JavaScript articles, news and cool projects
-16. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
-17. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
-18. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub
-19. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
-20. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
-21. 🖥[dev.to](https://dev.to/): The developers' community.
-22. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog
-23. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
+6. [One Useful Thing](https://www.oneusefulthing.org/): By Prof. Ethan Mollick. Translating academic research into mostly useful insights, with some ephemera on the side. Mostly AI stuff recently.
+7. 💡[Abundant Game](https://blog.abundantgame.com/): Reflections on thinking, rationality, mindfulness, philosophy, human psychology and behavior, for those who believe life is rich and full of possibilities.
+8. 🖥[ByteByteGo Newsletter](https://blog.bytebytego.com/): A popular weekly newsletter covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series.
+9. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks
+10. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world
+11. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog
+12. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom
+13. 🌏[The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
+14. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
+15. 🖥[React Newsletter](https://reactnewsletter.com/issues): Stay up to date on the latest React news, tutorials, resources, and more
+16. 🖥[JavaScript Weekly](https://javascriptweekly.com/): A newsletter of JavaScript articles, news and cool projects
+17. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
+18. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
+19. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub
+20. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
+21. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
+22. 🖥[dev.to](https://dev.to/): The developers' community.
+23. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog
+24. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
 25. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer
 26. 🖥🇨🇳[BestXTools Weekly](https://discuss-cn.bestxtools.com/): finds and shares fun, creative, free and easy-to-use tools
 27. 📊[Visual Capitalist](https://www.visualcapitalist.com/)
