@@ -18,21 +18,21 @@ This could include:
 
 As a local government, utilizing GIS can help you better communicate that data through a visual component.
 
-## AI/ML
-
-1. [Placemaker](https://www.gislounge.com/using-humaps-placemaker-to-crowdsource-gis-data/)
+2. [Placemaker](https://www.gislounge.com/using-humaps-placemaker-to-crowdsource-gis-data/)
 
 ![](https://cdn.shortpixel.ai/spai/w_807+q_glossy+ret_img+to_webp/https://www.gislounge.com/wp-content/uploads/2022/07/placemaker-screenshot.png)
 
 Placemaker is a tool to allow users to draw accurately on a map, without the need to download complicated software or have prior GIS experience. Placemaker allows Digventures to present a series of reference layers of data (LiDAR, an historical map, and existing HER datasets) on a map, and makes drawing accurate shapes on the map as easy as using something like Microsoft Paint.
 
-2. [Bearly AI](https://bearly.ai/)
+## AI/ML
+
+1. [Bearly AI](https://bearly.ai/)
 
 ![](https://bearly.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdesktop.190fa47e.png&w=3840&q=75)
 
 Bearly makes you 10x faster by adding the state-of-the-art AI to your workflow. Reading, writing, and content creation are all one shortcut away.
 
-3. [Cheetah](https://github.com/leetcode-mafia/cheetah)
+2. [Cheetah](https://github.com/leetcode-mafia/cheetah)
 
 ![](https://github.com/leetcode-mafia/cheetah/raw/91cc5b89864fe28476a7e2062ede2c8322c17896/cheetah.jpg)
 

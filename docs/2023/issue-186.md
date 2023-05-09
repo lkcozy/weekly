@@ -66,7 +66,7 @@ Unclutter is a modern reader mode and article library for your browser.
 
 Entering a new domain and feeling the pressure to provide value is a real pain. It can happen when you join a new company or manage a new team, or as Boz writes, "I’ve joined a team whose work was already well under way, where I had a massive knowledge deficit, and didn’t have pre-existing relationships. None of those excuses relieved me from the pressure I felt to establish myself and contribute." -- follow his advice on structuring 30-minute meetings with relevant members to learn who else to talk with and the topics to cover.
 
-2. [18 Key Design Patterns Every Developer Should Know](https://blog.bytebytego.com/p/ep57-how-chatgpt-works-technically)
+2. [18 Key Design Patterns Every Developer Should Know](https://blog.bytebytego.com/i/118124214/key-design-patterns-every-developer-should-know)
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63fceee3-327d-4db5-a8ba-c2362a42971b_1421x1536.jpeg)
 
@@ -82,7 +82,7 @@ Patterns are reusable solutions to common design problems, resulting in a smooth
 - Composite: Tree Builder - Forms tree-like structures of simple and complex parts.
 - Bridge: Function Connector - Links how an object works to what it does.
 
-3. [How does Docker work?](https://blog.bytebytego.com/p/ep57-how-chatgpt-works-technically)
+3. [How does Docker work?](https://blog.bytebytego.com/i/118124214/how-does-docker-work)
 
 ![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6d6cfde-1ff5-4f51-ae35-a56040befa57_1280x1617.jpeg)
 
@@ -105,11 +105,11 @@ Compared with traditional development without Docker, Docker is quite lightweigh
 3. The public has a distorted view of science because children are taught in school that science is a collection of firmly established truths. In fact, science is not a collection of truths. It is a continuing exploration of mysteries.
    --[Writing for Productive Communication](https://fs.blog/carl-braun-communicating/)
 
-4. what makes life mean something is purpose. A goal. The battle. The struggle. Even if you don’t win it.
-   --[Twitter user](https://twitter.com/mkt_sentiment/status/1624481279520698368)
+4.What makes life mean something is purpose. A goal. The battle. The struggle. Even if you don’t win it.
+--[Twitter user](https://twitter.com/mkt_sentiment/status/1624481279520698368)
 
 ## Review
 
 - [The week in 2022(Issue-134)](../2022/issue-134.md)
 - [The week in 2021(Issue-82)](../2021/issue-82.md)
-- [The week in 2020(Issue-34)](../2020/issue-33.md)
+- [The week in 2020(Issue-34)](../2020/issue-34.md)
