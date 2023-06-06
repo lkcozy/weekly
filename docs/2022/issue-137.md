@@ -110,5 +110,5 @@ The always-wise Kevin Kelly with another birthday roundup of life advice. All ki
 
 ## Review
 
-- [The week in 2021(Issue-86)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-86.md)
-- [The week in 2020(Issue-37)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-37.md)
+- [The week of 2021(Issue-86)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-86.md)
+- [The week of 2020(Issue-37)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-37.md)

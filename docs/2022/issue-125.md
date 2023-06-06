@@ -94,5 +94,5 @@ Yarn Berry goes even further by ditching node_modules completely with its Plugâ€
 
 ## Review
 
-- [The week in 2021(Issue-73)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-73.md)
-- [The week in 2020(Issue-25)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-25.md)
+- [The week of 2021(Issue-73)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-73.md)
+- [The week of 2020(Issue-25)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-25.md)

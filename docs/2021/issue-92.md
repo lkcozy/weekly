@@ -112,4 +112,4 @@ This article teaches you how to use the proxy function provided by the browser t
 
 ## Review
 
-[The week in 2020(Issue-43)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-43.md)
+[The week of 2020(Issue-43)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-43.md)

@@ -123,4 +123,4 @@ This project showcases the use of blockchain in the insurance domain for the cla
 
 ## Review
 
-[The week in 2019(Issue-11)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-11.md)
+[The week of 2019(Issue-11)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-11.md)

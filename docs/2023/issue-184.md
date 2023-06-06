@@ -102,6 +102,6 @@ Counter arguments:
 
 ## Review
 
-- [The week in 2022(Issue-132)](../2022/issue-132.md)
-- [The week in 2021(Issue-80)](../2021/issue-80.md)
-- [The week in 2020(Issue-32)](../2020/issue-32.md)
+- [The week of 2022(Issue-132)](../2022/issue-132.md)
+- [The week of 2021(Issue-80)](../2021/issue-80.md)
+- [The week of 2020(Issue-32)](../2020/issue-32.md)

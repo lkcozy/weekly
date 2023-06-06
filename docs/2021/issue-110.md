@@ -97,5 +97,5 @@ The top 3 things we can learn:
 
 ## Review
 
-- [The week in 2020(Issue-61)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-61.md)
-- [The week in 2019(Issue-13)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-13.md)
+- [The week of 2020(Issue-61)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-61.md)
+- [The week of 2019(Issue-13)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-13.md)

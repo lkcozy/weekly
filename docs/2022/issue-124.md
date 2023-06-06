@@ -80,5 +80,5 @@ The author talks about why having GitHub can help a team (more than 2 data folks
 
 ## Review
 
-- [The week in 2021(Issue-72)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-72.md)
-- [The week in 2020(Issue-24)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-24.md)
+- [The week of 2021(Issue-72)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-72.md)
+- [The week of 2020(Issue-24)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-24.md)

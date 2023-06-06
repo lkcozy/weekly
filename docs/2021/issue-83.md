@@ -136,4 +136,4 @@ The author experienced the Seam Carving algorithm through building an interactiv
 
 ## Review
 
-[The week in 2020(Issue-34)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-34.md)
+[The week of 2020(Issue-34)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-34.md)

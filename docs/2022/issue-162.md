@@ -128,6 +128,6 @@ The Courage to Be Happy offers a hands-on guide to effective parenting by compil
 
 ## Review
 
-- [The week in 2021(Issue-111)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-111.md)
-- [The week in 2020(Issue-61)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-61.md)
-- [The week in 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)
+- [The week of 2021(Issue-111)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-111.md)
+- [The week of 2020(Issue-61)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-61.md)
+- [The week of 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)

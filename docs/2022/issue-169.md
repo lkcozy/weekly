@@ -78,6 +78,6 @@ Fallacies of distributed systems are a set of assertions L Peter Deutsch and oth
 
 ## Review
 
-- [The week in 2021(Issue-117)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-117.md)
-- [The week in 2020(Issue-65)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-65.md)
-- [The week in 2019(Issue-17)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-17.md)
+- [The week of 2021(Issue-117)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-117.md)
+- [The week of 2020(Issue-65)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-65.md)
+- [The week of 2019(Issue-17)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-17.md)

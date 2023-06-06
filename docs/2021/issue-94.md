@@ -105,4 +105,4 @@ The author explains how to build a 6kb docker container image that's still usefu
 
 ## Review
 
-[The week in 2020(Issue-45)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-45.md)
+[The week of 2020(Issue-45)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-45.md)

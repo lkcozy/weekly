@@ -87,5 +87,5 @@ An open-source set of Emoji.
 
 ## Review
 
-- [The week in 2020(Issue-57)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-57.md)
-- [The week in 2019(Issue-9)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-9.md)
+- [The week of 2020(Issue-57)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-57.md)
+- [The week of 2019(Issue-9)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-9.md)

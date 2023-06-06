@@ -105,5 +105,5 @@ I know that there is no mechanism more powerful than persistence. This gives me 
 
 ## Review
 
-- [The week in 2021(Issue-78)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-78.md)
-- [The week in 2020(Issue-29)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-29.md)
+- [The week of 2021(Issue-78)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-78.md)
+- [The week of 2020(Issue-29)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-29.md)

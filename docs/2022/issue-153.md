@@ -119,6 +119,6 @@ Having 5 to 7 engineers per team is ideal. There are several arguments to justif
 
 ## Review
 
-- [The week in 2021(Issue-102)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-102.md)
-- [The week in 2020(Issue-53)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-53.md)
-- [The week in 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)
+- [The week of 2021(Issue-102)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-102.md)
+- [The week of 2020(Issue-53)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-53.md)
+- [The week of 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)

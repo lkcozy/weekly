@@ -94,4 +94,4 @@ The common business model of open-source software is `providing a free,open sour
 
 ## Review
 
-[The week in 2019(Issue-18)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-18.md)
+[The week of 2019(Issue-18)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-18.md)

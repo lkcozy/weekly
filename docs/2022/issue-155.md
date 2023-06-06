@@ -120,6 +120,6 @@ Half-autobiography, half-business building book — Danny Meyer's story of build
 
 ## Review
 
-- [The week in 2021(Issue-104)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-104.md)
-- [The week in 2020(Issue-55)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-55.md)
-- [The week in 2019(Issue-7)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-7.md)
+- [The week of 2021(Issue-104)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-104.md)
+- [The week of 2020(Issue-55)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-55.md)
+- [The week of 2019(Issue-7)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-7.md)

@@ -146,4 +146,4 @@ The result is a summary of his big ideas — and these are the biggest:
 
 ## Review
 
-[The week in 2020(Issue-36)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-36.md)
+[The week of 2020(Issue-36)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-36.md)

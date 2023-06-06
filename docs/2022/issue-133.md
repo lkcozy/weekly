@@ -105,5 +105,5 @@ Treat documentation like a discipline. As much as you incentivize shipping code,
 
 ## Review
 
-- [The week in 2021(Issue-82)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-82.md)
-- [The week in 2020(Issue-33)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-33.md)
+- [The week of 2021(Issue-82)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-82.md)
+- [The week of 2020(Issue-33)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-33.md)

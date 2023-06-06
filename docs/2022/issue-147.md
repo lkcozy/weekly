@@ -106,5 +106,5 @@ The author put together a list and explained why they are essential. Those algor
 
 ## Review
 
-- [The week in 2021(Issue-96)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-96.md)
-- [The week in 2020(Issue-47)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-47.md)
+- [The week of 2021(Issue-96)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-96.md)
+- [The week of 2020(Issue-47)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-47.md)

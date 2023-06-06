@@ -140,5 +140,5 @@ Knowledge is only potential power. Knowledge x Application = Power.
 
 ## Review
 
-- [The week in 2021(Issue-80)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-80.md)
-- [The week in 2020(Issue-31)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-31.md)
+- [The week of 2021(Issue-80)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-80.md)
+- [The week of 2020(Issue-31)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-31.md)

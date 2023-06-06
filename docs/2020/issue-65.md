@@ -171,4 +171,4 @@ This site offers free copyright background music from YouTube and can be used fo
 
 ## Review
 
-[The week in 2019(Issue-17)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-17.md)
+[The week of 2019(Issue-17)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-17.md)

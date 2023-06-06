@@ -102,4 +102,4 @@ In this article, we looked at the basic building blocks of a Solidity contract a
 
 ## Review
 
-[The week in 2020(Issue-64)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-64.md)
+[The week of 2020(Issue-64)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-64.md)

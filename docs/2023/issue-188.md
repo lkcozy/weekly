@@ -116,6 +116,6 @@ When choosing between RPC and RESTful, consider your application's needs. RPC mi
 
 ## Review
 
-- [The week in 2022(Issue-136)](../2022/issue-136.md)
-- [The week in 2021(Issue-84)](../2021/issue-84.md)
-- [The week in 2020(Issue-36)](../2020/issue-36.md)
+- [The week of 2022(Issue-136)](../2022/issue-136.md)
+- [The week of 2021(Issue-84)](../2021/issue-84.md)
+- [The week of 2020(Issue-36)](../2020/issue-36.md)

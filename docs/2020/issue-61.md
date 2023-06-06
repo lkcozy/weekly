@@ -138,4 +138,4 @@ Plug-and-play implementation of an Apache Spark custom data source for AWS Dynam
 
 ## Review
 
-[The week in 2019(Issue-13)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-13.md)
+[The week of 2019(Issue-13)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-13.md)

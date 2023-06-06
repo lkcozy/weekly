@@ -144,5 +144,5 @@ A long list of advice with something for everyone on the topic of money.
 
 ## Review
 
-- [The week in 2021(Issue-84)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-84.md)
-- [The week in 2020(Issue-35)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-35.md)
+- [The week of 2021(Issue-84)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-84.md)
+- [The week of 2020(Issue-35)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-35.md)

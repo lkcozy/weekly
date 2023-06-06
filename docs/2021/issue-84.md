@@ -107,4 +107,4 @@ The biggest problem for startups is that they don't have the resources, but KK t
 
 ## Review
 
-[The week in 2020(Issue-35)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-35.md)
+[The week of 2020(Issue-35)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-35.md)

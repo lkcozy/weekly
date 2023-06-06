@@ -110,6 +110,6 @@ The viewpoint highlights the importance of focusing on outcomes and experimentin
 
 ## Review
 
-- [The week in 2022(Issue-125)](../2022/issue-125.md)
-- [The week in 2021(Issue-73)](../2021/issue-73.md)
-- [The week in 2020(Issue-25)](../2020/issue-25.md)
+- [The week of 2022(Issue-125)](../2022/issue-125.md)
+- [The week of 2021(Issue-73)](../2021/issue-73.md)
+- [The week of 2020(Issue-25)](../2020/issue-25.md)

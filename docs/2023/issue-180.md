@@ -122,6 +122,6 @@ The author identified a set of qualities and behaviours required for a true Seni
 
 ## Review
 
-- [The week in 2022(Issue-128)](../2022/issue-128.md)
-- [The week in 2021(Issue-76)](../2021/issue-76.md)
-- [The week in 2020(Issue-28)](../2020/issue-28.md)
+- [The week of 2022(Issue-128)](../2022/issue-128.md)
+- [The week of 2021(Issue-76)](../2021/issue-76.md)
+- [The week of 2020(Issue-28)](../2020/issue-28.md)

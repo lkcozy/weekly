@@ -88,4 +88,4 @@ A single-take video shot with a drone flying through a Minnesota bowling alley h
 
 ## Review
 
-[The week in 2020(Issue-30)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-30.md)
+[The week of 2020(Issue-30)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-30.md)

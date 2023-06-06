@@ -101,6 +101,6 @@ The composition of domain objects:
 
 ## Review
 
-- [The week in 2021(Issue-112)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-112.md)
-- [The week in 2020(Issue-62)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-62.md)
-- [The week in 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)
+- [The week of 2021(Issue-112)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-112.md)
+- [The week of 2020(Issue-62)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-62.md)
+- [The week of 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)

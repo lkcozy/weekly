@@ -129,6 +129,6 @@ Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 
 ## Review
 
-- [The week in 2021(Issue-107)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-107.md)
-- [The week in 2020(Issue-58)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-58.md)
-- [The week in 2019(Issue-10)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-10.md)
+- [The week of 2021(Issue-107)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-107.md)
+- [The week of 2020(Issue-58)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-58.md)
+- [The week of 2019(Issue-10)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-10.md)

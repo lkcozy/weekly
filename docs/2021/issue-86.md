@@ -156,4 +156,4 @@ git push
 
 ## Review
 
-[The week in 2020(Issue-37)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-37.md)
+[The week of 2020(Issue-37)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-37.md)

@@ -128,6 +128,6 @@ Here are 3 of my favourite principles about making small changes to improve for 
 
 ## Review
 
-- [The week in 2021(Issue-105)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-105.md)
-- [The week in 2020(Issue-56)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-56.md)
-- [The week in 2019(Issue-8)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-8.md)
+- [The week of 2021(Issue-105)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-105.md)
+- [The week of 2020(Issue-56)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-56.md)
+- [The week of 2019(Issue-8)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-8.md)

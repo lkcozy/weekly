@@ -124,4 +124,4 @@ The author explains what a thread is, how it differs from a process, the pros an
 
 ## Review
 
-[The week in 2020(Issue-29)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-29.md)
+[The week of 2020(Issue-29)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-29.md)

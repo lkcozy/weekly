@@ -153,5 +153,5 @@ Often, the answer will be right in some ways and wrong in others, but even so, i
 
 ## Review
 
-- [The week in 2020(Issue-62)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-62.md)
-- [The week in 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)
+- [The week of 2020(Issue-62)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-62.md)
+- [The week of 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)

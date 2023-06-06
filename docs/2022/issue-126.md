@@ -102,5 +102,5 @@ If The video content is included ppt, then this tool can extract the ppt from th
 
 ## Review
 
-- [The week in 2021(Issue-74)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-74.md)
-- [The week in 2020(Issue-26)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-26.md)
+- [The week of 2021(Issue-74)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-74.md)
+- [The week of 2020(Issue-26)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-26.md)

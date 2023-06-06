@@ -91,4 +91,4 @@ A curated list of commands to execute everyday tasks which might be tempted to d
 
 ## Review
 
-[The week in 2020(Issue-39)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-39.md)
+[The week of 2020(Issue-39)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-39.md)

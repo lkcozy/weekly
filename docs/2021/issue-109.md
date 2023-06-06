@@ -109,5 +109,5 @@ The innovation is the execution: adapting the model to fit, understanding the lo
 
 ## Review
 
-- [The week in 2020(Issue-60)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-60.md)
-- [The week in 2019(Issue-12)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-12.md)
+- [The week of 2020(Issue-60)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-60.md)
+- [The week of 2019(Issue-12)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-12.md)

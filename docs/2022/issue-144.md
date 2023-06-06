@@ -120,5 +120,5 @@ The result should be that you feel confident in how you will move forward with t
 
 ## Review
 
-- [The week in 2021(Issue-93)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-93.md)
-- [The week in 2020(Issue-44)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-44.md)
+- [The week of 2021(Issue-93)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-93.md)
+- [The week of 2020(Issue-44)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-44.md)

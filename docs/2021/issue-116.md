@@ -77,5 +77,5 @@ In this tutorial, we’ll learn how to set up a GraphQL API in Node.js and how t
 
 ## Review
 
-- [The week in 2020(Issue-64)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-64.md)
-- [The week in 2019(Issue-16)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-16.md)
+- [The week of 2020(Issue-64)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-64.md)
+- [The week of 2019(Issue-16)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-16.md)

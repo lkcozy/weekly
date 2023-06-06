@@ -151,4 +151,4 @@ A debate guide in a collaborative approach.
 
 ## Review
 
-[The week in 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)
+[The week of 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)

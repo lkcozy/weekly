@@ -127,4 +127,4 @@ David Perell shared three thoughts on education:
 
 ## Review
 
-[The week in 2020(Issue-32)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-32.md)
+[The week of 2020(Issue-32)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-32.md)

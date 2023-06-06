@@ -128,4 +128,4 @@ A collection of react related components and libraries.
 
 ## Review
 
-[The week in 2020(Issue-27)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-27.md)
+[The week of 2020(Issue-27)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-27.md)

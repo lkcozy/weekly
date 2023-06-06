@@ -116,4 +116,4 @@ This full-length Docker book is rich with code examples. It will teach you all a
 
 ## Review
 
-[The week in 2020(Issue-23)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-23.md)
+[The week of 2020(Issue-23)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-23.md)

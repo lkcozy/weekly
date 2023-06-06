@@ -82,4 +82,4 @@ In the end, I'm going to continue to code, but not at work. I need a clear delin
 
 ## Review
 
-[The week in 2020(Issue-21)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-21.md)
+[The week of 2020(Issue-21)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-21.md)

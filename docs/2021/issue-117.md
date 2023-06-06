@@ -93,5 +93,5 @@ Not only is it possible to connect to AWS Lambda via WebSockets using MQTT or AW
 
 ## Review
 
-- [The week in 2020(Issue-65)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-65.md)
-- [The week in 2019(Issue-17)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-17.md)
+- [The week of 2020(Issue-65)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-65.md)
+- [The week of 2019(Issue-17)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-17.md)

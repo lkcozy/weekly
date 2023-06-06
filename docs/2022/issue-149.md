@@ -106,6 +106,6 @@ A quick post on how to work with dates in different formats more efficiently wit
 
 ## Review
 
-- [The week in 2021(Issue-98)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-98.md)
-- [The week in 2020(Issue-49)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-49.md)
-- [The week in 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-1.md)
+- [The week of 2021(Issue-98)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-98.md)
+- [The week of 2020(Issue-49)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-49.md)
+- [The week of 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-1.md)

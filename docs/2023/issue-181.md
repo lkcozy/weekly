@@ -99,6 +99,6 @@ A detailed list of best practices for Amazon Web Services (AWS)
 
 ## Review
 
-- [The week in 2022(Issue-129)](../2022/issue-129.md)
-- [The week in 2021(Issue-77)](../2021/issue-77.md)
-- [The week in 2020(Issue-29)](../2020/issue-29.md)
+- [The week of 2022(Issue-129)](../2022/issue-129.md)
+- [The week of 2021(Issue-77)](../2021/issue-77.md)
+- [The week of 2020(Issue-29)](../2020/issue-29.md)

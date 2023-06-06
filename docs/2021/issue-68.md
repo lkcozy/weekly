@@ -99,4 +99,4 @@ This repo collects some real significant data analysis cases to understand how t
 
 ## Review
 
-[The week in 2020(Issue-20)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-20.md)
+[The week of 2020(Issue-20)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-20.md)

@@ -106,6 +106,6 @@ Instead of asking overused questions, come up with interview questions that are 
 
 ## Review
 
-- [The week in 2022(Issue-126)](../2022/issue-126.md)
-- [The week in 2021(Issue-74)](../2021/issue-74.md)
-- [The week in 2020(Issue-26)](../2020/issue-26.md)
+- [The week of 2022(Issue-126)](../2022/issue-126.md)
+- [The week of 2021(Issue-74)](../2021/issue-74.md)
+- [The week of 2020(Issue-26)](../2020/issue-26.md)

@@ -106,6 +106,6 @@ In some ways, my journal is my rubber duck.
 
 ## Review
 
-- [The week in 2021(Issue-113)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-113.md)
-- [The week in 2020(Issue-62)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-62.md)
-- [The week in 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)
+- [The week of 2021(Issue-113)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-113.md)
+- [The week of 2020(Issue-62)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-62.md)
+- [The week of 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)

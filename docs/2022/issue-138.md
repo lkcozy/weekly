@@ -134,5 +134,5 @@ Scrum, or any other process, is neither bad nor good if you know what you're aim
 
 ## Review
 
-- [The week in 2021(Issue-87)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-87.md)
-- [The week in 2020(Issue-38)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-38.md)
+- [The week of 2021(Issue-87)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-87.md)
+- [The week of 2020(Issue-38)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-38.md)

@@ -112,4 +112,4 @@ An overview of the JavaScript landscape in 2020: trends about front-end and Node
 
 ## Review
 
-[The week in 2020(Issue-26)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-26.md)
+[The week of 2020(Issue-26)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-26.md)

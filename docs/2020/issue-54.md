@@ -103,4 +103,4 @@ Eight regular expressions that you should know for your next coding project.
 
 ## Review
 
-[The week in 2019(Issue-6)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-6.md)
+[The week of 2019(Issue-6)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-6.md)

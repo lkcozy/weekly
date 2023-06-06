@@ -114,4 +114,4 @@ A Netflix clone made with React + Redux.
 
 ## Review
 
-[The week in 2020(Issue-48)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-48.md)
+[The week of 2020(Issue-48)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-48.md)

@@ -78,6 +78,6 @@ The document argues that writing is a crucial skill for software engineers becau
 
 ## Review
 
-- [The week in 2022(Issue-130)](../2022/issue-130.md)
-- [The week in 2021(Issue-78)](../2021/issue-78.md)
-- [The week in 2020(Issue-30)](../2020/issue-30.md)
+- [The week of 2022(Issue-130)](../2022/issue-130.md)
+- [The week of 2021(Issue-78)](../2021/issue-78.md)
+- [The week of 2020(Issue-30)](../2020/issue-30.md)

@@ -139,5 +139,5 @@ In other words, well-written open-source projects can become victims of their ow
 
 ## Review
 
-- [The week in 2021(Issue-79)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-79.md)
-- [The week in 2020(Issue-30)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-30.md)
+- [The week of 2021(Issue-79)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-79.md)
+- [The week of 2020(Issue-30)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-30.md)

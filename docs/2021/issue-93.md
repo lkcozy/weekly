@@ -144,4 +144,4 @@ In order to be innovative and compete, we need very flexible working laws, peopl
 
 ## Review
 
-[The week in 2020(Issue-44)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-44.md)
+[The week of 2020(Issue-44)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-44.md)

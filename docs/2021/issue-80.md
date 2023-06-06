@@ -143,4 +143,4 @@ Visualizing data structures and algorithms through animation
 
 ## Review
 
-[The week in 2020(Issue-31)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-31.md)
+[The week of 2020(Issue-31)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-31.md)

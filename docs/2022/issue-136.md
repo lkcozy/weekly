@@ -114,5 +114,5 @@ A detailed description of how to set up a new Mac for the web development enviro
 
 ## Review
 
-- [The week in 2021(Issue-85)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-85.md)
-- [The week in 2020(Issue-36)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-36.md)s
+- [The week of 2021(Issue-85)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-85.md)
+- [The week of 2020(Issue-36)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-36.md)s

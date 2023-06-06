@@ -117,4 +117,4 @@ Container security is a broad problem space, and there are many low hanging frui
 
 ## Review
 
-[The week in 2019(Issue-9)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-9.md)
+[The week of 2019(Issue-9)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-9.md)

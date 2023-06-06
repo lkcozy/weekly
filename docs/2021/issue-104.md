@@ -94,5 +94,5 @@ More than 84 Blockchain Consensus were described.
 
 ## Review
 
-- [The week in 2020(Issue-55)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-55.md)
-- [The week in 2019(Issue-7)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-7.md)
+- [The week of 2020(Issue-55)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-55.md)
+- [The week of 2019(Issue-7)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-7.md)

@@ -78,6 +78,6 @@ Later, if the business model doesn't work, we can just stop using the services t
 
 ## Review
 
-- [The week in 2022(Issue-124)](../2022/issue-124.md)
-- [The week in 2021(Issue-72)](../2021/issue-72.md)
-- [The week in 2020(Issue-24)](../2020/issue-24.md)
+- [The week of 2022(Issue-124)](../2022/issue-124.md)
+- [The week of 2021(Issue-72)](../2021/issue-72.md)
+- [The week of 2020(Issue-24)](../2020/issue-24.md)

@@ -101,5 +101,5 @@ This article gathers valuable resources to build a strong understanding of block
 
 ## Review
 
-- [The week in 2021(Issue-77)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-76.md)
-- [The week in 2020(Issue-28)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-28.md)
+- [The week of 2021(Issue-77)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-76.md)
+- [The week of 2020(Issue-28)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-28.md)

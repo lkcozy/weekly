@@ -86,5 +86,5 @@ Use graphics to explain the types of SQL Join, simple and easy to understand.
 
 ## Review
 
-- [The week in 2020(Issue-49)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-49.md)
-- [The week in 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-1.md)
+- [The week of 2020(Issue-49)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-49.md)
+- [The week of 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-1.md)

@@ -101,4 +101,4 @@ Instead, I want a long-term engagement where understanding and trust are built u
 
 ## Review
 
-- [The week in 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-1.md)
+- [The week of 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-1.md)

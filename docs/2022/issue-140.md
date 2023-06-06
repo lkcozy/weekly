@@ -111,5 +111,5 @@ This essay by Paul Graham should be required reading not only as a citizen of th
 
 ## Review
 
-- [The week in 2021(Issue-89)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-89.md)
-- [The week in 2020(Issue-40)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-40.md)
+- [The week of 2021(Issue-89)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-89.md)
+- [The week of 2020(Issue-40)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-40.md)

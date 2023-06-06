@@ -129,5 +129,5 @@ The author used six questions to guide when to find a new job.
 
 ## Review
 
-- [The week in 2021(Issue-95)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-95.md)
-- [The week in 2020(Issue-46)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-46.md)
+- [The week of 2021(Issue-95)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-95.md)
+- [The week of 2020(Issue-46)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-46.md)

@@ -142,4 +142,4 @@ A paper model of China's Tiangong Space Station. You can download a [PDF file fr
 
 ## Review
 
-[The week in 2020(Issue-41)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-41.md)
+[The week of 2020(Issue-41)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-41.md)

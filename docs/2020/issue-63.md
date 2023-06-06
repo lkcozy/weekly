@@ -120,4 +120,4 @@ As a result, a human will in 35 days have experienced under these suppositions a
 
 ## Review
 
-[The week in 2019(Issue-15)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-15.md)
+[The week of 2019(Issue-15)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-15.md)

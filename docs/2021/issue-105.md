@@ -70,5 +70,5 @@ The author shares some insights that he has learned since transitioning into a t
 
 ## Review
 
-- [The week in 2020(Issue-56)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-56.md)
-- [The week in 2019(Issue-8)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-8.md)
+- [The week of 2020(Issue-56)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-56.md)
+- [The week of 2019(Issue-8)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-8.md)

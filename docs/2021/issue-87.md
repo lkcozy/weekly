@@ -123,4 +123,4 @@ The author explains how to build a multi-tenant React client with an Appsync, Co
 
 ## Review
 
-[The week in 2020(Issue-38)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-38.md)
+[The week of 2020(Issue-38)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-38.md)

@@ -123,5 +123,5 @@ Strategy, like planning, has merit by helping us prioritize and make decisions. 
 
 ## Review
 
-- [The week in 2021(Issue-94)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-94.md)
-- [The week in 2020(Issue-45)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-45.md)
+- [The week of 2021(Issue-94)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-94.md)
+- [The week of 2020(Issue-45)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-45.md)

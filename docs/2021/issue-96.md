@@ -122,4 +122,4 @@ This article will learn what pre-commit is and which plugins you can add to a pr
 
 ## Review
 
-[The week in 2020(Issue-47)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-47.md)
+[The week of 2020(Issue-47)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-47.md)

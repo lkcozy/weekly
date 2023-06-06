@@ -176,4 +176,4 @@ A few different coordinate systems in use in 3D modelling and simulation!
 
 ## Review
 
-[The week in 2019(Issue-12)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-12.md)
+[The week of 2019(Issue-12)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-12.md)

@@ -109,4 +109,4 @@ Statistical learning method notes - based on Python algorithm implementation
 
 ## Review
 
-[The week in 2020(Issue-28)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-28.md)
+[The week of 2020(Issue-28)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-28.md)

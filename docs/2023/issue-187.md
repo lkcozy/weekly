@@ -84,6 +84,6 @@ This paper investigates how software developers can improve their work habits an
 
 ## Review
 
-- [The week in 2022(Issue-135)](../2022/issue-135.md)
-- [The week in 2021(Issue-83)](../2021/issue-83.md)
-- [The week in 2020(Issue-35)](../2020/issue-35.md)
+- [The week of 2022(Issue-135)](../2022/issue-135.md)
+- [The week of 2021(Issue-83)](../2021/issue-83.md)
+- [The week of 2020(Issue-35)](../2020/issue-35.md)

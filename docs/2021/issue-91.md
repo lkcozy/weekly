@@ -140,4 +140,4 @@ A close look at the Bitcoin design process, from the concept of open design to u
 
 ## Review
 
-[The week in 2020(Issue-42)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-42.md)
+[The week of 2020(Issue-42)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-42.md)

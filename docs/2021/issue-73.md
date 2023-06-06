@@ -128,4 +128,4 @@ State management with React is a rugged tool belt, but not everyone has the prio
 
 ## Review
 
-[The week in 2020(Issue-25)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-25.md)
+[The week of 2020(Issue-25)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-25.md)

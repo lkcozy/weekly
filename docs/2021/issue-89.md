@@ -159,4 +159,4 @@ defaults write com.apple.finder AppleShowAllFiles true
 
 ## Review
 
-[The week in 2020(Issue-40)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-40.md)
+[The week of 2020(Issue-40)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-40.md)

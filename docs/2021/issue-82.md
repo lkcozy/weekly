@@ -202,4 +202,4 @@ ArchiveBox is a powerful, self-hosted internet archiving solution to collect, sa
 
 ## Review
 
-[The week in 2020(Issue-33)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-33.md)
+[The week of 2020(Issue-33)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-33.md)

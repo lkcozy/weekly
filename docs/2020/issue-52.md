@@ -92,4 +92,4 @@ Introduce how to design Web APIs.
 
 ## Review
 
-[The week in 2019(Issue-4)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-4.md)
+[The week of 2019(Issue-4)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-4.md)

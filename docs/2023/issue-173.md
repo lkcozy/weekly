@@ -87,6 +87,6 @@ You can create multiple entry points in a CRA application without ejecting using
 
 ## Review
 
-- [The week in 2022(Issue-121)](../2022/issue-121.md)
-- [The week in 2021(Issue-69)](../2021/issue-69.md)
-- [The week in 2020(Issue-21)](../2020/issue-21.md)
+- [The week of 2022(Issue-121)](../2022/issue-121.md)
+- [The week of 2021(Issue-69)](../2021/issue-69.md)
+- [The week of 2020(Issue-21)](../2020/issue-21.md)

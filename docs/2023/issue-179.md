@@ -52,11 +52,11 @@ ClickPrompt is a tool designed for Prompt writers that supports a variety of Pro
 
 ## Research
 
-1. [Scispace](https://duckduckgo.com/?q=SciSpace&atb=v314-1&ia=web)
+1. [Scispace Copilot](https://typeset.io/resources/introducing-copilot-ai-assistant-explains-research-papers/)
 
 ![](https://pic4.zhimg.com/80/v2-5b3ff48b915f96306855bdb7d4beb1d7_720w.webp)
 
-Scispace is a platform that helps you access, understand, and create scientific literature. It uses AI to provide simple explanations and instant answers for any research paper. It also helps you discover relevant papers without specifying keywords
+Scispace Copilot is a platform that helps you access, understand, and create scientific literature. It uses AI to provide simple explanations and instant answers for any research paper. It also helps you discover relevant papers without specifying keywords
 
 2. [ResearchGPT](https://github.com/mukulpatnaik/researchgpt)
 
@@ -112,6 +112,6 @@ Good writing, like good thinking, takes time.
 
 ## Review
 
-- [The week in 2022(Issue-127)](../2022/issue-127.md)
-- [The week in 2021(Issue-75)](../2021/issue-75.md)
-- [The week in 2020(Issue-27)](../2020/issue-27.md)
+- [The week of 2022(Issue-127)](../2022/issue-127.md)
+- [The week of 2021(Issue-75)](../2021/issue-75.md)
+- [The week of 2020(Issue-27)](../2020/issue-27.md)

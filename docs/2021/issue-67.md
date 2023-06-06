@@ -112,4 +112,4 @@ The MIT CS course to teach you how to master essential software development tool
 
 ## Review
 
-[The week in 2020(Issue-19)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-19.md)
+[The week of 2020(Issue-19)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-19.md)

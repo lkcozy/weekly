@@ -98,4 +98,4 @@ A curated list of blockchain and general cryptocurrency resources
 
 ## Review
 
-[The week in 2020(Issue-46)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-46.md)
+[The week of 2020(Issue-46)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-46.md)

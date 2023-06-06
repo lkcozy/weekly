@@ -135,4 +135,4 @@ GraphQL will help you build rich mobile or web clients.
 
 ## Review
 
-[The week in 2019(Issue-10)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-10.md)
+[The week of 2019(Issue-10)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-10.md)

@@ -109,4 +109,4 @@ Get Hacker News Top 10 daily news by executing scripts regularly through GitHub 
 
 ## Review
 
-[The week in 2019(Issue-3)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-3.md)
+[The week of 2019(Issue-3)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-3.md)

@@ -182,4 +182,4 @@ In conclusion, discover what’s easy for you but hard for others, then get so g
 
 ## Review
 
-[The week in 2019(Issue-7)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-7.md)
+[The week of 2019(Issue-7)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-7.md)

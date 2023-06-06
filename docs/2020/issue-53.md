@@ -99,4 +99,4 @@ Day.js 2KB immutable date library alternative to Moment.js with the same modern 
 
 ## Review
 
-[The week in 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)
+[The week of 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)

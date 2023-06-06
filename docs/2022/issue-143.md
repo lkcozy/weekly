@@ -135,5 +135,5 @@ Patterns.dev is a free book on design patterns and component patterns for buildi
 
 ## Review
 
-- [The week in 2021(Issue-92)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-92.md)
-- [The week in 2020(Issue-43)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-43.md)
+- [The week of 2021(Issue-92)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-92.md)
+- [The week of 2020(Issue-43)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-43.md)

@@ -124,4 +124,4 @@ webify invokes your script and writes the request body to your process' stdin. S
 
 ## Review
 
-[The week in 2019(Issue-2)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-2.md)
+[The week of 2019(Issue-2)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-2.md)

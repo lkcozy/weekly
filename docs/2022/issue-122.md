@@ -83,5 +83,5 @@ A curated list of awesome public courses and wonderful study resource. Most of t
 
 ## Review
 
-- [The week in 2021(Issue-70)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-70.md)
-- [The week in 2020(Issue-22)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-22.md)
+- [The week of 2021(Issue-70)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-70.md)
+- [The week of 2020(Issue-22)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-22.md)

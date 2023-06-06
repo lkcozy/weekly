@@ -107,6 +107,6 @@ A curated collection of diagramming tools used by leading software engineering t
 
 ## Review
 
-- [The week in 2021(Issue-109)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-109.md)
-- [The week in 2020(Issue-60)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-60.md)
-- [The week in 2019(Issue-12)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-12.md)
+- [The week of 2021(Issue-109)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-109.md)
+- [The week of 2020(Issue-60)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-60.md)
+- [The week of 2019(Issue-12)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-12.md)
