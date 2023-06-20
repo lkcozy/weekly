@@ -31,7 +31,7 @@ grep -nri gis docs | cat -n
 
 ## 🐰 2023
 
-**Jun**: [Reading Fragments](fragments/2023.06.md) | [Issue #192](docs/2023/issue-192.md) :rocket: | [Issue #191](docs/2023/issue-191.md)
+**Jun**: [Reading Fragments](fragments/2023.06.md) | [Issue #193](docs/2023/issue-193.md) :rocket: | [Issue #192](docs/2023/issue-192.md) | [Issue #191](docs/2023/issue-191.md)
 
 **May**: [Reading Fragments](fragments/2023.05.md) | [Issue #190](docs/2023/issue-190.md) | [Issue #189](docs/2023/issue-189.md) | [Issue #188](docs/2023/issue-188.md) | [Issue #187](docs/2023/issue-187.md)
 
@@ -81,7 +81,7 @@ grep -nri gis docs | cat -n
 
 **August** [Issue #100](docs/2021/issue-100.md) | [Issue #99](docs/2021/issue-99.md) | [Issue #98](docs/2021/issue-98.md)| [Issue #97](docs/2021/issue-97.md) | [Issue #96](docs/2021/issue-96.md)
 
-**July** [Issue #95](docs/2021/issue-95.md) | [Issue #94](docs/2021/issue-94.md) | [Issue #93](docs/2021/issue-93.md)| [Issue #92](docs/2021/issue-92.md)
+**July** [Issue #95](docs/2021/issue-95.md) | [Issue #94](docs/2021/issue-94.md) | [Issue #93](docs/2021/issue-93.md)| [Issue #3](docs/2021/issue-92.md)
 
 **Jun** [Issue #91](docs/2021/issue-91.md) | [Issue #90](docs/2021/issue-90.md) | [Issue #89](docs/2021/issue-89.md) | [Issue #89](docs/2021/issue-88.md)
 
