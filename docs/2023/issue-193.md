@@ -26,12 +26,6 @@ Abilities unused will atrophy, so putting in anything less than your best means 
 
 It's important to always give your best effort in the workplace, even if you feel that your company hasn't earned it. Waiting for the perfect opportunity to showcase your abilities may mean missing out on growth and development. Using dissatisfiaction on become better and eventually finding a new opportunity can be more beneficial than squandering your potential.
 
-## Tool
-
-1. []()
-
-![]()
-
 ## Resources
 
 1. [CEO's Concern](https://www.linkedin.com/posts/miri-curiel_startupstruggles-engineeringleadership-engineeringmetrics-activity-7054466615173611520-w8YN)
