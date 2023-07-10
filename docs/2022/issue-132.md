@@ -72,6 +72,29 @@ A streak of focused work is how you transform yourself from an insecure novice t
 
 During the code review, focus your efforts on API semantics, implementation semantics, and documentation. If you find any code style and tests related issues, try to automate them.
 
+- code style
+  - Is the formatting style applied?
+  - Does it adhere to agreed on naming conventions?
+  - Is the code sufficiently readable? (method lengths, etc)
+- tests
+  - Are new features reasonably tested?
+  - Is is using unit tests where possible, integration tests where necessary?
+- documentation
+  - new features reasonably documented?
+  - are the relevant kinds of docs covered: README, refercnce docs?
+- implementation semantics
+  - does it satisfy the original requirements?
+  - is it robust (proper error handling, secure, etc)
+  - is it observable (metrics, logging, tracing, etc)
+  - is there no unnecessary complexity?
+  - is it performant?
+  - Do newly added dependencies pull their weight? Is their license acceptable?
+- API semantics
+  - API as small as possible, as large as needed?
+  - Are there no breaking chagnes to user-facing parts?
+  - Is there one way of doing one thing, not multiple ones?
+  - Without internals leaking in the API?
+
 ## Comments
 
 1. Many ideas get dismissed because they come from someone we don't like. You can agree with the idea without needing to agree with the person.
