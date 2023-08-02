@@ -23,12 +23,6 @@ Livestock, including meat, dairy, and eggs, make up a significant portion of the
 - Sheep populations are highest in North and Central Africa, the Middle East, Central Asia, Australia, New Zealand, and the UK.
 - Goats are concentrated in North India, North China, Mongolia, and many African countries.
 
-3. [443 KM | Finestrelles, Pyrenees – Pic Gaspard, Alps](https://beyondrange.wordpress.com/2016/08/03/pic-de-finestrelles-pic-gaspard-ecrins-443-km/)
-
-![](https://beyondrange.files.wordpress.com/2016/08/generate_a_panorama_-_2016-07-24_02-28-50.png)
-
-The article discusses a new world record for the longest line of sight photograph, which was taken of the Barre des Ecrins in the Alps from the Pic de Finestrelles in the Pyrenees.The photograph set a new world record for the farthest photograph of a landscape at 443 kilometers
-
 ## AI/ML
 
 1. [ReVision](https://marketplace.visualstudio.com/items?itemName=XiaodiYan.revision)
