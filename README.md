@@ -31,7 +31,7 @@ grep -nri gis docs | cat -n
 
 ## 🐰 2023
 
-**August**: [Reading Fragments](fragments/2023.08.md) | [Issue #200](docs/2023/issue-200.md) :rocket:
+**August**: [Reading Fragments](fragments/2023.08.md) | [Issue #201](docs/2023/issue-201.md) :rocket: | [Issue #200](docs/2023/issue-200.md)
 
 **July**: [Reading Fragments](fragments/2023.07.md) | [Issue #199](docs/2023/issue-199.md) | [Issue #198](docs/2023/issue-198.md) | [Issue #197](docs/2023/issue-197.md) | [Issue #196](docs/2023/issue-196.md) | [Issue #195](docs/2023/issue-195.md)
 

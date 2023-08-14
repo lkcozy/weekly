@@ -45,6 +45,18 @@ The guide provides recommendations for using AI in writing, image generation, vi
 
 Encapsulated login page components based on react-login-page basic components are provided for quick installation and use. These components help streamline the process of creating login pages and offer flexible APIs for modifying and packaging these components.
 
+2. [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
+
+![](https://github.com/xsburg/vscode-javascript-booster/raw/master/resources/recording-v14.0.0.gif)
+
+JavaScript Booster is a VS Code extension that provides various code actions (quick fixes) when editing JavaScript code. It includes features such as flipping if-else statements, converting variable declarations, manipulating strings, working with functions, handling async operations, and specific features for React and TypeScript.
+
+3. [Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround)
+
+![](https://raw.githubusercontent.com/yatki/vscode-surround/master/images/demo.gif)
+
+Surround is a simple yet powerful extension to add wrapper templates around your code blocks.
+
 ## Resources
 
 1. [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/)

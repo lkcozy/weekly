@@ -16,19 +16,9 @@ To find all the points within a certain radius of a location, we only need to se
 
 The Geospatial Data Abstraction Library (GDAL) is a critical piece of GIS software used for raster and vector geospatial operations.
 
-3. [Types of Map Projections](https://www.geographyrealm.com/types-map-projections/?utm_campaign=GeoNL-2023-Aug-3)
-
-![](https://www.geographyrealm.com/wp-content/uploads/2017/09/tissox-matrx-world-mercator-map.jpg)
-
-The article discusses the various ways in which we visualize the world, including maps, globes, and satellite imagery. It examines the advantages and limitations of using globes versus maps, the different types of map projections and the distortions they introduce, and the categorizations of these projections into cylindrical, conic, azimuthal, and pseudocylindrical. The article also provides examples of specific map projections within each category.
-
 ## AI/ML
 
-1. [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw/tree/main)
-
-ChatLaw is an open-source legal large language model (LLM) developed for the legal field, and presents different versions of the model, their performance, and data sources.
-
-2. [ChatHub](https://github.com/chathub-dev/chathub)
+1. [ChatHub](https://github.com/chathub-dev/chathub)
 
 ![](https://github.com/chathub-dev/chathub/raw/main/screenshots/dark.png?raw=true)
 
@@ -43,6 +33,25 @@ ChatHub is an app that allows users to chat with multiple chatbots simultaneousl
 This article compares two AI-powered tools for interactive research reading: ChatPDF and SciSpace Copilot. It discusses the features, benefits, and drawbacks of each tool, and provides a comparative analysis.
 
 ChatPDF is a PDF AI tool that offers features like explanations and summarization, and provides a quality check of the output. SciSpace Copilot is an AI research reading assistant that focuses on language support, user convenience, and accessibility mode.
+
+## Tool
+
+1. [node-jq](https://github.com/sanack/node-jq)
+
+node-jq is a Node.js wrapper for jq - a lightweight and flexible command-line JSON processor
+
+2. [Jimp](https://github.com/jimp-dev/jimp)
+
+An image processing library for Node written entirely in JavaScript, with zero native dependencies.
+
+3. [filesize.js](https://github.com/avoidwork/filesize.js)
+
+```ts
+import { filesize } from "filesize";
+filesize(265318, { base: 2, standard: "jedec" }); // "259.1 KB"
+```
+
+filesize.js provides a simple way to get a human readable file size string from a number (float or integer) or string.
 
 ## Resources
 
@@ -69,6 +78,9 @@ To make the relationship successful, the article suggests close collaboration, l
 
 2. If you are urged to grow headcount, remember that you are buying resources at the expense of greater coordination cost. Adding a bunch of people who need to be bought in on strategic matters can easily lead to moving slower than before.
    --[Twitter User](https://nitter.net/Suhail/status/1684775130805968896)
+
+3. A simple rule for the decision-maker is that intervention needs to prove its benefits and those benefits need to be orders of magnitude higher than the natural (that is non-interventionist) path. We intuitively know this already. We won’t switch apps or brands for a marginal increase over the status quo. Only when the benefits become orders of magnitude higher do we switch.
+   --[Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)
 
 ## Review
 
