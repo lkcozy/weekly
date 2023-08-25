@@ -28,6 +28,54 @@ The article discusses the importance of effective management in building enginee
 
 The article proposes a framework that provides clear guidelines for team members to work together and collaborate effectively, especially at a distance. The framework encourages teams to take collective ownership of their outcomes and serve customers' needs in the most impactful way possible. It also allows teams to focus on delivering results and achieving success.
 
+An effective product engineering team can:
+
+- navigate ambiguity: handle uncertainty and unclear situations confidently and clearly. take proactive steps and find solutions to challenges instead of waiting for explicit directions.
+  - find valuable work
+  - ask straightforward questions
+  - seek alignment
+  - obtain the necessary information and guidance
+- set goals
+  - clearly define and articulate objectives that support the overall strategy of the organization
+- ask for help
+  - proactively identify and communicate when they need assistance from other teams or individuals
+  - need concreteness
+- broadcast state
+  - surprises == bad
+  - proactively communicate any risks or deviations from the plan and potential solutions
+  - ensure that updates or changes don't catch other teams or leadership off guard
+- negotiate dependencies
+  - proactively track and align dependencies across teams
+  - communicate changes and priority shifts
+- escalate appropriately
+  - Start by communicating directly with cross-functional peers to identify the source of the conflict or issue.
+  - Document the conflict, including possible resolutions and existing discussions, to ensure all parties understand the situation.
+- manage team capacity
+  - To staff appropriately and understand the distribution of work across different areas, such as maintenance, support, and feature building.
+  - Consistently deliver on 80% or more of planned work by properly managing capacity and adjusting plans as necessary.
+- onboard team members
+  - Develop a comprehensive onboarding plan to ensure new team members can become productive quickly and contribute to the team's goals.
+  - Establish self-service resources, such as documentation, knowledge bases, and communication channels, to provide new hires with the support they need to succeed.
+- understand its users
+  - Develop a collective understanding of users' needs through research and observation.
+  - Establish and maintain feedback channels to continuously improve the product based on user feedback.
+- understand its levers
+  - Connect technical decisions with the company's strategic goals and objectives.
+  - Invest time and resources into the most impactful projects.
+  - Translate technical debt into its potential business impact to ensure prioritization of its resolution.
+- tell the team's story
+  - Constantly sharing the narrative that contextualizes the team's work in the bigger picture and organizational goals internally and externally.
+- define working agreements
+  - Collaboratively define and agree on ways of working that serve team members.
+- adopt an operational cadence
+- anticipate problems
+  - Proactively monitor and use tools to observe and react to potential problems.
+- respond to incidents
+  - Establish and document on-call and paging procedures.
+- improve its processes
+  - Regularly review processes and workflows to identify inefficiencies.
+- tackle increasing complexity
+
 ## Tool
 
 1. [Data Viz Project](https://datavizproject.com/)

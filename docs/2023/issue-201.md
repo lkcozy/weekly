@@ -20,6 +20,12 @@ The article discusses the various ways in which we visualize the world, includin
 
 ChatLaw is an open-source legal large language model (LLM) developed for the legal field, and presents different versions of the model, their performance, and data sources.
 
+2. [Continue](https://github.com/continuedev/continue)
+
+![](https://github.com/continuedev/continue/raw/main/readme.gif)
+
+Continue is the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE.
+
 ## Research
 
 1. [QuillBot vs SciSpace: Choose the best AI-paraphrasing tool](https://typeset.io/resources/quillbot-vs-scispace-paraphraser/)
