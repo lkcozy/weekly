@@ -26,6 +26,12 @@ ChatLaw is an open-source legal large language model (LLM) developed for the leg
 
 Continue is the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE.
 
+3. [Perplexity - AI Companion](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo)
+
+![](https://lh3.googleusercontent.com/oky_AuOTc4Ha7Mi5KxA9-oFBzrwW3sT0_Mno7XVEFNPzciWvJD2fafBO1zrqQTBfcbgHh7iyf8hABXHUl_QvQgpx=w640-h400-e365-rj-sc0x00ffffff)
+
+Perplexity is like ChatGPT and Google combined. When you have a question, ask Perplexity and it will search the internet and write you a quick answer with cited sources. Or if you are on a page, get it instantly summarized for you.
+
 ## Research
 
 1. [QuillBot vs SciSpace: Choose the best AI-paraphrasing tool](https://typeset.io/resources/quillbot-vs-scispace-paraphraser/)

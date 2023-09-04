@@ -24,6 +24,10 @@ The Geospatial Data Abstraction Library (GDAL) is a critical piece of GIS softwa
 
 ChatHub is an app that allows users to chat with multiple chatbots simultaneously and compare their answers. It also supports various chatbots like ChatGPT, Bing Chat, Google Bard, and others, and provides features such as prompt library, conversation history, export/import of data, and dark mode.
 
+2. [Teaching with AI](https://openai.com/blog/teaching-with-ai)
+
+A guide for teachers using ChatGPT in their classroom—including suggested prompts, an explanation of how ChatGPT works and its limitations, the efficacy of AI detectors, and bias.
+
 ## Research
 
 1. [ChatPDF vs. SciSpace Copilot: AI-powered Tools for Interactive Research Reading](https://typeset.io/resources/chatpdf-vs-scispace-copilot/)

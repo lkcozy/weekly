@@ -65,6 +65,12 @@ OpenResume is a powerful open-source resume builder and resume parser.The goal o
 
 DevPod is a client-only tool that creates reproducible developer environments based on a devcontainer.json file, allowing developers to easily switch between workspaces hosted on different backends.
 
+3. [Tabserve](https://tabserve.dev/)
+
+![](https://tabserve.dev/_astro/screenshot-1.deb281eb.png)
+
+A secure & fast HTTPS URL for localhost using your browser as a reverse proxy.
+
 ## Resources
 
 1. [A nice cheat sheet of different databases in cloud services](https://blog.bytebytego.com/i/136212400/a-nice-cheat-sheet-of-different-databases-in-cloud-services)
