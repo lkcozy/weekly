@@ -18,7 +18,7 @@ With CensusGPT, you can ask any question related to census data in natural langu
 
 ![](https://pbs.twimg.com/media/FxYXHJhaIAA1OOf?format=jpg&name=small)
 
-## Research
+## Academic
 
 1. [Abstract Writing: A Step-by-Step Guide With Tips & Examples](https://typeset.io/resources/abstract-writing-a-step-by-step-guide-with-examples/)
 

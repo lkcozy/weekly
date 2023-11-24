@@ -41,7 +41,7 @@ A farm in Hebei Province, China, uses cow face recognition technology to track e
 
 If a cow shows symptoms of a disease or other problem, the breeder will immediately receive an alarm on the mobile phone. This kind of information for each animal used to be collected from electronic tags punched through their ears or worn around their ankles. The problem was that the cows were always trying to remove them — and often succeeding.
 
-## Research
+## Academic
 
 1. [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 

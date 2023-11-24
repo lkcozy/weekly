@@ -64,7 +64,7 @@ We can imagine a system that effectively helps detect and avoid racial bias in, 
 
 The author shows how to use a genetic algorithm and a neural network to solve Super Mario Brothers. The Python application turns the game picture into a frame of pixel grid according to the grid changes.
 
-## Research
+## Academic
 
 1. [Cold Tube](https://newatlas.com/energy/cold-tube-cooling-air-conditioner/)
 

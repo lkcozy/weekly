@@ -49,7 +49,7 @@ In conversation, the topic can shift fluidly. The meaning of a word that's ambig
 
 **The Results**: Amazon evaluated its topic identifier using a test dataset collected alongside the training data. The system exceeded baseline accuracy of 55 percent to achieve 74 percent accuracy when it used context from five conversational exchanges.
 
-## Research
+## Academic
 
 1. [Designing a blockchain-based IoT infrastructure with Ethereum, Swarm and LoRa](https://export.arxiv.org/pdf/1809.07655.pdf)
 

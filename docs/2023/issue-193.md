@@ -16,7 +16,7 @@ How do we get data from a satellite down to Earth? How do we task a satellite?
 
 Today the answer is likely to be via radios and a system of downlink sites or ground stations. As the satellites pass overhead or within “line of sight” data can be sent via radio from the satellite to the receiver on the ground.
 
-## Research
+## Academic
 
 1. [Acting your wage will atrophy your abilities](https://world.hey.com/dhh/acting-your-wage-will-atrophy-your-abilities-1ca261c4)
 

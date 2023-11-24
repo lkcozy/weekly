@@ -40,7 +40,7 @@ There are three main components to the toolset.
 
 ![](https://miro.medium.com/max/700/0*wymi5E3Jsw3mgqNs.png)
 
-## Research
+## Academic
 
 1. [How COVID-19 Has Changed Employment in the U.S. Industry](https://howmuch.net/articles/employment-downsizing-and-recovery-by-industry-2020)
 

@@ -32,7 +32,7 @@ ipyleaflet is a Jupyter - LeafletJS bridge, bringing mapping capabilities to the
 
 ![](https://miro.medium.com/max/700/1*02DmPnByfXtPkeYnytNvfA.gif)
 
-## Research
+## Academic
 
 1. [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 

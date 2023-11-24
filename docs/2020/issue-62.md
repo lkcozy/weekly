@@ -51,7 +51,7 @@ A new summarization model boils down AI research papers to a single sentence. TL
 
 Some papers can be summed up in a couple of dozen words, but many are so complicated that no single sentence can do them justice. We look forward to n-sentence summarizers.
 
-## Research
+## Academic
 
 1. [BEARID PROJECT](http://bearresearch.org/)
 

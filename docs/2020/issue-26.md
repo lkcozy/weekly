@@ -48,7 +48,7 @@ Tyson Foods uses computer vision to track drumsticks, breasts, and thighs as the
 - Workers double-check some of the system's findings.
 - Tyson says the system is 20 percent more accurate than the human-only method.
 
-## Research
+## Academic
 
 1. [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 

@@ -16,7 +16,7 @@ Probable Futures just launched a strikingly detailed visualization platform to b
 
 This online application lets us explore what our earth may look like at different warming scenarios.
 
-## Research
+## Academic
 
 1. [Wristband that turns body heat into electricity can power an LED](https://www.newscientist.com/article/2276215-wristband-that-turns-body-heat-into-electricity-can-power-an-led/)
 

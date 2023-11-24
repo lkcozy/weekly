@@ -28,7 +28,7 @@ Machine Learning University (MLU) is an education initiative from Amazon designe
 
 As part of that goal, MLU-Explain exists to teach critical machine-learning concepts through visual essays in a fun, informative, and accessible manner.
 
-## Research
+## Academic
 
 1. [Recite](https://reciteworks.com/)
 

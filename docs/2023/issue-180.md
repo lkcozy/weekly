@@ -12,7 +12,7 @@ Super-resolution is an approach derived from computer vision methods that aim to
 
 This paper proposes a profile to extend the OGC SensorThings API capabilities for exchanging and managing methane emissions data that covers existing regulations and frameworks for consistency in methane emissions data reporting in Canada. This paper demonstrates that the OGC SenosrThings API has the potential and capabilities to enable the exchange and management of methane emissions data in methane reduction progress programs such as AER Directive 60.
 
-## Research
+## Academic
 
 1. [ChatPaper](https://github.com/kaixindelele/ChatPaper/blob/main/readme_en.md)
 

@@ -16,7 +16,7 @@ Monitoring this change is key to understanding its impacts but also to potential
 
 Green View Index is a QGIS plugin that can be used to easily calculate Green View Index through Google Street View images. Unlike satellite derived NDVI, which provides a mapping of vegetation from the top level, GVI utilizes street-level imagery to quantify the presence of vegetation from a human-eye point of view.
 
-## Research
+## Academic
 
 1. [How to Write an Effective Background of the Study: A Comprehensive Guide](https://typeset.io/resources/what-is-the-background-of-the-study/)
 

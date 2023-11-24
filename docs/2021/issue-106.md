@@ -26,7 +26,7 @@ The expert created an AI model based on Beethoven's compositions and then recrea
 
 **How it works**: The master left behind around 200 fragmentary sketches of the Tenth Symphony, presumably in four movements. A human composer in 1988 completed two movements, for which more source material was available, so the team set out to compose two more.
 
-## Research
+## Academic
 
 1. [A Tale of DNS & BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage/)
 

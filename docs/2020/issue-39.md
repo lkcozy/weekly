@@ -70,7 +70,7 @@ A recent \$20 million investment will fund the company's expansion into reusable
 
 Such machines also could mean fewer bodies in food-service kitchens — a plus in the COVID era but not so much for the human staff who may find themselves out of a job.
 
-## Research
+## Academic
 
 1. [Finland Will Become The First Country In The World To Get Rid Of All School Subjects](https://curiousmindmagazine.com/goodbye-subjects-finland-taking-revolution-education-step/)
 

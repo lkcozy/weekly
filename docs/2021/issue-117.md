@@ -14,7 +14,7 @@ INSPIRE(Infrastructure for spatial information in the european community) is ab 
 
 This report summarized the main development of the INSPIRE and offers a five- to ten-year vision for future development.
 
-## Research
+## Academic
 
 1. [Hemingway App](https://hemingwayapp.com/)
 

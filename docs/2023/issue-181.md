@@ -30,7 +30,7 @@ A new medium for presenting ideas, powered by AI. Create beautiful, engaging con
 
 ChatFlow is an AI-based chat flow framework, that personalizes your ChatGPT workflows and builds the road to automation.
 
-## Research
+## Academic
 
 1. [Developing Good Habits for Engineers through Reflective Goal Setting](https://unbug.github.io/Enabling-Good-Work-Habits-in-Software-Developers-through-Reflective-Goal-Setting/)
 

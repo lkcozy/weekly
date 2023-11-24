@@ -49,7 +49,7 @@ Training datasets for crowd-counting models typically mark each person in an ima
 `Amazon Lookout for Vision` uses AWS-trained computer vision models on images and video streams to `find anomalies and flaws` in products or processes.
 Axis, ADLINK Technology, BP, Deloitte, Fender, GE Healthcare, and Siemens Mobility among customers and partners using new AWS industrial machine learning services
 
-## Research
+## Academic
 
 1. [The FDA's Deadly Caution](https://www.aier.org/article/the-fdas-deadly-caution/)
 

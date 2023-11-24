@@ -45,7 +45,7 @@ The geospatial data extracted during the study was used to identify vegetated ar
 
 Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're procrastinating on before we run out of time.
 
-## Research
+## Academic
 
 1. [Head Start](https://github.com/OpenKnowledgeMaps/Headstart)
 

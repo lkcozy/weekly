@@ -42,7 +42,7 @@ The DeepCE, a system designed to predict `how particular drugs will influence th
 
 The next blockbuster antiviral (or antidepressant, anti-inflammatory, or heart medicine) may already be on pharmacy shelves. Wouldn't it be wonderful if deep learning found it?
 
-## Research
+## Academic
 
 1. [Large-area display textiles integrated with functional systems](https://www.nature.com/articles/s41586-021-03295-8)
 

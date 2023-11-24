@@ -38,7 +38,7 @@ AskMore uses AI to conduct your user research so you get more feedback, faster, 
 
 Mr. Ranedeer is a GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 
-## Research
+## Academic
 
 1. [Writefull X](https://x.writefull.com/)
 

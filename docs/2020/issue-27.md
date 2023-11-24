@@ -22,7 +22,7 @@ Littercoin, which is a type of blockchain application developed from OpenLitterM
 
 The biggest problem with electric vehicles is the fact they require charging but are mobile, making it more complex than simply expanding networks in a given area. One work by researchers interested in this problem has assessed electric cars on recharge networks using a method applying fuzzy analytical hierarchy process, where they looked at 15 criteria, in order to determine what locations might be the best to increase power supply. The technique assesses the criteria and weighs their relevance to the power grid. From this, locations that optimize customer needs but balances electric grid capabilities is determined
 
-## Research
+## Academic
 
 1. [Georgia Tech physicists unlock the secret to perfect wok-tossed fried rice](https://arstechnica.com/science/2020/02/georgia-tech-physicists-unlock-the-secret-to-perfect-wok-tossed-fried-rice/)
 

@@ -20,7 +20,7 @@ Adam Symington from PythonMaps used data from the Global Roads Inventory Project
 
 The author describes a technical project that uses Unreal Engine 5.1, Google Maps 3D tiles API, and ChatGPT API to create an immersive experience that allows users to enter prompts and receive dynamic responses.
 
-## Research
+## Academic
 
 1. [From good to great: A capability framework for building exceptional product engineering teams](https://buriti.ca/from-good-to-great-a-capability-framework-for-building-exceptional-product-engineering-teams-a8ca4e9e8f47)
 

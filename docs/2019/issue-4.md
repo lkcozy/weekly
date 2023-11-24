@@ -34,7 +34,7 @@ An open-source JavaScript library for world-class 3D globes and maps
 
 CesiumJS is an open-source JavaScript library for world-class 3D globes and maps. Our mission is to create the leading 3D globe and map for static and time-dynamic content, with the best possible performance, precision, visual quality, platform support, community, and ease of use.
 
-## Research
+## Academic
 
 1. [How to benchmark IoT time-series workloads in a production environment](https://blog.timescale.com/blog/how-to-benchmark-iot-time-series-workloads-in-a-production-environment/)
 

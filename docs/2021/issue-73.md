@@ -26,7 +26,7 @@ The road to virtualizing the world and highly accurate 4D maps representing time
 
 This repository is a combination of various resources lying scattered all over the internet. Making such a repository is to combine all the valuable resources sequentially. It helps every beginner who is in search of free and structured learning resources for Data Science.
 
-## Research
+## Academic
 
 1. [Connected Papers](https://www.connectedpapers.com/)
 

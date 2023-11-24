@@ -68,7 +68,7 @@ This document discusses techniques for implementing and automating continuous in
 
 [An introduction to MLOps on Google Cloud Video](https://www.youtube.com/watch?v=6gdrwFMaEZ0)
 
-## Research
+## Academic
 
 1. [Robot-Woven Sneaker With 3D-Printed Soles](https://spectrum.ieee.org/tech-talk/robotics/industrial-robots/adidas-futurecraft-3d-printed-robot-woven-sneaker)
 

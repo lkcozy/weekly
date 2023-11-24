@@ -44,7 +44,7 @@ Four models collectively called `Wu Dao` was described by the Beijing Academy of
 
 AI has long been dominated by organizations clustered in a few geographic hotspots. `China's effort to shift AI'sAI's center of gravity away from the west could have far-reaching repercussions into the types of systems that get built and how they're deployed.
 
-## Research
+## Academic
 
 1. [Buildings made with fungi could live, grow — and then biodegrade](https://www.cbc.ca/news/technology/what-on-earth-mycelium-fungi-building-1.5963938)
 

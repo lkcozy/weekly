@@ -48,7 +48,7 @@ Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers.
 
 ![](https://venturebeat.com/wp-content/uploads/2020/06/Gif2.gif?resize=800%2C450&strip=all)
 
-## Research
+## Academic
 
 1. [AsciiMath](http://asciimath.org/)
 

@@ -45,7 +45,7 @@ Deep learning is helping to protect older adults from potentially catastrophic t
 
 **How it works**: The system helps a specialist spot postures and motions that contribute to a fall. It scans patients with infrared light as they perform a series of motions. Then, a pose detection model analyzes their positions.
 
-## Research
+## Academic
 
 1. [What We Think We Know About Metabolism May Be Wrong](https://www.nytimes.com/2021/08/12/health/metabolism-weight-aging.html)
 

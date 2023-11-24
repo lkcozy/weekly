@@ -16,7 +16,7 @@ Most earthquakes(with a magnitude of 4.5 or greater) happen relatively close to 
 
 This quick QGIS tutorial takes you through the steps of how to add a CSV file with latitude and longitude coordinates.
 
-## Research
+## Academic
 
 1. [Consensus](https://consensus.app/)
 

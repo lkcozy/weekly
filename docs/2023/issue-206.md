@@ -16,7 +16,7 @@ The 2010 earthquake in Haiti, with hundreds of aftershocks, claimed over 300,000
 
 This two-part tutorial explains how to build a full-stack instant Meme Generator app using React, NodeJS, TypeScript, OpenAI's Function Calling API, and ImgFlip.com's meme creator API.
 
-## Research
+## Academic
 
 1. [jenni](https://jenni.ai/)
 

@@ -57,7 +57,7 @@ A meta-analysis of research conducted by Synced Review for Women's History Month
 
 Each one of us can help promote diversity. Leaders can make an effort to interview, hire, and mentor underrepresented groups, and everyone can help make the workplace inclusive.
 
-## Research
+## Academic
 
 1. [Don't Let Teamwork Get In the Way of Agility](https://psycnet.apa.org/record/2019-79823-002)
 

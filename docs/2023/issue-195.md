@@ -22,7 +22,7 @@ Azure Cloud Advocates at Microsoft have created a 12-week, 24-lesson curriculum 
 
 One-Click to get well-designed cross-platform ChatGPT web UI.
 
-## Research
+## Academic
 
 1. [SciSpace's literature review workspace](https://typeset.io/resources/scispace-literature-review-workspace/)
 

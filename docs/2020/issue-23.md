@@ -39,7 +39,7 @@ Robots are moving into a job that traditionally required the human touch. A comm
 - The model stores basic movements, then hones them using reinforcement learning in various simulated situations.
 - The team then uses behavioural cloning to transfer the robot's learned skills into the real world.
 
-## Research
+## Academic
 
 1. [PaperWithCode](https://www.paperswithcode.com/)
 

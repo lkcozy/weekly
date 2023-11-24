@@ -20,7 +20,7 @@ The BERT, the Bi-gated recurrent neural network (Bi-GRU), and the conditional ra
 
 Experiments show that the proposed methods improve performance by more than 10%, which is a big deal. It has a lot of potential for tasks like named entity recognition and relation extraction that deal with natural languages.
 
-## Research
+## Academic
 
 1. [What is the most important part of academic writing?](https://qr.ae/prkHia)
 

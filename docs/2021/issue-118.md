@@ -32,7 +32,7 @@ Spleeter is Deezer source separation library with pretrained models written in P
 
 A 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning.
 
-## Research
+## Academic
 
 1. [What is the F-score?](https://deepai.org/machine-learning-glossary-and-terms/f-score)
 

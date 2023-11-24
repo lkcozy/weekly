@@ -50,7 +50,7 @@ This project generates new designs for your room with AI. It uses an ML model ca
 
 ClickPrompt is a tool designed for Prompt writers that supports a variety of Prompt-based AI applications such as Stable Diffusion, ChatGPT, and GitHub Copilot. With ClickPrompt, you can easily view, share, and run these models with one click, while providing an online Prompt generator that allows users to easily create compliant Prompt based on their needs and share it with others.
 
-## Research
+## Academic
 
 1. [Scispace Copilot](https://typeset.io/resources/introducing-copilot-ai-assistant-explains-research-papers/)
 

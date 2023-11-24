@@ -64,7 +64,7 @@ The author used the First Order Motion Model (FOMM), released by Aliaksandr Siar
 
 [Github](https://github.com/emilyxxie/mona_lisa_eyes)
 
-## Research
+## Academic
 
 1. [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2020](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020)
 

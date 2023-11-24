@@ -8,12 +8,6 @@
 
 Rendered.ai is the Platform as a service for creating synthetic data. The platform uses industry-standard models and techniques to generate a variety of synthetic imagery.
 
-2. [Types of Map Projections](https://www.geographyrealm.com/types-map-projections/?utm_campaign=GeoNL-2023-Aug-3)
-
-![](https://www.geographyrealm.com/wp-content/uploads/2017/09/tissox-matrx-world-mercator-map.jpg)
-
-The article discusses the various ways in which we visualize the world, including maps, globes, and satellite imagery. It examines the advantages and limitations of using globes versus maps, the different types of map projections and the distortions they introduce, and the categorizations of these projections into cylindrical, conic, azimuthal, and pseudocylindrical. The article also provides examples of specific map projections within each category.
-
 ## AI/ML
 
 1. [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw/tree/main)
@@ -32,7 +26,7 @@ Continue is the open-source autopilot for software development—a VS Code exten
 
 Perplexity is like ChatGPT and Google combined. When you have a question, ask Perplexity and it will search the internet and write you a quick answer with cited sources. Or if you are on a page, get it instantly summarized for you.
 
-## Research
+## Academic
 
 1. [QuillBot vs SciSpace: Choose the best AI-paraphrasing tool](https://typeset.io/resources/quillbot-vs-scispace-paraphraser/)
 

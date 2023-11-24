@@ -34,7 +34,7 @@ Novel is an open-source Notion-style WYSIWYG editor with AI-powered autocompleti
 
 Docify AI is an automated code comment generator and documentation tool that helps Software Developers improve code quality, save time and increase productivity.
 
-## Research
+## Academic
 
 1. [Elicit vs. SciSpace: AI research assistant for effortless literature review](https://typeset.io/resources/elicit-ai-research-assistant-vs-scispace/)
 

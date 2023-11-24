@@ -45,7 +45,7 @@ Reason #2: Founder disagreements
 Reason #3: Lower costs
 Reason #4: Taking risks
 
-## Research
+## Academic
 
 1. [Research Says Solo Founders Perform Better. Here is Why.](https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why)
 

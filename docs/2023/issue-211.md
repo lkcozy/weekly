@@ -14,7 +14,7 @@ Conversely, if you center the map around Alaska, you can see why it has the 3rd 
 
 ![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F878cf0cb-f2cb-4cb0-bbb7-8fe2b610ef86_745x745.png)
 
-## Research
+## Academic
 
 1. [How to Use AI Tools for Conducting a Literature Review](https://typeset.io/resources/ai-tools-for-literature-review/)
 

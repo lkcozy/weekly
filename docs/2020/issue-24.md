@@ -39,7 +39,7 @@ This tutorial explains how to export the data from Lisk relational database to t
 
 This guide runs through the basic steps for importing the bitcoin blockchain into a Neo4j graph database. It's worth the effort if you're looking to do serious graph analysis on the blockchain. A graph database is a natural fit for bitcoin data, whereas using an SQL database for bitcoin transactions feels like trying to shove a square peg into a round hole.
 
-## Research
+## Academic
 
 1. [The Open Science Training Handbook](https://book.fosteropenscience.eu/en/)
 

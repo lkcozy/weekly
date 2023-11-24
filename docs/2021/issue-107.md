@@ -50,7 +50,7 @@ This type of weather forecasting is known as precipitation nowcasting: predictin
 
 Edge Impulse is the leading development platform for machine learning on edge devices.
 
-## Research
+## Academic
 
 1. [Syllabus for Eric's Ph.D. students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
