@@ -10,7 +10,7 @@ Wind and solar generate over a tenth of the world's electricity. Taken together,
 
 This infographic based on data from Ember shows the rise of electricity from these two clean sources over the last decade.
 
-2. [Geothermal Power ](https://www.treehugger.com/geothermal-drilling-technology-quaise-energy-5219924)
+2. [Geothermal Power](https://www.treehugger.com/geothermal-drilling-technology-quaise-energy-5219924)
 
 ![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022606.webp)
 
@@ -120,7 +120,7 @@ Scrum, or any other process, is neither bad nor good if you know what you're aim
 
 ## Comments
 
-1. `The simplest way to achieve simplicity is through thoughtful reduction. When in doubt, just remove. But be careful of what you remove. … When it is possible to reduce a system's functionality without significant penalty, true simplification is realized."
+1. The simplest way to achieve simplicity is through thoughtful reduction. When in doubt, just remove. But be careful of what you remove. … When it is possible to reduce a system's functionality without significant penalty, true simplification is realized.
    --[The Laws of Simplicity](https://fs.blog/the-laws-of-simplicity/)
 
 2. Trust is earned in drops and lost in buckets.

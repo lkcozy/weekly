@@ -89,10 +89,10 @@ This article discusses how to run a company with fewer full-time managers by foc
 ## Comments
 
 1. Too many people bring the best of themselves to work, and bring the leftovers home.
-   --[Twitter User](https://feeder.co/api/post/5872ef47-012b-11ee-aeb7-1a21cf3a468a)
+   --[Twitter User](https://nitter.net/cecile_mcm/status/1663253950466752532)
 
 2. New CEO: I see 100 different opportunities we can pursue. Experienced CEO: Let's nail this 1 really big opportunity
-   --[Twitter User](https://feeder.co/api/post/5872ef47-012b-11ee-aeb7-1a21cf3a468a)
+   --[Twitter User](https://nitter.net/aymanalabdul/status/1663344029663211520)
 
 3. Clear writing gives poor thinking nowhere to hide.
    --[Master the Art of Learning](https://fs.blog/feynman-technique/)
