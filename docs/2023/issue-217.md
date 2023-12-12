@@ -82,7 +82,7 @@ Role of managers: Managers need to create clarity for each employee on the optim
    --[Keeping Up](https://nested.substack.com/p/keeping-up)
 
 7. It’s easy to envy people with incredible wisdom until you remember the incredible pain they endured to acquire it. The fruits of wisdom taste sweet, but they’re earned by walking through the thorn bush.
-   --[David Perell](https://twitter.com/david_perell/status/1729642384684618131)
+   --[David Perell](https://nitter.net/david_perell/status/1729642384684618131)
 
 ## Review
 
