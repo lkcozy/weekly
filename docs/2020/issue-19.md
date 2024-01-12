@@ -107,3 +107,11 @@ A tutorial for building a simple blockchain in TypeScript from scratch, which c 
 
 1. It is much more important to work on the right thing than to work many hours. Most people waste most of their time on stuff that doesn’t matter. Once you have figured out what to do, be unstoppable about getting your tiny handful of priorities accomplished quickly. I have yet to meet a slow-moving person who is very successful.
    --[Sam Altman](https://blog.samaltman.com/how-to-be-successful)
+
+## Review
+
+- [The week of 2024(Issue-222)](../2024/issue-22.md)
+- [The week of 2023(Issue-171)](../2023/issue-171.md)
+- [The week of 2022(Issue-119)](../2022/issue-119.md)
+- [The week of 2021(Issue-67)](../2021/issue-67.md)
+- [The week of 2020(Issue-19)](../2020/issue-19.md)

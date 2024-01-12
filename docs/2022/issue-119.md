@@ -132,5 +132,8 @@ In other cases, working on the relationship through better communication can res
 
 ## Review
 
-- [The week of 2021(Issue-67)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-67.md)
-- [The week of 2020(Issue-19)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-19.md)
+- [The week of 2024(Issue-222)](../2024/issue-22.md)
+- [The week of 2023(Issue-171)](../2023/issue-171.md)
+- [The week of 2022(Issue-119)](../2022/issue-119.md)
+- [The week of 2021(Issue-67)](../2021/issue-67.md)
+- [The week of 2020(Issue-19)](../2020/issue-19.md)

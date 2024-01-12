@@ -98,18 +98,22 @@ The MIT CS course to teach you how to master essential software development tool
 
 ## Comments
 
-1.  Being good at programming competitions correlates negatively with being good on the job. Programming contest winners are used to cranking solutions out fast and that you performed better at the job if you were more reflective and went slowly and made sure things were right
-    --[Peter Norvig](https://catonmat.net/programming-competitions-work-performance)
+1. Being good at programming competitions correlates negatively with being good on the job. Programming contest winners are used to cranking solutions out fast and that you performed better at the job if you were more reflective and went slowly and made sure things were right
+   --[Peter Norvig](https://catonmat.net/programming-competitions-work-performance)
 
-2.  VC's are not there to add value to a business, they are there to suck all the value out of business.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=25470030)
+2. VC's are not there to add value to a business, they are there to suck all the value out of business.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=25470030)
 
-3.  Small discipline repeated with consistency every day lead to great achievements gained slowly over time.
-    --[John C. Maxwell](https://motiveex.com/quotes/john-maxwell-leadership-quotes-sayings/)
+3. Small discipline repeated with consistency every day lead to great achievements gained slowly over time.
+   --[John C. Maxwell](https://motiveex.com/quotes/john-maxwell-leadership-quotes-sayings/)
 
-4.  A person who knows how may always have a job, but the person who knows why will always be his boss.
-    --[John C. Maxwell](https://motiveex.com/quotes/john-maxwell-leadership-quotes-sayings/)
+4. A person who knows how may always have a job, but the person who knows why will always be his boss.
+   --[John C. Maxwell](https://motiveex.com/quotes/john-maxwell-leadership-quotes-sayings/)
 
 ## Review
 
-[The week of 2020(Issue-19)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-19.md)
+- [The week of 2024(Issue-222)](../2024/issue-22.md)
+- [The week of 2023(Issue-171)](../2023/issue-171.md)
+- [The week of 2022(Issue-119)](../2022/issue-119.md)
+- [The week of 2021(Issue-67)](../2021/issue-67.md)
+- [The week of 2020(Issue-19)](../2020/issue-19.md)
