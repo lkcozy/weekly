@@ -82,4 +82,8 @@ In the end, I'm going to continue to code, but not at work. I need a clear delin
 
 ## Review
 
-[The week of 2020(Issue-21)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-21.md)
+- [The week of 2024(Issue-224)](../2024/issue-224.md)
+- [The week of 2023(Issue-173)](../2023/issue-173.md)
+- [The week of 2022(Issue-121)](../2022/issue-121.md)
+- [The week of 2021(Issue-69)](../2021/issue-69.md)
+- [The week of 2020(Issue-21)](../2020/issue-21.md)

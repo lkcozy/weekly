@@ -91,6 +91,8 @@ Step-by-step guide to becoming a blockchain developer in 2023.
 
 ## Review
 
+- [The week of 2024(Issue-223)](../2024/issue-223.md)
+- [The week of 2023(Issue-172)](../2023/issue-172.md)
 - [The week of 2022(Issue-120)](../2022/issue-120.md)
 - [The week of 2021(Issue-68)](../2021/issue-68.md)
 - [The week of 2020(Issue-20)](../2020/issue-20.md)

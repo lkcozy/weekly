@@ -91,12 +91,16 @@ This repo collects some real significant data analysis cases to understand how t
 
 ## Comments
 
-1.  The valuation is unimportant as long as there isn't something else for each cash-rich people to put their money into.
-    --[Hacker News Reader comment on Tesla's stock price has risen 8 times in the past year](https://news.ycombinator.com/item?id=25555452)
+1. The valuation is unimportant as long as there isn't something else for each cash-rich people to put their money into.
+   --[Hacker News Reader comment on Tesla's stock price has risen 8 times in the past year](https://news.ycombinator.com/item?id=25555452)
 
-2.  If technology is still on track of disrupting our society, countries with advanced technology and small population may be the one benefiting a lot from. A smaller population means the whole expenditure of supporting the population will be small, job losses are affordable, economic solutions such as basic income can actually work better. In order to support smaller populations, the infrastructure needed for a robotic economy is more achievable. You don't need to pump the economy to keep people in jobs. The large developing countries with big population and less advanced technology will be left behind forever.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=25558221)
+2. If technology is still on track of disrupting our society, countries with advanced technology and small population may be the one benefiting a lot from. A smaller population means the whole expenditure of supporting the population will be small, job losses are affordable, economic solutions such as basic income can actually work better. In order to support smaller populations, the infrastructure needed for a robotic economy is more achievable. You don't need to pump the economy to keep people in jobs. The large developing countries with big population and less advanced technology will be left behind forever.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=25558221)
 
 ## Review
 
-[The week of 2020(Issue-20)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-20.md)
+- [The week of 2024(Issue-223)](../2024/issue-223.md)
+- [The week of 2023(Issue-172)](../2023/issue-172.md)
+- [The week of 2022(Issue-120)](../2022/issue-120.md)
+- [The week of 2021(Issue-68)](../2021/issue-68.md)
+- [The week of 2020(Issue-20)](../2020/issue-20.md)

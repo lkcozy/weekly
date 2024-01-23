@@ -124,12 +124,21 @@ This article introduces more than 20 RESTful APIs best practices.
 
 ## Comments
 
-1.  The academic system is very traditionalist and still frequently penalizes those who lie outside the norm
-    --[PhDs: the tortuous truth](https://www.nature.com/articles/d41586-019-03459-7)
+1. The academic system is very traditionalist and still frequently penalizes those who lie outside the norm
+   --[PhDs: the tortuous truth](https://www.nature.com/articles/d41586-019-03459-7)
 
-2.  Write small blocks of code. Small methods. Small functions. Small procedures. The purpose of writing small methods is to nudge yourself towards writing readable code, code that fits in your brain. The smaller, the better.
-    --[The 80/24 rule](https://blog.ploeh.dk/2019/11/04/the-80-24-rule/)
+2. Write small blocks of code. Small methods. Small functions. Small procedures. The purpose of writing small methods is to nudge yourself towards writing readable code, code that fits in your brain. The smaller, the better.
+   --[The 80/24 rule](https://blog.ploeh.dk/2019/11/04/the-80-24-rule/)
 
-3.  I previously worked at Oracle for years in the dot-com era and I can tell you the company culture was horrid. It was completely sales driven, sales people would often lie to customers and promise the product had a feature which it either didn't have or was not well supported and then have to fly in expensive consultants afterwards to fix the resulting shitshow.
-    If Apple is a designer culture, and Google is an engineer culture, then I'd say Oracle is driven by a hierarchy of sales culture.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=21550991)
+3. I previously worked at Oracle for years in the dot-com era and I can tell you the company culture was horrid. It was completely sales driven, sales people would often lie to customers and promise the product had a feature which it either didn't have or was not well supported and then have to fly in expensive consultants afterwards to fix the resulting shitshow.
+
+If Apple is a designer culture, and Google is an engineer culture, then I'd say Oracle is driven by a hierarchy of sales culture.
+--[Hacker News Reader](https://news.ycombinator.com/item?id=21550991)
+
+## Review
+
+- [The week of 2024(Issue-224)](../2024/issue-224.md)
+- [The week of 2023(Issue-173)](../2023/issue-173.md)
+- [The week of 2022(Issue-121)](../2022/issue-121.md)
+- [The week of 2021(Issue-69)](../2021/issue-69.md)
+- [The week of 2020(Issue-21)](../2020/issue-21.md)

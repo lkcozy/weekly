@@ -122,11 +122,19 @@ The self-guided interactive tutorials are designed to introduce you to decentral
 
 ## Comments
 
-1.  There are no dumb ideas. Only early ones.
-    --[Marc Andreessen](https://eriktorenberg.substack.com/p/take-asymmetric-bets)
+1. There are no dumb ideas. Only early ones.
+   --[Marc Andreessen](https://eriktorenberg.substack.com/p/take-asymmetric-bets)
 
-2.  The difference between successful people and really successful people is that really successful people say no to almost everything
-    --[Warren Buffett](https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html)
+2. The difference between successful people and really successful people is that really successful people say no to almost everything
+   --[Warren Buffett](https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html)
 
-3.  People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
-    --[Steve Jobs](https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html)
+3. People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+   --[Steve Jobs](https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html)
+
+## Review
+
+- [The week of 2024(Issue-223)](../2024/issue-223.md)
+- [The week of 2023(Issue-172)](../2023/issue-172.md)
+- [The week of 2022(Issue-120)](../2022/issue-120.md)
+- [The week of 2021(Issue-68)](../2021/issue-68.md)
+- [The week of 2020(Issue-20)](../2020/issue-20.md)

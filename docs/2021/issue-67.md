@@ -76,23 +76,28 @@ A series of video lectures organized by Sam Altman, the former president of Y Co
 
 ## Resources
 
-1. [MY ENGINEERING AXIOMS](https://martinrue.com/my-engineering-axioms/)
+1. [My Engineering Axioms](https://martinrue.com/my-engineering-axioms/)
 
 The author summarizes 25 axioms of software engineering in his mind.
 
+- Change is constant and the ability to respond to change is crucial for competitiveness
+- Technical excellence is important, but personal skills and the ability to work well with others are equally crucial.
+- Code should not be personalized.
 - Treat people who know less than you with respect and patience
-- Change is constant
-- Your product is an asset, but code is a liability.
+- Authority comes from knowledge and understanding, not from position or titles.
+- Consider multiple solutions before making a decision.
+- Your product is an asset, but code is a liability. So it's important to minimize code and dependencies.
 - Duplication is less costly than premature abstraction
-- Code should be easy to delete
+- Code should be easy to delete, which means it should be decoupled and have well-defined interface.
 - Use 'we' instead of you when talking about the code to avoid accidental sounding personal
-- The only true authority stems from knowledge, not from a position
-- Teaching is a form of learning in disguise
+- Teaching is a form of learning in disguise and formalize one's thoughts.
 - Have the smallest team possible, but no smaller. Grow it carefully
-- Having opinions, but avoid expressing them in ways that cause other people to believe you won't change them
+- Having opinions, but be open to changing them based on new information.
 - A good design is one in which you can change your mind without changing to much code
+- Stick to boring technology unless there's a good reason not to.
+- Rest is important for mental health and well being.
 
-2. [The Missing Semester of Your CS Education]()
+2. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 The MIT CS course to teach you how to master essential software development tools.
 
