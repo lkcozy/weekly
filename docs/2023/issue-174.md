@@ -112,6 +112,8 @@ Keeping track of a whole project and its packages in a single repository can be 
 
 ## Review
 
+- [The week of 2024(Issue-225)](../2024/issue-225.md)
+- [The week of 2023(Issue-174)](../2023/issue-174.md)
 - [The week of 2022(Issue-122)](../2022/issue-122.md)
 - [The week of 2021(Issue-70)](../2021/issue-70.md)
 - [The week of 2020(Issue-22)](../2020/issue-22.md)

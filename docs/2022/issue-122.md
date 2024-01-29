@@ -69,19 +69,22 @@ A curated list of awesome public courses and wonderful study resource. Most of t
 
 ## Comments
 
-1.  We're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people.
-    --[Against an Increasingly User-Hostile Web](https://neustadt.fr/essays/against-a-user-hostile-web/#/)
+1. We're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people.
+   --[Against an Increasingly User-Hostile Web](https://neustadt.fr/essays/against-a-user-hostile-web/#/)
 
-2.  Faced with the choice between changing one's mind and proving that there is no need to do so, almost everyone gets busy on the proof.
-    --[John Kenneth Galbraith](https://quoteinvestigator.com/2018/05/17/change-view/#/)
+2. Faced with the choice between changing one's mind and proving that there is no need to do so, almost everyone gets busy on the proof.
+   --[John Kenneth Galbraith](https://quoteinvestigator.com/2018/05/17/change-view/#/)
 
-3.  There are three things you cannot buy. Fitness: You have to keep fit, whether you're rich or not. Diet: You cannot pay someone to be on a diet for you. I think that diet is the biggest sacrifice in my life. Then, looking after your soul. No one can possibly treat your soul but you yourself. This is something you can do through culture and philosophy.
-    --[Brunello Cucinelli](https://click.convertkit-mail4.com/e5ugrrpvxxu7hz7503i5/08hwh9hmq7zz28il/aHR0cHM6Ly9vbS5jby8yMDE1LzA0LzI3L2JydW5lbGxvLWN1Y2luZWxsaS0yLw==)
+3. There are three things you cannot buy. Fitness: You have to keep fit, whether you're rich or not. Diet: You cannot pay someone to be on a diet for you. I think that diet is the biggest sacrifice in my life. Then, looking after your soul. No one can possibly treat your soul but you yourself. This is something you can do through culture and philosophy.
+   --[Brunello Cucinelli](https://click.convertkit-mail4.com/e5ugrrpvxxu7hz7503i5/08hwh9hmq7zz28il/aHR0cHM6Ly9vbS5jby8yMDE1LzA0LzI3L2JydW5lbGxvLWN1Y2luZWxsaS0yLw==)
 
-4.  Every perception is to some degree an act of creation, and every act of memory is to some degree an act of imagination.
-    --[Gerald Edelman](https://fs.blog/spacing-effect/)
+4. Every perception is to some degree an act of creation, and every act of memory is to some degree an act of imagination.
+   --[Gerald Edelman](https://fs.blog/spacing-effect/)
 
 ## Review
 
-- [The week of 2021(Issue-70)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-70.md)
-- [The week of 2020(Issue-22)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-22.md)
+- [The week of 2024(Issue-225)](../2024/issue-225.md)
+- [The week of 2023(Issue-174)](../2023/issue-174.md)
+- [The week of 2022(Issue-122)](../2022/issue-122.md)
+- [The week of 2021(Issue-70)](../2021/issue-70.md)
+- [The week of 2020(Issue-22)](../2020/issue-22.md)

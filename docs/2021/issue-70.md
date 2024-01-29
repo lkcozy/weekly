@@ -88,16 +88,19 @@ An American challenged the Tesla auto driving from San Francisco to Los Angeles.
 
 ## Comments
 
-1.  This is the world we face. Science and technology are advancing rapidly, but the social and economic situation is terrible. The rich and the poor's polarization is getting worse, and the opportunities for the poor are decreasing.
+1. This is the world we face. Science and technology are advancing rapidly, but the social and economic situation is terrible. The rich and the poor's polarization is getting worse, and the opportunities for the poor are decreasing.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-143.md)
 
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-143.md)
+2. With the development of capitalism today, there is already a feeling that the world is at the end of the world. In addition to printing money to stimulate the economy, the government cannot find a good way to solve various problems. However, the new technological revolution is creating incredible technological miracles, making people feel fairyland. But for most people, it is a cold fairyland and cannot change their destiny.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-143.md)
 
-2.  With the development of capitalism today, there is already a feeling that the world is at the end of the world. In addition to printing money to stimulate the economy, the government cannot find a good way to solve various problems. However, the new technological revolution is creating incredible technological miracles, making people feel fairyland. But for most people, it is a cold fairyland and cannot change their destiny.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-143.md)
-
-3.  Solutions should be as simple as possible. Assume the next person to maintain your code won't be as smart as you. When you can use fewer technologies, do so.
-    --[What I've Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
+3. Solutions should be as simple as possible. Assume the next person to maintain your code won't be as smart as you. When you can use fewer technologies, do so.
+   --[What I've Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 
 ## Review
 
-[The week of 2020(Issue-22)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-22.md)
+- [The week of 2024(Issue-225)](../2024/issue-225.md)
+- [The week of 2023(Issue-174)](../2023/issue-174.md)
+- [The week of 2022(Issue-122)](../2022/issue-122.md)
+- [The week of 2021(Issue-70)](../2021/issue-70.md)
+- [The week of 2020(Issue-22)](../2020/issue-22.md)

@@ -94,3 +94,11 @@ git pull --rebase =  git fetch + git rebase FETCH_HEAD
    --Ditto
 
 3. Googling only works in two scenarios: (1)When you need general answers to your questions;(2)When you can frame your questions specifically to a single topic.
+
+## Review
+
+- [The week of 2024(Issue-225)](../2024/issue-225.md)
+- [The week of 2023(Issue-174)](../2023/issue-174.md)
+- [The week of 2022(Issue-122)](../2022/issue-122.md)
+- [The week of 2021(Issue-70)](../2021/issue-70.md)
+- [The week of 2020(Issue-22)](../2020/issue-22.md)

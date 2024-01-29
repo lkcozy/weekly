@@ -93,10 +93,6 @@ Meetings can be valuable if they are conducted well. Often, this is different. P
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e63e26e-d62f-4cdc-a3e1-e34c883fcde4_1280x1663.gif)
 
-4. [The benefit of seniority ought to be bandwidth](https://world.hey.com/dhh/the-benefit-of-seniority-ought-to-be-bandwidth-ff8ee736)
-
-The article discusses the importance of giving frequent feedback to junior employees to aid in their development and ensure their work meets expectations, while senior employees should be trusted to work independently and require less managerial oversight. This balance of guidance and autonomy helps to increase the overall organizational bandwidth.
-
 ## Comments
 
 1. The ability to stay calm during conflict is a superpower. Naval
@@ -107,7 +103,7 @@ The article discusses the importance of giving frequent feedback to junior emplo
 
 ## Review
 
-- [The week of 2024(Issue-224)](../2024/issue-24.md)
+- [The week of 2024(Issue-224)](../2024/issue-224.md)
 - [The week of 2023(Issue-173)](../2023/issue-173.md)
 - [The week of 2022(Issue-121)](../2022/issue-121.md)
 - [The week of 2021(Issue-69)](../2021/issue-69.md)
