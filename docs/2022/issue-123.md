@@ -127,5 +127,8 @@ Avoid Synchronous protocol while communicating between services. Instead, use as
 
 ## Review
 
-- [The week of 2021(Issue-71)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-71.md)
-- [The week of 2020(Issue-23)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-23.md)
+- [The week of 2024(Issue-226)](../2024/issue-226.md)
+- [The week of 2023(Issue-175)](../2023/issue-175.md)
+- [The week of 2022(Issue-123)](../2022/issue-123.md)
+- [The week of 2021(Issue-71)](../2021/issue-71.md)
+- [The week of 2020(Issue-23)](../2020/issue-23.md)

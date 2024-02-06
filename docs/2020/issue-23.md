@@ -111,3 +111,11 @@ There will be more and more such games in the future, which is a real-life digit
 3. Each deliverable is debt-laden with no sustainable way forward. The result is ballooning cost of delivery, driving a lowering of standards and increased headcount. Nurturing real engineering capability in such an environment is nigh on impossible.
 
 --[Dan Creswell](https://twitter.com/dancres/status/1198130975902797824)
+
+## Review
+
+- [The week of 2024(Issue-226)](../2024/issue-226.md)
+- [The week of 2023(Issue-175)](../2023/issue-175.md)
+- [The week of 2022(Issue-123)](../2022/issue-123.md)
+- [The week of 2021(Issue-71)](../2021/issue-71.md)
+- [The week of 2020(Issue-23)](../2020/issue-23.md)

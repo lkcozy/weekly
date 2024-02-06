@@ -105,15 +105,19 @@ This full-length Docker book is rich with code examples. It will teach you all a
 
 ## Comments
 
-1.  The pain of writing is the pain of clearing your mind.
-    --David Perell
+1. The pain of writing is the pain of clearing your mind.
+   --David Perell
 
-2.  Brandolini's law, also known as the `bullshit asymmetry principle,` is an internet adage that emphasizes the difficulty of debunking bullshit. `The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it.`
-    --[Wiki](https://en.wikipedia.org/wiki/Brandolini%27s_law)
+2. Brandolini's law, also known as the `bullshit asymmetry principle,` is an internet adage that emphasizes the difficulty of debunking bullshit. `The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it.`
+   --[Wiki](https://en.wikipedia.org/wiki/Brandolini%27s_law)
 
-3.  The Lindy effect is a theory that `the future life expectancy of some non-perishable things` like a technology or an idea `is proportional to their current age` so that every additional period of survival implies a longer remaining life expectancy
-    --[Wiki](https://en.wikipedia.org/wiki/Lindy_effect)
+3. The Lindy effect is a theory that `the future life expectancy of some non-perishable things` like a technology or an idea `is proportional to their current age` so that every additional period of survival implies a longer remaining life expectancy
+   --[Wiki](https://en.wikipedia.org/wiki/Lindy_effect)
 
 ## Review
 
-[The week of 2020(Issue-23)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-23.md)
+- [The week of 2024(Issue-226)](../2024/issue-226.md)
+- [The week of 2023(Issue-175)](../2023/issue-175.md)
+- [The week of 2022(Issue-123)](../2022/issue-123.md)
+- [The week of 2021(Issue-71)](../2021/issue-71.md)
+- [The week of 2020(Issue-23)](../2020/issue-23.md)
