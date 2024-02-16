@@ -123,3 +123,11 @@ Online SQL Teaching
 
 1. When all researchers are aware of Open Science, and are trained, supported and guided at all career stages to practice Open Science, the potential is there to change the way research fundamentally is performed and disseminated, fostering a scientific ecosystem in which research gains increased visibility, is shared more efficiently, and is performed with enhanced research integrity
    --[Open Science Skills Working Group Report](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none)
+
+## Review
+
+- [The week of 2024(Issue-227)](../2024/issue-227.md)
+- [The week of 2023(Issue-176)](../2023/issue-176.md)
+- [The week of 2022(Issue-124)](../2022/issue-124.md)
+- [The week of 2021(Issue-72)](../2021/issue-72.md)
+- [The week of 2020(Issue-24)](../2020/issue-24.md)

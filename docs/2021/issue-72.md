@@ -96,18 +96,22 @@ In this blog post, the author explains how this feature works with Kinesis Data 
 
 ## Comments
 
-1.  It is an appropriate moment to move on from the data-dominated GIS era towards a computational geography
-    --[Stan Openshaw](https://carto.com/blog/3-spatial-data-science-trends-to-watch-in-2021/)
+1. It is an appropriate moment to move on from the data-dominated GIS era towards a computational geography
+   --[Stan Openshaw](https://carto.com/blog/3-spatial-data-science-trends-to-watch-in-2021/)
 
-2.  When a group of people laugh, everyone looks at the person they like the most.
-    --[reddit user](https://www.reddit.com/r/PsychologicalTricks/comments/5elgfu/pt_when_a_group_of_people_laugh_everyone_looks_at/)
+2. When a group of people laugh, everyone looks at the person they like the most.
+   --[reddit user](https://www.reddit.com/r/PsychologicalTricks/comments/5elgfu/pt_when_a_group_of_people_laugh_everyone_looks_at/)
 
-3.  If someone offers you something (i.e. a bite of their food, offering to help you carry something), you should almost always accept. It makes you more likeable.
-    --[reddit user](https://www.reddit.com/r/PsychologicalTricks/comments/l6ny7w/pt_if_someone_offers_you_something_ie_a_bite_of/)
+3. If someone offers you something (i.e. a bite of their food, offering to help you carry something), you should almost always accept. It makes you more likeable.
+   --[reddit user](https://www.reddit.com/r/PsychologicalTricks/comments/l6ny7w/pt_if_someone_offers_you_something_ie_a_bite_of/)
 
-4.  Journalizing our worst thoughts, memories, and behaviours is a helpful technique for becoming our authentic self
-    --[reddit user](https://www.reddit.com/r/PsychologicalTricks/comments/l3hzvj/pt_journalizing_our_worst_thoughts_memories_and/)
+4. Journalizing our worst thoughts, memories, and behaviours is a helpful technique for becoming our authentic self
+   --[reddit user](https://www.reddit.com/r/PsychologicalTricks/comments/l3hzvj/pt_journalizing_our_worst_thoughts_memories_and/)
 
 ## Review
 
-[The week of 2020(Issue-24)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-24.md)
+- [The week of 2024(Issue-227)](../2024/issue-227.md)
+- [The week of 2023(Issue-176)](../2023/issue-176.md)
+- [The week of 2022(Issue-124)](../2022/issue-124.md)
+- [The week of 2021(Issue-72)](../2021/issue-72.md)
+- [The week of 2020(Issue-24)](../2020/issue-24.md)

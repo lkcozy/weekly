@@ -42,7 +42,16 @@ iCalendar is a widely used data format that is used to represent calendars and s
 
 This Book is about good programming. It's about how to write good code, and how to transform bad code into good code.
 
-2. [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
+- Don't Repeat Yourself
+- Comments explain why instead of what
+- Use Intention-Revealing Names
+  - Make Meaningful Distinctions
+  - Add Meaningful context
+- Functions
+  - small
+  - do one thing
+
+1. [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 
 A curated checklist of tips to protect your digital security and privacy.
 

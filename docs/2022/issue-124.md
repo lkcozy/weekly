@@ -70,15 +70,18 @@ The author talks about why having GitHub can help a team (more than 2 data folks
 ## Comments
 
 1. Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better.
-   --[Kevin Kelly ](https://link.zhihu.com/?target=https%3A//kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+   --[Kevin Kelly](https://link.zhihu.com/?target=https%3A//kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 
 2. Don't be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you.
-   --[Kevin Kelly ](https://link.zhihu.com/?target=https%3A//kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+   --[Kevin Kelly](https://link.zhihu.com/?target=https%3A//kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 
 3. The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man .
    --[George Bernard Shaw](https://news.ycombinator.com/item?id=29598581)
 
 ## Review
 
-- [The week of 2021(Issue-72)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-72.md)
-- [The week of 2020(Issue-24)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-24.md)
+- [The week of 2024(Issue-227)](../2024/issue-227.md)
+- [The week of 2023(Issue-176)](../2023/issue-176.md)
+- [The week of 2022(Issue-124)](../2022/issue-124.md)
+- [The week of 2021(Issue-72)](../2021/issue-72.md)
+- [The week of 2020(Issue-24)](../2020/issue-24.md)
