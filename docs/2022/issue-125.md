@@ -86,13 +86,16 @@ Yarn Berry goes even further by ditching node_modules completely with its Plugâ€
 
 ## Comments
 
-1.  Watching a lecture twice at double speed can benefit learning better than watching it once at normal speed
-    --[The British Psychological Society](https://digest.bps.org.uk/2021/12/21/watching-a-lecture-twice-at-double-speed-can-benefit-learning-better-than-watching-it-once-at-normal-speed/)
+1. Watching a lecture twice at double speed can benefit learning better than watching it once at normal speed
+   --[The British Psychological Society](https://digest.bps.org.uk/2021/12/21/watching-a-lecture-twice-at-double-speed-can-benefit-learning-better-than-watching-it-once-at-normal-speed/)
 
-2.  Don't invest too heavily in someone else's IP. Don't invest too heavily in someone else's API, either.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=29673707)
+2. Don't invest too heavily in someone else's IP. Don't invest too heavily in someone else's API, either.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=29673707)
 
 ## Review
 
-- [The week of 2021(Issue-73)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-73.md)
-- [The week of 2020(Issue-25)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-25.md)
+- [The week of 2024(Issue-228)](../2024/issue-228.md)
+- [The week of 2023(Issue-177)](../2023/issue-177.md)
+- [The week of 2022(Issue-125)](../2022/issue-125.md)
+- [The week of 2021(Issue-73)](../2021/issue-73.md)
+- [The week of 2020(Issue-25)](../2020/issue-25.md)

@@ -120,12 +120,16 @@ State management with React is a rugged tool belt, but not everyone has the prio
 
 ## Comments
 
-1.  Those with a postgraduate degree or those earning more than $100,000 annually said their 2020 was better than 2019.
-    --[An Inaugural Inflection Point: Ushering in a New Era of Marketing Amid a Polarized Public](https://morningconsult.com/2021/01/19/an-inaugural-inflection-point-ushering-in-a-new-era-of-marketing-amid-a-polarized-public/)
+1. Those with a postgraduate degree or those earning more than $100,000 annually said their 2020 was better than 2019.
+   --[An Inaugural Inflection Point: Ushering in a New Era of Marketing Amid a Polarized Public](https://morningconsult.com/2021/01/19/an-inaugural-inflection-point-ushering-in-a-new-era-of-marketing-amid-a-polarized-public/)
 
-2.  If a young person's net worth is four digits, it seems insane not to gamble it on options, as the housing bubble has cut off the last way for working people to get leverage. GME may mark the inflection point in the markets where young people realize it's their best or even only opportunity for leverage, and meme stocks are going to be the new normal because the economy doesn't provide anything better to invest in for under $50k.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=25979958)
+2. If a young person's net worth is four digits, it seems insane not to gamble it on options, as the housing bubble has cut off the last way for working people to get leverage. GME may mark the inflection point in the markets where young people realize it's their best or even only opportunity for leverage, and meme stocks are going to be the new normal because the economy doesn't provide anything better to invest in for under $50k.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=25979958)
 
 ## Review
 
-[The week of 2020(Issue-25)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-25.md)
+- [The week of 2024(Issue-228)](../2024/issue-228.md)
+- [The week of 2023(Issue-177)](../2023/issue-177.md)
+- [The week of 2022(Issue-125)](../2022/issue-125.md)
+- [The week of 2021(Issue-73)](../2021/issue-73.md)
+- [The week of 2020(Issue-25)](../2020/issue-25.md)

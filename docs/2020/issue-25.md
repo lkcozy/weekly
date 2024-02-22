@@ -136,9 +136,14 @@ Wonderfully illustrated notes on the principles of Chen style taijiquan, and mor
 
 ## Comments
 
-1. Wisdom is not a product of schooling but of the lifelong attempt to acquire it.
+1. Wisdom is not a product of schooling but of the lifelong attempt to acquire it. -- Albert Einstein
 
-   -- Albert Einstein
+2. Learn steadily rather than short burst for longevity -- Andrew Ng
 
-2. Learn steadily rather than short burst for longevity
-   -- Andrew Ng
+## Review
+
+- [The week of 2024(Issue-228)](../2024/issue-228.md)
+- [The week of 2023(Issue-177)](../2023/issue-177.md)
+- [The week of 2022(Issue-125)](../2022/issue-125.md)
+- [The week of 2021(Issue-73)](../2021/issue-73.md)
+- [The week of 2020(Issue-25)](../2020/issue-25.md)

@@ -33,6 +33,20 @@ Mapping APIs in JavaScript offers a powerful way to bring maps to life within we
 - Geocode and reverse geocode
 - Perform spatial analysis
 
+## AI/ML
+
+1. [LangChain.js](https://github.com/langchain-ai/langchainjs)
+
+![](https://github.com/langchain-ai/langchainjs/raw/main/docs/core_docs/static/img/langchain_stack_feb_2024.webp)
+
+Langhain is a framework for developing applications powered by language models. It enables applications that are context-aware and reason.
+
+2. [Transformers.js](https://github.com/xenova/transformers.js)
+
+Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio.
+
+Transformer models can also perform tasks on several modalities combined, such as table question answering, optical character recognition, information extraction from scanned documents, video classification, and visual question answering.
+
 ## Tool
 
 1. [IINA](https://github.com/iina/iina)

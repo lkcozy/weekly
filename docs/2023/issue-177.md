@@ -90,26 +90,28 @@ The viewpoint highlights the importance of focusing on outcomes and experimentin
 
 ## Comments
 
-1.  The key lesson here is that if we are to intervene, we need a solid idea of not only the benefits of our interventions but also the harm we may cause—the second and subsequent order consequences. Otherwise, how will we know when, despite our best intentions, we cause more harm than we do good?
-    --[Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)
+1. The key lesson here is that if we are to intervene, we need a solid idea of not only the benefits of our interventions but also the harm we may cause—the second and subsequent order consequences. Otherwise, how will we know when, despite our best intentions, we cause more harm than we do good?
+   --[Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)
 
-2.  Nothing can make our life, or the lives of other people, more beautiful than perpetual kindness.
-    —-Leo Tolstoy
+2. Nothing can make our life, or the lives of other people, more beautiful than perpetual kindness.
+   —-Leo Tolstoy
 
-3.  The cost of being who you conflict with those who want you to be someone else. The cost of being what others want you to be is in conflict with yourself.
-    --[Attention to Detail](https://fs.blog/brain-food/february-19-2023/)
+3. The cost of being who you conflict with those who want you to be someone else. The cost of being what others want you to be is in conflict with yourself.
+   --[Attention to Detail](https://fs.blog/brain-food/february-19-2023/)
 
-4.  A tough reality: Most new managers can't hire someone great to work for them -- at least, not today. Not yet. Not right now. Not on their own. It's a true skill. You gotta help 'em get there, in many cases. Or they will hire a B+.
-    --[@jasonlk](https://twitter.com/jasonlk/status/1624194502683676675)
+4. A tough reality: Most new managers can't hire someone great to work for them -- at least, not today. Not yet. Not right now. Not on their own. It's a true skill. You gotta help 'em get there, in many cases. Or they will hire a B+.
+   --[@jasonlk](https://twitter.com/jasonlk/status/1624194502683676675)
 
-5.  Most people feel there are too many meetings. However, most people also hate the idea that they aren’t being included in important conversations and decisions.
-    --[@andybudd](https://twitter.com/andybudd/status/1614584319007424512)
+5. Most people feel there are too many meetings. However, most people also hate the idea that they aren’t being included in important conversations and decisions.
+   --[@andybudd](https://twitter.com/andybudd/status/1614584319007424512)
 
-6.  It's harder to read code than to write it.
-    --[Joel Spolsky](https://www.devshirt.club/developer-shirt/its-harder-to-read-code-than-to-write-it)
+6. It's harder to read code than to write it.
+   --[Joel Spolsky](https://www.devshirt.club/developer-shirt/its-harder-to-read-code-than-to-write-it)
 
 ## Review
 
+- [The week of 2024(Issue-228)](../2024/issue-228.md)
+- [The week of 2023(Issue-177)](../2023/issue-177.md)
 - [The week of 2022(Issue-125)](../2022/issue-125.md)
 - [The week of 2021(Issue-73)](../2021/issue-73.md)
 - [The week of 2020(Issue-25)](../2020/issue-25.md)
