@@ -32,7 +32,7 @@ grep -nri gis docs | cat -n
 
 ## 🐲 2024
 
-**February**: [Reading Fragments](fragments/2024.02.md) | [Issue #227](docs/2024/issue-227.md) 🚀 | [Issue #226](docs/2024/issue-226.md)
+**February**: [Reading Fragments](fragments/2024.02.md) | [Issue #229](docs/2024/issue-229.md) 🚀 | [Issue #228](docs/2024/issue-228.md) ｜ [Issue #227](docs/2024/issue-227.md) ｜ [Issue #226](docs/2024/issue-226.md)
 
 **January**: [Reading Fragments](fragments/2024.01.md) | [Issue #225](docs/2024/issue-225.md) 🚀 | [Issue #224](docs/2024/issue-224.md) | [Issue #223](docs/2024/issue-223.md) | [Issue #222](docs/2024/issue-222.md)
 

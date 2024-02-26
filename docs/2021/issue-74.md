@@ -101,15 +101,19 @@ An overview of the JavaScript landscape in 2020: trends about front-end and Node
 
 ## Comments
 
-1.  The world thinks mathematicians are people for whom math is easy. That's wrong. `It's a struggle. A prickly, sometimes lonely struggle whose rewards are uncertain and a long time coming. Mathematicians are the people who love that struggle.`
-    --[John Urschel](https://hmmdaily.com/2018/09/28/john-urschel-goes-pro/)
+1. The world thinks mathematicians are people for whom math is easy. That's wrong. `It's a struggle. A prickly, sometimes lonely struggle whose rewards are uncertain and a long time coming. Mathematicians are the people who love that struggle.`
+   --[John Urschel](https://hmmdaily.com/2018/09/28/john-urschel-goes-pro/)
 
-2.  Many people suggest that you should listen to your heart and find what you love when looking for your life direction. I now think the more realistic advice would be to find the pain you are willing to endure`. Which direction are you willing to bear hardships over the years with the greatest patience? When you never regret it, even you have to die nine times. That is the direction you should choose.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-147.md)
+2. Many people suggest that you should listen to your heart and find what you love when looking for your life direction. I now think the more realistic advice would be to find the pain you are willing to endure`. Which direction are you willing to bear hardships over the years with the greatest patience? When you never regret it, even you have to die nine times. That is the direction you should choose.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-147.md)
 
-3.  The common misconception with freemium is that it's easy not to generate any revenue. That's very likely not a pricing problem, but a positioning problem`. You need to position your product in front of the right audiences, and the price becomes a natural fit for your expansion strategy.
-    --[Chris Frantz](https://www.chrisfrantz.com/how-to-kill-a-unicorn/)
+3. The common misconception with freemium is that it's easy not to generate any revenue. That's very likely not a pricing problem, but a positioning problem`. You need to position your product in front of the right audiences, and the price becomes a natural fit for your expansion strategy.
+   --[Chris Frantz](https://www.chrisfrantz.com/how-to-kill-a-unicorn/)
 
 ## Review
 
-[The week of 2020(Issue-26)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-26.md)
+- [The week of 2024(Issue-229)](../2024/issue-229.md)
+- [The week of 2023(Issue-178)](../2023/issue-178.md)
+- [The week of 2022(Issue-126)](../2022/issue-126.md)
+- [The week of 2021(Issue-74)](../2021/issue-74.md)
+- [The week of 2020(Issue-26)](../2020/issue-26.md)
