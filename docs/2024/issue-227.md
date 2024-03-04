@@ -55,6 +55,18 @@ Transformer models can also perform tasks on several modalities combined, such a
 
 IINA is the modern media player for macOS.
 
+2. [AWS Extend Switch Roles](https://github.com/tilfinltd/aws-extend-switch-roles)
+
+![](https://github.com/tilfinltd/aws-extend-switch-roles/raw/images/ScreenShot_1.png)
+
+Switch role history only stores the last 5 roles (maximum) on the AWS Management Console. This extension shows a menu of switchable roles that you can configure manually.
+
+3. [Spacedrive](https://github.com/spacedriveapp/spacedrive)
+
+![](https://github.com/spacedriveapp/spacedrive/raw/main/apps/landing/public/github.webp)
+
+Spacedrive is an open source cross-platform file manager, powered by a virtual distributed filesystem (VDFS) written in Rust.
+
 ## Resources
 
 1. [Illustrating the user experience with customer journey maps](https://blog.logrocket.com/product-management/customer-journey-maps-examples/)
@@ -74,6 +86,10 @@ GitOps brought a shift in how software and infrastructure are managed with Git a
 ## Comments
 
 1. As the company scales, you can’t expect everybody to know everyone else; we need abstractions in order to function. A manager is the point of contact and representative for their team, and they serve as routers for important information. Centralizing many or most of these functions into one person lets you take advantage of specialization, as a manager builds relationships and context and improves at their role, and this massively reduces context switching for everyone else.--[Charity Majors](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
+
+2. We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress. — Richard Feynman
+
+3. The person who carefully designs their daily routine goes further than the person who negotiates with themselves every day.
 
 ## Review
 

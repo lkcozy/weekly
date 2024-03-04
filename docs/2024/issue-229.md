@@ -18,6 +18,16 @@ Yellow dots mark the source, while purple, orange, and yellow shading shows how 
 
 > Methane is a potent greenhouse gas that's responsible for nearly a third of global warming. Nearly 40% of manmade methane comes from oil, gas, and coal operations.
 
+## AI/ML
+
+1. [AI Image to Music Generator](https://imagetomusic.top/)
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5298959280f9452aa29dfaeb779212f2~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1658&h=831&s=1609128&e=png&b=fdfdfd)
+
+AI Image to Music Generator is a tool that uses artificial intelligence to convert images into music.
+
+The principle behind it should be to use image captions to understand images first, then generate music related prompts, and finally generate music clips.
+
 ## Tool
 
 1. [EasyDevo](https://easydevo.boringboring.design/)
@@ -33,6 +43,12 @@ An extremely fast Python linter and code formatter, written in Rust.
 3. [uv](https://github.com/astral-sh/uv)
 
 An extremely fast Python package installer and resolver, written in Rust. Designed as a drop-in replacement for pip and pip-compile.
+
+4. [TSDiagram](https://github.com/3rd/tsdiagram)
+
+![](https://camo.githubusercontent.com/7afa32fa8ff8852bb56f67a33375f00f625d930da75113ff8f31e8b50c5978b2/68747470733a2f2f726f6f742e622d63646e2e6e65742f74736469616772616d2f6d656469612e706e67)
+
+TSDiagram is an online tool that helps you draft diagrams quickly by using TypeScript.
 
 ## Resources
 

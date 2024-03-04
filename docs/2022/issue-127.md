@@ -96,5 +96,8 @@ The worst part of free software is you get what you get, and the developers don'
 
 ## Review
 
-- [The week of 2021(Issue-75)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-75.md)
-- [The week of 2020(Issue-27)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-27.md)
+- [The week of 2024(Issue-230)](../2024/issue-230.md)
+- [The week of 2023(Issue-179)](../2023/issue-179.md)
+- [The week of 2022(Issue-127)](../2022/issue-127.md)
+- [The week of 2021(Issue-75)](../2021/issue-75.md)
+- [The week of 2020(Issue-27)](../2020/issue-27.md)

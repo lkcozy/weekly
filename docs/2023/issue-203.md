@@ -38,7 +38,24 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 1. [TypeGraphQL](https://github.com/MichalLytek/type-graphql)
 
-Create GraphQL schema and
+```ts
+@ObjectType()
+class Recipe {
+  @Field((type) => ID)
+  id: string;
+
+  @Field()
+  title: string;
+
+  @Field((type) => [Rate])
+  ratings: Rate[];
+
+  @Field({ nullable: true })
+  averageRating?: number;
+}
+```
+
+Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 
 2. [Invidious](https://github.com/iv-org/invidious)
 
@@ -58,7 +75,9 @@ React function component for displaying javascript arrays and JSON objects. Supp
 
 1. [A Cheap Alternative to AWS Athena: Lambda x DuckDB](https://qiita.com/shinonome_taku/items/bfa1abe38c7a9fcd3683)
 
-The article provides implementation details and examples for using DuckDB and Lambda in a serverless environment to achieve similar functionality to Athena at a lower cost. DuckDB is an open-source, high-performance SQL database that can be used as a cost-effective alternative to Athena.
+The article provides implementation details and examples for using DuckDB and Lambda in a serverless environment to achieve similar functionality to Athena at a lower cost.
+
+> [DuckDB](https://duckdb.org/) is an open-source, high-performance SQL database that can be used as a cost-effective alternative to Athena.
 
 2. [Understanding Database Types](https://blog.bytebytego.com/i/136658883/understanding-database-types)
 

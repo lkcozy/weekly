@@ -104,14 +104,16 @@ Good writing, like good thinking, takes time.
 
 ## Comments
 
-1.  Writing is the process by which you realize that you do not understand what you are talking about. Importantly, writing is also the process by which you figure it out.
-    --[In a world of AI writing on demand, a case for the need to write](https://fs.blog/why-write/)
+1. Writing is the process by which you realize that you do not understand what you are talking about. Importantly, writing is also the process by which you figure it out.
+   --[In a world of AI writing on demand, a case for the need to write](https://fs.blog/why-write/)
 
-2.  Doing your best isn't about the result. It's about the preparation. It's about the position you find yourself in before you do whatever you are doing. When you put yourself in the proper position, the result takes care of itself. The average person who puts themselves in a great position beats the genius who finds themselves in a poor position.
-    --[Brain Food](https://fs.blog/brain-food/march-12-2023/)
+2. Doing your best isn't about the result. It's about the preparation. It's about the position you find yourself in before you do whatever you are doing. When you put yourself in the proper position, the result takes care of itself. The average person who puts themselves in a great position beats the genius who finds themselves in a poor position.
+   --[Brain Food](https://fs.blog/brain-food/march-12-2023/)
 
 ## Review
 
+- [The week of 2024(Issue-230)](../2024/issue-230.md)
+- [The week of 2023(Issue-179)](../2023/issue-179.md)
 - [The week of 2022(Issue-127)](../2022/issue-127.md)
 - [The week of 2021(Issue-75)](../2021/issue-75.md)
 - [The week of 2020(Issue-27)](../2020/issue-27.md)

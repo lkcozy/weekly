@@ -33,6 +33,29 @@ Refine's internal hooks and components simplify the development process and elim
 ![](https://camo.githubusercontent.com/71e5b599406ae18a7f4b8fe8675be31376eb188971950f0c8afb907343fd4633/68747470733a2f2f6173736574732e747270632e696f2f7777772f7631302f7631302d6461726b2d6c616e6473636170652e676966)
 
 tRPC is an alternative to REST, GraphQL, gRPC and others remote procedure call. It’s a way of creating type safe API without the need of using a codegen tool, and as it is not a full language-agnostic as GraphQL it uses the full potential of typescript or JavaScript frameworks.
+1 3. [cachetools](https://github.com/tkem/cachetools)
+
+```python
+from cachetools import cached, LRUCache, TTLCache
+# speed up calculating Fibonacci numbers with dynamic programming
+@cached(cache={})
+def fib(n):
+    return n if n < 2 else fib(n - 1) + fib(n - 2)
+
+# cache least recently used Python Enhancement Proposals
+@cached(cache=LRUCache(maxsize=32))
+def get_pep(num):
+    url = 'http://www.python.org/dev/peps/pep-%04d/' % num
+    with urllib.request.urlopen(url) as s:
+        return s.read()
+
+# cache weather data for no longer than ten minutes
+@cached(cache=TTLCache(maxsize=1024, ttl=600))
+def get_weather(place):
+    return owm.weather_at_place(place).get_weather()
+```
+
+This module provides various memoizing collections and decorators, including variants of the Python Standard Library's function decorator.
 
 ## Resources
 

@@ -40,7 +40,7 @@ The Easy2Hike app shares up-to-date information on park conditions and potential
 
 ArcGIS StoryMaps allows you to create inspiring, immersive stories by combining interactive maps, text, and other multimedia content. StoryMaps makes it easy to harness the power of maps and geography to tell the story.
 
-1. [Mapping the Most Pleasant Pedestrian Route](https://www.mdpi.com/1424-8220/18/11/3794)
+6. [Mapping the Most Pleasant Pedestrian Route](https://www.mdpi.com/1424-8220/18/11/3794)
 
 ![](https://www.mdpi.com/sensors/sensors-18-03794/article_deploy/html/images/sensors-18-03794-g001-550.jpg)
 
@@ -58,9 +58,9 @@ iSTAR Pulsar is a 'big data' capture device developed in collaboration with Goog
 
 1. [How I climbed a 3,000-foot vertical cliff -- without ropes | Alex Honnold](https://www.youtube.com/watch?v=6iM6M_7wBMc)
 
-!()[https://proactiveoutside.files.wordpress.com/2017/06/alex-honnold-freerider-free-solo.jpg]
+![](https://proactiveoutside.files.wordpress.com/2017/06/alex-honnold-freerider-free-solo.jpg)
 
-!()[https://www.nationalgeographic.com/interactive-assets/nggraphics/ngnews-yosemite-climb/build-2017-05-31_15-03-56/ngm-assets/img/ai2html-graphic-tablet-desktop.png]
+![](https://www.nationalgeographic.com/interactive-assets/nggraphics/ngnews-yosemite-climb/build-2017-05-31_15-03-56/ngm-assets/img/ai2html-graphic-tablet-desktop.png)
 
 Alex Honnold shows his unique ability to remain calm and analytical through climbing the EI Capitan without using ropes or other safety gear. To some degree, the risk is manageable as long as you consider every possibility and rehearse enough to remove all doubt. Feeling fearful is not helping you anyway. It's only hindering your performance, so keep practicing until everything you do is automatic.
 
