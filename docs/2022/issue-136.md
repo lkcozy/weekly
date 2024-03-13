@@ -100,17 +100,17 @@ A detailed description of how to set up a new Mac for the web development enviro
 
 ## Comments
 
-1.  Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two.
-    --[Kevin Kelly](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
+1. Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two.
+   --[Kevin Kelly](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
 
-2.  Productivity is often a distraction. Don't aim for better ways to get through your tasks as quickly as possible. Rather aim for better tasks that you never want to stop doing.
-    --Ditto
+2. Productivity is often a distraction. Don't aim for better ways to get through your tasks as quickly as possible. Rather aim for better tasks that you never want to stop doing.
+   --Ditto
 
-3.  The consistency of your endeavours (exercise, companionship, work) is more important than the quantity. Nothing beats small things done every day, which is way more important than what you do occasionally..
-    --Ditto
+3. The consistency of your endeavours (exercise, companionship, work) is more important than the quantity. Nothing beats small things done every day, which is way more important than what you do occasionally..
+   --Ditto
 
-4.  Ask anyone you admire: Their lucky breaks happened on a detour from their main goal. So embrace detours. Life is not a straight line for anyone.
-    --Ditto
+4. Ask anyone you admire: Their lucky breaks happened on a detour from their main goal. So embrace detours. Life is not a straight line for anyone.
+   --Ditto
 
 ## Review
 

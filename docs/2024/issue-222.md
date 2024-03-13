@@ -16,6 +16,12 @@ GeoFS is a web-based flight simulator that lets you fly anywhere in the world wi
 
 AI agent, which can automate processes, generate insights, and optimize performance across various sectors. There are different types of AI agents, including simple reflex agents, model-based agents, goal-based agents, utility-based agents, learning agents, and hierarchical agents.
 
+2. [Mindshow](https://www.mindshow.fun/)
+
+![](https://ph-files.imgix.net/e144c66a-5ef3-4f64-a07d-53da3d9bc27a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fm=pjpg&w=1076&h=644&fit=max&dpr=1)
+
+MindShow.fun can automatically put together presentation slides based on the information you put in the outline.
+
 ## Tool
 
 1. [Refine](https://github.com/refinedev/refine)

@@ -117,11 +117,13 @@ The author identified a set of qualities and behaviours required for a true Seni
 
 ## Comments
 
-1.  The only way I know of to develop better product intuition for your product is to:1) constantly use your product as a real user would;2) constantly research your target customer -- watch their behaviour, get feedback, know their problems, environment, mindset and psychology.
-    --[Julie Zhuo](https://nitter.net/joulee/status/1636759813567959041#m)
+1. The only way I know of to develop better product intuition for your product is to:1) constantly use your product as a real user would;2) constantly research your target customer -- watch their behaviour, get feedback, know their problems, environment, mindset and psychology.
+   --[Julie Zhuo](https://nitter.net/joulee/status/1636759813567959041#m)
 
 ## Review
 
+- [The week of 2024(Issue-231)](../2024/issue-231.md)
+- [The week of 2023(Issue-180)](../2023/issue-180.md)
 - [The week of 2022(Issue-128)](../2022/issue-128.md)
 - [The week of 2021(Issue-76)](../2021/issue-76.md)
 - [The week of 2020(Issue-28)](../2020/issue-28.md)

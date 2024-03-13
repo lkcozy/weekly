@@ -119,14 +119,18 @@ Cheatsheets for experienced React developers getting started with TypeScript
 
 ## Comments
 
-1.  Chinese culture is characterized by respect for power, as shown by respect for parents at home, teachers at schools, and leaders at the office. But power emphasizes obedience to the will of leaders. This is a basic social and cultural background. Under this background, company management's improvements are relatively difficult because power is so easy to use. --[Talking about Internet overtime culture with five scholars](https://mp.weixin.qq.com/s/4kN65Eu_mYKmC-GLig082g)
+1. Chinese culture is characterized by respect for power, as shown by respect for parents at home, teachers at schools, and leaders at the office. But power emphasizes obedience to the will of leaders. This is a basic social and cultural background. Under this background, company management's improvements are relatively difficult because power is so easy to use. --[Talking about Internet overtime culture with five scholars](https://mp.weixin.qq.com/s/4kN65Eu_mYKmC-GLig082g)
 
-2.  The competitive advantage of an enterprise depends more on the initiative and adaptability of its employees. When creativity becomes important, people become important.
-    -- Ditto
+2. The competitive advantage of an enterprise depends more on the initiative and adaptability of its employees. When creativity becomes important, people become important.
+   -- Ditto
 
-3.  An enterprise really wants to develop well; it needs its employees to do something beyond their positions and status. For example, you will comment and fight against injustices if you see undesirable phenomena within the company.
-    -- Ditto
+3. An enterprise really wants to develop well; it needs its employees to do something beyond their positions and status. For example, you will comment and fight against injustices if you see undesirable phenomena within the company.
+   -- Ditto
 
 ## Review
 
-[The week of 2020(Issue-27)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-27.md)
+- [The week of 2024(Issue-231)](../2024/issue-231.md)
+- [The week of 2023(Issue-180)](../2023/issue-180.md)
+- [The week of 2022(Issue-128)](../2022/issue-128.md)
+- [The week of 2021(Issue-76)](../2021/issue-76.md)
+- [The week of 2020(Issue-28)](../2020/issue-28.md)
