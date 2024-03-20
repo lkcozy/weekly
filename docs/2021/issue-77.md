@@ -95,18 +95,22 @@ Statistical learning method notes - based on Python algorithm implementation
 
 ## Comments
 
-1.  If you want to do something big, you should invest in areas that are just starting to grow and where supply is scarce. Otherwise, being successful is like being a singer in the Internet age.
-    --[ruanyifeng](https://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
+1. If you want to do something big, you should invest in areas that are just starting to grow and where supply is scarce. Otherwise, being successful is like being a singer in the Internet age.
+   --[ruanyifeng](https://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
 
-2.  When a project is done and employees are idle, the boss will ask these people to jump right to the next project. After all, the company is burning money every day. `It is impossible to wait for the chief staff to think clearly before starting work.` In turn, this workforce will also put pressure on the primary creative staff, and they must make decisions as soon as possible to avoid leaving employees idle. `How many good decisions can be made in this situations`?
-    --[What kind of experiences is independent game development?](https://www.yystv.cn/p/7626)
+2. When a project is done and employees are idle, the boss will ask these people to jump right to the next project. After all, the company is burning money every day. `It is impossible to wait for the chief staff to think clearly before starting work.` In turn, this workforce will also put pressure on the primary creative staff, and they must make decisions as soon as possible to avoid leaving employees idle. `How many good decisions can be made in this situations`?
+   --[What kind of experiences is independent game development?](https://www.yystv.cn/p/7626)
 
-3.  In my opinion, `everyone on the team has a different position, and there is no hierarchy.` It's just that someone must be responsible for the decision, which will cause N-1 out of the N ideas to be abandoned. The people who contributed those n-1 ideas will be frustrated.
-    --Ditto
+3. In my opinion, `everyone on the team has a different position, and there is no hierarchy.` It's just that someone must be responsible for the decision, which will cause N-1 out of the N ideas to be abandoned. The people who contributed those n-1 ideas will be frustrated.
+   --Ditto
 
-4.  `The value of a good decision maker is to try to keep the good ideas, not my ideas`. It's the only way to create an equal environment where everyone can trust it and contribute new ideas. At such a time, it's no longer necessary to feel depressed about being denied. Instead,`it's a matter of comfort because better ideas have been gained.`
-    --Ditto
+4. `The value of a good decision maker is to try to keep the good ideas, not my ideas`. It's the only way to create an equal environment where everyone can trust it and contribute new ideas. At such a time, it's no longer necessary to feel depressed about being denied. Instead,`it's a matter of comfort because better ideas have been gained.`
+   --Ditto
 
 ## Review
 
-[The week of 2020(Issue-28)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-28.md)
+- [The week of 2024(Issue-232)](../2024/issue-232.md)
+- [The week of 2023(Issue-181)](../2023/issue-181.md)
+- [The week of 2022(Issue-129)](../2022/issue-129.md)
+- [The week of 2021(Issue-77)](../2021/issue-77.md)
+- [The week of 2020(Issue-29)](../2020/issue-29.md)

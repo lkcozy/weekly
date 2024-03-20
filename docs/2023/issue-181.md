@@ -86,19 +86,21 @@ A detailed list of best practices for Amazon Web Services (AWS)
 
 ## Comments
 
-1.  When you first start to study a field, it seems like you have to memorize a zillion things. You don’t. What you need is to identify the core principles – generally three to twelve of them – that govern the field. The million things you thought you had to memorize are simply various combinations of the core principles.
-    --[John T. Reed](https://geni.us/U2nXYk3)
+1. When you first start to study a field, it seems like you have to memorize a zillion things. You don’t. What you need is to identify the core principles – generally three to twelve of them – that govern the field. The million things you thought you had to memorize are simply various combinations of the core principles.
+   --[John T. Reed](https://geni.us/U2nXYk3)
 
-2.  Do my expectations match the level of effort I’m giving? --[Brain Food](https://fs.blog/brain-food/march-26-2023/)
+2. Do my expectations match the level of effort I’m giving? --[Brain Food](https://fs.blog/brain-food/march-26-2023/)
 
-3.  The challenge for successful organizations moving forward is not they do not have scale, skill, or speed but rather what happens as a new world emerges where the benefits of scale diminish when new skills become critical but the ability to hire the newly skilled with the old incentives are reduced, and the speed of the world outstrips the speed of the organization.
-    --[Scale. Skill. Speed.](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=616be0a465&e=b1367de9f9)
+3. The challenge for successful organizations moving forward is not they do not have scale, skill, or speed but rather what happens as a new world emerges where the benefits of scale diminish when new skills become critical but the ability to hire the newly skilled with the old incentives are reduced, and the speed of the world outstrips the speed of the organization.
+   --[Scale. Skill. Speed.](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=616be0a465&e=b1367de9f9)
 
-4.  1)Never stop learning.2)See failure as a beginning.3)Teach others what you know.4)Assume nothing, question everything.5)Analyze objectively.6)Practice humility.7)Respect constructive criticism.8)Love what you do.9)Give credit where it's due.10)Take the initiative.
-    --[@ProfFeynman](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=bd577763f1&e=b1367de9f9)
+4. 1)Never stop learning.2)See failure as a beginning.3)Teach others what you know.4)Assume nothing, question everything.5)Analyze objectively.6)Practice humility.7)Respect constructive criticism.8)Love what you do.9)Give credit where it's due.10)Take the initiative.
+   --[@ProfFeynman](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=bd577763f1&e=b1367de9f9)
 
 ## Review
 
+- [The week of 2024(Issue-232)](../2024/issue-232.md)
+- [The week of 2023(Issue-181)](../2023/issue-181.md)
 - [The week of 2022(Issue-129)](../2022/issue-129.md)
 - [The week of 2021(Issue-77)](../2021/issue-77.md)
 - [The week of 2020(Issue-29)](../2020/issue-29.md)
