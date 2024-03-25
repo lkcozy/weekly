@@ -78,10 +78,10 @@ To make the relationship successful, the article suggests close collaboration, l
 ## Comments
 
 1. A small team that knows how to work together should be fiercely protected. Even adding a single semi-misaligned person can drag the team into endless delay and steep deceleration.
-   --[Twitter User](https://nitter.net/Suhail/status/1684775130805968896)
+   --[Twitter User](https://twitter.com/Suhail/status/1684775130805968896)
 
 2. If you are urged to grow headcount, remember that you are buying resources at the expense of greater coordination cost. Adding a bunch of people who need to be bought in on strategic matters can easily lead to moving slower than before.
-   --[Twitter User](https://nitter.net/Suhail/status/1684775130805968896)
+   --[Twitter User](https://twitter.com/Suhail/status/1684775130805968896)
 
 3. A simple rule for the decision-maker is that intervention needs to prove its benefits and those benefits need to be orders of magnitude higher than the natural (that is non-interventionist) path. We intuitively know this already. We won’t switch apps or brands for a marginal increase over the status quo. Only when the benefits become orders of magnitude higher do we switch.
    --[Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)

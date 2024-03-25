@@ -64,10 +64,10 @@ This is a website dedicated to providing music education for the public. With th
 ## Comments
 
 1. The saddest form of success is realizing that the goals you achieved weren't yours at all. In the short run, pursuing other people's dreams earns approval. In the long run, it's a recipe for regret. A meaningful purpose doesn't maximize your status. It matches your values.
-   --[Twitter User](https://nitter.net/AdamMGrant/status/1666824000130125824)
+   --[Twitter User](https://twitter.com/AdamMGrant/status/1666824000130125824)
 
 2. It kills me that people keep talking about programming as though that was a significant part of a practicing engineer’s job. Code is an artifact, not the goal. Programming is an implementation detail, not the job.
-   --[Twitter User](https://nitter.net/tomerg/status/1672187773715922945)
+   --[Twitter User](https://twitter.com/tomerg/status/1672187773715922945)
 
 ## Review
 

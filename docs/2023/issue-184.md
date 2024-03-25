@@ -96,9 +96,9 @@ Counter arguments:
 
 ## Comments
 
-1. Discipline is like a sausage. Each one (person’s) has its own flavor and you don’t want to know what goes into it.--[@sunnyndsardonic](https://nitter.net/sunnyndsardonic/status/1647641013132087297#m)
+1. Discipline is like a sausage. Each one (person’s) has its own flavor and you don’t want to know what goes into it.--[@sunnyndsardonic](https://twitter.com/sunnyndsardonic/status/1647641013132087297#m)
 
-2. Discipline is like a balanced diet, at times requiring us to forgo immediate gratification for future well-being.--[@UserJourneys](https://nitter.net/UserJourneys/status/1647643725193936898#m)
+2. Discipline is like a balanced diet, at times requiring us to forgo immediate gratification for future well-being.--[@UserJourneys](https://twitter.com/UserJourneys/status/1647643725193936898#m)
 
 ## Review
 

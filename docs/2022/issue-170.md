@@ -49,7 +49,7 @@ Joy Ebertz with many helpful tips and resources worth following if you consider 
 > The first is cultivating a sense of ownership and responsibility beyond your specific work or your immediate team's work.
 > You don't have to do everything (you're only one person), but it is your responsibility to triage if it's worth doing and if so, make sure that it's on someone's backlog to do.
 
-2. [13 Hard-Earned Lessons to Skyrocket Your Career](https://nitter.net/adcock_brett/status/1603050437094961153)
+2. [13 Hard-Earned Lessons to Skyrocket Your Career](https://twitter.com/adcock_brett/status/1603050437094961153)
 
 - Dedicate time to daily study: make goals to improve in manageable increments.
 - Teach what you study: sharing your new knowledge will make it stick
@@ -88,7 +88,7 @@ Poor kids aren't visiting the carnival. They're the ones working it.
 --[Hacker News Reader](https://news.ycombinator.com/item?id=15659076)
 
 5. Depth of understanding is the gateway to efficiency. Not the other way around.
-   --[@hubermanlab](https://nitter.net/hubermanlab/status/1607443691836440577)
+   --[@hubermanlab](https://twitter.com/hubermanlab/status/1607443691836440577)
 
 ## Review
 

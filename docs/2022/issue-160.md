@@ -100,10 +100,10 @@ A curated collection of diagramming tools used by leading software engineering t
 ## Comments
 
 1. The skill that levels up the most at a start-up: learning how to learn. So humbling; a daily ego beating. But man does it compound.
-   --[Julie Zhuo](https://nitter.net/joulee/status/1583476959782129664#m)
+   --[Julie Zhuo](https://twitter.com/joulee/status/1583476959782129664#m)
 
 2. Culture is built upon what your team experiences all day, every day at work—not what they experience when they step away from the normal routine for a workshop, keynote, or holiday party.
-   --[Julie Zhuo](https://nitter.net/joulee/status/1583476959782129664#m)
+   --[Julie Zhuo](https://twitter.com/joulee/status/1583476959782129664#m)
 
 ## Review
 

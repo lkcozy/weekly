@@ -28,7 +28,7 @@ FinChat is ChatGPT for investors. FinChat accurately provides verified data on p
 
 1. [How to Write a Statement of the Problem in Research](https://typeset.io/resources/statement-of-the-problem-in-research/)
 
-The problem statement serves as a roadmap, guiding the cource of your research and ensuring you remain focused. Initiate your reserach by crafting a clear problem statement.
+The problem statement serves as a roadmap, guiding the course of your research and ensuring you remain focused. Initiate your research by crafting a clear problem statement.
 
 The problem statement is a foundation of academic research writing, providing a precise representation of an existing gap or issue in a particular field of study. It provides research's scope and direction and establishes its relevance and significance.
 
@@ -99,7 +99,7 @@ Theory Y: Most individuals are intrinsically motivated and take pride in their w
    --[Brian Food](https://fs.blog/brain-food/september-24-2023/)
 
 4. You aren't rewarded for hard work. You're rewarded for creating something of value. So don't work extra hard on something you're not sure anyone even wants.
-   --[Twitter User](https://nitter.net/thejustinwelsh/status/1699849191248269534)
+   --[Twitter User](https://twitter.com/thejustinwelsh/status/1699849191248269534)
 
 ## Review
 

@@ -102,7 +102,7 @@ This tutorial teaches you how to containerize Node.js web applications step by s
 
 In this post, the author summarizes the set of principles about building Node applications.
 
-3. ![Easy Ways to Improve Your Writing](https://nitter.net/pic/media%2FFOD6HiMVQAsyKrQ.png%3Fname%3Dorig)
+3. ![Easy Ways to Improve Your Writing](https://twitter.com/pic/media%2FFOD6HiMVQAsyKrQ.png%3Fname%3Dorig)
 
 - Get ideas on paper: the beauty and clarity you desire will emerge with each edit.
 - Capture your best ideas: connect your ideas
@@ -117,27 +117,24 @@ In this post, the author summarizes the set of principles about building Node ap
 
 They're only interested in collecting paychecks while doing as little work as possible for as long as possible.
 
-They might already have a full-time job or other remote jobs, or maybe they're just trying to travel the world and do a "four hour workweek" thing where they answer e-mails once a day and phone in a couple of hours of work at key times during the week.
---[Hacker News Reader](https://news.ycombinator.com/item?id=30151706)
+They might already have a full-time job or other remote jobs, or maybe they're just trying to travel the world and do a "four hour workweek" thing where they answer e-mails once a day and phone in a couple of hours of work at key times during the week. --[Hacker News Reader](https://news.ycombinator.com/item?id=30151706)
 
 2. Corollary 1: Teams with the greatest technical debt mentor the most employees.
 
-In other words, software engineers that produce excellent code cannot easily pass on their wisdom to the next generation of programmers unless they go into academia.
---[Worst practices are viral for the wrong reasons](https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html)
+In other words, software engineers that produce excellent code cannot easily pass on their wisdom to the next generation of programmers unless they go into academia. --[Worst practices are viral for the wrong reasons](https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html)
 
 3. Corollary 2: Poorly implemented libraries or programming languages generate more buzz.
 
-In other words, well-written open-source projects can become victims of their own success, with fewer opportunities to market themselves.
+In other words, well-written open-source projects can become victims of their own success, with fewer opportunities to market themselves. --[Ditto](https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html)
 
---[Ditto](https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html)
+4. One common setup is to have 70% for feature work, 20% for technical debt, and 10% for learning/experiments. --[Tips On Prioritizing Tech Debt In A Healthy Way](https://leadership.garden/tips-on-prioritizing-tech-debt/)
 
-4. One common setup is to have 70% for feature work, 20% for technical debt, and 10% for learning/experiments.
-   --[Tips On Prioritizing Tech Debt In A Healthy Way](https://leadership.garden/tips-on-prioritizing-tech-debt/)
-
-5. Hire and retain people who increase momentum. Shed the rest.
-   --[@avlok](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=625b0b5fb1&e=b1367de9f9)
+5. Hire and retain people who increase momentum. Shed the rest. --[@avlok](https://softwareleadweekly.us6.list-manage.com/track/click?u=1a258e0fefbb23214c59c5a8d&id=625b0b5fb1&e=b1367de9f9)
 
 ## Review
 
-- [The week of 2021(Issue-79)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-79.md)
-- [The week of 2020(Issue-30)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-30.md)
+- [The week of 2024(Issue-233)](../2024/issue-233.md)
+- [The week of 2023(Issue-182)](../2023/issue-182.md)
+- [The week of 2022(Issue-130)](../2022/issue-130.md)
+- [The week of 2021(Issue-78)](../2021/issue-78.md)
+- [The week of 2020(Issue-30)](../2020/issue-30.md)

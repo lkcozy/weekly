@@ -59,7 +59,7 @@ This tool lets you search and filter through last. fm's top 30.000 artists of al
 
 ## Resources
 
-1. [How to look like a genius](https://nitter.net/JamesClear/status/1382744776903118849)
+1. [How to look like a genius](https://twitter.com/JamesClear/status/1382744776903118849)
 
 - Read and think about a topic for a few years.
 - Record any idea you have along the way—most will be bad or average.
@@ -93,16 +93,16 @@ Givers think conversations unfold as a series of invitations; takers think conve
 ## Comments
 
 1. Companies Are More Successful When They Define How They Work. Instead of Trying to Appeal to Everybody, They Attract True Believers With a Spiky Point of View.
-   --[@sdavid_perell](https://nitter.net/david_perell/status/1600156574386823168)
+   --[@sdavid_perell](https://twitter.com/david_perell/status/1600156574386823168)
 
 2. Winning is finding your game.
-   --[@jackbutcher](https://nitter.net/jackbutcher/status/1601989955856785408)
+   --[@jackbutcher](https://twitter.com/jackbutcher/status/1601989955856785408)
 
 3. You can't do great design if you don't understand in depth the experience of the person you're designing for.
-   --[@fchollet](https://nitter.net/fchollet/status/1601397418066837511)
+   --[@fchollet](https://twitter.com/fchollet/status/1601397418066837511)
 
 4. A day without distractions is a very long day. You don't need more time. You need more focus.
-   --[@ash_lmb](https://nitter.net/ash_lmb/status/1575108089711165441)
+   --[@ash_lmb](https://twitter.com/ash_lmb/status/1575108089711165441)
 
 ## Review
 

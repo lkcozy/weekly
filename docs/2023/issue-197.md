@@ -77,7 +77,7 @@ A firewall is a network security system that controls and filters network traffi
    --[Alignment > Autonomy](https://buildrightside.com/autonomy-alignment)
 
 3. Read to fill your mind, write to clear your mind.
-   --[Twitter User](https://nitter.net/fortelabs/status/1676898356960927747)
+   --[Twitter User](https://twitter.com/fortelabs/status/1676898356960927747)
 
 4. The difference between failure and success is often just staying with it a little longer. One more rep.One more step.One more minute.One more revision.One more attempt.The difference between average and outstanding is often just one more.
    --[Brain Food](https://fs.blog/brain-food/july-16-2023/)

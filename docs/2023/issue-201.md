@@ -106,7 +106,7 @@ The author discusses their personal journey in understanding and decoding their 
    --[Oren Ellenbogen](https://softwareleadweekly.com/issues/559)
 
 2. Better wrong then none.You can learn from wrong choices, you can't learn from inaction. Relish every chance to make decisions. If nothing else, use them as an experiment. At first it sucks, but soon you'll become better.
-   --[Twitter User](https://nitter.net/_lhermann/status/1683075797240750080)
+   --[Twitter User](https://twitter.com/_lhermann/status/1683075797240750080)
 
 3. Performance is something that we will give more time; behavior we won’t. And that’s because behavior is a choice, not a skill set.
    --[Frank Slootman](https://fs.blog/knowledge-project-podcast-transcripts/frank-slootman-173/)

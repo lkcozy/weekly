@@ -116,7 +116,7 @@ Learn how to design systems at scale and prepare for system design interviews.
    --[How to Outperform a 10x Developer](https://betterprogramming.pub/how-to-outperform-a-10x-developer-fa1132807934)
 
 2. Just a reminder that all bug prioritisation schemes in practice degenerate to three scheduling categories: do it now, do it later, never do it. If you have a numbered system with many priority levels, what you actually have is a bureaucratic system of denial.
-   --[@KevlinHenney](https://nitter.net/KevlinHenney/status/1573688779533066242)
+   --[@KevlinHenney](https://twitter.com/KevlinHenney/status/1573688779533066242)
 
 3. Learning is necessary for our success and personal growth. But we can't maximize the time we spend learning because our feelings about what we 'should' be doing get in the way.
    --[Let Go of the Learning Baggage](https://fs.blog/learning-baggage/)

@@ -73,9 +73,9 @@ explainshell is a tool (with a web interface) capable of parsing man pages, extr
 
 ## Videos
 
-1. [Joining a Startup as a New Grad](https://nitter.net/andykreed/status/1569042942807142400)
+1. [Joining a Startup as a New Grad](https://twitter.com/andykreed/status/1569042942807142400)
 
-![](https://nitter.net/pic/ext_tw_video_thumb%2F1568363925678202880%2Fpu%2Fimg%2FQ9-WiWvwD_NrwNds.jpg%3Fname%3Dsmall)
+![](https://twitter.com/pic/ext_tw_video_thumb%2F1568363925678202880%2Fpu%2Fimg%2FQ9-WiWvwD_NrwNds.jpg%3Fname%3Dsmall)
 
 2. [This Is the Best Definition of Focus by Jony Ive With a Lesson From Steve Jobs](https://twitter.com/ValaAfshar/status/1571894395670069249)
 
@@ -118,7 +118,7 @@ Here are 3 of my favourite principles about making small changes to improve for 
 ## Comments
 
 1. There are 3 ways to build confidence in your ability to do X without actually having done X. 1. See people who excel at X do it up close. 2. Work out a first principles understanding of X. 3. Develop confidence in your capacity to learn anything, including X.
-   --[Julie Zhuo](https://nitter.net/joulee/status/1573082826282389504#m)
+   --[Julie Zhuo](https://twitter.com/joulee/status/1573082826282389504#m)
 
 2. After you put your feet on the floor in the morning, immediately say this phrase, `It's going to be a great day.` As you say these seven words, try to feel optimistic and positive.
    --[B.J.Fogg](https://fourminutebooks.com/tiny-habits-summary/)

@@ -36,13 +36,13 @@ Biome is a fast formatter for JavaScript, TypeScript, JSX, and JSON that scores 
 
 The article discusses the state of API protocols based on Postman's State of the API report, analyzing the popularity, strengths, and limitations of each protocol. The protocols covered in the article are REST, Webhooks, GraphQL, SOAP, WebSocket, and gRPC. The article also mentions other API protocols like MQTT and AMQP.
 
-2. [AI startups pitching VCs in 2023](https://nitter.net/ChrisJBakke/status/1729982170863919204)
+2. [AI startups pitching VCs in 2023](https://twitter.com/ChrisJBakke/status/1729982170863919204)
 
-![](https://nitter.net/pic/media%2FGAIhlM5aAAALZI5.jpg%3Fname%3Dsmall%26format%3Dwebp)
+![](https://twitter.com/pic/media%2FGAIhlM5aAAALZI5.jpg%3Fname%3Dsmall%26format%3Dwebp)
 
-3. [People do 3 types of work within companies](https://nitter.net/shreyas/status/1329330848919810049)
+3. [People do 3 types of work within companies](https://twitter.com/shreyas/status/1329330848919810049)
 
-![](https://nitter.net/pic/media%2FEn9d6eEVEAAM3iJ.jpg%3Fname%3Dsmall%26format%3Dwebp)
+![](https://twitter.com/pic/media%2FEn9d6eEVEAAM3iJ.jpg%3Fname%3Dsmall%26format%3Dwebp)
 
 - Produce: Creating artifacts to serve the company’s external stakeholders.
   - products, eng infra, sales deals, services, support, status updates,...
@@ -73,7 +73,7 @@ Role of managers: Managers need to create clarity for each employee on the optim
    --[Shane](https://fs.blog/brain-food/november-26-2023/)
 
 4. In most companies people are doing two jobs: their actual job and the job of managing others’ impressions of how they’re doing their job.
-   --[Principles](https://nitter.net/shreyas/status/1329330853231484929#m)
+   --[Principles](https://twitter.com/shreyas/status/1329330853231484929#m)
 
 5. Make sure all decisions are documented. Provide weekly updates to the rest of the organization about progress. What has been worked on, what is being worked on, and what happens next. Create a public roadmap that holds the whole team accountable.
    --[Leading Successful Product Teams](https://arie.ls/2023/leading-successful-product-teams/)
@@ -82,7 +82,7 @@ Role of managers: Managers need to create clarity for each employee on the optim
    --[Keeping Up](https://nested.substack.com/p/keeping-up)
 
 7. It’s easy to envy people with incredible wisdom until you remember the incredible pain they endured to acquire it. The fruits of wisdom taste sweet, but they’re earned by walking through the thorn bush.
-   --[David Perell](https://nitter.net/david_perell/status/1729642384684618131)
+   --[David Perell](https://twitter.com/david_perell/status/1729642384684618131)
 
 ## Review
 

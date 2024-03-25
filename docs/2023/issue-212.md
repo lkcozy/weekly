@@ -14,12 +14,6 @@ Bird's map, also known as the panoramic maps or perspective maps, provide an ele
 
 Ships release pollution particles that serve as cloud condensation nuclei, resulting in the formation of ship tracks. Ship tracks can be seen from satellite imagery and are brighter than other clouds due to smaller and more frequent cloud particles. The size and appearance of ship tracks depend on the speed and direction of the ship. Ship tracks have a cooling effect, blocking solar energy from reaching the ocean surface.
 
-## AI/ML
-
-1. []()
-
-![]()
-
 ## Academic
 
 1. [AI for Essay Writing — Exploring Top 10 Essay Writers](https://typeset.io/resources/best-ai-for-essay-writing/)

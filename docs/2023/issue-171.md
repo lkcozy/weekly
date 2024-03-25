@@ -106,7 +106,7 @@ Action creates progress. Progress creates momentum. Momentum creates motivation.
 ## Comments
 
 1. For happiness, I like to create. For relaxation, I like to consume.
-   --[@dharmesh](https://nitter.net/dharmesh/status/1607146498416087040)
+   --[@dharmesh](https://twitter.com/dharmesh/status/1607146498416087040)
 
 2. The trouble is that most people want to be right. The very best people, however, want to know if they're right.
    --[Creativity: A Short and Cheerful Guide](https://amzn.to/3vaqQue)

@@ -87,7 +87,7 @@ Your ability to answer questions is a competitive advantage.
 6. I am not smart enough to make decisions with no time to think. I make actual decisions very rapidly, but that’s because I have spent so much time preparing ourselves by quietly reading. -— Charlie Munger
 
 7. Only the best can really take constructive feedback. Everyone else just wants to be told they are doing well
-   --[Twitter User](https://nitter.net/jasonlk/status/1459372100603441156)
+   --[Twitter User](https://twitter.com/jasonlk/status/1459372100603441156)
 
 ## Review
 

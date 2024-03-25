@@ -37,8 +37,8 @@ ModelFusion is a TypeScript library for building AI applications, chatbots, and 
 
 ![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87292bd5-dcc0-4bcd-812a-2157116085af_1760x1380.png)
 
-- Insufficient analysis at the beginning of a task was
 - Lack of leadership
+- Insufficient analysis at the beginning of a task
 - Missing documentation of the project
 
 2. [The Data Engineering Handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
@@ -76,10 +76,10 @@ Changing your trajectory is a choice.
    --[Shane](https://fs.blog/brain-food/november-5-2023/)
 
 3. You aren't rewarded for hard work. You're rewarded for creating something of value. So don't work unnecessarily hard on something that you haven't validated people want. Instead, run small experiments over & over again until you have a few strong outcomes. Then double down.
-   --[Twitter User](https://nitter.net/thejustinwelsh/status/1721935049312842185)
+   --[Twitter User](https://twitter.com/thejustinwelsh/status/1721935049312842185)
 
 4. The best way to open people's minds isn't to argue with them. It's to listen to them. When people feel understood, they become less defensive and more reflective—and develop less extreme, more nuanced views. Productive disagreements begin with curiosity, not persuasion.
-   --[Twitter User](https://nitter.net/AdamMGrant/status/1721560235502952598)
+   --[Twitter User](https://twitter.com/AdamMGrant/status/1721560235502952598)
 
 ## Review
 

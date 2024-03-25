@@ -39,7 +39,7 @@ shortcutFoo was created by programmers for programmers in an attempt to make lea
 
 ## Videos
 
-1. [when you lied on your resume and got the job](https://nitter.net/darylginn/status/1592082675653042176)
+1. [when you lied on your resume and got the job](https://twitter.com/darylginn/status/1592082675653042176)
 
 2. [How I Remember Everything I Read](https://www.youtube.com/watch?v=AjoxkxM_I5g)
 

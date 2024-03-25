@@ -99,7 +99,7 @@ Instead of asking overused questions, come up with interview questions that are 
 ## Comments
 
 1. People think freedom is the power to change what you dislike about the world. You can quit a job you hate. Leave a person who hurts you. Switch cities for new scenery. Chop your hair for a new look. What freedom is: the power to change what you dislike about yourself.
-   --[Julie Zhuo](https://nitter.net/joulee/status/1629877706039894016)
+   --[Julie Zhuo](https://twitter.com/joulee/status/1629877706039894016)
 
 2. Developing a social product is not a technical issue. It's a marketing, political, and social problem. Facebook and Twitter have vast numbers of users who are not at all technical. How you reach people like that and get them to join is your problem, and it has nothing to do with a deep understanding of the technology.
    --[Hacker News Reader](https://news.ycombinator.com/item?id=34004890)

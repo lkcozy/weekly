@@ -95,7 +95,7 @@ Unlike `nvm exec,` nve can run any command on specific Node.js versions at once.
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032505.webp)
 
-2. [8 thoughts on the future of remote work](https://nitter.net/george__mack/status/1519708063510409218)
+2. [8 thoughts on the future of remote work](https://twitter.com/george__mack/status/1519708063510409218)
 
 ![](https://pbs.twimg.com/media/FRcWbcXVgAApF_a?format=jpg&name=medium)
 
@@ -130,7 +130,7 @@ Scrum, or any other process, is neither bad nor good if you know what you're aim
    --[FS](https://fs.blog/brain-food/may-8-2022/)
 
 4. I strongly believe that all managers in a technical area must be technically excellent. Managers in software must write great software or it's like being a cavalry captain who can't ride a horse.
-   --[Elon Musk](https://nitter.net/elonmusk/status/1522609829553971200)
+   --[Elon Musk](https://twitter.com/elonmusk/status/1522609829553971200)
 
 ## Review
 

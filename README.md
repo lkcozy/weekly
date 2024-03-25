@@ -32,7 +32,7 @@ grep -nri gis docs | cat -n
 
 ## 🐲 2024
 
-**March**: [Reading Fragments](fragments/2024.03.md) | [Issue #232](docs/2024/issue-232.md) 🚀 | [Issue #231](docs/2024/issue-231.md) | [Issue #230](docs/2024/issue-230.md)
+**March**: [Reading Fragments](fragments/2024.03.md) | [Issue #233](docs/2024/issue-233.md) 🚀 | [Issue #232](docs/2024/issue-232.md) | [Issue #231](docs/2024/issue-231.md) | [Issue #230](docs/2024/issue-230.md)
 
 **February**: [Reading Fragments](fragments/2024.02.md) | [Issue #229](docs/2024/issue-229.md) | [Issue #228](docs/2024/issue-228.md) ｜ [Issue #227](docs/2024/issue-227.md) ｜ [Issue #226](docs/2024/issue-226.md)
 
@@ -196,7 +196,7 @@ or
 
 ## 🛠 Resources
 
-- [Nitter](https://nitter.net/): A free and open source alternative Twitter front-end focused on privacy and performance.
+- [Nitter](https://twitter.com/): A free and open source alternative Twitter front-end focused on privacy and performance.
 - [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp): A news manager that tracks any online source you choose
 - [Saladict](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=en):Pop-up Dictionary and Page Translator
 - [Scholarcy](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib?hl=en-GB): Summarizes research articles, creates interactive flashcards, highlights key points, links to open-access versions of each citation

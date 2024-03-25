@@ -66,10 +66,10 @@ The GPT Web App Generator allows users to describe the web app they want to crea
 ## Comments
 
 1. The widest, deepest moat is customer love.
-   --[Twitter User](https://nitter.net/dharmesh/status/1681867472180224002)
+   --[Twitter User](https://twitter.com/dharmesh/status/1681867472180224002)
 
 2. Any decision where the benefit or cost is temporary, you should make without much investment. Any decision which compounds into the foreseeable future, whether benefits or costs or both, you'd better seriously consider. And say "no" if future costs > benefits. The last part is only known in hindsight if at all. Even then we often conflate it with experimentation or just cost of doing business instead of mistake.
-   --[Twitter User](https://nitter.net/dharmesh/status/1681867472180224002)
+   --[Twitter User](https://twitter.com/dharmesh/status/1681867472180224002)
 
 ## Review
 

@@ -58,7 +58,16 @@ By following this approach, individuals can optimize their career growth and avo
 
 2. [8 Popular Network Protocols](https://blog.bytebytego.com/i/137744340/explaining-popular-network-protocols-in-diagram)
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f9e43fa-84d5-4875-817c-c2e1af75d16e_1280x1664.gif)
+![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f9e43fa-84d5-4875-817c-c2e1af75d16e_1280x1664.gif)
+
+- HTTP (HyperText Transfer Protocol): a protocol for fetching resources such as HTML documents.
+- HTTP/3 is the next major revision of the HTTP.
+- HTTPS (HyperText Transfer Protocol Secure): extends HTTP and uses encryption for secure communications.
+- WebSocket: a protocol that provides full-duplex communications over TCP.
+- TCP (Transmission Control Protocol): sends packets across the internet and ensure the successful delivery of data and messages over networks. Many application-layer protocols build on top of TCP.
+- UDP (User Datagram Protocol): sends packets directly to a target computer, without establishing a connection first.
+- SMTP (Simple Mail Transfer Protocol): a standard protocol to transfer electronic mail from one user to another.
+- FTP (File Transfer Protocol): to transfer computer files between client and server. It has separate connections for the control channel and data channel.
 
 3. [Common Types Of Databases](https://blog.bytebytego.com/i/137744340/what-is-a-database-what-are-some-common-types-of-databases)
 
@@ -75,21 +84,21 @@ By following this approach, individuals can optimize their career growth and avo
 ## Comments
 
 1. One simple framework about communication from @shreyas is to spend 5 minutes to think about the Purpose (uppercase P) and the purpose (lowercase p) of the communication. Purpose is the transactional goal you want to achieve. purpose is what you want the other person to feel after the discussion
-   --[Twitter User](https://nitter.net/lwastuargo/status/1710459531623538920)
+   --[Twitter User](https://twitter.com/lwastuargo/status/1710459531623538920)
 
 2. You've heard the advice: "Get your steps in." Good advice for your physical health. My advice: GET YOUR WORDS OUT. Make yourself write regularly. Hit that publish button. Consistency compounds.
-   --[Twitter User](https://nitter.net/dharmesh/status/1707071426325258680)
+   --[Twitter User](https://twitter.com/dharmesh/status/1707071426325258680)
 
-3. It’s far better to be thought of—and to think of yourself—as a project than a company for as long as possible. It’s far better to be thought of—and to think of yourself—as a project than a company for as long as possible.
+3. It’s far better to be thought of—and to think of yourself—as a project than a company for as long as possible.
 
-Oren: Start small, stay small as long as possible, and grow only to achieve your targets. Headcount is a vanity metric, and so does "busy work" of everything other than delivering value.
+Start small, stay small as long as possible, and grow only to achieve your targets. Headcount is a vanity metric, and so does "busy work" of everything other than delivering value.
 --[Sam Altman](https://softwareleadweekly.com/issues/568)
 
-4. Many times I will see something that can be improved, but I’ll save it in my to-do app because it’s not the right time, or I want to do more research on it first.
+1. Many times I will see something that can be improved, but I’ll save it in my to-do app because it’s not the right time, or I want to do more research on it first.
    --[Influence: Lessons From a Staff Engineer and Ex-Twitter 8-Year Tech Lead](https://careercutler.substack.com/p/influence-lessons-from-a-staff-engineer)
 
-5. The secret that underlies most successful entrepreneurs: The ability to switch back and forth between the creative mind and the constant grind. Again, and again, and again.
-   --[Twitter User](https://nitter.net/dharmesh/status/1712706469626343910)
+2. The secret that underlies most successful entrepreneurs: The ability to switch back and forth between the creative mind and the constant grind. Again, and again, and again.
+   --[Twitter User](https://twitter.com/dharmesh/status/1712706469626343910)
 
 ## Review
 

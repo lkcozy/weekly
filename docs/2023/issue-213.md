@@ -42,7 +42,7 @@ Annie Dillard, Teaching a Stone to Talk
 
 ![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45d16bfb-c541-4c01-8574-63cc39a5c560_1280x1664.gif)
 
-4. [The Best Available Human Standard](https://www.oneusefulthing.org/p/the-best-available-human-standard)
+1. [The Best Available Human Standard](https://www.oneusefulthing.org/p/the-best-available-human-standard)
 
 The author argues for a pragmatic approach to AI, acknowledging that it has both positive and negative implications and emphasizing the need to harness its potential for good. They highlight three fundamental truths about AI: its ubiquity, its hidden capabilities, and its limitations and risks. The author proposes the Best Available Human (BAH) standard as a pragmatic way to determine when AI can be helpful.
 

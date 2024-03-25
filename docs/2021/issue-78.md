@@ -106,22 +106,18 @@ The author explains what a thread is, how it differs from a process, the pros an
 
 ## Comments
 
-1.  Killer application is any computer program or software that is so necessary or desirable that it proves some larger technology's core value. In other words, consumers would benefit from the hardware just to run that application.
+1. Killer application is any computer program or software that is so necessary or desirable that it proves some larger technology's core value. In other words, consumers would benefit from the hardware just to run that application.--[Wikipedia](https://en.wikipedia.org/wiki/Killer_application)
 
-    --[Wikipedia](https://en.wikipedia.org/wiki/Killer_application)
+2. Total recorded music industry revenues were less than $20bn last year (half the peak in 2000) --[Outgrowing software](https://www.ben-evans.com/benedictevans/2021/3/18/outgrowing-software)
 
-2.  Total recorded music industry revenues were less than $20bn last year (half the peak in 2000)
+3. Non-fungible tokens (NFTs) is an application of blockchain. The biggest feature is putting the website link into the blockchain. NFT artificially creates digital assets' ownership and scarcity to make the difference between copies. --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-151.md)
 
-    --[Outgrowing software](https://www.ben-evans.com/benedictevans/2021/3/18/outgrowing-software)
-
-3.  Non-fungible tokens (NFTs) is an application of blockchain. The biggest feature is putting the website link into the blockchain. NFT artificially creates digital assets' ownership and scarcity to make the difference between copies.
-
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-151.md)
-
-4.  If we don't create the thing that kills Facebook, someone else will. Embracing changes isn't enough. It has to be so hardwired into who we are that even talking about it seems redundant. `The internet is not a friendly place. Things that don't stay relevant don't even get the luxury of leaving ruins. They disappear.`
-
-    -- [Facebook little red book](https://twitter.com/antoniogm/status/1365795467376824320)
+4. If we don't create the thing that kills Facebook, someone else will. Embracing changes isn't enough. It has to be so hardwired into who we are that even talking about it seems redundant. `The internet is not a friendly place. Things that don't stay relevant don't even get the luxury of leaving ruins. They disappear.` -- [Facebook little red book](https://twitter.com/antoniogm/status/1365795467376824320)
 
 ## Review
 
-[The week of 2020(Issue-29)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-29.md)
+- [The week of 2024(Issue-233)](../2024/issue-233.md)
+- [The week of 2023(Issue-182)](../2023/issue-182.md)
+- [The week of 2022(Issue-130)](../2022/issue-130.md)
+- [The week of 2021(Issue-78)](../2021/issue-78.md)
+- [The week of 2020(Issue-30)](../2020/issue-30.md)

@@ -71,7 +71,7 @@ You can create multiple entry points in a CRA application without ejecting using
 ## Comments
 
 1. Chaos is the default of life — you have to organize yourself if you want a better result.
-   --[@adcock_brett](https://nitter.net/adcock_brett/status/1609571571798274048)
+   --[@adcock_brett](https://twitter.com/adcock_brett/status/1609571571798274048)
 
 2. Don't let your growth be a function of the company's (and managers') support. You can leverage them to grow faster but never rely on them as the only way to challenge yourself.
    --[Managing Your Career Without a Manager](https://medium.com/meta-research/managing-your-career-without-a-manager-c7a78a322e00)

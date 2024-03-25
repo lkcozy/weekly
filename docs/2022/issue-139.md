@@ -102,7 +102,7 @@ WantWords is an open-source online reverse dictionary.
 
 ## Resources
 
-1. [Over 25 Years and 1,000s of Employees, I've Learned: Good Bosses Use Some Uncommon Tricks. Here Are the 9 of Them You Should Use (Thread)](https://nitter.net/girdley/status/1524009155245182976)
+1. [Over 25 Years and 1,000s of Employees, I've Learned: Good Bosses Use Some Uncommon Tricks. Here Are the 9 of Them You Should Use (Thread)](https://twitter.com/girdley/status/1524009155245182976)
 
 "Good bosses don't let chronic underperformers stay in the role. They change the role or help the employee find their next thing. Bad bosses blame struggling employees and hope they improve." -- Michael Girdley shares many gems. Some might feel trivial, but having 20 years in the industry, very few managers follow these insights.
 
@@ -117,10 +117,10 @@ In short, they allow crypto assets to be used on non-native blockchains. For exa
 ## Comments
 
 1. The Persuasion Paradox. Have you noticed that argumentative people rarely persuade anyone of anything? Persuasive people don't argue-they observe, listen, and ask questions. Argue less, persuade more. Persuasion is an art that requires a paintbrush, not a sledgehammer.
-   --[Twitter User](https://nitter.net/SahilBloom/status/1522941080605536256)
+   --[Twitter User](https://twitter.com/SahilBloom/status/1522941080605536256)
 
 2. A life spent looking for shortcuts is a long road to nowhere.
-   --[@naval](https://nitter.net/naval/status/1523087166938648576)
+   --[@naval](https://twitter.com/naval/status/1523087166938648576)
 
 3. Deprecate yourself. Don't be the go-to person for the code. Optimize it for people to find their way fixing bugs and adding features to the code. Free yourself to move on to the next project/company. Don't own the code or you'll never grow beyond that.
    --[My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)

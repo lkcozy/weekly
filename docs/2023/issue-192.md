@@ -78,10 +78,10 @@ The researchers identified 10 categories of technical debt, listed in order of t
    --[Will AI kill blogging?](https://herman.bearblog.dev/will-ai-kill-blogging/)
 
 3. Productivity hack: Make it as easy as possible to work as hard as you can.
-   --[Twitter User](https://nitter.net/AlexHormozi/status/1662995079366344705)
+   --[Twitter User](https://twitter.com/AlexHormozi/status/1662995079366344705)
 
 4. Designing a functional, outcome-oriented work culture is really hard and often no one's job.
-   --[Twitter User](https://nitter.net/mulegirl/status/1666618801910349824)
+   --[Twitter User](https://twitter.com/mulegirl/status/1666618801910349824)
 
 5. We think the more information we consume the more signal we’ll consume. Only the mind doesn’t work like that. When the volume of information increases, our ability to comprehend the relevant from the irrelevant becomes compromised. We place too much emphasis on irrelevant data and lose sight of what’s really important.
    --[The Noise Bottleneck](https://fs.blog/noise-and-signal-nassim-taleb/)

@@ -129,10 +129,10 @@ Siddhartha's journey is a metaphor for the universal human search for meaning an
    --[The Five P’s of Agility: A Model for Framing Agility at Different Levels](https://medium.com/@carljrogers/the-five-ps-of-agility-af65d5f20246)
 
 2. Getting the opportunity to actually demonstrate that you can often is more important than the actual promotion. Since the latter won't happen without the former. Sponsors matter.
-   --[@Carnage4Life](https://nitter.net/Carnage4Life/status/1597771851379642368)
+   --[@Carnage4Life](https://twitter.com/Carnage4Life/status/1597771851379642368)
 
 3. If you're in any position of engineering leadership, either learn how to better message your concerns, so it doesn't fall on deaf ears but get buy-in, OR you set reasonable expectations in your org, so they learn to make peace with the status quo.
-   --[Cindy Sridharan](https://nitter.net/copyconstruct/status/1592888162292236288)
+   --[Cindy Sridharan](https://twitter.com/copyconstruct/status/1592888162292236288)
 
 ## Review
 

@@ -66,7 +66,7 @@ Boring tasks, unrealistic deadlines, last-minute priority changes, and insuffici
    --[How to Put the Plus in ‘Staff+’ Engineer](https://github.com/readme/guides/staff-engineers)
 
 6. 10x engineers blah blah blah who cares. The engineers that impress me the most are the ones that fearlessly dive into code, domains they know absolutely nothing about and end up producing amazing work in a short amount of time anyways. Truly awe-inspiring every time I see it.
-   --[Twitter User](https://nitter.net/mitchellh/status/1727735093001916492)
+   --[Twitter User](https://twitter.com/mitchellh/status/1727735093001916492)
 
 ## Review
 

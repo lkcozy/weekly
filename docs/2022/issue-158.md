@@ -80,7 +80,7 @@ Controls your external display brightness and volume and shows native OSD.
 
 ## Videos
 
-1. [Larry Page on Thinking Big](https://nitter.net/JonErlichman/status/1576944152482570241)
+1. [Larry Page on Thinking Big](https://twitter.com/JonErlichman/status/1576944152482570241)
 
 This short video provides a great insight that people often confuse with reading too many Agile or Lean Startup books. The focus is not only on the start small and iterating quickly but also on being able to articulate a destination worth iterating towards. If you're working on internal products where the customer is friendly, available, and, let's be honest - has a vendor lock-in - you should be cautious thinking about the job to be done and how you envision it x10 times better than today.
 
@@ -119,13 +119,13 @@ Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 ## Comments
 
 1. Microservices are very successful in promoting solutions to the problems they created.
-   --[@kenegozi](https://nitter.net/kenegozi/status/1577519496478490624#m)
+   --[@kenegozi](https://twitter.com/kenegozi/status/1577519496478490624#m)
 
 2. Microservices are very successful in solving the disadvantages of monolithic architecture.
-   --[@VaughnVernon](https://nitter.net/VaughnVernon/status/1577413895890735105#m)
+   --[@VaughnVernon](https://twitter.com/VaughnVernon/status/1577413895890735105#m)
 
 3. If you want to build a great product, think of if like a secret sauce. It's a specific combination of a handful of ingredients. Too many ingredients make it a mess. Too few and it's not unique. Most people (myself included) definitely err on the side of too many. I find I have to force myself to add fewer ingredients.
-   --[@cambaughn](https://nitter.net/cambaughn/status/1576788235740581888)
+   --[@cambaughn](https://twitter.com/cambaughn/status/1576788235740581888)
 
 ## Review
 

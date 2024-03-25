@@ -146,7 +146,7 @@ The core principles of stoicism:
 - We can change the course of our life by actively managing our actions and responses.
 - Will is the internal power we as humans possess and use to nurture hope.
 
-5. [Your spiky point of view is the key to standing out in a noisy world](https://nitter.net/wes_kao/status/1563208463802839040#m)
+5. [Your spiky point of view is the key to standing out in a noisy world](https://twitter.com/wes_kao/status/1563208463802839040#m)
 
 This is an excellent thread on how to have a compelling point of view without speaking in annoying absolutes.
 

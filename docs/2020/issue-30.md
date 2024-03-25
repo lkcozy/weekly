@@ -99,3 +99,11 @@ The introductory textbook for undergraduates at the University of California, Be
 ![aws](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3r76jz8za3nz.cloudfront.net%2Fwp-content%2Fuploads%2F2017%2F02%2FAWS-cloud-computing-IaaS.jpg&f=1&nofb=1)
 
 A good short explanation of what the AWS apps do.
+
+## Review
+
+- [The week of 2024(Issue-233)](../2024/issue-233.md)
+- [The week of 2023(Issue-182)](../2023/issue-182.md)
+- [The week of 2022(Issue-130)](../2022/issue-130.md)
+- [The week of 2021(Issue-78)](../2021/issue-78.md)
+- [The week of 2020(Issue-30)](../2020/issue-30.md)
