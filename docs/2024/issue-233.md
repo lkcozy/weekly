@@ -54,6 +54,54 @@ A good strategy only has 3 parts: diagnosis, guiding policy, and a set of action
 - Guiding policy: you choose an overarching approach of you'll deal with the challenge
 - A set of coherent actions: you decide on a series of actions you'll take to implement your policy
 
+2. [Processing an Organizational Decision You Disagree With](https://hbr.org/2024/02/how-to-make-peace-with-a-company-decision-you-dont-like?deliveryName=NL_MTOD_20240301)
+
+You won’t agree with every organizational decision senior leadership makes. But you can make peace with a strategic direction you disagree with. Start by asking yourself a few questions.
+
+What specific situation do I disagree with? Define exactly where the misalignment is happening—and why.
+
+How will setting aside my disagreement benefit me? This encourages you to think about the silver lining, and any upsides of going along with an unpopular plan. For example, you might think “I get to keep the job I love, despite the organizational shakeup.”
+
+How will setting aside my disagreement benefit my team? Once you identify your silver lining, it can be easier to see how others may be positively impacted.
+
+What information might the decision-maker(s) have that I don’t? Extend some empathy and grace to your leaders. Perhaps there are factors at play that you’re not privy to. Considering these factors may quell your frustration.
+
+By accepting this decision, what specific actions am I committing to take? You’re now ready to chart a new course of action. By addressing your emotions first, redirecting them to a place of positivity, and thinking beyond your own perspective, you can act with intention.
+
+3. [Become a Pro at Asynchronous Communication](https://hbr.org/2024/03/master-the-art-of-asynchronous-communication?deliveryName=NL_MTOD_20240318)
+
+With the rise of remote and hybrid work, the number of employees working at different times and collaborating across time zones is growing. As a result, you need to develop an increasingly important skill: asynchronous communication. Here are a few tactics that can help.
+
+Asynchronous work requires more autonomy. Familiarize yourself with company resources, like databases, intranets, and internal file-sharing systems. You’ll need to become a pro at finding the information and guidance you need without reaching out to colleagues.
+
+You won’t always find the answers you need on your own. Rather than dashing off a note every time you hit a road bump, keep a running list of your questions. At the end of the workday, schedule messages to the relevant colleagues so they’ll receive them at the start of their next workday.
+
+If you work closely with a colleague or manager who signs on after you sign off, they’ll need to understand where you left off with any shared work assignments in order to seamlessly begin their day. To pass on that information clearly, send them a handoff message when you sign off.
+
+4. [Building a Healthy Relationship with a New Boss](https://hbr.org/2024/03/when-a-new-boss-makes-you-hate-a-job-you-once-loved?deliveryName=NL_MTOD_20240321)
+
+Your relationship with your manager has the power to make or break your experience at work. What do you do if you have a new manager who makes you question a job you once loved? Here’s how to adapt.
+
+Tap the power of positive thinking and empathy. It’s normal to resist change. Pause and ask yourself if your new boss is really the problem, or if you’re simply reacting to the loss of your old boss. This may help you embrace a more optimistic and compassionate outlook.
+
+Study your new boss’s priorities, preferences, and pet peeves. To set the relationship up for success, do your part to establish a dynamic that works for both of you.
+
+Take a “yes, and” approach. It’s important not to reject your new boss’s management style. But it’s also important not to ignore your own needs. Be proactive about expressing your own tendencies and preferences.
+
+Double down on work. Your new boss needs to see what you’re capable of. A great first impression will be the foundation upon which your working relationship is built.
+
+5. [Have a Conversation with Your Boss About the Promotion You Missed Out On](https://hbr.org/2024/03/getting-along-my-new-manager-didnt-give-me-the-promotion-i-was-promised?deliveryName=NL_MTOD_20240322)
+
+You didn’t get that promotion you were expecting. How should you talk to your manager about your disappointment—and how do you move forward?
+
+Start by clearly expressing your disappointment, and seek to understand what went into the decision not to promote you. Listen for explicit criteria. Ideally, you’ll gain some insight into your manager’s perspective and intentions, as well as signal your desire for a more transparent working relationship.
+
+Then, reiterate your goals. Explain to your new manager exactly what it is you want and why. Come prepared with evidence to support your case, including highlights of your most valuable work and how it has contributed to the larger organizational goals.
+
+Next, request specific feedback on your performance and potential areas for improvement. You can then use this feedback as a roadmap to build and refine your skill set and demonstrate your value to the organization.
+
+Finally, ask for advice. Requesting your manager’s guidance on what you can do to earn a promotion next time might enlist their trust and support.
+
 ## Comments
 
 1. If you really want to be great at something, you have to truly care about it. If you want to be great in a particular area, you have to obsess over it. A lot of people say they want to be great, but they're not willing to make the sacrifices necessary to achieve greatness. They have other concerns, and they spread themselves out.

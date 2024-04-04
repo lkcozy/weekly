@@ -32,7 +32,7 @@ grep -nri gis docs | cat -n
 
 ## 🐲 2024
 
-**March**: [Reading Fragments](fragments/2024.03.md) | [Issue #233](docs/2024/issue-233.md) 🚀 | [Issue #232](docs/2024/issue-232.md) | [Issue #231](docs/2024/issue-231.md) | [Issue #230](docs/2024/issue-230.md)
+**March**: [Reading Fragments](fragments/2024.03.md) | [Issue #234](docs/2024/issue-234.md) 🚀 | [Issue #233](docs/2024/issue-233.md) | [Issue #232](docs/2024/issue-232.md) | [Issue #231](docs/2024/issue-231.md) | [Issue #230](docs/2024/issue-230.md)
 
 **February**: [Reading Fragments](fragments/2024.02.md) | [Issue #229](docs/2024/issue-229.md) | [Issue #228](docs/2024/issue-228.md) ｜ [Issue #227](docs/2024/issue-227.md) ｜ [Issue #226](docs/2024/issue-226.md)
 
@@ -166,33 +166,35 @@ or
 
 ## 👍 Acknowledgement
 
-1. 🌏[GIS Lounge](https://www.gislounge.com/): An information site covering research and case studies about the applications of geographic information systems, geospatial technologies, and cartography
-2. 🖥🇨🇳[Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly
-3. 💡[Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
-4. 💡[Software Engineering Research](https://abinoda.substack.com/): A newsletter brings you the latest research on developer productivity and experience
-5. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home
-6. [One Useful Thing](https://www.oneusefulthing.org/): By Prof. Ethan Mollick. Translating academic research into mostly useful insights, with some ephemera on the side. Mostly AI stuff recently.
-7. 💡[Abundant Game](https://blog.abundantgame.com/): Reflections on thinking, rationality, mindfulness, philosophy, human psychology and behavior, for those who believe life is rich and full of possibilities.
-8. 🖥[ByteByteGo Newsletter](https://blog.bytebytego.com/): A popular weekly newsletter covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series.
-9. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks
-10. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world
-11. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog
-12. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom
-13. 🌏[The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
-14. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
-15. 🖥[React Newsletter](https://reactnewsletter.com/issues): Stay up to date on the latest React news, tutorials, resources, and more
-16. 🖥[JavaScript Weekly](https://javascriptweekly.com/): A newsletter of JavaScript articles, news and cool projects
-17. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
-18. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
-19. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub
-20. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
-21. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
-22. 🖥[dev.to](https://dev.to/): The developers' community.
-23. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog
-24. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
-25. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer
-26. 🖥🇨🇳[BestXTools Weekly](https://discuss-cn.bestxtools.com/): finds and shares fun, creative, free and easy-to-use tools
-27. 📊[Visual Capitalist](https://www.visualcapitalist.com/)
+1. 🌏[Geography Realm](https://www.geographyrealm.com/): An information site covering research and case studies about the applications of geographic information systems, geospatial technologies, and cartography
+2. 🧑🏻‍💻🇨🇳[Ruanyf/weekly](https://github.com/ruanyf/weekly): Technology Enthusiast Weekly
+3. 🧑🏻‍💻[Software Lead Weekly](https://softwareleadweekly.com/): A weekly email for busy people who care about people, culture and leadership.
+4. 👩🏻‍💻[Wes Kao's Newsletter](https://newsletter.weskao.com/): share honest insights and practical advice as an operator in a fast-moving startup
+5. 🧑🏻‍💻[Software Engineering Research](https://abinoda.substack.com/): A newsletter brings you the latest research on developer productivity and experience
+6. 🧑🏻‍💻[CTO Newsletter](https://vadimkravcenko.com/newsletter/): Get insights about building digital products, growing teams, scaling development from a CTO into your inbox every two weeks.
+7. 💡[Sunday Brain Food](https://fs.blog/newsletter/): A weekly email full of actionable ideas and insights you can use at work and home
+8. [One Useful Thing](https://www.oneusefulthing.org/): By Prof. Ethan Mollick. Translating academic research into mostly useful insights, with some ephemera on the side. Mostly AI stuff recently.
+9. 💡[Abundant Game](https://blog.abundantgame.com/): Reflections on thinking, rationality, mindfulness, philosophy, human psychology and behavior, for those who believe life is rich and full of possibilities.
+10. 🖥[ByteByteGo Newsletter](https://blog.bytebytego.com/): A popular weekly newsletter covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series.
+11. 🌏[Uber Visualization Blog](https://medium.com/vis-gl): Uber Visualization's open-source frameworks
+12. 🌏[Mapbox Blog](https://webflow-blog.mbxsandbox.com/blog): Provide precise location data and powerful developer tools to change the way we navigate the world
+13. 🌏[CARTO](https://carto.com/blog/categories/news/): The World’s leading Location Intelligence platform's blog
+14. 🌏[OGC Newsroom](https://www.ogc.org/pressroom/pressreleases): The Open Geospatial Consortium newsroom
+15. 🌏[The MapScaping Podcast](https://mapscaping.podbean.com/): Weekly episodes that focus on the tech, trends, tools, and stories from the geospatial world.
+16. 🌏[The Spatial Source](https://www.spatialsource.com.au/): News on mapping, geospatial, surveying & geo-data
+17. 🖥[React Newsletter](https://reactnewsletter.com/issues): Stay up to date on the latest React news, tutorials, resources, and more
+18. 🖥[JavaScript Weekly](https://javascriptweekly.com/): A newsletter of JavaScript articles, news and cool projects
+19. 💡[The Weekly Hagakure](https://hagakure.substack.com/): A weekly dose of curated practical wisdom for technical leaders
+20. 🤖💡 [The Batch from Deeplearning.ai](https://read.deeplearning.ai/the-batch/): Weekly AI news for engineers, executives, and enthusiasts.
+21. 🛠🇨🇳[HelloGithub](https://hellogithub.com/): Share interesting, entry-level open source projects on GitHub
+22. 💡[Harvard Business Review](https://hbr.org/): A general management magazine to share the information & insights you need to excel in business.
+23. 💡[Towards Data Science](https://medium.com/tag/towards-data-science): A canadian-based data science information sharing platform.
+24. 🖥[dev.to](https://dev.to/): The developers' community.
+25. 🖥[LogRocket](https://blog.logrocket.com/): LogRocket technical blog
+26. 📝[David Perell](https://perell.com/): A writer, teacher, and podcaster.
+27. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer
+28. 🖥🇨🇳[BestXTools Weekly](https://discuss-cn.bestxtools.com/): finds and shares fun, creative, free and easy-to-use tools
+29. 📊[Visual Capitalist](https://www.visualcapitalist.com/)
 
 ## 🛠 Resources
 

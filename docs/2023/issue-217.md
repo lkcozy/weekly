@@ -22,6 +22,22 @@ DevOpsGPT is the AI Driven Software Development Automation Solution. It combines
 
 The conclusion serves to summarize the main points of the paper and reemphasize their significance. It is the point where all the information, arguments, and evidence presented throughout the paper coverage.
 
+- Reference the introduction. Remind the reader of the research question or problem, and show how your research has addressed it.
+- Summarize the main points of the paper. Restate the thesis statement and provide a concise synthesis of the key findings and arguments
+- Offer a fresh perspective. Highlight the key findings' implications and relevance.
+- Address any potential counterarguments or limitations of your research. This will demonstrate that you have considered alternative perspectives.
+  - By acknowledging potential counterarguments, you can strengthen the credibility and validity of your research.
+  - By openly discussing limitations, you demonstrate transparency and honestly in your research process.
+- End with a thought-provoking statement or a call to action. This will encourage further exploration of the research topic.
+
+> using phrases like "this research demonstrates," "the findings show," or "it is clear that" can help to highlight the significance of your research and emphasize your main conclusions.
+
+Avoid the common mistakes
+
+- Repeating the introduction.
+- Introducing new information.
+- Ending abruptly.
+
 ## Tool
 
 1. [Biome](https://github.com/biomejs/biome)
@@ -38,11 +54,9 @@ The article discusses the state of API protocols based on Postman's State of the
 
 2. [AI startups pitching VCs in 2023](https://twitter.com/ChrisJBakke/status/1729982170863919204)
 
-![](https://twitter.com/pic/media%2FGAIhlM5aAAALZI5.jpg%3Fname%3Dsmall%26format%3Dwebp)
+![](https://pbs.twimg.com/media/GAIhlM5aAAALZI5?format=jpg&name=900x900)
 
 3. [People do 3 types of work within companies](https://twitter.com/shreyas/status/1329330848919810049)
-
-![](https://twitter.com/pic/media%2FEn9d6eEVEAAM3iJ.jpg%3Fname%3Dsmall%26format%3Dwebp)
 
 - Produce: Creating artifacts to serve the company’s external stakeholders.
   - products, eng infra, sales deals, services, support, status updates,...

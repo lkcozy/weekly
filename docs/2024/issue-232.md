@@ -83,6 +83,30 @@ Here are some key differences to understand when comparing vector search and sem
 
 AWS's network architecture components enable seamless connectivity between the internet, remote workers, corporate data centers, and within the AWS ecosystem itself.
 
+2. [Processing an Organizational Decision You Disagree With](https://hbr.org/2024/02/how-to-make-peace-with-a-company-decision-you-dont-like?deliveryName=NL_MTOD_20240301)
+
+You won’t agree with every organizational decision senior leadership makes. But you can make peace with a strategic direction you disagree with. Start by asking yourself a few questions.
+
+What specific situation do I disagree with? Define exactly where the misalignment is happening—and why.
+
+How will setting aside my disagreement benefit me? This encourages you to think about the silver lining, and any upsides of going along with an unpopular plan. For example, you might think “I get to keep the job I love, despite the organizational shakeup.”
+
+How will setting aside my disagreement benefit my team? Once you identify your silver lining, it can be easier to see how others may be positively impacted.
+
+What information might the decision-maker(s) have that I don’t? Extend some empathy and grace to your leaders. Perhaps there are factors at play that you’re not privy to. Considering these factors may quell your frustration.
+
+By accepting this decision, what specific actions am I committing to take? You’re now ready to chart a new course of action. By addressing your emotions first, redirecting them to a place of positivity, and thinking beyond your own perspective, you can act with intention.
+
+3. [Become a Pro at Asynchronous Communication](https://hbr.org/2024/03/master-the-art-of-asynchronous-communication?deliveryName=NL_MTOD_20240318)
+
+With the rise of remote and hybrid work, the number of employees working at different times and collaborating across time zones is growing. As a result, you need to develop an increasingly important skill: asynchronous communication. Here are a few tactics that can help.
+
+Asynchronous work requires more autonomy. Familiarize yourself with company resources, like databases, intranets, and internal file-sharing systems. You’ll need to become a pro at finding the information and guidance you need without reaching out to colleagues.
+
+You won’t always find the answers you need on your own. Rather than dashing off a note every time you hit a road bump, keep a running list of your questions. At the end of the workday, schedule messages to the relevant colleagues so they’ll receive them at the start of their next workday.
+
+If you work closely with a colleague or manager who signs on after you sign off, they’ll need to understand where you left off with any shared work assignments in order to seamlessly begin their day. To pass on that information clearly, send them a handoff message when you sign off.
+
 ## Comments
 
 1. The silent killer in this scenario of mismanaged stakeholders isn't just the project's failure to deliver value; it's the collective reluctance to acknowledge that failure. Fear of admitting defeat, of facing the repercussions of a project gone south, keeps the team from developing the product further.--[Why software projects fail](https://vadimkravcenko.com/shorts/why-software-projects-fail/)

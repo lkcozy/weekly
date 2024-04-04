@@ -78,6 +78,8 @@ The author, a software engineer, explains how writing has become a significant p
 
 ## Review
 
+- [The week of 2024(Issue-234)](../2024/issue-234.md)
+- [The week of 2023(Issue-183)](../2023/issue-183.md)
 - [The week of 2022(Issue-131)](../2022/issue-131.md)
 - [The week of 2021(Issue-79)](../2021/issue-79.md)
 - [The week of 2020(Issue-31)](../2020/issue-31.md)
