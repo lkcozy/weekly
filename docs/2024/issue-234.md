@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 234, 2024-03-31
+# GISer's Weekly Issue 234, 2024-04-06
 
 ## GeoSpatial
 
@@ -178,6 +178,33 @@ Generally, you want to behave like someone who learns quickly, is going places, 
 - Logs: Keep a record of what happens in your app so you can understand and fix issues, like a diary for your software.
 - Admin Processes: Run special tasks separately from your app, like doing maintenance work in a workshop instead of on the factory floor.
 
+3. [Thoughts on Pair Programming](https://dev.to/shaharke/thoughts-on-pair-programming-1i8g)
+
+> [!IMPORTANT]
+> Creating clarity should be our number one priority. Turn uncertainty into certainty as fast as possible so we can get back to optimizing execution time.
+
+> [!NOTE]
+> Optimize workflow: uncertainty->clarity->certainty->execution time
+
+Shahar Kedar covers when to use Pair Programming to optimize for discovery (increase certainty) and when to use it for training and knowledge sharing. Set expectations early on with the team on how and when to use Pair Programming to get the most out of it.
+
+As engineers we need to deal a lot with (un)**certainty**. Sometimes our job is to take a well defined task and implement it in a well defined architecture - high level of certainty. I would argue that in those cases we want to **optimize for execution time**. The quicker it gets into production and into the hands of customers the better.
+
+In other cases, we receive a task with a lot of **uncertainty**. Either the task is not well-defined technically or from a product perspective, the architecture does not exist or doesn't fit, or there are other risks we identify early on. In my opinion, in those cases we want to **optimize for clarity**.
+
+### Pair programming in high certainty tasks
+
+- **The engineer who owns the task is not proficient enough** - this usually happens with junior developers.
+- **The engineer who owns the task is proficient but not familiar with the code base** - in this case pair programming has a simple goal: reduce ramp up time. Depending on the case, we could restrict the pairing to last only until the owner "gets it" and can continue solo.
+
+### Pair programming in low certainty tasks
+
+Here the level of proficiency or knowledge plays a significantly smaller role.
+
+- Quickly identifying blindspots - many engineers tend to simply start writing code as a way of thinking about their task. This often creates a "tunnel vision" where we think more about the code we're writing then the task we were given. Having another brain that's not occupied with writing code, really helps surface blindspots early on.
+- Fast feedback loop - one of the biggest advantages of pair programming in general is that we have a partner with whom we can bounce ideas around and zero in on the right solution quickly. With low certainty tasks we need that level of feedback and creativity, because we're almost sure to reach obstacles a lot.
+- Psychological commitment - sometimes when we're faced with a really difficult task, we tend to wander to other tasks on our plate that are easier. This behaviour creates a lot of context switching and lengthens delivery times. When pairing we are committed to working on the task at hand. We have little chance to lose our focus. We also have the ability to switch roles if we become tired.
+
 ## Comments
 
 1. While we naturally understand that writing is a good way to share ideas with others, we under-appreciate just how much good writing helps us think about an idea to ourselves. Writing is not only a means of communication, it enables us to practice reasoning.--[How to Think Better](https://fs.blog/how-to-think/)
@@ -197,6 +224,12 @@ Generally, you want to behave like someone who learns quickly, is going places, 
 5. The single most powerful thing you can do in a relationship, whether it's personal or professional, is to give someone 100% of your attention. --[Brad Jacobs](https://fs.blog/knowledge-project-podcast/brad-jacobs/)
 
 6. Managers should consider how they deliver feedback AND direct reports should toughen up about hearing feedback. Both parties should do their part. --[Wes Gao](https://newsletter.weskao.com/p/get-better-feedback)
+
+7. Repeat yourself (within reason)" is a powerful approach to drive your point all the way: "when editing, look for ways that you can restate your point, clarify, or provide closure for the reader. --[What I Think About When I Edit](https://evaparish.com/blog/how-i-edit)
+
+8. The Paradox of Reading: The books you read will profoundly change you even though you'll forget the vast majority of what you read. --[David Perell](https://twitter.com/david_perell/status/1774987679513383281)
+
+9. This is the single career advice that I've followed and worked for me: Be comfortable being uncomfortable. --[Twitter User](https://twitter.com/vonfreud/status/1774741443413672338)
 
 ## Review
 

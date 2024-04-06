@@ -105,5 +105,8 @@ During the code review, focus your efforts on API semantics, implementation sema
 
 ## Review
 
-- [The week of 2021(Issue-81)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-81.md)
-- [The week of 2020(Issue-32)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-32.md)
+- [The week of 2024(Issue-235)](../2024/issue-235.md)
+- [The week of 2023(Issue-184)](../2023/issue-184.md)
+- [The week of 2022(Issue-132)](../2022/issue-132.md)
+- [The week of 2021(Issue-80)](../2021/issue-80.md)
+- [The week of 2020(Issue-32)](../2020/issue-32.md)

@@ -118,3 +118,11 @@ Modern DB toolkit to query, migrate and model your database.
 Working with relational databases is a major bottleneck in application development. Debugging SQL queries or complex ORM objects often consume hours of development time.
 
 Prisma makes it easy for developers to reason about their database queries by providing a clean and type-safe API for submitting database queries that returns plain old JavaScript objects.
+
+## Review
+
+- [The week of 2024(Issue-235)](../2024/issue-235.md)
+- [The week of 2023(Issue-184)](../2023/issue-184.md)
+- [The week of 2022(Issue-132)](../2022/issue-132.md)
+- [The week of 2021(Issue-80)](../2021/issue-80.md)
+- [The week of 2020(Issue-32)](../2020/issue-32.md)

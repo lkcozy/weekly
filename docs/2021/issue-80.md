@@ -129,18 +129,22 @@ Visualizing data structures and algorithms through animation
 
 ## Comments
 
-1.  When it comes to book translations, I think the reasoning process is to let the machine translate the original text once, and then the translator modifies the translation. This at least saves typing time and effort. In the future, there may be no "translator", only "machine translation proofreader."
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-153.md)
+1. When it comes to book translations, I think the reasoning process is to let the machine translate the original text once, and then the translator modifies the translation. This at least saves typing time and effort. In the future, there may be no "translator", only "machine translation proofreader."
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-153.md)
 
-2.  The writing process is divided into two stages: divergence and convergence. In the divergence stage, you are free to explore new ideas; In the convergence stage, you become focused, simplifying your ideas so that you can deliver one of my favourite writing maxims: collect dots, then connect them.
-    --[David Perell- The Writing Guy](https://perell.com/)
+2. The writing process is divided into two stages: divergence and convergence. In the divergence stage, you are free to explore new ideas; In the convergence stage, you become focused, simplifying your ideas so that you can deliver one of my favourite writing maxims: collect dots, then connect them.
+   --[David Perell- The Writing Guy](https://perell.com/)
 
-3.  To improve higher education, we should have different schools for two different styles of learning: (1) get a job - earn a living so you can support your family; (2) live a meaningful life - give students a space to think and learn about themselves, away from the demands of work.
-    --[David Perell- The Writing Guy](https://twitter.com/david_perell/status/1376378046752653313)
+3. To improve higher education, we should have different schools for two different styles of learning: (1) get a job - earn a living so you can support your family; (2) live a meaningful life - give students a space to think and learn about themselves, away from the demands of work.
+   --[David Perell- The Writing Guy](https://twitter.com/david_perell/status/1376378046752653313)
 
-4.  Broadly, colleges were built to give students a place to explore intellectually. But recently, we've asked them to pivot into vacational training, which isn't what they've designed for.
-    --Ditto
+4. Broadly, colleges were built to give students a place to explore intellectually. But recently, we've asked them to pivot into vacational training, which isn't what they've designed for.
+   --Ditto
 
 ## Review
 
-[The week of 2020(Issue-31)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-31.md)
+- [The week of 2024(Issue-235)](../2024/issue-235.md)
+- [The week of 2023(Issue-184)](../2023/issue-184.md)
+- [The week of 2022(Issue-132)](../2022/issue-132.md)
+- [The week of 2021(Issue-80)](../2021/issue-80.md)
+- [The week of 2020(Issue-32)](../2020/issue-32.md)
