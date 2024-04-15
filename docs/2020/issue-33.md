@@ -56,6 +56,12 @@ Fast and powerful CSV (delimited text) parser that gracefully handles large file
 
 ## Comments
 
-1. Heisenbug is a type of computer bug that disappears or changes behaviour when an attempt to debug is made. This is a pun on the Heisenberg uncertainty principle, which can be loosely understood as the tradeoff between the physical measurements of a particle. As you try to precisely measure the location of a particle, its momentum becomes more uncertain, and vice versa. Similarly, as attempts are made to precisely probe the Heisenbug, the problem disappears.
+1. Heisenbug is a type of computer bug that disappears or changes behaviour when an attempt to debug is made. This is a pun on the Heisenberg uncertainty principle, which can be loosely understood as the tradeoff between the physical measurements of a particle. As you try to precisely measure the location of a particle, its momentum becomes more uncertain, and vice versa. Similarly, as attempts are made to precisely probe the Heisenbug, the problem disappears.-- [Heisenbugs and Shell Madness](https://www.naut.ca/blog/2020/04/26/heisenbugs-and-shell-madness/)
 
-   -- [Heisenbugs and Shell Madness](https://www.naut.ca/blog/2020/04/26/heisenbugs-and-shell-madness/)
+## Review
+
+- [The week of 2024(Issue-236)](../2024/issue-236.md)
+- [The week of 2023(Issue-185)](../2023/issue-185.md)
+- [The week of 2022(Issue-133)](../2022/issue-133.md)
+- [The week of 2021(Issue-81)](../2021/issue-81.md)
+- [The week of 2020(Issue-33)](../2020/issue-33.md)

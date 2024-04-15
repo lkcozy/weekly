@@ -44,8 +44,6 @@ Algorithm Visualizer is an interactive online platform designed to bring algorit
 
 2. [React components for Cloudscape Design System](https://github.com/cloudscape-design/components)
 
-![](https://cloudscape.design/6Zw7rdTfjjEEObyGF0Dn4X-2-cards.png)
-
 This package contains the source code of the React components for the Cloudscape Design System.
 
 Cloudscape is an open source design system for building intuitive, engaging, and inclusive user experiences at scale.

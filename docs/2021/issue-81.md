@@ -119,12 +119,16 @@ David Perell shared three thoughts on education:
 
 ## Comments
 
-1.  I think a lot of people think they need OO, but they really just need modularity.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=26588045)
+1. I think a lot of people think they need OO, but they really just need modularity.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=26588045)
 
-2.  If a person's knowledge is too specialized, he/she may find his/her specialty obsolete after a while. If one has a wide range of expertise, with the cooperation of lifelong education, his/her major can change with the change of times.
-    --[Megatrends](https://github.com/ruanyf/weekly/blob/master/docs/issue-154.md)
+2. If a person's knowledge is too specialized, he/she may find his/her specialty obsolete after a while. If one has a wide range of expertise, with the cooperation of lifelong education, his/her major can change with the change of times.
+   --[Megatrends](https://github.com/ruanyf/weekly/blob/master/docs/issue-154.md)
 
 ## Review
 
-[The week of 2020(Issue-32)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-32.md)
+- [The week of 2024(Issue-236)](../2024/issue-236.md)
+- [The week of 2023(Issue-185)](../2023/issue-185.md)
+- [The week of 2022(Issue-133)](../2022/issue-133.md)
+- [The week of 2021(Issue-81)](../2021/issue-81.md)
+- [The week of 2020(Issue-33)](../2020/issue-33.md)
