@@ -191,15 +191,19 @@ ArchiveBox is a powerful, self-hosted internet archiving solution to collect, sa
 
 ## Comments
 
-1.  The higher the acceptance of Bitcoin, the more hurt the US dollar. Because the US dollar is the actual world currency, every bank has a US dollar business. Thus, the United States had access to all the world’s banks and the world’s financial system. That’s American power.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-155.md)
+1. The higher the acceptance of Bitcoin, the more hurt the US dollar. Because the US dollar is the actual world currency, every bank has a US dollar business. Thus, the United States had access to all the world’s banks and the world’s financial system. That’s American power.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-155.md)
 
-2.  Further, any method of trading that does not go through the banking system undermines the hegemony of the US dollar.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-155.md)
+2. Further, any method of trading that does not go through the banking system undermines the hegemony of the US dollar.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-155.md)
 
-3.  Most of our fears or anxieties about technology are best understood as fears or anxiety about how capitalism will use technology against us. And technology and capitalism have been so closely intertwined that it’s hard to distinguish the two.
-    [Ted Chiang](https://kottke.org/21/04/ted-chiang-fears-of-technology-are-fears-of-capitalism)
+3. Most of our fears or anxieties about technology are best understood as fears or anxiety about how capitalism will use technology against us. And technology and capitalism have been so closely intertwined that it’s hard to distinguish the two.
+   [Ted Chiang](https://kottke.org/21/04/ted-chiang-fears-of-technology-are-fears-of-capitalism)
 
 ## Review
 
-[The week of 2020(Issue-33)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-33.md)
+- [The week of 2024(Issue-237)](../2024/issue-237.md)
+- [The week of 2023(Issue-186)](../2023/issue-186.md)
+- [The week of 2022(Issue-134)](../2022/issue-134.md)
+- [The week of 2021(Issue-82)](../2021/issue-82.md)
+- [The week of 2020(Issue-34)](../2020/issue-33.md)

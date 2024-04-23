@@ -114,5 +114,8 @@ Don't wait till tomorrow. Tomorrow is where dreams go to die.
 
 ## Review
 
-- [The week of 2021(Issue-83)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-83.md)
-- [The week of 2020(Issue-34)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-34.md)
+- [The week of 2024(Issue-237)](../2024/issue-237.md)
+- [The week of 2023(Issue-186)](../2023/issue-186.md)
+- [The week of 2022(Issue-134)](../2022/issue-134.md)
+- [The week of 2021(Issue-82)](../2021/issue-82.md)
+- [The week of 2020(Issue-34)](../2020/issue-33.md)
