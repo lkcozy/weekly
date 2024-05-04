@@ -92,7 +92,7 @@ Perfect information about future consequences is not available, and decision-mak
    --[Shane](https://fs.blog/brain-food/january-7-2024/)
 
 3. New goals don't deliver new results. New lifestyles do. And a lifestyle is a process, not an outcome. For this reason, all of your energy should go into building better habits, not chasing better results.
-   --[Twitter User](https://twitter.com/JamesClear/status/1742971849015738434)
+   --[X User](https://twitter.com/JamesClear/status/1742971849015738434)
 
 ## Review
 

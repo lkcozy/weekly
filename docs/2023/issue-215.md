@@ -96,10 +96,10 @@ How to focus on strategy, not self-expression
    --[The 100 Best Bits of Advice From 10 Years of First Round Review](https://review.firstround.com/100-best-bits-of-advice-from-first-round-review)
 
 5. Chase your own best version, not the shadow of someone else’s success. Self-competition is the key to personal growth.
-   --[Twitter User](https://twitter.com/hnshah/status/1724489874685002135)
+   --[X User](https://twitter.com/hnshah/status/1724489874685002135)
 
 6. When you’re looking for a job, there is a big difference between coming across as self-confident (improves your chances) and coming across as someone who deserves the job (ruins your chances esp. for coveted jobs). Remember: You need the job. The company doesn’t owe you the job.
-   --[Twitter User](https://twitter.com/shreyas/status/1724887314814717986)
+   --[X User](https://twitter.com/shreyas/status/1724887314814717986)
 
 ## Review
 

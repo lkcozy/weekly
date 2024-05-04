@@ -129,7 +129,7 @@ One evening a developer refactored a colleague's code into a cleaner version to 
 
 9. As a team leader, being the one to fill every silent moment creates an environment which fosters 'dependency'. The group becomes accustomed to the manager calling all the shots, and gradually relinquishes more and more control to him or her. The team becomes less effective, and struggles to function when the manager is not around. --[Embrace Silence](https://tech.forter.com/embrace-silence.html)
 
-10. Delete all standing meetings, every quarter. Jeff Lawson, Founder and CEO of Twilio gave me this awesome advice: Why? (1) Immediately Kills ALL unnecessary standing meetings (2) Makes everyone revisit their calendars and think about their weeks (3) Anything that is important will obviously be added back to the calendar.--[Twitter User](https://twitter.com/jspujji/status/1774449105772650537)
+10. Delete all standing meetings, every quarter. Jeff Lawson, Founder and CEO of Twilio gave me this awesome advice: Why? (1) Immediately Kills ALL unnecessary standing meetings (2) Makes everyone revisit their calendars and think about their weeks (3) Anything that is important will obviously be added back to the calendar.--[X User](https://twitter.com/jspujji/status/1774449105772650537)
 
 ## Review
 
@@ -137,4 +137,4 @@ One evening a developer refactored a colleague's code into a cleaner version to 
 - [The week of 2023(Issue-186)](../2023/issue-186.md)
 - [The week of 2022(Issue-134)](../2022/issue-134.md)
 - [The week of 2021(Issue-82)](../2021/issue-82.md)
-- [The week of 2020(Issue-34)](../2020/issue-33.md)
+- [The week of 2020(Issue-34)](../2020/issue-34.md)

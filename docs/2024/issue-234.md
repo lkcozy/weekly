@@ -229,7 +229,7 @@ Here the level of proficiency or knowledge plays a significantly smaller role.
 
 8. The Paradox of Reading: The books you read will profoundly change you even though you'll forget the vast majority of what you read. --[David Perell](https://twitter.com/david_perell/status/1774987679513383281)
 
-9. This is the single career advice that I've followed and worked for me: Be comfortable being uncomfortable. --[Twitter User](https://twitter.com/vonfreud/status/1774741443413672338)
+9. This is the single career advice that I've followed and worked for me: Be comfortable being uncomfortable. --[X User](https://twitter.com/vonfreud/status/1774741443413672338)
 
 ## Review
 

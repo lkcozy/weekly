@@ -76,10 +76,10 @@ Changing your trajectory is a choice.
    --[Shane](https://fs.blog/brain-food/november-5-2023/)
 
 3. You aren't rewarded for hard work. You're rewarded for creating something of value. So don't work unnecessarily hard on something that you haven't validated people want. Instead, run small experiments over & over again until you have a few strong outcomes. Then double down.
-   --[Twitter User](https://twitter.com/thejustinwelsh/status/1721935049312842185)
+   --[X User](https://twitter.com/thejustinwelsh/status/1721935049312842185)
 
 4. The best way to open people's minds isn't to argue with them. It's to listen to them. When people feel understood, they become less defensive and more reflective—and develop less extreme, more nuanced views. Productive disagreements begin with curiosity, not persuasion.
-   --[Twitter User](https://twitter.com/AdamMGrant/status/1721560235502952598)
+   --[X User](https://twitter.com/AdamMGrant/status/1721560235502952598)
 
 ## Review
 

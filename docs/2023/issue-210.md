@@ -84,10 +84,10 @@ By following this approach, individuals can optimize their career growth and avo
 ## Comments
 
 1. One simple framework about communication from @shreyas is to spend 5 minutes to think about the Purpose (uppercase P) and the purpose (lowercase p) of the communication. Purpose is the transactional goal you want to achieve. purpose is what you want the other person to feel after the discussion
-   --[Twitter User](https://twitter.com/lwastuargo/status/1710459531623538920)
+   --[X User](https://twitter.com/lwastuargo/status/1710459531623538920)
 
 2. You've heard the advice: "Get your steps in." Good advice for your physical health. My advice: GET YOUR WORDS OUT. Make yourself write regularly. Hit that publish button. Consistency compounds.
-   --[Twitter User](https://twitter.com/dharmesh/status/1707071426325258680)
+   --[X User](https://twitter.com/dharmesh/status/1707071426325258680)
 
 3. It’s far better to be thought of—and to think of yourself—as a project than a company for as long as possible.
 
@@ -98,7 +98,7 @@ Start small, stay small as long as possible, and grow only to achieve your targe
    --[Influence: Lessons From a Staff Engineer and Ex-Twitter 8-Year Tech Lead](https://careercutler.substack.com/p/influence-lessons-from-a-staff-engineer)
 
 2. The secret that underlies most successful entrepreneurs: The ability to switch back and forth between the creative mind and the constant grind. Again, and again, and again.
-   --[Twitter User](https://twitter.com/dharmesh/status/1712706469626343910)
+   --[X User](https://twitter.com/dharmesh/status/1712706469626343910)
 
 ## Review
 

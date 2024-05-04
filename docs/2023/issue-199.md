@@ -92,7 +92,7 @@ A software architect is responsible for making high-level design choices and set
    --[Brain Food](https://fs.blog/brain-food/july-30-2023/)
 
 3. Patience only works if you do. Doing the work + patience = results. Planning to work + patience = you’re just waiting.
-   --[Twitter User](https://twitter.com/JamesClear/status/1679128514006601728)
+   --[X User](https://twitter.com/JamesClear/status/1679128514006601728)
 
 ## Review
 

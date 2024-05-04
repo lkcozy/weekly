@@ -99,7 +99,7 @@ Theory Y: Most individuals are intrinsically motivated and take pride in their w
    --[Brian Food](https://fs.blog/brain-food/september-24-2023/)
 
 4. You aren't rewarded for hard work. You're rewarded for creating something of value. So don't work extra hard on something you're not sure anyone even wants.
-   --[Twitter User](https://twitter.com/thejustinwelsh/status/1699849191248269534)
+   --[X User](https://twitter.com/thejustinwelsh/status/1699849191248269534)
 
 ## Review
 

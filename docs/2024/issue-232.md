@@ -63,7 +63,9 @@ Some of the key lessons the DynamoDB team had were as follows:
 
 2. [Why software projects fail](https://vadimkravcenko.com/shorts/why-software-projects-fail/)
 
-The article discusses the reasons for project failure, focusing on overconfidence among developers, inexperienced managers, and mismanaged stakeholders, with examples and insights based on the author's agency experience in the technical field.
+![](https://vadimkravcenko.com/wp-content/uploads/2024/03/all-for-the-bonus-inexperienced-managers.jpeg)
+
+The article discusses the reasons for project failure, focusing on overconfidence among developers, inexperienced managers, and mismanaged stakeholders, with examples and insights based on the author's agency experience in the technical field. All of these human traits have a huge impact.
 
 - Developers often exhibit overconfidence in their coding skills, learning new technologies, abstractions, and external dependencies, leading to project failures.
 - Inexperienced or incompetent managers can contribute to project failure by prioritizing personal ambitions over project success, lacking experience in decision-making, and allowing scope creep.

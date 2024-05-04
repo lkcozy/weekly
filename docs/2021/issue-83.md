@@ -125,15 +125,19 @@ The author experienced the Seam Carving algorithm through building an interactiv
 
 ## Comments
 
-1.  You don’t travel to see different things. You travel to see things differently.
-    --[Ben Davenpor](https://m.facebook.com/HanksWorldWide/photos/pb.160385744474061.-2207520000.1564413746./238546423324659/)
+1. You don’t travel to see different things. You travel to see things differently.
+   --[Ben Davenpor](https://m.facebook.com/HanksWorldWide/photos/pb.160385744474061.-2207520000.1564413746./238546423324659/)
 
-2.  Today’s world is highly connected, and competition among different industries is much more and faster than before. Not only do changes in your industry affect you, but what happens in some unknown part of the world will also affect you.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-156.md)
+2. Today’s world is highly connected, and competition among different industries is much more and faster than before. Not only do changes in your industry affect you, but what happens in some unknown part of the world will also affect you.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-156.md)
 
-3.  This is the age of the Internet. Everyone’s life becomes uncertain and will be affected by unexpected ways at any time. Some are good, and some are bad, and there is no way to prepare for or prevent them. You can only grow as big as you can and accept the change.
-    --Ditto
+3. This is the age of the Internet. Everyone’s life becomes uncertain and will be affected by unexpected ways at any time. Some are good, and some are bad, and there is no way to prepare for or prevent them. You can only grow as big as you can and accept the change.
+   --Ditto
 
 ## Review
 
-[The week of 2020(Issue-34)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-34.md)
+- [The week of 2024(Issue-238)](../2024/issue-238.md)
+- [The week of 2023(Issue-187)](../2023/issue-187.md)
+- [The week of 2022(Issue-135)](../2022/issue-135.md)
+- [The week of 2021(Issue-83)](../2021/issue-83.md)
+- [The week of 2020(Issue-35)](../2020/issue-35.md)

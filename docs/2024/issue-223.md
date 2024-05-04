@@ -115,10 +115,10 @@ Code reviews are an essential part of the software development process, as they 
    --[On Writing at Work](https://poczwardowski.substack.com/p/on-writing-at-work)
 
 2. Candor is essential for truth seeking as a team. So one of your most important duties as a leader is to emphasize your expectation of candid dialogue amongst your team members and to consistently live this value yourself by demonstrating how to be candid while still being kind.
-   --[Twitter User](https://twitter.com/shreyas/status/1743309002300387637)
+   --[X User](https://twitter.com/shreyas/status/1743309002300387637)
 
 3. Before launching a product, sit down and draft a murderboard: list out every possible criticism with the worst headline possible. Then, while preserving the core value proposition, reposition the product so it’s bulletproof against any criticism. Don’t delegate this: you own the product and you should know all possible ways it will be perceived.
-   --[Twitter User](https://twitter.com/nikitabier/status/1744091716423176433)
+   --[X User](https://twitter.com/nikitabier/status/1744091716423176433)
 
 4. Perhaps the most comforting thing about growing old gracefully is the increasing ability not to take things too seriously.
 

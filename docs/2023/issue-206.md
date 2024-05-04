@@ -99,7 +99,7 @@ The GPT Web App Generator allows users to describe the web app they want to crea
 ## Comments
 
 1. Debugging is the art of increasingly understanding the divergence between what you thought you want and what you actually want, how you thought your code would run, and how it actually runs.
-   --[Twitter User](https://twitter.com/gdb/status/1700327166930534731)
+   --[X User](https://twitter.com/gdb/status/1700327166930534731)
 
 ## Review
 

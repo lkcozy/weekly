@@ -117,7 +117,7 @@ Changes
 
 ## Comments
 
-1. What is the most important thing for a CTO to know”. My reflexive answer was “Domain. The business. Esp how it makes money. --[Twitter User](https://twitter.com/NilenduMisra/status/1735861704813408599)
+1. What is the most important thing for a CTO to know”. My reflexive answer was “Domain. The business. Esp how it makes money. --[X User](https://twitter.com/NilenduMisra/status/1735861704813408599)
 
 ## Review
 

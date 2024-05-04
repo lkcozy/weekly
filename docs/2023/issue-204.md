@@ -60,7 +60,7 @@ An exciting game of programming and Artificial Intelligence.
 ## Comments
 
 1. Life's better when you constantly assume you could be wrong. You learn more. Resent less. And attract smart people. Being wrong says nothing about you as a person. Not being able to admit it does.
-   --[Twitter User](https://twitter.com/Patticus/status/1697678713138119128)
+   --[X User](https://twitter.com/Patticus/status/1697678713138119128)
 
 2. With the Outlier Algorithm, my logic was inverted: If others liked this, it may be worth becoming familiar with, but I can’t use it to make a big profit or impact.
    --[While Most People Fight to Learn “In-Demand” Skills, Smart People Are Learning Rare Skills Instead](https://medium.com/accelerated-intelligence/while-most-people-fight-to-learn-in-demand-skills-smart-people-are-secretly-learning-rare-skills-f9b26856c9d6)

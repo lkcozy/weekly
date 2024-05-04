@@ -117,7 +117,7 @@ In short, they allow crypto assets to be used on non-native blockchains. For exa
 ## Comments
 
 1. The Persuasion Paradox. Have you noticed that argumentative people rarely persuade anyone of anything? Persuasive people don't argue-they observe, listen, and ask questions. Argue less, persuade more. Persuasion is an art that requires a paintbrush, not a sledgehammer.
-   --[Twitter User](https://twitter.com/SahilBloom/status/1522941080605536256)
+   --[X User](https://twitter.com/SahilBloom/status/1522941080605536256)
 
 2. A life spent looking for shortcuts is a long road to nowhere.
    --[@naval](https://twitter.com/naval/status/1523087166938648576)
