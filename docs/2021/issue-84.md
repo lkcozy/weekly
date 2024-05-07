@@ -93,18 +93,22 @@ The biggest problem for startups is that they don't have the resources, but KK t
 
 ## Comments
 
-1.  The only metrics that entrepreneurs should invest energy in collecting are those that `help them make decisions.
-    --[Vanity Metrics vs. Actionable Metrics](https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/)
+1. The only metrics that entrepreneurs should invest energy in collecting are those that `help them make decisions.
+   --[Vanity Metrics vs. Actionable Metrics](https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/)
 
-2.  Find out where the issues are, the commonalities, and attempt to break down the biggest problems and what may be causing them. `If you can measure it, you can manage/improve it.
-    --[Avoid Focusing on Vanity Metrics in Software Testing](https://itnext.io/its-a-trap-avoid-focusing-on-vanity-metrics-in-software-testing-7a627c7848)
+2. Find out where the issues are, the commonalities, and attempt to break down the biggest problems and what may be causing them. `If you can measure it, you can manage/improve it.
+   --[Avoid Focusing on Vanity Metrics in Software Testing](https://itnext.io/its-a-trap-avoid-focusing-on-vanity-metrics-in-software-testing-7a627c7848)
 
-3.  What is missing today is a simpler GIS that is stripped back with just a simple user interface and the basic tools.
-    --[Has GIS Lost its Core Values](https://www.gwprime.geospatialworld.net/opinion/has-gis-lost-its-core-values/)
+3. What is missing today is a simpler GIS that is stripped back with just a simple user interface and the basic tools.
+   --[Has GIS Lost its Core Values](https://www.gwprime.geospatialworld.net/opinion/has-gis-lost-its-core-values/)
 
-4.  GIS has lost its way; it has become an awesome tool like the current mobile phones. It was amazing that you could roam wirelessly and make calls, but now you have a minicomputer everywhere you go. Some argue that it is no longer a phone, and so they named it a 'smartphone.' Maybe we are in the era of the 'smart GIS'
-    --Ditto
+4. GIS has lost its way; it has become an awesome tool like the current mobile phones. It was amazing that you could roam wirelessly and make calls, but now you have a minicomputer everywhere you go. Some argue that it is no longer a phone, and so they named it a 'smartphone.' Maybe we are in the era of the 'smart GIS'
+   --Ditto
 
 ## Review
 
-[The week of 2020(Issue-35)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-35.md)
+- [The week of 2024(Issue-239)](../2024/issue-239.md)
+- [The week of 2023(Issue-188)](../2023/issue-188.md)
+- [The week of 2022(Issue-136)](../2022/issue-136.md)
+- [The week of 2021(Issue-84)](../2021/issue-84.md)
+- [The week of 2020(Issue-36)](../2020/issue-36.md)

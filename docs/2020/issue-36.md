@@ -105,3 +105,11 @@ An analysis of software engineer salaries across a variety of cities conducted b
 ![City Salaries](https://heuristic-fermat-d94b2f.netlify.app/comparing-software-engineer-salaries-across-cities/salaries-1.svg)
 
 ![Cost of Living](https://heuristic-fermat-d94b2f.netlify.app/comparing-software-engineer-salaries-across-cities/col-1.svg)
+
+## Review
+
+- [The week of 2024(Issue-239)](../2024/issue-239.md)
+- [The week of 2023(Issue-188)](../2023/issue-188.md)
+- [The week of 2022(Issue-136)](../2022/issue-136.md)
+- [The week of 2021(Issue-84)](../2021/issue-84.md)
+- [The week of 2020(Issue-36)](../2020/issue-36.md)

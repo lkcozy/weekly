@@ -12,6 +12,14 @@ The article discusses an experimental web mapping project using DuckDB-Wasm and 
 - DuckDB, with its httpfs extension and support for Parquet file format, enables querying remote data with SQL in a browser through a WebAssembly binary, offering scalability for concurrent users.
 - The approach has constraints and risks such as read-only access, limitations with non-point datasets, network bandwidth requirements, large binary size, and potential performance issues with higher data volumes.
 
+2. [Building a GIS Career](https://www.geographyrealm.com/building-a-career-in-gis/?)
+
+The article discusses the use of geospatial technologies in various fields, focusing on skills required for a successful GIS career and providing guidance on education, software applications, experience, and job search strategies.
+
+- Strong educational background in cartography, GIS, spatial analysis, database management, web technologies, and programming is essential for a career in GIS.
+- Building a GIS portfolio and gaining hands-on experience through internships are crucial for job readiness.
+- Specializing in a field that utilizes geospatial technology or advancing programming skills can enhance career prospects in GIS.
+
 ## AI/ML
 
 1. [lobehub/lobe-vidol](https://github.com/lobehub/lobe-vidol)
