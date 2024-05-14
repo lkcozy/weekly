@@ -80,11 +80,11 @@ CAO method can help build structured and easily understood stories with not much
 
 3. [REST API Cheatsheet](https://blog.bytebytego.com/i/140533892/rest-api-cheatsheet)
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff870b253-d5f5-43bf-a6ab-667ee8ed6f8b_1280x1664.gif)
+![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff870b253-d5f5-43bf-a6ab-667ee8ed6f8b_1280x1664.gif)
 
 4. [Top 4 Most Popular Use Cases for UDP](https://blog.bytebytego.com/p/ep94-rest-api-cheatsheet)
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee2abce-64a6-4092-8429-c5d82984808b_1280x1664.gif)
+![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee2abce-64a6-4092-8429-c5d82984808b_1280x1664.gif)
 
 UDP (User Datagram Protocol) is used in various software architectures for its simplicity, speed, and low overhead compared to other protocols like TCP.
 
@@ -97,7 +97,21 @@ UDP is commonly used in time-sensitive communications where occasionally droppin
 
 5. [Code Reviews](https://vadimkravcenko.com/shorts/code-reviews/)
 
-![](https://vadimkravcenko.com/wp-content/uploads/2024/01/code-review-examples.png)
+- Implementation
+  - Does this code change accomplish what it is supposed to do?
+  - Can this solution be simplified?
+  - Does this change add unwanted compile-time or run-time dependencies?
+  - Is a framework, API, library, or service used that should not be used?
+  - Could an additional framework, API, library, or service improve the solution?
+  - Is the code at the right abstraction level?
+  - Is the code modular enough?
+  - Can a better solution be found in terms of maintainability, readability, performance, or security?
+  - Does similar functionality already exist in the codebase? If yes, why isn't it reused?
+  - Are there any best practices, design patterns or language-specific patterns that could substantially improve this code?
+  - Does this code adhere to Object-Oriented Analysis and Design Principles, like the Single Responsibility Principle, Open-Close Principle, Liskov Substitution Principle, Interface Segregation, or Dependency Injection?
+- Logic Errors and Bugs
+  - Can you think of any use case in which the code does not behave as intended
+  - Can you think of any inputs or external events that could break the code?
 
 Code reviews are an essential part of the software development process, as they help improve code readability, maintainability, and scalability.
 

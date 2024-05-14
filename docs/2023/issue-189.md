@@ -110,6 +110,8 @@ The diagram above shows the most commonly used algorithms in our daily lives. Th
 
 ## Review
 
+- [The week of 2024(Issue-240)](../2024/issue-240.md)
+- [The week of 2023(Issue-189)](../2023/issue-189.md)
 - [The week of 2022(Issue-137)](../2022/issue-137.md)
 - [The week of 2021(Issue-85)](../2021/issue-85.md)
 - [The week of 2020(Issue-37)](../2020/issue-37.md)
