@@ -51,6 +51,13 @@ Volta is a hassle-free way to manage your JavaScript command-line tools. With Vo
 
 Simple macOS menu bar app to view and interact with reminders.
 
+5. [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
+
+![](https://github.com/buxuku/video-subtitle-master/raw/main/resources/preview.png)
+
+A client-side tool which generates captions for videos in bulk and translate captions into other languages.
+
+
 ## Resources
 
 1. [When to disagree and commit](https://newsletter.weskao.com/p/when-to-disagree-and-commit)

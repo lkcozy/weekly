@@ -119,9 +119,7 @@ The core of glTF is a JSON file that describes the structure and composition of 
 
 ## Comments
 
-1
-
-The business leaders we've talked to do not want to rebuild floor-plans—they want to make adjustments to keep employees safe. Some will create round-robin schedules so certain employees are in the office on days when their adjacent neighbours are not.
+1. The business leaders we've talked to do not want to rebuild floor-plans—they want to make adjustments to keep employees safe. Some will create round-robin schedules so certain employees are in the office on days when their adjacent neighbours are not.
 
 Managers want a real-time view of the office—a common operating picture to help them keep the workplace safe. Indoor maps are helping provide that visibility.
 
@@ -129,8 +127,14 @@ Company executives are monitoring federal, state, and local orders for business 
 
 -- [Pat Wallis](https://www.esri.com/about/newsroom/publications/wherenext/reopening-the-workplace/)
 
-2
-
-I Can't Do Anything for Fun Anymore; Every Hobby Is an Attempt to Make money.
+2. I Can't Do Anything for Fun Anymore; Every Hobby Is an Attempt to Make money.
 
 -- [Dave Bennett](https://www.bennettnotes.com/post/making-money-out-of-every-hobby/)
+
+## Review
+
+- [The week of 2024(Issue-241)](../2024/issue-241.md)
+- [The week of 2023(Issue-190)](../2023/issue-190.md)
+- [The week of 2022(Issue-138)](../2022/issue-138.md)
+- [The week of 2021(Issue-86)](../2021/issue-86.md)
+- [The week of 2020(Issue-38)](../2020/issue-38.md)

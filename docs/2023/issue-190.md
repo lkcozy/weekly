@@ -102,6 +102,8 @@ This article discusses how to run a company with fewer full-time managers by foc
 
 ## Review
 
+- [The week of 2024(Issue-241)](../2024/issue-241.md)
+- [The week of 2023(Issue-190)](../2023/issue-190.md)
 - [The week of 2022(Issue-138)](../2022/issue-138.md)
 - [The week of 2021(Issue-86)](../2021/issue-86.md)
 - [The week of 2020(Issue-38)](../2020/issue-38.md)

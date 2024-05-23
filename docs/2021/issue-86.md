@@ -142,18 +142,22 @@ git push
 
 ## Comments
 
-1.  When you join a team midway through a large, tightly coupled system, and you don’t understand every detail of how the system works, you’re less likely to make changes to the previous code because you don’t know the full impact
-    --[The Biggest Problem In Software Engineering-Scaling Problem](https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)
+1. When you join a team midway through a large, tightly coupled system, and you don’t understand every detail of how the system works, you’re less likely to make changes to the previous code because you don’t know the full impact
+   --[The Biggest Problem In Software Engineering-Scaling Problem](https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)
 
-2.  You don’t feel like you own the code if you don’t really understand the system. You’ll be hesitant to refactor. Therefore, outdated code starts to accumulate, and technical debt starts to build up. Over time, development becomes more and more unpleasant and unsatisfactory, resulting in a brain drain. It will be more difficult for a new person to refactor the code that is left behind.
-    --Ditto
+2. You don’t feel like you own the code if you don’t really understand the system. You’ll be hesitant to refactor. Therefore, outdated code starts to accumulate, and technical debt starts to build up. Over time, development becomes more and more unpleasant and unsatisfactory, resulting in a brain drain. It will be more difficult for a new person to refactor the code that is left behind.
+   --Ditto
 
-3.  Remember that things tend to be fluid; re-organizations happen often. Having a bug tracking system doesn’t make bug handling efficient, and CI/CD doesn’t mean your time to deliver is necessarily short.
-    --[Reverse interview](https://github.com/viraptor/reverse-interview)
+3. Remember that things tend to be fluid; re-organizations happen often. Having a bug tracking system doesn’t make bug handling efficient, and CI/CD doesn’t mean your time to deliver is necessarily short.
+   --[Reverse interview](https://github.com/viraptor/reverse-interview)
 
-4.  The three core elements of each startup -- team, product, and market. And the market is the most critical factor in a startup’s success or failure. The #1 company-killer is lack of market.
-    --[THE PMARCA GUIDE TO STARTUPS](https://pmarchive.com/guide_to_startups_part4.html)
+4. The three core elements of each startup -- team, product, and market. And the market is the most critical factor in a startup’s success or failure. The #1 company-killer is lack of market.
+   --[THE PMARCA GUIDE TO STARTUPS](https://pmarchive.com/guide_to_startups_part4.html)
 
 ## Review
 
-[The week of 2020(Issue-37)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-37.md)
+- [The week of 2024(Issue-241)](../2024/issue-241.md)
+- [The week of 2023(Issue-190)](../2023/issue-190.md)
+- [The week of 2022(Issue-138)](../2022/issue-138.md)
+- [The week of 2021(Issue-86)](../2021/issue-86.md)
+- [The week of 2020(Issue-38)](../2020/issue-38.md)
