@@ -56,6 +56,8 @@ This article offers a roadmap for prompt engineering using language learning mod
 
 ## Review
 
+- [The week of 2024(Issue-242)](../2024/issue-242.md)
+- [The week of 2023(Issue-191)](../2023/issue-191.md)
 - [The week of 2022(Issue-139)](../2022/issue-139.md)
 - [The week of 2021(Issue-87)](../2021/issue-87.md)
 - [The week of 2020(Issue-39)](../2020/issue-39.md)

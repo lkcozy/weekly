@@ -75,9 +75,13 @@ Scientists developed a shape morphing technique that can flat-pack many material
 
 ## Resources
 
-1. [How to Be a Successful Entrepreneur – A Developer's Guide to Startup Strategy and Design]()
+1. [How to Be a Successful Entrepreneur – A Developer's Guide to Startup Strategy and Design](https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/)
 
 A developer's guide to startup strategy and design. The author recommends starting putting the methods into practice rather than reading the entire guide and attempting to internalize it. The ultimate skill entrepreneurs need to have is figuring things out under extreme uncertainty.
+
+- Strategy and design can help minimize chances of failing in a startup by focusing on customer needs, competitive advantages, and constant iteration.
+- Components of a business strategy include defining purpose, developing hypotheses, testing hypotheses, and designing the product.
+- Strategy involves breaking down markets, value propositions, and differentiation into individual parts, like a scientific mindset.
 
 2. [5 Advanced React Patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
 
@@ -89,11 +93,10 @@ Inversion of control: Level of flexibility and control given to the users of you
 Implementation complexity: Difficulty for both you and users to implement that pattern.
 
 - Compound Components Pattern
-
-* Control Props Pattern
-* Custom Hook Pattern
-* Props Getters Pattern
-* State reducer pattern
+- Control Props Pattern
+- Custom Hook Pattern
+- Props Getters Pattern
+- State reducer pattern
 
 3. [Debugging React performance issues with Why Did You Render](https://blog.logrocket.com/debugging-react-performance-issues-with-why-did-you-render/)
 
@@ -109,18 +112,22 @@ The author explains how to build a multi-tenant React client with an Appsync, Co
 
 ## Comments
 
-1.  People who write a lot also listen a lot. They also change their mind a lot. Not necessarily with new data, but sometimes re-analyzing the same data. They also work hard to disconfirm fundamental biases.
-    --[Jeff Bezos]
+1. People who write a lot also listen a lot. They also change their mind a lot. Not necessarily with new data, but sometimes re-analyzing the same data. They also work hard to disconfirm fundamental biases.
+   --[Jeff Bezos]
 
-2.  The world is full of obvious things which nobody by any chance ever observes.
-    --[Sherlock Holmes](https://openlettersreview.com/posts/its-a-mystery-the-world-is-full-of-obvious-things-which-nobody-by-any-chance-ever-observes)
+2. The world is full of obvious things which nobody by any chance ever observes.
+   --[Sherlock Holmes](https://openlettersreview.com/posts/its-a-mystery-the-world-is-full-of-obvious-things-which-nobody-by-any-chance-ever-observes)
 
-3.  If you wish you would take something more seriously, do it publicly. Social pressure forces you to up your game.
-    --[James Clear-the author of Atomic Habits](https://perell.com/essay/why-you-should-write/)
+3. If you wish you would take something more seriously, do it publicly. Social pressure forces you to up your game.
+   --[James Clear-the author of Atomic Habits](https://perell.com/essay/why-you-should-write/)
 
-4.  Re-writing is re-thinking. Writing is the best way to sharpen your ideas. The only thing standing between you and your writing goals is discipline.
-    --[David Perell](https://perell.com/essay/why-you-should-write/)
+4. Re-writing is re-thinking. Writing is the best way to sharpen your ideas. The only thing standing between you and your writing goals is discipline.
+   --[David Perell](https://perell.com/essay/why-you-should-write/)
 
 ## Review
 
-[The week of 2020(Issue-38)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-38.md)
+- [The week of 2024(Issue-242)](../2024/issue-242.md)
+- [The week of 2023(Issue-191)](../2023/issue-191.md)
+- [The week of 2022(Issue-139)](../2022/issue-139.md)
+- [The week of 2021(Issue-87)](../2021/issue-87.md)
+- [The week of 2020(Issue-39)](../2020/issue-39.md)

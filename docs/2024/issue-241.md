@@ -16,6 +16,37 @@ GeoSpy is a cutting-edge AI platform specialized in geo-estimation and location 
 
 This TSConfig builder is heavily influenced by [Matt Pocock's TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet).
 
+2. [BullMQ](https://github.com/taskforcesh/bullmq)
+
+BullMQ is a Node.js library that implements a fast and robust queue system built on top of Redis that helps in resolving many modern age micro-services architectures.
+
+[Reliable Background Task Execution using BullMQ and Node.js](https://gauravbytes.hashnode.dev/reliable-background-task-execution-using-bullmq-and-nodejs)
+
+3. [DashPlayer](https://github.com/solidSpoon/DashPlayer)
+
+A video player tailored for English learners, helping you easily improve your English proficiency by watching videos and immersing yourself in real-life contexts.
+
+4. [env-var](https://github.com/evanshortiss/env-var)
+
+```ts
+import { from, logger } from "env-var";
+// The built-in logger will print logs only when NODE_ENV is not set to either prod or production.
+const env = from(process.env, {}, logger);
+const PASSWORD: string = env
+  .get("DB_PASSWORD")
+  // Throws an error if the DB_PASSWORD variable is not set (optional)
+  .required()
+  // Decode DB_PASSWORD from base64 to a utf8 string (optional)
+  .convertFromBase64()
+  // Call asString (or other APIs) to get the variable value (required)
+  .asString();
+// Read in a port (checks that PORT is in the range 0 to 65535)
+// Alternatively, use a default value of 5432 if PORT is not defined
+const PORT: number = env.get("PORT").default("5432").asPortNumber();
+```
+
+Verification, sanitization, and type coercion for environment variables in Node.js and web applications. Supports TypeScript!
+
 ## Resources
 
 1. [10 Books for Software Developers](https://blog.bytebytego.com/i/144495872/my-favorite-books-for-software-developers)

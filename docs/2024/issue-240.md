@@ -57,7 +57,6 @@ Simple macOS menu bar app to view and interact with reminders.
 
 A client-side tool which generates captions for videos in bulk and translate captions into other languages.
 
-
 ## Resources
 
 1. [When to disagree and commit](https://newsletter.weskao.com/p/when-to-disagree-and-commit)

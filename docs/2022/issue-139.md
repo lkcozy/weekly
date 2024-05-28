@@ -130,5 +130,8 @@ In short, they allow crypto assets to be used on non-native blockchains. For exa
 
 ## Review
 
-- [The week of 2021(Issue-88)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-88.md)
-- [The week of 2020(Issue-39)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-39.md)
+- [The week of 2024(Issue-242)](../2024/issue-242.md)
+- [The week of 2023(Issue-191)](../2023/issue-191.md)
+- [The week of 2022(Issue-139)](../2022/issue-139.md)
+- [The week of 2021(Issue-87)](../2021/issue-87.md)
+- [The week of 2020(Issue-39)](../2020/issue-39.md)
