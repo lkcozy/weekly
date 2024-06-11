@@ -94,6 +94,8 @@ The researchers identified 10 categories of technical debt, listed in order of t
 
 ## Review
 
+- [The week of 2024(Issue-243)](../2024/issue-243.md)
+- [The week of 2023(Issue-192)](../2023/issue-192.md)
 - [The week of 2022(Issue-140)](../2022/issue-140.md)
 - [The week of 2021(Issue-88)](../2021/issue-88.md)
 - [The week of 2020(Issue-40)](../2020/issue-40.md)

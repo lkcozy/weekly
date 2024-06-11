@@ -27,6 +27,8 @@ Replicate lets you run machine learning models with a cloud API, without having 
 
 ![](https://camo.githubusercontent.com/bc0febafe63fb6fb0e017821dad0fde5750b8654d13f6d6e5181c46a8adb98a6/68747470733a2f2f766970322e6c6f6c692e696f2f323032332f31302f30342f50314f703558666e4939695a736c7a2e706e67)
 
+Ai-powered podcast, video-to-text, and subtitling tools for immediate experience.
+
 ## Tool
 
 1. [TypeSpec](https://github.com/microsoft/typespec)
