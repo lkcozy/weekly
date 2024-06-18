@@ -140,3 +140,11 @@ Math to Code is an interactive Python tutorial to teach engineers how to read an
   If you were to leave the company, your projects would continue and thrive, which means that everything has been institutionalized, and your leadership has been successful.
 
   -- [The Culture of Leadership](https://medium.com/@benmappen/the-culture-of-leadership-eb424b0726ef)
+
+## Review
+
+- [The week of 2024(Issue-244)](../2024/issue-244.md)
+- [The week of 2023(Issue-193)](../2023/issue-193.md)
+- [The week of 2022(Issue-141)](../2022/issue-141.md)
+- [The week of 2021(Issue-89)](../2021/issue-89.md)
+- [The week of 2020(Issue-41)](../2020/issue-41.md)

@@ -159,5 +159,8 @@ You read sentences on the page, you read them, you ask questions, you reread the
 
 ## Review
 
-- [The week of 2021(Issue-90)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-90.md)
-- [The week of 2020(Issue-41)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-41.md)
+- [The week of 2024(Issue-244)](../2024/issue-244.md)
+- [The week of 2023(Issue-193)](../2023/issue-193.md)
+- [The week of 2022(Issue-141)](../2022/issue-141.md)
+- [The week of 2021(Issue-89)](../2021/issue-89.md)
+- [The week of 2020(Issue-41)](../2020/issue-41.md)

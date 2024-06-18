@@ -95,6 +95,8 @@ Out of these options, Git flow or its variations are the most widely favored met
 
 ## Review
 
+- [The week of 2024(Issue-244)](../2024/issue-244.md)
+- [The week of 2023(Issue-193)](../2023/issue-193.md)
 - [The week of 2022(Issue-141)](../2022/issue-141.md)
 - [The week of 2021(Issue-89)](../2021/issue-89.md)
 - [The week of 2020(Issue-41)](../2020/issue-41.md)

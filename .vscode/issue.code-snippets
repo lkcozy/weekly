@@ -56,4 +56,11 @@
     ],
     "description": "AI Section markdown template"
   },
+  "Comment": {
+    "prefix": "cmt",
+    "body": [
+      "`${1}`",
+    ],
+    "description": "Add comment to the section"
+  },
 }

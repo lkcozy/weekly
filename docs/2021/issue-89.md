@@ -151,12 +151,16 @@ defaults write com.apple.finder AppleShowAllFiles true
 
 ## Comments
 
-1.  The best way to have a good idea is to have a lot of ideas.
-    --[Linus Pauling](https://www.brainyquote.com/quotes/linus_pauling_163645)
+1. The best way to have a good idea is to have a lot of ideas.
+   --[Linus Pauling](https://www.brainyquote.com/quotes/linus_pauling_163645)
 
-2.  In this maze, ghosts are going around trying to eat Pac-Man. Drawing the analogy, I sometimes feel like Pac-Man; I don’t really know where to go, how to develop myself, and when the ghosts will come around.
-    --[The Pac-Man approach](https://mahmoud-mohamed-bahaa.medium.com/i-spent-18-months-making-a-decision-heres-what-i-learned-the-pac-man-approach-c943e687413a)
+2. In this maze, ghosts are going around trying to eat Pac-Man. Drawing the analogy, I sometimes feel like Pac-Man; I don’t really know where to go, how to develop myself, and when the ghosts will come around.
+   --[The Pac-Man approach](https://mahmoud-mohamed-bahaa.medium.com/i-spent-18-months-making-a-decision-heres-what-i-learned-the-pac-man-approach-c943e687413a)
 
 ## Review
 
-[The week of 2020(Issue-40)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-40.md)
+- [The week of 2024(Issue-244)](../2024/issue-244.md)
+- [The week of 2023(Issue-193)](../2023/issue-193.md)
+- [The week of 2022(Issue-141)](../2022/issue-141.md)
+- [The week of 2021(Issue-89)](../2021/issue-89.md)
+- [The week of 2020(Issue-41)](../2020/issue-41.md)
