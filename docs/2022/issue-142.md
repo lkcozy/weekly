@@ -89,5 +89,8 @@ The tools within each category are sorted according to their popularity/usage.
 
 ## Review
 
-- [The week of 2021(Issue-91)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-91.md)
-- [The week of 2020(Issue-42)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-42.md)
+- [The week of 2024(Issue-245)](../2024/issue-245.md)
+- [The week of 2023(Issue-194)](../2023/issue-194.md)
+- [The week of 2022(Issue-142)](../2022/issue-142.md)
+- [The week of 2021(Issue-90)](../2021/issue-90.md)
+- [The week of 2020(Issue-42)](../2020/issue-42.md)

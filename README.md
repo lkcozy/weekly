@@ -32,7 +32,7 @@ grep -nri gis docs | cat -n
 
 ## 🐲 2024
 
-**Jun**: [Reading Fragments](fragments/2024.06.md) | [Issue #244](docs/2024/issue-244.md) 🚀 | [Issue #243](docs/2024/issue-243.md)
+**Jun**: [Reading Fragments](fragments/2024.06.md) | [Issue #245](docs/2024/issue-245.md) 🚀 | [Issue #244](docs/2024/issue-244.md) | [Issue #243](docs/2024/issue-243.md)
 
 **May**: [Reading Fragments](fragments/2024.05.md) | [Issue #242](docs/2024/issue-242.md) | [Issue #241](docs/2024/issue-241.md) | [Issue #240](docs/2024/issue-240.md) | [Issue #239](docs/2024/issue-239.md)
 
@@ -201,6 +201,7 @@ or
 27. 🖥🇨🇳[vgod's blog](https://vgod.medium.com/): The growth process of a silicon valley software engineer
 28. 🖥🇨🇳[BestXTools Weekly](https://discuss-cn.bestxtools.com/): finds and shares fun, creative, free and easy-to-use tools
 29. 📊[Visual Capitalist](https://www.visualcapitalist.com/)
+30. 🖥🇨🇳[TW93 Weekly](https://weekly.tw93.fun/)
 
 ## 🛠 Resources
 

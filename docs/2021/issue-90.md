@@ -134,12 +134,16 @@ A paper model of China's Tiangong Space Station. You can download a [PDF file fr
 
 ## Comments
 
-1.  Something bizarre I have noticed in junior-almost-senior engineers is that they pride themselves in obfuscating and writing "highly complex" logic with no documentation. It's almost like they are demonstrating their new abilities in the worst way possible.
+1. Something bizarre I have noticed in junior-almost-senior engineers is that they pride themselves in obfuscating and writing "highly complex" logic with no documentation. It's almost like they are demonstrating their new abilities in the worst way possible.
     --[Hacker News Reader](https://news.ycombinator.com/item?id=27333947)
 
-2.  I've learned to be honest with my manager. Not too honest, but honest enough where I can be authentic at work. What's the worse that can happen? He fire me? I'll just pick up a new job in 2 weeks.
+2. I've learned to be honest with my manager. Not too honest, but honest enough where I can be authentic at work. What's the worse that can happen? He fire me? I'll just pick up a new job in 2 weeks.
     --[Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 
 ## Review
 
-[The week of 2020(Issue-41)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-41.md)
+- [The week of 2024(Issue-245)](../2024/issue-245.md)
+- [The week of 2023(Issue-194)](../2023/issue-194.md)
+- [The week of 2022(Issue-142)](../2022/issue-142.md)
+- [The week of 2021(Issue-90)](../2021/issue-90.md)
+- [The week of 2020(Issue-42)](../2020/issue-42.md)
