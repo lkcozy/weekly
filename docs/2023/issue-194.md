@@ -71,8 +71,8 @@ This is a website dedicated to providing music education for the public. With th
 
 ## Review
 
-- [The week of 2024(Issue-245)](../2024/issue-245.md)
+- [The week of 2024(Issue-246)](../2024/issue-246.md)
 - [The week of 2023(Issue-194)](../2023/issue-194.md)
-- [The week of 2022(Issue-142)](../2022/issue-142.md)
-- [The week of 2021(Issue-90)](../2021/issue-90.md)
-- [The week of 2020(Issue-42)](../2020/issue-42.md)
+- [The week of 2022(Issue-143)](../2022/issue-143.md)
+- [The week of 2021(Issue-91)](../2021/issue-91.md)
+- [The week of 2020(Issue-43)](../2020/issue-43.md)

@@ -122,3 +122,11 @@ There are three reasons why this trick works really well if you want to understa
 
 4. If the goal is only to reach the finish line, that kind of success is very hollow. The best goal is to reach the finish line with many winners. The more winners you have around you, the more satisfying your success will be.
    -- [Howard Schultz, former CEO and chairman of Starbucks](https://www.actionablebooks.com/en-ca/summaries/onward/)
+
+## Review
+
+- [The week of 2024(Issue-246)](../2024/issue-246.md)
+- [The week of 2023(Issue-194)](../2023/issue-194.md)
+- [The week of 2022(Issue-143)](../2022/issue-143.md)
+- [The week of 2021(Issue-91)](../2021/issue-91.md)
+- [The week of 2020(Issue-43)](../2020/issue-43.md)

@@ -127,17 +127,21 @@ A close look at the Bitcoin design process, from the concept of open design to u
 
 ## Comments
 
-1.  Anything that can go wrong will go wrong.
-    --[Murphy's Law](https://www.scienceabc.com/pure-sciences/what-is-murphys-law.html)
+1. Anything that can go wrong will go wrong.
+   --[Murphy's Law](https://www.scienceabc.com/pure-sciences/what-is-murphys-law.html)
 
-2.  Whenever I get a new laptop, the first thing I do is put a piece of black electrical tape over the camera.
-    --[How to Solve the Authentication Problem with WebAuthn+](https://hackernoon.com/how-to-solve-the-authentication-problem-with-webauthn-m24w35yn)
-3.  The easiest programs to use are those that demand the least new learning from the user.
-    --[Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
+2. Whenever I get a new laptop, the first thing I do is put a piece of black electrical tape over the camera.
+   --[How to Solve the Authentication Problem with WebAuthn+](https://hackernoon.com/how-to-solve-the-authentication-problem-with-webauthn-m24w35yn)
+3. The easiest programs to use are those that demand the least new learning from the user.
+   --[Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
 
-4.  How to help someone get promoted.
-    --[An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+4. How to help someone get promoted.
+   --[An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 
 ## Review
 
-[The week of 2020(Issue-42)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-42.md)
+- [The week of 2024(Issue-246)](../2024/issue-246.md)
+- [The week of 2023(Issue-194)](../2023/issue-194.md)
+- [The week of 2022(Issue-143)](../2022/issue-143.md)
+- [The week of 2021(Issue-91)](../2021/issue-91.md)
+- [The week of 2020(Issue-43)](../2020/issue-43.md)
