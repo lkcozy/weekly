@@ -85,6 +85,12 @@ Use Cases and Applications
 - Amazon DynamoDB: PartiQL is integrated with Amazon DynamoDB, allowing users to perform SQL-like operations such as SELECT, INSERT, UPDATE, and DELETE on DynamoDB tables.
 - Data Migration and Integration: PartiQL can facilitate data migration and integration tasks by providing a consistent query language across different data stores and formats.
 
+2. [Etcher](https://github.com/balena-io/etcher)
+
+![](https://img.hellogithub.com/i/fWOuYpyAv4TVn0j_1715044602.png)
+
+Etcher is a powerful OS image flasher built with web technologies to ensure flashing an SDCard or USB drive is a pleasant and safe experience. It protects you from accidentally writing to your hard-drives, ensures every byte of data was written correctly, and much more.
+
 ## Resources
 
 1. [Blank Sheet Method](https://fs.blog/blank-sheet-method/)
@@ -171,6 +177,18 @@ The article provides tips on how to give the right amount of context in communic
 ## Comments
 
 1. Life is simple but not easy. The problem is we want life to be easy, which makes it complicated. --[Brain Food](https://fs.blog/brain-food/june-23-2024/)
+
+2. Have maximum financial flexibility to face both hazards and opportunities. — Charlie Munger
+
+3. It's tough to be good at something you're not interested in. It's nearly impossible to be great at something you're not obsessed with.
+
+4. Give people what they want in a way they're not expecting.
+
+5. The difference between great success and bitter failure is often found in consistently applying the fundamentals.
+
+6. Being Who You Are, While Becoming Better.
+
+7. People talking about nepotism. The NBA is full of nepotism. The ownership level, front offices, & coaching. I don't want to hear about it all of a sudden because Bronny James' father [LeBron] plays for the Lakers. It is rampant in this league.
 
 ## Review
 

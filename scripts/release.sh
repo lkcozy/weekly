@@ -8,12 +8,12 @@
 ######################################################################
 
 issue_no=$1
-issue_tag
+issue_tag=''
 
 if [ -z "$issue_no" ]; then
     echo "Please provide a valid issue number"
 else
-    Release the current issue
+    # Release the current issue
     issue_tag="issue-$issue_no"
     git add .
     git cm "docs: add issue $issue_no"

@@ -21,6 +21,38 @@ The article discusses the income needed for single adults to live comfortably in
 
 LM Studio is a desktop application for running local LLMs on your computer.
 
+2. [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
+
+```python
+from scrapegraphai.graphs import SmartScraperGraph
+
+graph_config = {
+    "llm": {
+        "model": "ollama/mistral",
+        "temperature": 0,
+        "format": "json",  # Ollama needs the format to be specified explicitly
+        "base_url": "http://localhost:11434",  # set Ollama URL
+    },
+    "embeddings": {
+        "model": "ollama/nomic-embed-text",
+        "base_url": "http://localhost:11434",  # set Ollama URL
+    },
+    "verbose": True,
+}
+
+smart_scraper_graph = SmartScraperGraph(
+    prompt="List me all the projects with their descriptions",
+    # also accepts a string with the already downloaded HTML code
+    source="https://perinim.github.io/projects",
+    config=graph_config
+)
+
+result = smart_scraper_graph.run()
+print(result)
+```
+
+ScrapeGraphAI is a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.).
+
 ## Tool
 
 1. [GraphQL Query Complexity Analysis](https://github.com/slicknode/graphql-query-complexity)

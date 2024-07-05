@@ -70,6 +70,8 @@ The diagram above shows a comparison of URL, URI, and URN.
 
 ## Review
 
-- [The week of 2022(Issue-143)](../2022/issue-143.md)
-- [The week of 2021(Issue-91)](../2021/issue-91.md)
-- [The week of 2020(Issue-43)](../2020/issue-43.md)
+- [The week of 2024(Issue-247)](../2024/issue-247.md)
+- [The week of 2023(Issue-195)](../2023/issue-195.md)
+- [The week of 2022(Issue-144)](../2022/issue-144.md)
+- [The week of 2021(Issue-92)](../2021/issue-92.md)
+- [The week of 2020(Issue-44)](../2020/issue-44.md)

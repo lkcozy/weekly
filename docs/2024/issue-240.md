@@ -20,6 +20,12 @@ GIS data refers to information that is explicitly linked to locations on the Ear
 
 A machine learning framework for Node.js, based on MLX.
 
+2. [Logo Galleria](https://logogalleria.com/zh-CN/app)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024062201.webp)
+
+The free online AI logo maker.
+
 ## Tool
 
 1. [Outline](https://github.com/outline/outline)

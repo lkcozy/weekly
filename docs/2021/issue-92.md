@@ -97,8 +97,8 @@ This article teaches you how to use the proxy function provided by the browser t
 
 ## Comments
 
-1.  Technical writing is dying off. It’s all about clean, engaging UX now. Almost none of them have technical writers, and almost all of them have UX designers.
-    --[Software technical writing is a dying career](https://dev.jimgrey.net/2015/06/16/software-technical-writing-dying/)
+1. Technical writing is dying off. It’s all about clean, engaging UX now. Almost none of them have technical writers, and almost all of them have UX designers.
+   --[Software technical writing is a dying career](https://dev.jimgrey.net/2015/06/16/software-technical-writing-dying/)
 
 2.
 
@@ -112,4 +112,8 @@ This article teaches you how to use the proxy function provided by the browser t
 
 ## Review
 
-[The week of 2020(Issue-43)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-43.md)
+- [The week of 2024(Issue-247)](../2024/issue-247.md)
+- [The week of 2023(Issue-195)](../2023/issue-195.md)
+- [The week of 2022(Issue-144)](../2022/issue-144.md)
+- [The week of 2021(Issue-92)](../2021/issue-92.md)
+- [The week of 2020(Issue-44)](../2020/issue-44.md)

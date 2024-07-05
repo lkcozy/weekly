@@ -52,27 +52,27 @@ Wrapper above react-select that supports pagination on menu scroll.
 
 ### What it means to manage like an engineer
 
-- Make work visible - Proactively share to the widest extent practical given the subject. Like any production system, observability is key.
-- Write things down - Especially the why and how. Ensure that everything has a URL. Be generous with links.
-- Over communicate - Use a durable, searchable, and discoverable medium. Let others opt-in to context and subscribe to updates.
-- Bias for shipping - Ship early, ship often. Whether decisions, process, or “manager code”, ship an MVP and iterate. Minimize batch size.
-- Streamline and automate - Never force a human to do what a robot can. Prefer - non-blocking over blocking operations. Codify policy as code.
-- Embrace collaboration - How we work is as important as what we work on. Software development is a team sport.5
-- Asynchronous first - Reserve higher-fidelity mediums for conversations that require them.
-- Practicality beats purity - These are guidelines, not rules. Process should drive outcomes.
+- Make work visible： Proactively share to the widest extent practical given the subject. Like any production system, observability is key.
+- Write things down： Especially the why and how. Ensure that everything has a URL. Be generous with links.
+- Over communicate： Use a durable, searchable, and discoverable medium. Let others opt-in to context and subscribe to updates.
+- Bias for shipping： Ship early, ship often. Whether decisions, process, or “manager code”, ship an MVP and iterate. Minimize batch size.
+- Streamline and automate： Never force a human to do what a robot can. Prefer non-blocking over blocking operations. Codify policy as code.
+- Embrace collaboration： How we work is as important as what we work on. Software development is a team sport.
+- Asynchronous first: Reserve higher-fidelity mediums for conversations that require them.
+- Practicality beats purity: These are guidelines, not rules. Process should drive outcomes.
 
 ### How to manage like an engineer
 
 Managing like an engineer means a manager’s go to tool for planning, tracking, and communicating managerial work is issues, project boards, Markdown files, and pull requests:
 
-- Issues - Issues are the atomic unit of work across teams and is the primary means by which work is planned, tracked, coordinated, and communicated, and where updates are shared.7
-- Project boards - Project boards are the primary means by which work (in the form of issues) is organized, managed, prioritized, and made visible.
-- Markdown files - Markdown files are the primary means by which long-lived information is memorialized. Markdown files are created and modified via Pull Requests.
-- Pull requests - Pull requests are the primary means by which proposals are reviewed and decisions are made.
+- Issues:Issues are the atomic unit of work across teams and is the primary means by which work is planned, tracked, coordinated, and communicated, and where updates are shared.
+- Project boards:Project boards are the primary means by which work (in the form of issues) is organized, managed, prioritized, and made visible.
+- Markdown files:Markdown files are the primary means by which long-lived information is memorialized. Markdown files are created and modified via Pull Requests.
+- Pull requests:Pull requests are the primary means by which proposals are reviewed and decisions are made.
 
 ### Management decision records
 
-Successful distributed teams place an emphasis on written and asynchronous communication. Writing things down serves as a message in a bottle to your future selves, recording what decisions were made, by whom, and why. If issues and project boards track and organize work, “management decision records”,8 socialized and discussed via pull requests are how decisions are made and communicated.
+Successful distributed teams place an emphasis on written and asynchronous communication. Writing things down serves as a message in a bottle to your future selves, recording what decisions were made, by whom, and why. If issues and project boards track and organize work, “management decision records”,socialized and discussed via pull requests are how decisions are made and communicated.
 
 One common way engineering teams capture important decisions is through an architecture decision record (ADR). ADRs capture not just the decision, but also its context and consequences, and do so in a way that allows stakeholders to deeply participate in the process. In short, the person responsible for a decision writes out their proposal in long form prose, and submits it for discussion and refinement by stakeholders before it is ultimately merged to memorialize the decisions.
 
@@ -100,15 +100,16 @@ Here are three lessons from the book that will help you make better decisions:
 
 Software development requires good system designs and coding standards.
 
-- follow the industry's well-established code specifications that ensures the code quality is consistent and readable
-- documentation and comments: explain complex logic and decisions, and why a certain approach was taken rather than what exactly is being done
-- robustness: handle a variety of unexpected situations and inputs without crashing
-- make testing easy
-- a moderate level of abstraction: neither over-designed nor neglecting long-term expandability and maintainability
-- utilize design patterns, but don't over-design
-- reduce global dependencies: rely on localized state and parameter passing. Function should be side-effect free
-- continuous refactoring
-- security is a top priority
+- 01 Follow the industry's well-established code specifications that ensures the code quality is consistent and readable
+- 02 Documentation and comments: explain complex logic and decisions, and why a certain approach was taken rather than what exactly is being done
+- 03 Robustness: handle a variety of unexpected situations and inputs without crashing
+- 04 Follow the SOLID principle: “Single Responsibility”, “Open/Closed”, “Liskov Substitution”, “Interface Segregation”, and “Dependency Inversion” - these five principles (SOLID for short) are the cornerstones of writing code that scales and is easy to maintain.
+- 05 Make testing easy: Good code should be easy to test, both by trying to reduce the complexity of each component, and by supporting automated testing to ensure that it behaves as expected.
+- 06 Abstraction: a moderate level of abstraction: neither over-designed nor neglecting long-term expandability and maintainability
+- 07 Utilize Design Patterns, but don't over-design: Design patterns can help us solve some common problems. However, every pattern has its applicable scenarios. Overusing or misusing design patterns may make your code more complex and difficult to understand.
+- 08 Reduce Global Dependencies: rely on localized state and parameter passing. Function should be side-effect free
+- 09 Continuous Refactoring: Good code is maintainable and extensible. Continuous refactoring reduces technical debt by identifying and fixing problems as early as possible.
+- 10 Security is a Top Priority: Good code should avoid common security vulnerabilities.
 
 ## Comments
 
