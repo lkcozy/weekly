@@ -36,6 +36,10 @@ PostGraphile (formerly PostGraphQL) builds a powerful, extensible and performant
 
 Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection.
 
+3. [Million.js](https://github.com/aidenybai/million)
+
+Million.js is an extremely fast and lightweight optimizing compiler that make components up to 70% faster. Million.js works with React and makes reconciliation faster. By using a fine-tuned, optimized virtual DOM, Million.js reduces the overhead of diffing.
+
 ## Resources
 
 1. When someone insists on their ideas while claiming to understand yours, it's a form of disrespect and boundary violation. Here are some suggestions on how to handle such a situation:

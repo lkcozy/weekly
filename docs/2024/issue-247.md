@@ -56,11 +56,7 @@ HandBrake is an open-source video transcoder available for Linux, Mac, and Windo
 
 dblab is a fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3.
 
-4. [Million.js](https://github.com/aidenybai/million)
-
-Million.js is an extremely fast and lightweight optimizing compiler that make components up to 70% faster. Million.js works with React and makes reconciliation faster. By using a fine-tuned, optimized virtual DOM, Million.js reduces the overhead of diffing.
-
-5. [PouchDB](https://github.com/pouchdb/pouchdb)
+4. [PouchDB](https://github.com/pouchdb/pouchdb)
 
 ```js
 var db = new PouchDB("dbname");
@@ -126,38 +122,6 @@ console.log(parser.getResult());
 ```
 
 UAParser.js is the tool for user agent detection in web development.
-
-7. [SearXNG](https://github.com/searxng/searxng)
-
-![](https://img.hellogithub.com/i/NuJT0pk1K6Aidwg_1719486599.png)
-
-SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-
-8. [Vulture](https://github.com/jendrikseipp/vulture)
-
-```python
-import os
-class Greeter:
-    def greet(self):
-        print("Hi")
-
-def hello_world():
-    message = "Hello, world!"
-    greeter = Greeter()
-    func_name = "greet"
-    greet_func = getattr(greeter, func_name)
-    greet_func()
-
-if __name__ == "__main__":
-    hello_world()
-
-# $ vulture dead_code.py
-# dead_code.py:1: unused import 'os' (90% confidence)
-# dead_code.py:4: unused function 'greet' (60% confidence)
-# dead_code.py:8: unused variable 'message' (60% confidence)
-```
-
-Vulture finds unused code in Python programs. This is useful for cleaning up and finding errors in large code bases. If you run Vulture on both your library and test suite you can find untested code.
 
 ## Resources
 

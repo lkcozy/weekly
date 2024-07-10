@@ -80,6 +80,8 @@ APIVault is your gateway to a world of public APIs.
 
 ## Review
 
-- [The week of 2022(Issue-144)](../2022/issue-144.md)
-- [The week of 2021(Issue-92)](../2021/issue-92.md)
-- [The week of 2020(Issue-44)](../2020/issue-44.md)
+- [The week of 2024(Issue-248)](../2024/issue-248.md)
+- [The week of 2023(Issue-196)](../2023/issue-196.md)
+- [The week of 2022(Issue-145)](../2022/issue-145.md)
+- [The week of 2021(Issue-93)](../2021/issue-93.md)
+- [The week of 2020(Issue-45)](../2020/issue-45.md)
