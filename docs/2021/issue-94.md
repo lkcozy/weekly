@@ -100,9 +100,13 @@ The author explains how to build a 6kb docker container image that's still usefu
 
 ## Comments
 
-1.  Instead of writing Javadoc comments, you are better off making the best possible use of method names and variable names. Comment the Why, not the What.
-    --[On Comments in Code](https://henrikwarne.com/2021/06/15/on-comments-in-code/)
+1. Instead of writing Javadoc comments, you are better off making the best possible use of method names and variable names. Comment the Why, not the What.
+   --[On Comments in Code](https://henrikwarne.com/2021/06/15/on-comments-in-code/)
 
 ## Review
 
-[The week of 2020(Issue-45)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-45.md)
+- [The week of 2024(Issue-249)](../2024/issue-249.md)
+- [The week of 2023(Issue-197)](../2023/issue-197.md)
+- [The week of 2022(Issue-146)](../2022/issue-146.md)
+- [The week of 2021(Issue-94)](../2021/issue-94.md)
+- [The week of 2020(Issue-46)](../2020/issue-46.md)

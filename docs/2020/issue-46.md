@@ -88,3 +88,11 @@ Analyze the impact of a browser extension on web performance.
 To illustrate this with an example, think of you walking into a sports store, and the first thing you spot is a pair of track pants worth $500. Now your brain is anchored on that price for a pair of track pants, so when you see another track pant this time with a price tag of $300, you will perceive it as cheap. However, had you walked in and seen the \$300 pants first, you might not have thought of it as cheap.
 
 --[Anchoring bias](https://models.substack.com/p/why-are-we-anchored-often)
+
+## Review
+
+- [The week of 2024(Issue-249)](../2024/issue-249.md)
+- [The week of 2023(Issue-197)](../2023/issue-197.md)
+- [The week of 2022(Issue-146)](../2022/issue-146.md)
+- [The week of 2021(Issue-94)](../2021/issue-94.md)
+- [The week of 2020(Issue-46)](../2020/issue-46.md)
