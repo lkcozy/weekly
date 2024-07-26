@@ -84,18 +84,22 @@ A curated list of blockchain and general cryptocurrency resources
 
 ## Comments
 
-1.  Peoples’ belief in their approach to getting things done can result in them ignoring higher-performing alternatives; this behaviour has become known as the illusion of control.
-    --[Evidence-based Software Engineering](https://www.reactguide.dev/)
+1. Peoples’ belief in their approach to getting things done can result in them ignoring higher-performing alternatives; this behaviour has become known as the illusion of control.
+   --[Evidence-based Software Engineering](https://www.reactguide.dev/)
 
-2.  As you coach someone through a challenge or dilemma, replace problem-solving,advice-giving, and judgy-sounding questions with authentically curious, truly open questions.
-    --[20 GREAT OPEN QUESTIONS](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
+2. As you coach someone through a challenge or dilemma, replace problem-solving,advice-giving, and judgy-sounding questions with authentically curious, truly open questions.
+   --[20 GREAT OPEN QUESTIONS](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
 
-3.  Coding is not a survival skill. Compare it with speaking, reasoning, common sense, finding food, and realize you cannot put it in the same bucket.
-    --[On forcing kids to learn to code](https://technotes.substack.com/p/24-on-forcing-kids-to-learn-to-code)
+3. Coding is not a survival skill. Compare it with speaking, reasoning, common sense, finding food, and realize you cannot put it in the same bucket.
+   --[On forcing kids to learn to code](https://technotes.substack.com/p/24-on-forcing-kids-to-learn-to-code)
 
-4.  At Amazon, Most of the time, there isn't a meeting if there isn’t a doc. Meetings start with reading. Then attendees could discuss it.
-    --[The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
+4. At Amazon, Most of the time, there isn't a meeting if there isn’t a doc. Meetings start with reading. Then attendees could discuss it.
+   --[The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
 
 ## Review
 
-[The week of 2020(Issue-46)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-46.md)
+- [The week of 2024(Issue-250)](../2024/issue-250.md)
+- [The week of 2023(Issue-198)](../2023/issue-198.md)
+- [The week of 2022(Issue-147)](../2022/issue-147.md)
+- [The week of 2021(Issue-95)](../2021/issue-95.md)
+- [The week of 2020(Issue-47)](../2020/issue-47.md)

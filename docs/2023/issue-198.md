@@ -73,6 +73,8 @@ The GPT Web App Generator allows users to describe the web app they want to crea
 
 ## Review
 
-- [The week of 2022(Issue-146)](../2022/issue-146.md)
-- [The week of 2021(Issue-94)](../2021/issue-94.md)
-- [The week of 2020(Issue-46)](../2020/issue-46.md)
+- [The week of 2024(Issue-250)](../2024/issue-250.md)
+- [The week of 2023(Issue-198)](../2023/issue-198.md)
+- [The week of 2022(Issue-147)](../2022/issue-147.md)
+- [The week of 2021(Issue-95)](../2021/issue-95.md)
+- [The week of 2020(Issue-47)](../2020/issue-47.md)

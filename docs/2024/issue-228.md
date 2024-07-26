@@ -4,7 +4,7 @@
 
 1. [Crowdsourcing Geospatial Data for Earth and Human Observations: A Review](https://spj.science.org/doi/10.34133/remotesensing.0105)
 
-![](https://spj.science.org/cms/10.34133/remotesensing.0105/asset/2b32cb78-b34c-421c-b3af-7aa306ea4a14/assets/graphic/remotesensing.0105.fig.001.jpg)
+![](https://spj.science.org/cms/10.34133/remotesensing.0105/asset/9171e9a0-0184-4737-8c5e-cddcb38702d5/assets/graphic/remotesensing.0105.fig.001.jpg)
 
 This review categorizes the diverse applications of these data and rigorously examines specific platforms and paradigms pertinent to data collection.
 
@@ -41,6 +41,20 @@ RAG enhances LLM knowledge by incorporating external data, enabling AI applicati
 1. [How to Write a Paper with ChatGPT | Tips & Examples](https://www.scribbr.com/ai-tools/chatgpt-research-paper/)
 
 ![]()
+
+Understanding the importance of good research papers and utilizing generative AI tools like ChatGPT
+
+- Generative AI tools like ChatGPT can be used to brainstorm research questions, develop methodologies, create outlines, find sources, summarize text, and provide feedback during the research process.
+- When using ChatGPT for tasks like generating research questions or outlines, it's important to ensure that the outputs meet the requirements of your assignment and may require manual adaptation.
+- Using ChatGPT for methodology development, outlining, and summarizing text can enhance the research process, but it's crucial to follow your institution's guidelines and avoid plagiarism.
+
+Creating an outline
+
+> Create an outline for an academic research paper with the following research question:“What are the cognitive and skill development benefits of virtual reality-based training compared to traditional training methods in the field of healthcare?”The paper will be about 10 pages long.
+
+Receiving feedback
+
+> Feedback the above text with regard to appropriateness of evidence and coherence of structure.
 
 ## Tool
 

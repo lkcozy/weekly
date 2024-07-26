@@ -116,6 +116,30 @@ QA roles include QA manager, QA lead, QA analyst/engineer, director of QA, compl
 
 QA is different from quality control (QC) and testing, and the QA process typically involves detailed requirement analysis, planning, execution, verification, validation, monitoring, and continuous improvement.
 
+4. [Adopt an Innovator's Mindset](https://hbr.org/2024/07/3-steps-to-cultivate-an-innovators-mindset?deliveryName=NL_MTOD_20240710)
+
+To set yourself apart in a business landscape that prizes creative thinking and breakthrough results, you need to adopt and innovator's mindset. Here's how to consistently bring fresh ideas to the table and demonstrate a proactive approach to problem-solving.
+
+Approach problem-solving with curiosity. Question the status quo and explore new possibilities. Before starting any project, ask: What is the root cause of this problem? How can I add value quickly and efficiently? And after each project, reflect on what didn't work to build resilience and drive improvement.
+
+Foster continuous learning by staying updated on industry trends and regularly developing new skills. Dedicate time each week to learning through news, courses, or networking. Spending time on creative hobbies can also enhance problem-solving skills.
+
+Innovation thrives in collaborative environments. Facilitate monthly brainstorms to share ideas and feedback on your team. This generates novel and diverse solutions and fosters teamwork. You might even keep a weekly innovation journal to jot dow ideas and reflections, then share them with your team to inspire collective creatively.
+
+5. [Are You Afraid of Becoming Obsolete](https://hbr.org/2024/06/face-your-fear-of-becoming-obsolete?deliveryName=NL_MTOD_20240711)
+
+Professionals across the career spectrum have moments where they fear they're becoming obsolete. Different from the occasional bout of self-doubt, this fear can make you fundamentally question your professional significance. Here's how to reclaim your agency and stay relevant-no matter where you are in your career journey.
+
+Assess your unique talents. Take an honest inventory of your skills. Seek feedback from colleagues and mentors to identify what makes you valuable. Recognize and build on these strengths-and stay open to developing new ones.
+
+Focus on abilities that technology can't replace. Human traits like empathy, curiosity, resilience, and leadership will always be in demand and will equip you to adapt to future roles.
+
+Honor the past, and focus on the future. Celebrate your past achievements, but don't dwell on them. Nostalgia won't secure future opportunities; your ability to adapt and innovate will. So pack away your "trophies" and look forward.
+
+Bridge generational gaps. If you're senior in your career, share your knowledge and mentor others. Collaboration across generations enriches both your legacy and future potential, keeping everyone's skills sharp.
+
+Seek new challenges. Think of uncertainty as a chance to grow. Step out of your comfort zone and volunteer to take on new projects. This demonstrates your willingness to learn and adapt and reinforces your relevance.
+
 ## Comments
 
 1. I wasn’t scared of missing, looking bad, or being embarrassed. That’s because I always kept the end result, the long game, in my mind. I always focused on the fact that I had to try something to get it, and once I got it, I’d have another tool in my arsenal. If the price was a lot of work and a few missed shots, I was OK with that. I never felt outside pressure. I knew what I wanted to accomplish, and I knew how much work it took to achieve those goals. I then put in the work and trusted in it. Besides, the expectations I placed on myself were higher than what anyone expected from me. --[Kobe Bryant](https://fs.blog/brain-food/july-14-2024/)

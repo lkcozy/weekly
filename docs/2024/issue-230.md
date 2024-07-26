@@ -77,7 +77,7 @@ Czkawka is a simple, fast and free app to remove unnecessary files from your com
 
 Marker converts PDF, EPUB, and MOBI to markdown. It's 10x faster than nougat, more accurate on most documents, and has low hallucination risk.
 
-4. [](https://github.com/kysely-org/kysely)
+4. [Kysely](https://github.com/kysely-org/kysely)
 
 ![](https://github.com/kysely-org/kysely/raw/master/assets/demo.gif)
 
