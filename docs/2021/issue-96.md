@@ -107,19 +107,24 @@ This article will learn what pre-commit is and which plugins you can add to a pr
 
 ## Comments
 
-1.  The future will not fit the containers of the past. However, the future, while challenging for some, is likely to be much better for most.
-    --[The Four Questions: How Will The Future Be?](https://rishad.substack.com/p/the-four-questions-how-will-the-future)
+1. The future will not fit the containers of the past. However, the future, while challenging for some, is likely to be much better for most.
+   --[The Four Questions: How Will The Future Be?](https://rishad.substack.com/p/the-four-questions-how-will-the-future)
 
-2.  My biggest mistake, which I made, again and again, was not leaving a job when it was time. I thought I had something to prove, but there was never any point to it. You don't owe anything to an employer. You can't prove anything to an employer. They have no loyalty to you and are careless than nothing about what is right or wrong, wise or foolish.
-    So: If you ever think things might not turn out as well as you hoped, move on. There is so much else going on in the world that is at least as enjoyable as what you are doing, where you have a much better chance of making a difference, that spending time on things that you might not end up proud of is a terrible waste of your short time on Earth.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=27565815)
+2. My biggest mistake, which I made, again and again, was not leaving a job when it was time. I thought I had something to prove, but there was never any point to it. You don't owe anything to an employer. You can't prove anything to an employer. They have no loyalty to you and are careless than nothing about what is right or wrong, wise or foolish.
 
-3.  Novice writers try to sound intelligent, professional writers try to write clearly, and masters try to communicate emotions that stir the reader's soul.
-    --[David Perell](https://twitter.com/david_perell/status/1409610371527233539)
+So: If you ever think things might not turn out as well as you hoped, move on. There is so much else going on in the world that is at least as enjoyable as what you are doing, where you have a much better chance of making a difference, that spending time on things that you might not end up proud of is a terrible waste of your short time on Earth.
+--[Hacker News Reader](https://news.ycombinator.com/item?id=27565815)
 
-4.  Startup founders need to do two things: (1) figure out what to do, (2) do it. My beef with "move fast" is that I don't naturally associate it with figuring out what to do. If I spent a day thinking, trying to understand a problem better, I wouldn't view myself as having "moved fast" that day.
-    -- [Move fast, but understand the problem first](https://jacobobryant.com/blog/understand/)
+3. Novice writers try to sound intelligent, professional writers try to write clearly, and masters try to communicate emotions that stir the reader's soul.
+   --[David Perell](https://twitter.com/david_perell/status/1409610371527233539)
+
+4. Startup founders need to do two things: (1) figure out what to do, (2) do it. My beef with "move fast" is that I don't naturally associate it with figuring out what to do. If I spent a day thinking, trying to understand a problem better, I wouldn't view myself as having "moved fast" that day.
+   -- [Move fast, but understand the problem first](https://jacobobryant.com/blog/understand/)
 
 ## Review
 
-[The week of 2020(Issue-47)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-47.md)
+- [The week of 2024(Issue-251)](../2024/issue-251.md)
+- [The week of 2023(Issue-199)](../2023/issue-199.md)
+- [The week of 2022(Issue-148)](../2022/issue-148.md)
+- [The week of 2021(Issue-96)](../2021/issue-96.md)
+- [The week of 2020(Issue-48)](../2020/issue-48.md)

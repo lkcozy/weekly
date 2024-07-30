@@ -140,5 +140,8 @@ Whether you're writing an article, creating a pitch deck, or crafting your resum
 
 ## Review
 
-- [The week of 2021(Issue-97)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-97.md)
-- [The week of 2020(Issue-48)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-48.md)
+- [The week of 2024(Issue-251)](../2024/issue-251.md)
+- [The week of 2023(Issue-199)](../2023/issue-199.md)
+- [The week of 2022(Issue-148)](../2022/issue-148.md)
+- [The week of 2021(Issue-96)](../2021/issue-96.md)
+- [The week of 2020(Issue-48)](../2020/issue-48.md)

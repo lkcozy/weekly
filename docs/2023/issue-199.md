@@ -94,8 +94,11 @@ A software architect is responsible for making high-level design choices and set
 3. Patience only works if you do. Doing the work + patience = results. Planning to work + patience = you’re just waiting.
    --[X User](https://twitter.com/JamesClear/status/1679128514006601728)
 
+
 ## Review
 
-- [The week of 2022(Issue-147)](../2022/issue-147.md)
-- [The week of 2021(Issue-95)](../2021/issue-95.md)
-- [The week of 2020(Issue-47)](../2020/issue-47.md)
+- [The week of 2024(Issue-251)](../2024/issue-251.md)
+- [The week of 2023(Issue-199)](../2023/issue-199.md)
+- [The week of 2022(Issue-148)](../2022/issue-148.md)
+- [The week of 2021(Issue-96)](../2021/issue-96.md)
+- [The week of 2020(Issue-48)](../2020/issue-48.md)

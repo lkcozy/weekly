@@ -1,5 +1,19 @@
 # GISer's Weekly Issue 250, 2024-07-22
 
+## GeoSpatial
+
+1. [Map Tile Identification: A New Addition to your Toolbox](https://sparkgeo.com/blog/map-tile-identification-a-new-addition-to-your-toolbox/)
+
+```
+https://tile-id.sparkgeo.dev/xyz/{z}/{x}/{y}
+```
+
+Sparkgeo addresses geospatial challenges with open and independent solutions, including the development of the open source Tile ID API to support pixel generation and delivery over a network.
+
+- The focus on geospatial data formats like COGs and tiling schemes has led to innovations in cloud-native geospatial solutions.
+- WMS and pre-existing tile retrieval methods offer flexibility and performance benefits for generating and delivering images.
+- The Tile ID API supports XYZ, TMS, and Quadkey tiling schemes to provide identifiers for each tile in PNG or JPEG format.
+
 ## AI/ML
 
 1. [Jobright.ai](https://jobright.ai/)

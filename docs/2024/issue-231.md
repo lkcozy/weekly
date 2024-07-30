@@ -49,7 +49,15 @@ Globe can generate a structural relationship of key points on the left (similar 
 
 As shown in the above figure, searching for "OpenAI" allows you to see the company's research progress, product list, community entry, and the organization of the most popular AI security topics; Searching for "Machine Learning" yields even more explosive results, with a very clear and (relatively) complete list of important algorithms and accurate illustrations, making it clear at a glance.
 
-3. [](https://link.juejin.cn/?target=https%3A%2F%2Fplatforms.substack.com%2Fp%2Fai-wont-eat-your-job-but-it-will)
+3. [AI won't eat your job, but it will eat your salary](https://platforms.substack.com/p/ai-wont-eat-your-job-but-it-will)
+
+![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eeaad5f-ae30-4e90-b5e6-4559a2b55630_1600x1120.jpeg)
+
+The article discusses the AI augmentation fallacy, pointing out that AI won't take jobs, but will erode human's ability to charge a premium for their skills. The key question is whether humans will still command a skill premium once augmented by machines. The article explores the impact of AI on job bundles, skill premiums, and the erosion of skill premiums.
+
+- AI augmentation migrates value towards specific job bundles, increasing the ability to charge a skill premium.
+- AI has the potential to commoditize specialized tasks, lowering the skill barrier and increasing competition, thereby eroding the skill premium.
+- AI agents have the capability to re-bundle tasks towards specific goals, impacting how work is organized and executed, potentially replacing human-in-the-loop advantages.
 
 4. [Prompt Library From More Useful Things](https://www.moreusefulthings.com/prompts)
 
