@@ -54,7 +54,7 @@ A good strategy only has 3 parts: diagnosis, guiding policy, and a set of action
 - Guiding policy: you choose an overarching approach of you'll deal with the challenge
 - A set of coherent actions: you decide on a series of actions you'll take to implement your policy
 
-2. [Processing an Organizational Decision You Disagree With](https://hbr.org/2024/02/how-to-make-peace-with-a-company-decision-you-dont-like?deliveryName=NL_MTOD_20240301)
+2. [Processing an Organizational Decision You Disagree With](https://hbr.org/2024/02/how-to-make-peace-with-a-company-decision-you-dont-like)
 
 You won’t agree with every organizational decision senior leadership makes. But you can make peace with a strategic direction you disagree with. Start by asking yourself a few questions.
 
@@ -68,7 +68,7 @@ What information might the decision-maker(s) have that I don’t? Extend some em
 
 By accepting this decision, what specific actions am I committing to take? You’re now ready to chart a new course of action. By addressing your emotions first, redirecting them to a place of positivity, and thinking beyond your own perspective, you can act with intention.
 
-3. [Become a Pro at Asynchronous Communication](https://hbr.org/2024/03/master-the-art-of-asynchronous-communication?deliveryName=NL_MTOD_20240318)
+3. [Become a Pro at Asynchronous Communication](https://hbr.org/2024/03/master-the-art-of-asynchronous-communication)
 
 With the rise of remote and hybrid work, the number of employees working at different times and collaborating across time zones is growing. As a result, you need to develop an increasingly important skill: asynchronous communication. Here are a few tactics that can help.
 
@@ -78,7 +78,7 @@ You won’t always find the answers you need on your own. Rather than dashing of
 
 If you work closely with a colleague or manager who signs on after you sign off, they’ll need to understand where you left off with any shared work assignments in order to seamlessly begin their day. To pass on that information clearly, send them a handoff message when you sign off.
 
-4. [Building a Healthy Relationship with a New Boss](https://hbr.org/2024/03/when-a-new-boss-makes-you-hate-a-job-you-once-loved?deliveryName=NL_MTOD_20240321)
+4. [Building a Healthy Relationship with a New Boss](https://hbr.org/2024/03/when-a-new-boss-makes-you-hate-a-job-you-once-loved)
 
 Your relationship with your manager has the power to make or break your experience at work. What do you do if you have a new manager who makes you question a job you once loved? Here’s how to adapt.
 
@@ -90,7 +90,7 @@ Take a “yes, and” approach. It’s important not to reject your new boss’s
 
 Double down on work. Your new boss needs to see what you’re capable of. A great first impression will be the foundation upon which your working relationship is built.
 
-5. [Have a Conversation with Your Boss About the Promotion You Missed Out On](https://hbr.org/2024/03/getting-along-my-new-manager-didnt-give-me-the-promotion-i-was-promised?deliveryName=NL_MTOD_20240322)
+5. [Have a Conversation with Your Boss About the Promotion You Missed Out On](https://hbr.org/2024/03/getting-along-my-new-manager-didnt-give-me-the-promotion-i-was-promised)
 
 You didn’t get that promotion you were expecting. How should you talk to your manager about your disappointment—and how do you move forward?
 

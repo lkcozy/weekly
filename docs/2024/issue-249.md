@@ -116,7 +116,7 @@ QA roles include QA manager, QA lead, QA analyst/engineer, director of QA, compl
 
 QA is different from quality control (QC) and testing, and the QA process typically involves detailed requirement analysis, planning, execution, verification, validation, monitoring, and continuous improvement.
 
-4. [Adopt an Innovator's Mindset](https://hbr.org/2024/07/3-steps-to-cultivate-an-innovators-mindset?deliveryName=NL_MTOD_20240710)
+4. [Adopt an Innovator's Mindset](https://hbr.org/2024/07/3-steps-to-cultivate-an-innovators-mindset)
 
 To set yourself apart in a business landscape that prizes creative thinking and breakthrough results, you need to adopt and innovator's mindset. Here's how to consistently bring fresh ideas to the table and demonstrate a proactive approach to problem-solving.
 
@@ -126,7 +126,7 @@ Foster continuous learning by staying updated on industry trends and regularly d
 
 Innovation thrives in collaborative environments. Facilitate monthly brainstorms to share ideas and feedback on your team. This generates novel and diverse solutions and fosters teamwork. You might even keep a weekly innovation journal to jot dow ideas and reflections, then share them with your team to inspire collective creatively.
 
-5. [Are You Afraid of Becoming Obsolete](https://hbr.org/2024/06/face-your-fear-of-becoming-obsolete?deliveryName=NL_MTOD_20240711)
+5. [Are You Afraid of Becoming Obsolete](https://hbr.org/2024/06/face-your-fear-of-becoming-obsolete)
 
 Professionals across the career spectrum have moments where they fear they're becoming obsolete. Different from the occasional bout of self-doubt, this fear can make you fundamentally question your professional significance. Here's how to reclaim your agency and stay relevant-no matter where you are in your career journey.
 

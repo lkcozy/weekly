@@ -103,15 +103,20 @@ A Netflix clone made with React + Redux.
 
 ## Comments
 
-1.  I get asked about work-life balance all the time. And my view is, that's a debilitating phrase because it implies there's a strict trade-off.
-    --[Jeff Bezos](https://www.businessinsider.com/jeff-bezos-work-life-balance-debilitating-phrase-career-circle-2021-7)
+1. I get asked about work-life balance all the time. And my view is, that's a debilitating phrase because it implies there's a strict trade-off.
+   --[Jeff Bezos](https://www.businessinsider.com/jeff-bezos-work-life-balance-debilitating-phrase-career-circle-2021-7)
 
-2.  Because every line of code is a liability: you need to maintain it.
-    --[Surviving guide for a tech startup aka How to properly bootstrap your startup](https://blog.kalvad.com/surviving-guide-for-a-tech-startup/)
+2. Because every line of code is a liability: you need to maintain it.
+   --[Surviving guide for a tech startup aka How to properly bootstrap your startup](https://blog.kalvad.com/surviving-guide-for-a-tech-startup/)
 
-3.  The Olympics is really my favorite sporting event. Although, I think I have a problem with that silver medal. Because when you think about it, you win the gold - you feel good, you win the bronze - you think, "Well, at least I got something". But when you win that silver it's like, "Congratulations, you almost won. Of all the losers you came in first of that group. You're the number one loser. No one lost ahead of you!".
-    --[Jerry Seinfeld](https://news.ycombinator.com/item?id=28010560)
+3. The Olympics is really my favorite sporting event. Although, I think I have a problem with that silver medal. Because when you think about it, you win the gold - you feel good, you win the bronze - you think, "Well, at least I got something". But when you win that silver it's like, "Congratulations, you almost won. Of all the losers you came in first of that group. You're the number one loser. No one lost ahead of you!".
+   --[Jerry Seinfeld](https://news.ycombinator.com/item?id=28010560)
 
 ## Review
 
-[The week of 2020(Issue-48)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-48.md)
+- [The week of 2024(Issue-252)](../2024/issue-252.md)
+- [The week of 2023(Issue-200)](../2023/issue-200.md)
+- [The week of 2022(Issue-149)](../2022/issue-149.md)
+- [The week of 2021(Issue-97)](../2021/issue-97.md)
+- [The week of 2020(Issue-49)](../2020/issue-49.md)
+- [The week of 2019(Issue-1)](../2019/issue-1.md)

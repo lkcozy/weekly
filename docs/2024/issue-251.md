@@ -70,7 +70,7 @@ A high-quality cookie manager with stylish design, convenient operation, and ric
 
 ## Resources
 
-1. [Navigating Unsolicited Advice in the Workplace](https://hbr.org/2024/07/when-a-coworker-keeps-giving-you-unsolicited-advice?deliveryName=NL_MTOD_20240715)
+1. [Navigating Unsolicited Advice in the Workplace](https://hbr.org/2024/07/when-a-coworker-keeps-giving-you-unsolicited-advice)
 
 Unsolicited advice, though often well-intentioned, can feel intrusive and even undermine your confidence at work. If a colleague frequently offers advice you didn't ask them for, how can you set respectful boundaries? Here's how to balance openness to feedback with trust in your own expertise.
 
@@ -82,7 +82,7 @@ Combine a compliment with a boundary. Regain control of the conversation with ph
 
 Directly ask for what you need. Be clear about the type of feedback you are open to. For example, "I value your insight. For now, I'm specifically looking for feedback on how to improve this idea, rather than exploring alternative options.
 
-2. [Take a More Strategic Approach to Work...Every Day](https://hbr.org/2024/07/6-ways-to-bring-strategy-into-your-work-every-day?deliveryName=NL_MTOD_20240716)
+2. [Take a More Strategic Approach to Work...Every Day](https://hbr.org/2024/07/6-ways-to-bring-strategy-into-your-work-every-day)
 
 Being strategic is an essential leadership skill. But strategies are notoriously hard to design and deliver. The key to overcoming the organizational and personal obstacles that get in the way? Make small decisions about where to focus and what to do throughout your day. They may feel inconsequential, but their impacts accumulate. Try these six strategies for incorporating strategic thinking into your daily work.
 

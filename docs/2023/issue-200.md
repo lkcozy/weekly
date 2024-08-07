@@ -88,7 +88,9 @@ To make the relationship successful, the article suggests close collaboration, l
 
 ## Review
 
-- [The week of 2022(Issue-148)](../2022/issue-148.md)
-- [The week of 2021(Issue-96)](../2021/issue-96.md)
-- [The week of 2020(Issue-48)](../2020/issue-48.md)
-- [The week of 2020(Issue-1)](../2019/issue-1.md)
+- [The week of 2024(Issue-252)](../2024/issue-252.md)
+- [The week of 2023(Issue-200)](../2023/issue-200.md)
+- [The week of 2022(Issue-149)](../2022/issue-149.md)
+- [The week of 2021(Issue-97)](../2021/issue-97.md)
+- [The week of 2020(Issue-49)](../2020/issue-49.md)
+- [The week of 2019(Issue-1)](../2019/issue-1.md)

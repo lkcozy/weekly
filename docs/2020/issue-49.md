@@ -95,10 +95,13 @@ Instead, I want a long-term engagement where understanding and trust are built u
 
 ## Comments
 
-1. Capitalism seeks to maximize profits. Once sales cannot expand at the same time, technological progress will inevitably lead to layoffs, and those who are unemployed will become poorer and poorer if they cannot find jobs in time. Those who are still at work are getting busier and busier because they are burdened with more productivity.
-
-   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-121.md)
+1. Capitalism seeks to maximize profits. Once sales cannot expand at the same time, technological progress will inevitably lead to layoffs, and those who are unemployed will become poorer and poorer if they cannot find jobs in time. Those who are still at work are getting busier and busier because they are burdened with more productivity. --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-121.md)
 
 ## Review
 
-- [The week of 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-1.md)
+- [The week of 2024(Issue-252)](../2024/issue-252.md)
+- [The week of 2023(Issue-200)](../2023/issue-200.md)
+- [The week of 2022(Issue-149)](../2022/issue-149.md)
+- [The week of 2021(Issue-97)](../2021/issue-97.md)
+- [The week of 2020(Issue-49)](../2020/issue-49.md)
+- [The week of 2019(Issue-1)](../2019/issue-1.md)

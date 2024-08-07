@@ -44,6 +44,34 @@ Rot is an open source command line (CLI) tool for managing cryptographic values.
 
 3. [Nano Stores](https://github.com/nanostores/nanostores)
 
+```ts
+// store/users.ts
+import { atom } from "nanostores";
+export const $users = atom<User[]>([]);
+export function addUser(user: User) {
+  $users.set([...$users.get(), user]);
+}
+// store/admins.ts
+import { computed } from "nanostores";
+import { $users } from "./users.js";
+export const $admins = computed($users, (users) =>
+  users.filter((i) => i.isAdmin)
+);
+// components/admins.tsx
+import { useStore } from "@nanostores/react";
+import { $admins } from "../stores/admins.js";
+export const Admins = () => {
+  const admins = useStore($admins);
+  return (
+    <ul>
+      {admins.map((user) => (
+        <UserItem user={user} />
+      ))}
+    </ul>
+  );
+};
+```
+
 A tiny state manager for React, React Native, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS. It uses many atomic stores and direct manipulation.
 
 ## Resources
@@ -81,11 +109,11 @@ Here are some key differences to understand when comparing vector search and sem
 
 4. [Typical AWS Network Architecture in one diagram](https://blog.bytebytego.com/i/142629473/one-picture-is-worth-a-thousand-words-typical-aws-network-architecture-in-one-diagram)
 
-![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62210162-7691-40e5-b450-2da232890af9_1536x1536.gif)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62210162-7691-40e5-b450-2da232890af9_1536x1536.gif)
 
 AWS's network architecture components enable seamless connectivity between the internet, remote workers, corporate data centers, and within the AWS ecosystem itself.
 
-2. [Processing an Organizational Decision You Disagree With](https://hbr.org/2024/02/how-to-make-peace-with-a-company-decision-you-dont-like?deliveryName=NL_MTOD_20240301)
+5. [Processing an Organizational Decision You Disagree With](https://hbr.org/2024/02/how-to-make-peace-with-a-company-decision-you-dont-like)
 
 You won’t agree with every organizational decision senior leadership makes. But you can make peace with a strategic direction you disagree with. Start by asking yourself a few questions.
 
@@ -99,7 +127,7 @@ What information might the decision-maker(s) have that I don’t? Extend some em
 
 By accepting this decision, what specific actions am I committing to take? You’re now ready to chart a new course of action. By addressing your emotions first, redirecting them to a place of positivity, and thinking beyond your own perspective, you can act with intention.
 
-3. [Become a Pro at Asynchronous Communication](https://hbr.org/2024/03/master-the-art-of-asynchronous-communication?deliveryName=NL_MTOD_20240318)
+6. [Become a Pro at Asynchronous Communication](https://hbr.org/2024/03/master-the-art-of-asynchronous-communication)
 
 With the rise of remote and hybrid work, the number of employees working at different times and collaborating across time zones is growing. As a result, you need to develop an increasingly important skill: asynchronous communication. Here are a few tactics that can help.
 
@@ -117,7 +145,7 @@ If you work closely with a colleague or manager who signs on after you sign off,
 
 3. Being in a bad mood is not a license to be unkind. Being sensitive is not a n excuse for being abusive. Respect is a social responsibility. Treating it as optional reveals a lack of concern for others. A mark of character is maintaining civility when things don't go your way.
 
-4. I find that I need to have the intention about writing before I can find something worthy of writing. Sometimes to satisfy my one-post-per-week goal, I say 'OK, fine, this topic is not interesting, but I can attempt to write some thing about it'. And I am surprised to find a fount of interesting things about that topic when I start to write. Many posts that I would not have written without this weekly goal turned out to be very insightful. I don't know what I think about something till I write about it: Writing is nature's way of teeling you how sloppy you thinking it.--[Why I Blog](https://muratbuffalo.blogspot.com/2024/03/why-i-blog.html)
+4. I find that I need to have the intention about writing before I can find something worthy of writing. Sometimes to satisfy my one-post-per-week goal, I say 'OK, fine, this topic is not interesting, but I can attempt to write some thing about it'. And I am surprised to find a fount of interesting things about that topic when I start to write. Many posts that I would not have written without this weekly goal turned out to be very insightful. I don't know what I think about something till I write about it: Writing is nature's way of feeling you how sloppy you thinking it.--[Why I Blog](https://muratbuffalo.blogspot.com/2024/03/why-i-blog.html)
 
 ## Review
 

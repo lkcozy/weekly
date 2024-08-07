@@ -82,3 +82,12 @@ Colaboratory is a free Jupyter notebook environment. It allows you to write and 
 Get out of bed when you're not asleep. This is the best tip Dr. Michael Grandner can give. After decades of research, he found counter-intuitive advice. The reason is that beds are designed to make it easy to sleep, but if we can't sleep, that makes the bed's impact weaker.
 
 This method won't work 100% of the time, but it will work more than most people think.
+
+## Review
+
+- [The week of 2024(Issue-252)](../2024/issue-252.md)
+- [The week of 2023(Issue-200)](../2023/issue-200.md)
+- [The week of 2022(Issue-149)](../2022/issue-149.md)
+- [The week of 2021(Issue-97)](../2021/issue-97.md)
+- [The week of 2020(Issue-49)](../2020/issue-49.md)
+- [The week of 2019(Issue-1)](../2019/issue-1.md)

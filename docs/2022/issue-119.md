@@ -16,7 +16,7 @@ The results show that governments could apply geospatial data and methodologies 
 
 First-order impacts (number of COVID-19 cases) lead to the second-order effects.
 
-2. [How Walmart Canada Uses Blockchain to Solve Supply-Chain Challenges](https://hbr.org/2022/01/how-walmart-canada-uses-blockchain-to-solve-supply-chain-challenges?deliveryName=DM170330)
+2. [How Walmart Canada Uses Blockchain to Solve Supply-Chain Challenges](https://hbr.org/2022/01/how-walmart-canada-uses-blockchain-to-solve-supply-chain-challenges)
 
 ![](https://hbr.org/resources/images/article_assets/2022/01/Jan22_05_1040543454-2.jpg)
 
