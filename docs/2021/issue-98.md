@@ -81,10 +81,14 @@ Use graphics to explain the types of SQL Join, simple and easy to understand.
 
 ## Comments
 
-1.  The main difference is the number of changes during the execution of the project. For example, if you're building an airplane, nobody will tell you that they want it to go to space in the middle of the project. But in the software industry, this is possible. This goes hand-in-hand with the logic of business that anything is possible in IT. If you built something that flies, then it should fly anywhere we want it to.
-    --[Founders Guide: Complex Projects 101](https://vadimkravcenko.com/en/dealing-with-complex-projects/)
+1. The main difference is the number of changes during the execution of the project. For example, if you're building an airplane, nobody will tell you that they want it to go to space in the middle of the project. But in the software industry, this is possible. This goes hand-in-hand with the logic of business that anything is possible in IT. If you built something that flies, then it should fly anywhere we want it to.
+   --[Founders Guide: Complex Projects 101](https://vadimkravcenko.com/en/dealing-with-complex-projects/)
 
 ## Review
 
-- [The week of 2020(Issue-49)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-49.md)
-- [The week of 2019(Issue-1)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-1.md)
+- [The week of 2024(Issue-253)](../2024/issue-253.md)
+- [The week of 2023(Issue-201)](../2023/issue-201.md)
+- [The week of 2022(Issue-150)](../2022/issue-150.md)
+- [The week of 2021(Issue-98)](../2021/issue-98.md)
+- [The week of 2020(Issue-50)](../2020/issue-50.md)
+- [The week of 2019(Issue-2)](../2019/issue-2.md)

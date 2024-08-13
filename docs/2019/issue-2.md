@@ -70,3 +70,12 @@ TabNine uses deep learning to help you write code faster.
 ![](https://media.npr.org/assets/img/2014/08/22/turnitin-originality-report_custom-890b02135d24d7fb6f5d443ae5610599354e2e4c-s1200.png)
 
 Turnitin is a Web-based service that can find and highlight matching or unoriginal text in a written assignment. Turnitin basically checks the assignment against its database of materials to look for matches or near-matches in strings of text.
+
+## Review
+
+- [The week of 2024(Issue-253)](../2024/issue-253.md)
+- [The week of 2023(Issue-201)](../2023/issue-201.md)
+- [The week of 2022(Issue-150)](../2022/issue-150.md)
+- [The week of 2021(Issue-98)](../2021/issue-98.md)
+- [The week of 2020(Issue-50)](../2020/issue-50.md)
+- [The week of 2019(Issue-2)](../2019/issue-2.md)

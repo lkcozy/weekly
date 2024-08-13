@@ -91,6 +91,14 @@ The composition of domain objects:
 - Value Object: a domain object without ID. It is used to describe the property of the Entity.
 - Aggregate: a collection of Entities that are bounded together by an Aggregate Root (which is also an entity). It is the unit of storage.
 
+At its heart, Domain-Driven Design is about:
+
+- Placing the primary focus on the core domain.
+- Basing complex designs on a model of the domain
+- Building collaboration between technical and domain experts.
+
+！[](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F813befc8-72c0-45fc-9568-b9bc5ca9a69d_2250x2840.png)
+
 ## Comments
 
 1. The function of education is to teach one to think intensively and to think critically. Intelligence plus character-that is the goal of true education.

@@ -116,7 +116,9 @@ The author discusses their personal journey in understanding and decoding their 
 
 ## Review
 
-- [The week of 2022(Issue-149)](../2022/issue-149.md)
-- [The week of 2021(Issue-97)](../2021/issue-97.md)
-- [The week of 2020(Issue-49)](../2020/issue-49.md)
-- [The week of 2020(Issue-2)](../2019/issue-2.md)
+- [The week of 2024(Issue-253)](../2024/issue-253.md)
+- [The week of 2023(Issue-201)](../2023/issue-201.md)
+- [The week of 2022(Issue-150)](../2022/issue-150.md)
+- [The week of 2021(Issue-98)](../2021/issue-98.md)
+- [The week of 2020(Issue-50)](../2020/issue-50.md)
+- [The week of 2019(Issue-2)](../2019/issue-2.md)
