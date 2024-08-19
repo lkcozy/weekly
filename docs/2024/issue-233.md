@@ -114,7 +114,7 @@ It's akin to walking a tightrope. Your legs are shaky, and you're trying to find
 
 3. When you know what needs to be done, inaction increases stress. You feel a lot less stress when you do the things within your control that move you closer to your objective. Action reduces stress.
 
-4. a lack of routine cause more problems than poor choices. Routines turn desired behavior into default behavior.
+4. A lack of routine cause more problems than poor choices. Routines turn desired behavior into default behavior.
 
 5. Be quiet, work hard, and stay healthy. It's not ambition or skill that is going to set you apart but sanity.
 

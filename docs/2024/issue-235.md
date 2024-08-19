@@ -32,17 +32,9 @@ Jan is an open source alternative to ChatGPT that runs 100% offline on your comp
 
 3. [Lamucal](https://lamucal.ai/)
 
-## Academic
+![](https://media.theresanaiforthat.com/lamucal.png?height=768)
 
-1. []()
-
-![]()
-
-## Tool
-
-1. []()
-
-![]()
+Lamucal is an AI-powered platform that provides a range of music-related services, including the generation of tabs, chords, lyrics, and melodies for any song. It allows users to edit, transpose, separate tracks, and remove vocals easily. The platform also offers interactive learning features, enabling users to engage with music in a more educational manner.
 
 ## Resources
 
@@ -116,7 +108,7 @@ The nine key clean energy minerals:
 
 1. Nobody wants to believe happiness is a choice, because that puts responsibility in their hands. It's the same reason people self-pity: to delay action, to make an outcry to the universe, as though the more they state how bad things are, the more likely it is that someone else will change them. --[Brianna Wiest](https://fs.blog/brain-food/march-31-2024/)
 
-2. I once believed, as most od, that if arguments are to be won, the opponent must be pummeled into submission and silenced. You can imagine how that idea played at home. If, in accordance with such a definition, I won an argument, I began to lose the relationship. --[Gerry Spence](https://fs.blog/brain-food/march-31-2024/)
+2. I once believed, as most do, that if arguments are to be won, the opponent must be pummeled into submission and silenced. You can imagine how that idea played at home. If, in accordance with such a definition, I won an argument, I began to lose the relationship. --[Gerry Spence](https://fs.blog/brain-food/march-31-2024/)
 
 3. What you do on your bad days matters more than what you do on your good days. Anyone can nourish their most important relationships when life is smooth, but the effort you put in during the rough patches matters more. When you're motivated, eating healthy is easy, but your choices on your toughest days can undo your progress. Keeping your emotions in check is easy when things are going well, but managing your emotions when the world isn't cooperating sets you apart. Push through the grind and maintain the momentum. --[Shane](https://fs.blog/brain-food/march-31-2024/)
 

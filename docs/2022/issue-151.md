@@ -132,6 +132,9 @@ If there were only ten people on earth, this is how wealth would be distributed
 
 ## Review
 
-- [The week of 2021(Issue-100)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-100.md)
-- [The week of 2020(Issue-51)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-51.md)
-- [The week of 2019(Issue-3)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-3.md)
+- [The week of 2024(Issue-254)](../2024/issue-254.md)
+- [The week of 2023(Issue-202)](../2023/issue-202.md)
+- [The week of 2022(Issue-151)](../2022/issue-151.md)
+- [The week of 2021(Issue-99)](../2021/issue-99.md)
+- [The week of 2020(Issue-51)](../2020/issue-51.md)
+- [The week of 2019(Issue-3)](../2019/issue-3.md)

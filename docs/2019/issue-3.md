@@ -77,3 +77,12 @@ A performant binary encoding for geographic data based on faltbuffers. Its goals
 ![](https://camo.githubusercontent.com/c72a1adb7015358ea980d8a95863f3ba911096f0/68747470733a2f2f656368617274732d6d6170732e6769746875622e696f2f656368617274732d636f756e74726965732d6a732f64656d6f2e706e67)
 
 It collects all geojsons in javascript of 213 countries and regions and acts as a static asset to jupyter-echarts or your ECharts collection.
+
+## Review
+
+- [The week of 2024(Issue-254)](../2024/issue-254.md)
+- [The week of 2023(Issue-202)](../2023/issue-202.md)
+- [The week of 2022(Issue-151)](../2022/issue-151.md)
+- [The week of 2021(Issue-99)](../2021/issue-99.md)
+- [The week of 2020(Issue-51)](../2020/issue-51.md)
+- [The week of 2019(Issue-3)](../2019/issue-3.md)
