@@ -163,6 +163,9 @@ This is an excellent thread on how to have a compelling point of view without sp
 
 ## Review
 
-- [The week of 2021(Issue-101)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-101.md)
-- [The week of 2020(Issue-52)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-52.md)
-- [The week of 2019(Issue-4)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-4.md)
+- [The week of 2024(Issue-255)](../2024/issue-255.md)
+- [The week of 2023(Issue-203)](../2023/issue-203.md)
+- [The week of 2022(Issue-152)](../2022/issue-152.md)
+- [The week of 2021(Issue-100)](../2021/issue-100.md)
+- [The week of 2020(Issue-52)](../2020/issue-52.md)
+- [The week of 2019(Issue-4)](../2019/issue-4.md)

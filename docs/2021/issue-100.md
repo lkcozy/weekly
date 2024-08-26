@@ -96,22 +96,26 @@ From picking a subject and crafting a presentation to gathering and synthesizing
 
 ## Comments
 
-1.  Using a certain technology doesn’t make you superior to anyone else.
-    --[Sha Alibhai](https://twitter.com/hashtagcoder/status/1327660760001110016)
+1. Using a certain technology doesn’t make you superior to anyone else.
+   --[Sha Alibhai](https://twitter.com/hashtagcoder/status/1327660760001110016)
 
-2.  There's a lot of different interpretations about what makes someone a senior. For some it's all about experience, for others it's about career length. For me personally, `it's about elevating yourself to think outside of your own contributions`.
-    --[What does a Senior Software Engineer do?](https://www.hashtagcoder.dev/blog/senior-software-engineer)
+2. There's a lot of different interpretations about what makes someone a senior. For some it's all about experience, for others it's about career length. For me personally, `it's about elevating yourself to think outside of your own contributions`.
+   --[What does a Senior Software Engineer do?](https://www.hashtagcoder.dev/blog/senior-software-engineer)
 
-3.  Frequency illusion is a cognitive bias in which, after noticing something for the first time, there is a tendency to notice it more often, leading someone to believe that it has a high frequency.
-    --[Frequency illusion](https://en.wikipedia.org/wiki/Frequency_illusion)
+3. Frequency illusion is a cognitive bias in which, after noticing something for the first time, there is a tendency to notice it more often, leading someone to believe that it has a high frequency.
+   --[Frequency illusion](https://en.wikipedia.org/wiki/Frequency_illusion)
 
-4.  What one programmer can do in one month, two programmers can do in two months.
-    --[Less turned out to be more](https://www.hashtagcoder.dev/blog/reflecting-on-my-team-building-strategy)
+4. What one programmer can do in one month, two programmers can do in two months.
+   --[Less turned out to be more](https://www.hashtagcoder.dev/blog/reflecting-on-my-team-building-strategy)
 
-5.  A computer program is simply a description of an idea, and the ability to write complex code does not a great programmer make. The best programmers are able to come up with simple solutions to complex problems. The worst programmers are those who devise complex solutions to simple problems.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=28072652)
+5. A computer program is simply a description of an idea, and the ability to write complex code does not a great programmer make. The best programmers are able to come up with simple solutions to complex problems. The worst programmers are those who devise complex solutions to simple problems.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=28072652)
 
 ## Review
 
-- [The week of 2020(Issue-51)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-51.md)
-- [The week of 2019(Issue-3)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-3.md)
+- [The week of 2024(Issue-255)](../2024/issue-255.md)
+- [The week of 2023(Issue-203)](../2023/issue-203.md)
+- [The week of 2022(Issue-152)](../2022/issue-152.md)
+- [The week of 2021(Issue-100)](../2021/issue-100.md)
+- [The week of 2020(Issue-52)](../2020/issue-52.md)
+- [The week of 2019(Issue-4)](../2019/issue-4.md)

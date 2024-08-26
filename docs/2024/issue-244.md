@@ -121,6 +121,24 @@ This is a great mindset if you want to build a tight relationship across the com
 
 This is one of the primary attributes I look for when interviewing sales leaders. How do they view their job? Do they only see the money machine? Or do they understand the value of the conversations their team is having and how that feeds into product development?"
 
+4. [Understand Why You Feel Underappreciated at Work](https://hbr.org/2024/07/why-you-feel-underappreciated-at-work)
+
+Struggling to land a promotion at work can make you feel underappreciated and undervalued. If you’re frustrated by a lack of professional growth, how can you empower yourself? Start by figuring out the unique circumstances that are contributing to your feelings. Here are a few self-reflection questions.
+
+What story am I telling myself? Recognize when a lack of growth is due to circumstances outside of your or your manager’s control, such as poor economic conditions. From there, you can gain some confidence back and consider your next move.
+
+Am I making unhelpful comparisons? Sometimes we feel underappreciated at work because we see our peers moving up the ladder while we remain stagnant. To understand where you actually stand, ask your manager, “Can you tell me about the roles and experience levels of the people who made your short list for the promotion?” You may uncover a skill or experience gap that’s stunting your growth.
+
+Is it just me? It’s important to gain information about the career prospects and paths of those with similar goals to you. Ask your manager or someone in HR how many people applied for the promotion you wanted, as well as how many were internal and external. If the data you’re looking for isn’t available, try speaking with successfully promoted people. The knowledge you gain can inform your next steps.
+
+5. [How to Gain Appreciation—and a Promotion](https://hbr.org/2024/07/why-you-feel-underappreciated-at-work)
+
+How to course-correct—and gain the appreciation you deserve.
+
+Remember, there’s a difference between highly visible and status-granting work. Just because someone with status asked you to do something doesn’t mean it will showcase your skills in a way that will help you get promoted. How can you determine whether the work you’ve been asked to do is promotable? You could respectfully say: “I’d love to help with this, but I have a lot on my plate right now. A big goal of mine is to build the skills I need to move up to the next level. Will this role contribute to those skills?”
+
+Balance being a team player and looking out for yourself. Prioritizing your own career growth doesn’t mean you should stop helping your team members—but you should set limits around how much extra work you take on. Find out from your boss whether helping out teammates is a criteria for promotion. You might ask, “What performance metrics are usually discussed in these meetings? Can you list them from the most to least important?”
+
 ## Comments
 
 1. The chief trick to making good mistakes is not to hide them—especially not from yourself. Instead of turning away in denial when you make a mistake, you should become a connoisseur of your own mistakes, turning them over in your mind as if they were works of art, which in a way they are. The fundamental reaction to any mistake ought to be this: “Well, I won’t do that again! --[Tools for Critical Thinking](https://fs.blog/dan-dannetts-thinking-tools/)

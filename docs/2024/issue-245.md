@@ -112,6 +112,24 @@ The league is negotiating broadcasting deals worth an estimated $76 billion over
 - The focus on revenue may overlook other important aspects of sports, such as fan experience and quality of gameplay.
 - The emphasis on monetary success can detract from the values of sportsmanship and teamwork that are at the core of professional sports.
 
+4. [Create a Schedule That Allows You to Work Smarter](https://hbr.org/podcast/2024/04/treat-email-like-laundry-and-other-tips-from-googles-productivity-expert)
+
+Being busy doesn’t automatically equate to doing important work. Instead of filling your calendar with busywork that will burn you out or stunt your career growth, be more intentional with your time. Here are two ways high-achieving workers can build a smarter schedule.
+
+Don’t overcommit. When your calendar is packed with back-to-back meetings, it’s a sign that you have too many priorities. You should intentionally leave space in your schedule to decompress and process your work. Aim to commit to only 80% of the opportunities and responsibilities presented to you. This also forces you to consider and name your priorities.
+
+Be intentional about your time. You control your schedule; your schedule doesn’t control you—or at least it shouldn’t. For example, if you decide you’ll work all afternoon because you have meetings all morning—despite the afternoon being the time of day when you typically hit a creative wall—then you’re letting your schedule guide you. Instead of accepting this, make a change, and let the people in your professional and personal life know what you need to be at your best.
+
+5. [Get More Comfortable with Delivering Feedback](https://hbr.org/2024/07/overcome-your-fear-of-giving-feedback)
+
+Providing feedback to your employees is part of being a manager. These performance conversations should feel productive and set the tone for a positive working relationship with your employee—but preconceived notions can hold you back from giving timely, helpful, and honest feedback. Here are three common misconceptions about delivering feedback and how to overcome them.
+
+Feedback conversations are always long and drawn out. In fact, fast feedback sessions where you simply share the behavior you’re observing and allow your team member to respond can be just as effective as a lengthy one-on-one. If they’re self-aware and self-motivated, they’ll likely acknowledge their own misstep.
+
+Your feedback has to be perfect. Your employee might see things differently than you do, and you may or may not be “right” the first time. If you’re willing to have a feedback dialogue rather than a monologue, you’re likely to get new information, additional perspectives, and even reactions to the feedback that you should consider.
+
+With enough preparation, you can manage your employee’s reaction. How an employee responds to your input is based on personal factors. While you should commit to making your part of the conversation as helpful and productive as possible, also understand that you can’t control how the recipient will feel. Delaying providing an employee with feedback for fear of upsetting them harms both of you and your working relationship.
+
 ## Comments
 
 1. A simple rule that makes life easier: Always strive to give value before you ask for value.
