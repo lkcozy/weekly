@@ -90,13 +90,18 @@ Day.js 2KB immutable date library alternative to Moment.js with the same modern 
 
 ## Comments
 
-1.  Lee Kuan Yew's success in Singapore is not only due to his authoritarianism, as most western scholars put out, but also due to the sheer pragmatism of Singapore's policymaking elite. They respect no ideology but the one that is suitable. If they need to have free markets, they will have free markets. If they need to regulate pricing, they will regulate it.
+1. Lee Kuan Yew's success in Singapore is not only due to his authoritarianism, as most western scholars put out, but also due to the sheer pragmatism of Singapore's policymaking elite. They respect no ideology but the one that is suitable. If they need to have free markets, they will have free markets. If they need to regulate pricing, they will regulate it.
 
-    --[Hacker News](https://news.ycombinator.com/item?id=24382427)
+   --[Hacker News](https://news.ycombinator.com/item?id=24382427)
 
-2.  The internet software industry has moved away from long development cycles and dedicated quality assurance (QA) stages, toward a fast-paced continuous-integration/continuous-delivery (CI/CD) pipeline, where new code is quickly written, committed and pushed to user-facing applications and services.
-    -- [Production testing with dark canaries](https://engineering.linkedin.com/blog/2020/production-testing-with-dark-canaries)
+2. The internet software industry has moved away from long development cycles and dedicated quality assurance (QA) stages, toward a fast-paced continuous-integration/continuous-delivery (CI/CD) pipeline, where new code is quickly written, committed and pushed to user-facing applications and services.
+   -- [Production testing with dark canaries](https://engineering.linkedin.com/blog/2020/production-testing-with-dark-canaries)
 
 ## Review
 
-[The week of 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)
+- [The week of 2024(Issue-256)](../2024/issue-256.md)
+- [The week of 2023(Issue-204)](../2023/issue-204.md)
+- [The week of 2022(Issue-153)](../2022/issue-153.md)
+- [The week of 2021(Issue-101)](../2021/issue-101.md)
+- [The week of 2020(Issue-53)](../2020/issue-53.md)
+- [The week of 2019(Issue-5)](../2019/issue-5.md)

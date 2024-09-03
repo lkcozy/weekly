@@ -32,12 +32,6 @@ Some California winemakers are using a service called Tastry to identify grapes 
 
 **How it works**: Called CompuBlend, Tastry's system analyzes grapes' chemical makeup, including smoke compounds absorbed through their skins. A model recommends other varieties that can mask the taste.
 
-## Research
-
-1. []()
-
-![]()
-
 ## Tool
 
 1. [Milkdown](https://github.com/Saul-Mirone/milkdown)
@@ -91,43 +85,41 @@ Bash is excellent, but people usually choose a more convenient programming langu
 
 HyperFormula is an open-source, spreadsheet-like calculation engine.
 
-## Videos
-
-1. []()
-
-![]()
-
 ## Resources
 
 1. [Mastering Web Scraping in Python: Crawling from Scratch](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch)
 
 This article describes how to use Python to develop a crawler that crawls web pages and considers many details, such as multi-threaded parallel crawls, preventing blocking, and so on.
 
-2. [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/Amazon Web Services In Plain English)
+2. [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 
 AWS (Amazon Web Service) now contains more than 50 products. The official introduction is sometimes challenging to understand. It is unclear what each product does. This page uses simple English to introduce each service.
 
 ## Comments
 
-1.  I think there is a temptation to have opinions, especially the more senior you get. Sometimes, that is valid. Sometimes, it is mere noise. Before sharing an opinion, I try to stop and reflect. Will contributing my opinion meaningfully impact the outcome of the discussion? If it won't, then I can relish in the simple beauty of having no opinion.
-    --[The Simple Beauty of Not Having an Opinion](https://tomgamon.com/posts/the-simple-beauty-of-not-having-an-opinion/?newsletter)
+1. I think there is a temptation to have opinions, especially the more senior you get. Sometimes, that is valid. Sometimes, it is mere noise. Before sharing an opinion, I try to stop and reflect. Will contributing my opinion meaningfully impact the outcome of the discussion? If it won't, then I can relish in the simple beauty of having no opinion.
+   --[The Simple Beauty of Not Having an Opinion](https://tomgamon.com/posts/the-simple-beauty-of-not-having-an-opinion/?newsletter)
 
-2.  One of the best tips I have gotten from the internet is to never copy and paste code you have not written yourself. Even rewriting it verbatim makes you think about what it is you are actually copying.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=27534343)
+2. One of the best tips I have gotten from the internet is to never copy and paste code you have not written yourself. Even rewriting it verbatim makes you think about what it is you are actually copying.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=27534343)
 
-3.  The whole mentality of 996 goes back to the time when most of the jobs were manufacturing jobs. If you are a garments factory, what's the simplest way to increase throughput? Well, make your workers work harder. If you are in a country the size of China and your workers' revolt, replacing them is simple enough. This unfortunately does not work for tech companies. Making software engineers work long hours will just piss them of. Also, by its nature, spending more time on a piece of code doesn't mean you'll be more productive (in fact, I've found the best way to deal with a bug is often take a break and come back and reread your code, likely you'll spot the mistake far more easily).
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=28326010)
+3. The whole mentality of 996 goes back to the time when most of the jobs were manufacturing jobs. If you are a garments factory, what's the simplest way to increase throughput? Well, make your workers work harder. If you are in a country the size of China and your workers' revolt, replacing them is simple enough. This unfortunately does not work for tech companies. Making software engineers work long hours will just piss them of. Also, by its nature, spending more time on a piece of code doesn't mean you'll be more productive (in fact, I've found the best way to deal with a bug is often take a break and come back and reread your code, likely you'll spot the mistake far more easily).
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=28326010)
 
-4.  Nothing comes from a tech book. Just the credibility.
-    --[So you want to self-publish books and courses on programming](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
+4. Nothing comes from a tech book. Just the credibility.
+   --[So you want to self-publish books and courses on programming](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
 
-5.  Fearless isn't the absence of fear; it's having the fear but jumping in anyway.
-    --[Taylor Swift](https://www.thecut.com/2021/07/how-thrilling-ceo-shilla-kim-parker-gets-it-done.html)
+5. Fearless isn't the absence of fear; it's having the fear but jumping in anyway.
+   --[Taylor Swift](https://www.thecut.com/2021/07/how-thrilling-ceo-shilla-kim-parker-gets-it-done.html)
 
-6.  The vast majority of established developers are specialists because it's much easier to find work that way. Some specialists even consider working in a different stack, a resume taint.
-    --[Why NFTs Make Programmers Mad](https://www.peachesnstink.com/p/A6HSwaoL92ZN7A3lrpkXZJ)
+6. The vast majority of established developers are specialists because it's much easier to find work that way. Some specialists even consider working in a different stack, a resume taint.
+   --[Why NFTs Make Programmers Mad](https://www.peachesnstink.com/p/A6HSwaoL92ZN7A3lrpkXZJ)
 
 ## Review
 
-- [The week of 2020(Issue-52)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-52.md)
-- [The week of 2019(Issue-4)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-4.md)
+- [The week of 2024(Issue-256)](../2024/issue-256.md)
+- [The week of 2023(Issue-204)](../2023/issue-204.md)
+- [The week of 2022(Issue-153)](../2022/issue-153.md)
+- [The week of 2021(Issue-101)](../2021/issue-101.md)
+- [The week of 2020(Issue-53)](../2020/issue-53.md)
+- [The week of 2019(Issue-5)](../2019/issue-5.md)

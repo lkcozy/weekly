@@ -32,7 +32,9 @@ grep -nri gis docs | cat -n
 
 ## 🐲 2024
 
-**August**: [Reading Fragments](fragments/2024.08.md) | [Issue #255](docs/2024/issue-255.md) 🚀 | [Issue #254](docs/2024/issue-254.md) | [Issue #253](docs/2024/issue-253.md) | [Issue #252](docs/2024/issue-252.md)
+**September**: [Reading Fragments](fragments/2024.09.md) | [Issue #256](docs/2024/issue-256.md) 🚀
+
+**August**: [Reading Fragments](fragments/2024.08.md) | [Issue #255](docs/2024/issue-255.md) | [Issue #254](docs/2024/issue-254.md) | [Issue #253](docs/2024/issue-253.md) | [Issue #252](docs/2024/issue-252.md)
 
 **July**: [Reading Fragments](fragments/2024.07.md) | [Issue #251](docs/2024/issue-251.md) | [Issue #250](docs/2024/issue-250.md) | [Issue #249](docs/2024/issue-249.md) | [Issue #248](docs/2024/issue-248.md)
 
@@ -206,6 +208,8 @@ or
 28. 🖥🇨🇳[BestXTools Weekly](https://discuss-cn.bestxtools.com/): finds and shares fun, creative, free and easy-to-use tools
 29. 📊[Visual Capitalist](https://www.visualcapitalist.com/)
 30. 🖥🇨🇳[TW93 Weekly](https://weekly.tw93.fun/)
+31. 🖥🇨🇳[Cat Fish Weekly](https://github.com/LeslieLeung/cat-fish-weekly): A newsletter of open-source projects, useful tools, and insights.
+32. 🖥🇨🇳[Learning Weekly](https://github.com/eryajf/learning-weekly)
 
 ## 🛠 Resources
 

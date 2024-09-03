@@ -79,3 +79,12 @@ We then moved into experiences that existed way beyond a single screen or flow. 
 UX Designers has distanced themselves from aesthetic decisions to be able to focus on how things work.
 
 -- [Are bad designers hiding behind the term "UX"?](https://uxdesign.cc/are-bad-designers-hiding-behind-the-term-ux-c3e30f0a4778)
+
+## Review
+
+- [The week of 2024(Issue-256)](../2024/issue-256.md)
+- [The week of 2023(Issue-204)](../2023/issue-204.md)
+- [The week of 2022(Issue-153)](../2022/issue-153.md)
+- [The week of 2021(Issue-101)](../2021/issue-101.md)
+- [The week of 2020(Issue-53)](../2020/issue-53.md)
+- [The week of 2019(Issue-5)](../2019/issue-5.md)
