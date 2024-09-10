@@ -101,13 +101,17 @@ A textbook of Machine Learning from Uppsala University.
 
 ## Comments
 
-1.  On a long enough timeline, wisdom is always more valuable than knowledge. We often overvalue ability and understanding because expertise is relatively easy to test, but learning is complex.
-    --[Short Fat Engineers Are Undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
+1. On a long enough timeline, wisdom is always more valuable than knowledge. We often overvalue ability and understanding because expertise is relatively easy to test, but learning is complex.
+   --[Short Fat Engineers Are Undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
 
-2.  Job interviews are not all about your technical skills; it's about people skills too. And this is good because you need both in your job.
-    --[I had to give a wrong answer to get the job](https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/)
+2. Job interviews are not all about your technical skills; it's about people skills too. And this is good because you need both in your job.
+   --[I had to give a wrong answer to get the job](https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/)
 
 ## Review
 
-- [The week of 2020(Issue-53)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-53.md)
-- [The week of 2019(Issue-5)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-5.md)
+- [The week of 2024(Issue-257)](../2024/issue-257.md)
+- [The week of 2023(Issue-205)](../2023/issue-205.md)
+- [The week of 2022(Issue-154)](../2022/issue-154.md)
+- [The week of 2021(Issue-102)](../2021/issue-102.md)
+- [The week of 2020(Issue-54)](../2020/issue-54.md)
+- [The week of 2019(Issue-6)](../2019/issue-6.md)

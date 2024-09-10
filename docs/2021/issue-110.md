@@ -86,13 +86,13 @@ The top 3 things we can learn:
 
 ## Comments
 
-1.  Being self-sufficient is not necessarily about being able to build the most whiz-bang application entirely by yourself - collaboration is still crucial for complex systems - but about having enough tools to progress, understand and unblock yourself as needed.
+1. Being self-sufficient is not necessarily about being able to build the most whiz-bang application entirely by yourself - collaboration is still crucial for complex systems - but about having enough tools to progress, understand and unblock yourself as needed.
     --[Full Stack or Self-Sufficient?](https://tomgamon.com/posts/self-sufficiency/?newsletter)
 
-2.  Management isn't a promotion up the ladder; it's a separate, specific role that relates to individual contributors.
-    --[Leadership isn't confined to managers; it's also crucial on the technical track.](https://leaddev.com/career-paths-progression-promotion/management-isnt-promotion?vgo_ee=zvgfOykjsOTESwDatmxo74vy7T5YEJ8ohjC9vauJg30%3D)
+2. Management isn't a promotion up the ladder; it's a separate, specific role that relates to individual contributors.
+    --[Leadership isn't confined to managers; it's also crucial on the technical track.](https://leaddev.com/career-paths-progression-promotion/management-isnt-promotion)
 
-3.  It is well-known in user research that if you ask a user if they want a new feature, that they will often scream, "YES". Why wouldn't someone want more features after all? Although they may not actually use it.
+3. It is well-known in user research that if you ask a user if they want a new feature, that they will often scream, "YES". Why wouldn't someone want more features after all? Although they may not actually use it.
     --[When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
 
 ## Review

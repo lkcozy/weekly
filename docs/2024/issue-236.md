@@ -51,7 +51,7 @@ DashPress generates powerful admin apps from your database information. DashPres
 
 1. [9 Best Practices for building microsercvices](https://blog.bytebytego.com/i/143318193/best-practices-for-building-microsercvices)
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc039cbf7-5dfa-4526-92e9-8070a57035dc_1280x1664.gif)
+![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc039cbf7-5dfa-4526-92e9-8070a57035dc_1280x1664.gif)
 
 Creating a system using microservices is extremely difficult unless you follow some strong principles.
 
@@ -84,6 +84,20 @@ Key takeaways:
 - Focus on problem-solving skills and collaboration over technical expertise alone. **Remember, your worth as a developer isn't solely defined by your ability to churn out code at lightning speed or your mastery of the latest stack**.
 - Your unique skills and perspectives contribute value to a team, regardless of technical prowess. **Ask questions, seek feedback, and most importantly, share your own insights and experiences**.
 - Growth and improvement take time, so **avoid comparing yourself to others** and trust the process of development. Everyone's path is unique. Embrace your journey, and remember, the fact that you're questioning your abilities and seeking to improve already sets you apart in the best way possible.
+
+3. [We once more have no full-time managers at 37signals](https://world.hey.com/dhh/we-once-more-have-no-full-time-managers-at-37signals-f8611085)
+
+37signals, a software company, has returned to its original organizational structure without full-time managers. This decision comes after experimenting with various management roles over the past few years.
+
+The company now operates with a distributed management approach where senior staff members handle managerial responsibilities alongside their primary roles as individual contributors.
+
+37signals emphasizes hiring and developing "managers of one" - individuals who can set and follow their own agendas autonomously. The company believes that learning and respect are enhanced when an employee's primary manager is also their professional superior
+
+- This approach helps avoid Parkinson's Law, where work expands to fill the time available
+- Management duties are distributed among senior staff, with a focus on minimalism and efficiency.
+- Small teams of highly competent managers of one can progress quickly and make a direct impact.
+- The company uses automated questions for status updates and check-ins instead of recurring weekly one-on-ones
+- Traditional management structures may not be needed for smaller teams of around 60 people.
 
 ## Comments
 

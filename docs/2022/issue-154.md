@@ -102,6 +102,9 @@ Focus is hard, and because it's hard, it also creates a hidden place to find opp
 
 ## Review
 
-- [The week of 2021(Issue-103)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-103.md)
-- [The week of 2020(Issue-54)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-54.md)
-- [The week of 2019(Issue-6)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-6.md)
+- [The week of 2024(Issue-257)](../2024/issue-257.md)
+- [The week of 2023(Issue-205)](../2023/issue-205.md)
+- [The week of 2022(Issue-154)](../2022/issue-154.md)
+- [The week of 2021(Issue-102)](../2021/issue-102.md)
+- [The week of 2020(Issue-54)](../2020/issue-54.md)
+- [The week of 2019(Issue-6)](../2019/issue-6.md)
