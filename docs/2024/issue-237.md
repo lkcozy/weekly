@@ -123,13 +123,13 @@ One evening a developer refactored a colleague's code into a cleaner version to 
 - To be loved
 - To matter
 
-7. The beginner plays within the boundaries.The competent explore the boundaries.The master knows when to ignore them.
+6. The beginner plays within the boundaries.The competent explore the boundaries.The master knows when to ignore them.
 
-8. I like to avoid dealing with people where I feel like I need a contract.
+7. I like to avoid dealing with people where I feel like I need a contract.
 
-9. As a team leader, being the one to fill every silent moment creates an environment which fosters 'dependency'. The group becomes accustomed to the manager calling all the shots, and gradually relinquishes more and more control to him or her. The team becomes less effective, and struggles to function when the manager is not around. --[Embrace Silence](https://tech.forter.com/embrace-silence.html)
+8. As a team leader, being the one to fill every silent moment creates an environment which fosters 'dependency'. The group becomes accustomed to the manager calling all the shots, and gradually relinquishes more and more control to him or her. The team becomes less effective, and struggles to function when the manager is not around. --[Embrace Silence](https://tech.forter.com/embrace-silence.html)
 
-10. Delete all standing meetings, every quarter. Jeff Lawson, Founder and CEO of Twilio gave me this awesome advice: Why? (1) Immediately Kills ALL unnecessary standing meetings (2) Makes everyone revisit their calendars and think about their weeks (3) Anything that is important will obviously be added back to the calendar.--[X User](https://twitter.com/jspujji/status/1774449105772650537)
+9. Delete all standing meetings, every quarter. Jeff Lawson, Founder and CEO of Twilio gave me this awesome advice: Why? (1) Immediately Kills ALL unnecessary standing meetings (2) Makes everyone revisit their calendars and think about their weeks (3) Anything that is important will obviously be added back to the calendar.--[X User](https://twitter.com/jspujji/status/1774449105772650537)
 
 ## Review
 

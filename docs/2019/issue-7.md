@@ -93,3 +93,12 @@ An online tool to list Chinese classic color schemes
 Data, and lots of it is at the foundation of this initiative. However Data on its own holds very little meaning without interactive visualization tools to assist in making sense of the Data.
 
 -- [Roque Leal](https://www.linkedin.com/pulse/world-oil-map-roque-leal?articleId=6498942830877249536#comments-6498942830877249536&trk=public_profile_article_view)
+
+## Review
+
+- [The week of 2024(Issue-258)](../2024/issue-258.md)
+- [The week of 2023(Issue-206)](../2023/issue-206.md)
+- [The week of 2022(Issue-155)](../2022/issue-155.md)
+- [The week of 2021(Issue-103)](../2021/issue-103.md)
+- [The week of 2020(Issue-55)](../2020/issue-55.md)
+- [The week of 2019(Issue-7)](../2019/issue-7.md)

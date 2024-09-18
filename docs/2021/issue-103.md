@@ -110,11 +110,15 @@ A math textbook for programmers with no mathematical foundation. It introduces c
 
 ## Comments
 
-1.  The secret to happiness is low expectations.
-2.  Lee Kuan Yew's success in Singapore is not only due to his authoritarianism, as most western scholars put out, but also due to the sheer pragmatism of Singapore's policy-making elite. They respect no ideology but the one that is suitable. If they need to have free markets, they will have free markets. If they need to regulate pricing, they will regulate it.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=24382427)
+1. The secret to happiness is low expectations.
+2. Lee Kuan Yew's success in Singapore is not only due to his authoritarianism, as most western scholars put out, but also due to the sheer pragmatism of Singapore's policy-making elite. They respect no ideology but the one that is suitable. If they need to have free markets, they will have free markets. If they need to regulate pricing, they will regulate it.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=24382427)
 
 ## Review
 
-- [The week of 2020(Issue-54)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-54.md)
-- [The week of 2019(Issue-6)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-6.md)
+- [The week of 2024(Issue-258)](../2024/issue-258.md)
+- [The week of 2023(Issue-206)](../2023/issue-206.md)
+- [The week of 2022(Issue-155)](../2022/issue-155.md)
+- [The week of 2021(Issue-103)](../2021/issue-103.md)
+- [The week of 2020(Issue-55)](../2020/issue-55.md)
+- [The week of 2019(Issue-7)](../2019/issue-7.md)
