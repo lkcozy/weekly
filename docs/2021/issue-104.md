@@ -89,10 +89,14 @@ More than 84 Blockchain Consensus were described.
 
 ## Comments
 
-1.  Decentralization is more difficult than centralization, and because decentralized options often remove the commercial incentive available to centralized options, no one's really pushing it. There’s not enough money available for someone to spend the time and energy needed to build truly great options, that remain true to the decentralized nature.
-    --[Sharing files without T&C](https://blog.cfelde.com/2021/08/sharing-files-without-terms-and-conditions/)
+1. Decentralization is more difficult than centralization, and because decentralized options often remove the commercial incentive available to centralized options, no one's really pushing it. There’s not enough money available for someone to spend the time and energy needed to build truly great options, that remain true to the decentralized nature.
+   --[Sharing files without T&C](https://blog.cfelde.com/2021/08/sharing-files-without-terms-and-conditions/)
 
 ## Review
 
-- [The week of 2020(Issue-55)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-55.md)
-- [The week of 2019(Issue-7)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-7.md)
+- [The week of 2024(Issue-259)](../2024/issue-259.md)
+- [The week of 2023(Issue-207)](../2023/issue-207.md)
+- [The week of 2022(Issue-156)](../2022/issue-156.md)
+- [The week of 2021(Issue-104)](../2021/issue-104.md)
+- [The week of 2020(Issue-56)](../2020/issue-56.md)
+- [The week of 2019(Issue-8)](../2019/issue-8.md)

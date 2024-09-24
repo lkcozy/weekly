@@ -103,7 +103,9 @@ Theory Y: Most individuals are intrinsically motivated and take pride in their w
 
 ## Review
 
-- [The week of 2022(Issue-155)](../2022/issue-155.md)
-- [The week of 2021(Issue-103)](../2021/issue-103.md)
-- [The week of 2020(Issue-55)](../2020/issue-55.md)
-- [The week of 2020(Issue-8)](../2019/issue-8.md)
+- [The week of 2024(Issue-259)](../2024/issue-259.md)
+- [The week of 2023(Issue-207)](../2023/issue-207.md)
+- [The week of 2022(Issue-156)](../2022/issue-156.md)
+- [The week of 2021(Issue-104)](../2021/issue-104.md)
+- [The week of 2020(Issue-56)](../2020/issue-56.md)
+- [The week of 2019(Issue-8)](../2019/issue-8.md)

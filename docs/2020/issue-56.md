@@ -132,4 +132,9 @@ Ultimately, if your goal is to be a founder, the bigger risk is not that you fai
 
 ## Review
 
-[The week of 2019(Issue-8)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-8.md)
+- [The week of 2024(Issue-259)](../2024/issue-259.md)
+- [The week of 2023(Issue-207)](../2023/issue-207.md)
+- [The week of 2022(Issue-156)](../2022/issue-156.md)
+- [The week of 2021(Issue-104)](../2021/issue-104.md)
+- [The week of 2020(Issue-56)](../2020/issue-56.md)
+- [The week of 2019(Issue-8)](../2019/issue-8.md)
