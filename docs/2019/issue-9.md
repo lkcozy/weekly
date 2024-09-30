@@ -83,3 +83,12 @@ For the most part, the closer an engineer is to the problem, the better the over
 Technology is just a means to an end. Unless IP is what you are selling, boring is great. I’ve seen SO many teams burn SO much energy on complicated stacks to drink kool-aid. It’s mind-bogglingly frustrating, especially as a contractor. But deep down, I want projects to succeed, and clean/sound systems architecture is how you do that. It doesn’t matter if it’s PHP, Python or Java.
 
 -- [Hacker News Reader](https://news.ycombinator.com/item?id=20990939)
+
+## Review
+
+- [The week of 2024(Issue-260)](../2024/issue-260.md)
+- [The week of 2023(Issue-208)](../2023/issue-208.md)
+- [The week of 2022(Issue-157)](../2022/issue-157.md)
+- [The week of 2021(Issue-105)](../2021/issue-105.md)
+- [The week of 2020(Issue-57)](../2020/issue-57.md)
+- [The week of 2019(Issue-9)](../2019/issue-9.md)

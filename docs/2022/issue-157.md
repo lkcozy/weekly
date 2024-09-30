@@ -111,6 +111,9 @@ Think Big, Work Small. There is a coherent, bigger-picture strategy. Work is don
 
 ## Review
 
-- [The week of 2021(Issue-106)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-106.md)
-- [The week of 2020(Issue-57)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-57.md)
-- [The week of 2019(Issue-9)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-9.md)
+- [The week of 2024(Issue-260)](../2024/issue-260.md)
+- [The week of 2023(Issue-208)](../2023/issue-208.md)
+- [The week of 2022(Issue-157)](../2022/issue-157.md)
+- [The week of 2021(Issue-105)](../2021/issue-105.md)
+- [The week of 2020(Issue-57)](../2020/issue-57.md)
+- [The week of 2019(Issue-9)](../2019/issue-9.md)
