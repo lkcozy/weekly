@@ -73,19 +73,24 @@ An open-source set of Emoji.
 
 ## Comments
 
-1.  My answer is generally 5-7 people for an experienced leader, but many factors affect the final number. Some of these factors include their leadership scope, other leadership roles, the experience level of the leader, the experience level of the team, and the level of organisational bureaucracy.
-    --[How Many People Can Someone Lead?](https://www.patkua.com/blog/how-many-people-can-someone-lead/#The_Short_Answer)
+1. My answer is generally 5-7 people for an experienced leader, but many factors affect the final number. Some of these factors include their leadership scope, other leadership roles, the experience level of the leader, the experience level of the team, and the level of organisational bureaucracy.
+   --[How Many People Can Someone Lead?](https://www.patkua.com/blog/how-many-people-can-someone-lead/#The_Short_Answer)
 
-2.  Developers are the most valuable resource when creating software but their time is undervalued and misused.
-    --[medium](https://itnext.io/developers-are-the-most-valuable-resource-when-creating-software-but-their-time-is-undervalued-and-85aab08d7af7)
+2. Developers are the most valuable resource when creating software but their time is undervalued and misused.
+   --[medium](https://itnext.io/developers-are-the-most-valuable-resource-when-creating-software-but-their-time-is-undervalued-and-85aab08d7af7)
 
-3.  How am I meant to do 60 hours' development when I only have 40 hours?
-    Working extra hours or weekends should only happen on go live situations. All the other deadlines on projects are artificial and only there because the plan has it.
-    --Ditto
-4.  There are at least two kinds of games. One could be called finite, the other infinite. A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play.
-    --[Infinite Entrepreneurship](https://www.indiehackers.com/post/infinite-entrepreneurship-da92f36f21)
+3. How am I meant to do 60 hours' development when I only have 40 hours?
+   Working extra hours or weekends should only happen on go live situations. All the other deadlines on projects are artificial and only there because the plan has it.
+   --Ditto
+
+4. There are at least two kinds of games. One could be called finite, the other infinite. A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play.
+   --[Infinite Entrepreneurship](https://www.indiehackers.com/post/infinite-entrepreneurship-da92f36f21)
 
 ## Review
 
-- [The week of 2020(Issue-57)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-57.md)
-- [The week of 2019(Issue-9)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-9.md)
+- [The week of 2024(Issue-261)](../2024/issue-261.md)
+- [The week of 2023(Issue-209)](../2023/issue-209.md)
+- [The week of 2022(Issue-158)](../2022/issue-158.md)
+- [The week of 2021(Issue-106)](../2021/issue-106.md)
+- [The week of 2020(Issue-58)](../2020/issue-58.md)
+- [The week of 2019(Issue-10)](../2019/issue-10.md)
