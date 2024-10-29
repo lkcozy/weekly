@@ -102,7 +102,9 @@ Start small, stay small as long as possible, and grow only to achieve your targe
 
 ## Review
 
-- [The week of 2022(Issue-158)](../2022/issue-158.md)
-- [The week of 2021(Issue-106)](../2021/issue-106.md)
-- [The week of 2020(Issue-58)](../2020/issue-58.md)
-- [The week of 2020(Issue-11)](../2019/issue-11.md)
+- [The week of 2024(Issue-262)](../2024/issue-262.md)
+- [The week of 2023(Issue-210)](../2023/issue-210.md)
+- [The week of 2022(Issue-159)](../2022/issue-159.md)
+- [The week of 2021(Issue-107)](../2021/issue-107.md)
+- [The week of 2020(Issue-59)](../2020/issue-59.md)
+- [The week of 2019(Issue-11)](../2019/issue-11.md)

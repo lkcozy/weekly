@@ -93,3 +93,12 @@ git-quick-stats is a simple and efficient way to access various statistics in a 
 
 3. Normally, the change of life circumstances is a slow process, which takes several generations to accumulate.
    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-81.md)
+
+## Review
+
+- [The week of 2024(Issue-262)](../2024/issue-262.md)
+- [The week of 2023(Issue-210)](../2023/issue-210.md)
+- [The week of 2022(Issue-159)](../2022/issue-159.md)
+- [The week of 2021(Issue-107)](../2021/issue-107.md)
+- [The week of 2020(Issue-59)](../2020/issue-59.md)
+- [The week of 2019(Issue-11)](../2019/issue-11.md)

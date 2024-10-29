@@ -90,16 +90,20 @@ A clear and straightforward explanation of how the blockchain work in 7 steps.
 
 ## Comments
 
-1.  The purpose of academic writing is to communicate. Your writing is a window into your thoughts, with a written thesis letting the thought show through.
-    --[University of Sunderland]()
+1. The purpose of academic writing is to communicate. Your writing is a window into your thoughts, with a written thesis letting the thought show through.
+   --[University of Sunderland]()
 
-2.  Try not to be confined to a single language or tool; pick whatever is best suited to solve your problem fast and effectively.
-    --[What tools to use for your next web-based project?](https://betterengineeringclub.substack.com/p/what-tools-to-use-for-your-next-web)
+2. Try not to be confined to a single language or tool; pick whatever is best suited to solve your problem fast and effectively.
+   --[What tools to use for your next web-based project?](https://betterengineeringclub.substack.com/p/what-tools-to-use-for-your-next-web)
 
-3.  A complex system that works is invariably evolved from a simple system that worked. The inverse proposition also appears true: a complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a simple system.
-    --[John Gall, systems theorist](https://www.ivanmontilla.com/blog/galls-law-and-how-i-ignored-it)
+3. A complex system that works is invariably evolved from a simple system that worked. The inverse proposition also appears true: a complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a simple system.
+   --[John Gall, systems theorist](https://www.ivanmontilla.com/blog/galls-law-and-how-i-ignored-it)
 
 ## Review
 
-- [The week of 2020(Issue-58)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-58.md)
-- [The week of 2019(Issue-10)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-10.md)
+- [The week of 2024(Issue-262)](../2024/issue-262.md)
+- [The week of 2023(Issue-210)](../2023/issue-210.md)
+- [The week of 2022(Issue-159)](../2022/issue-159.md)
+- [The week of 2021(Issue-107)](../2021/issue-107.md)
+- [The week of 2020(Issue-59)](../2020/issue-59.md)
+- [The week of 2019(Issue-11)](../2019/issue-11.md)

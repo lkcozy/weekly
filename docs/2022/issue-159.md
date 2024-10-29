@@ -126,6 +126,9 @@ Learn how to design systems at scale and prepare for system design interviews.
 
 ## Review
 
-- [The week of 2021(Issue-108)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-108.md)
-- [The week of 2020(Issue-59)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-59.md)
-- [The week of 2019(Issue-11)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-11.md)
+- [The week of 2024(Issue-262)](../2024/issue-262.md)
+- [The week of 2023(Issue-210)](../2023/issue-210.md)
+- [The week of 2022(Issue-159)](../2022/issue-159.md)
+- [The week of 2021(Issue-107)](../2021/issue-107.md)
+- [The week of 2020(Issue-59)](../2020/issue-59.md)
+- [The week of 2019(Issue-11)](../2019/issue-11.md)

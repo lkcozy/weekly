@@ -115,12 +115,17 @@ This project showcases the use of blockchain in the insurance domain for the cla
 
 ## Comments
 
-1.  If you want to be the best tennis player in the world, you may start out trying and soon find out that it's hopeless—that other people blow right by you. However, if you want to become the best plumbing contractor in Bemidji, that is probably doable by two-thirds of you. It takes a will. It takes intelligence. But after a while, you'd gradually know all about the plumbing business in Bemidji and master the art. That is an attainable objective, given enough discipline. And people who could never stand in center court in a respectable tennis tournament can rise relatively high in life by slowly developing a circle of competence—which results partly from what they were born with and partly from what they slowly develop through work.
-    --[Charles Munger](https://models.substack.com/p/circle-of-competence)
+1. If you want to be the best tennis player in the world, you may start out trying and soon find out that it's hopeless—that other people blow right by you. However, if you want to become the best plumbing contractor in Bemidji, that is probably doable by two-thirds of you. It takes a will. It takes intelligence. But after a while, you'd gradually know all about the plumbing business in Bemidji and master the art. That is an attainable objective, given enough discipline. And people who could never stand in center court in a respectable tennis tournament can rise relatively high in life by slowly developing a circle of competence—which results partly from what they were born with and partly from what they slowly develop through work.
+   --[Charles Munger](https://models.substack.com/p/circle-of-competence)
 
-2.  The "fast ability" depends more on talent or external conditions, so it is not easy for ordinary people to succeed. In contrast, the "slow ability" depends on acquired efforts and can be exchanged for time. Munger suggests that if you don't have talent, try to choose industries with "slow abilities" so that you have a chance to do well through daily accumulation.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-132.md)
+2. The "fast ability" depends more on talent or external conditions, so it is not easy for ordinary people to succeed. In contrast, the "slow ability" depends on acquired efforts and can be exchanged for time. Munger suggests that if you don't have talent, try to choose industries with "slow abilities" so that you have a chance to do well through daily accumulation.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-132.md)
 
 ## Review
 
-[The week of 2019(Issue-11)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-11.md)
+- [The week of 2024(Issue-262)](../2024/issue-262.md)
+- [The week of 2023(Issue-210)](../2023/issue-210.md)
+- [The week of 2022(Issue-159)](../2022/issue-159.md)
+- [The week of 2021(Issue-107)](../2021/issue-107.md)
+- [The week of 2020(Issue-59)](../2020/issue-59.md)
+- [The week of 2019(Issue-11)](../2019/issue-11.md)
