@@ -8,7 +8,7 @@
 
 A Singaporean described how to make the Singapore subway line map into a circuit board and make node glow.
 
-2.  [Open-Metro](https://github.com/open-meteo/open-meteo)
+2. [Open-Metro](https://github.com/open-meteo/open-meteo)
 
 ![](https://camo.githubusercontent.com/95c5446453d33ab46eeacb5a2edb4ba52d2928a72220ea5ef7cc4de8ed715816/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130392f6267323032313039313430332e6a7067)
 
@@ -112,5 +112,9 @@ If there was only one rule to wealth creation: you need more coming in than goin
 
 ## Review
 
-- [The week of 2020(Issue-59)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-59.md)
-- [The week of 2019(Issue-11)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-11.md)
+- [The week of 2024(Issue-263)](../2024/issue-263.md)
+- [The week of 2023(Issue-211)](../2023/issue-211.md)
+- [The week of 2022(Issue-160)](../2022/issue-160.md)
+- [The week of 2021(Issue-108)](../2021/issue-108.md)
+- [The week of 2020(Issue-60)](../2020/issue-60.md)
+- [The week of 2019(Issue-12)](../2019/issue-12.md)

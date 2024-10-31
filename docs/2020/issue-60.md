@@ -169,11 +169,16 @@ A few different coordinate systems in use in 3D modelling and simulation!
 
 ## Comments
 
-1.  When sending your resume, please describe a few of the hardest problems you solved & exactly how you solved them
+1. When sending your resume, please describe a few of the hardest problems you solved & exactly how you solved them
     --[Elon Musk talks about the resume he wants to see](https://twitter.com/elonmusk/status/1324736076800577537)
 
-2.  Programmers pursue open-source software, but open-source software depresses the price of the software. The low cost of software reduces programmers' value, which makes many programmers lose their jobs and reduces investors' investment in the software industry. because investors chase profitable places to invest. -[The commoditization of software](https://www.zdnet.com/article/the-commoditization-of-software/)
+2. Programmers pursue open-source software, but open-source software depresses the price of the software. The low cost of software reduces programmers' value, which makes many programmers lose their jobs and reduces investors' investment in the software industry. because investors chase profitable places to invest. -[The commoditization of software](https://www.zdnet.com/article/the-commoditization-of-software/)
 
 ## Review
 
-[The week of 2019(Issue-12)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-12.md)
+- [The week of 2024(Issue-263)](../2024/issue-263.md)
+- [The week of 2023(Issue-211)](../2023/issue-211.md)
+- [The week of 2022(Issue-160)](../2022/issue-160.md)
+- [The week of 2021(Issue-108)](../2021/issue-108.md)
+- [The week of 2020(Issue-60)](../2020/issue-60.md)
+- [The week of 2019(Issue-12)](../2019/issue-12.md)

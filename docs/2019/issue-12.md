@@ -105,3 +105,12 @@ Input/output
 - For an analytical query, only a small number of table columns need to be read. In a column-oriented database, you can read just the data you need. For example, if you need 5 columns out of 100, you can expect a 20-fold reduction in I/O.
 - Since data is read in packets, it is easier to compress. Data in columns is also easier to compress. This further reduces the I/O volume.
 - Due to the reduced I/O, more data fits in the system cache.
+
+## Review
+
+- [The week of 2024(Issue-263)](../2024/issue-263.md)
+- [The week of 2023(Issue-211)](../2023/issue-211.md)
+- [The week of 2022(Issue-160)](../2022/issue-160.md)
+- [The week of 2021(Issue-108)](../2021/issue-108.md)
+- [The week of 2020(Issue-60)](../2020/issue-60.md)
+- [The week of 2019(Issue-12)](../2019/issue-12.md)
