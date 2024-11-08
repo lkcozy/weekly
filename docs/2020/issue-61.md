@@ -124,18 +124,23 @@ Plug-and-play implementation of an Apache Spark custom data source for AWS Dynam
 
 ## Comments
 
-1.  Reading is like a journey. The purpose is not to look around. It's about getting into it and finally finding a better self.
-    --[Caojiang](https://sspai.com/post/62340)
+1. Reading is like a journey. The purpose is not to look around. It's about getting into it and finally finding a better self.
+   --[Caojiang](https://sspai.com/post/62340)
 
-2.  Video games are covering all the population and becoming a form of entertainment for all. Plus, it allows unlimited consumption without spending money, and can combine video, audio, plot, AR, VR, competition, sports, and social interaction. The future development space is unimaginable. Today, the game industry.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-134.md)
+2. Video games are covering all the population and becoming a form of entertainment for all. Plus, it allows unlimited consumption without spending money, and can combine video, audio, plot, AR, VR, competition, sports, and social interaction. The future development space is unimaginable. Today, the game industry.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-134.md)
 
-3.  Why many people become numb to the deaths of strangers? Because for most of us, the worst suffering of the pandemic goes unwitnessed.
-    --[BBC](https://www.bbc.com/future/article/20200930-can-empathy-be-bad-for-you)
+3. Why many people become numb to the deaths of strangers? Because for most of us, the worst suffering of the pandemic goes unwitnessed.
+   --[BBC](https://www.bbc.com/future/article/20200930-can-empathy-be-bad-for-you)
 
-4.  Tesla wanted to avoid having dealerships and sell cars mostly on the Internet. That requires a lenient return policy.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=24812391)
+4. Tesla wanted to avoid having dealerships and sell cars mostly on the Internet. That requires a lenient return policy.
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=24812391)
 
 ## Review
 
-[The week of 2019(Issue-13)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-13.md)
+- [The week of 2024(Issue-264)](../2024/issue-264.md)
+- [The week of 2023(Issue-212)](../2023/issue-212.md)
+- [The week of 2022(Issue-161)](../2022/issue-161.md)
+- [The week of 2021(Issue-109)](../2021/issue-109.md)
+- [The week of 2020(Issue-61)](../2020/issue-61.md)
+- [The week of 2019(Issue-13)](../2019/issue-13.md)

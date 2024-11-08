@@ -109,6 +109,9 @@ Don't assume people will understand or appreciate it without that marketing effo
 
 ## Review
 
-- [The week of 2021(Issue-110)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-110.md)
-- [The week of 2020(Issue-60)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-60.md)
-- [The week of 2019(Issue-13)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-13.md)
+- [The week of 2024(Issue-264)](../2024/issue-264.md)
+- [The week of 2023(Issue-212)](../2023/issue-212.md)
+- [The week of 2022(Issue-161)](../2022/issue-161.md)
+- [The week of 2021(Issue-109)](../2021/issue-109.md)
+- [The week of 2020(Issue-61)](../2020/issue-61.md)
+- [The week of 2019(Issue-13)](../2019/issue-13.md)
