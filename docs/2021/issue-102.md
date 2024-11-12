@@ -44,7 +44,7 @@ Low-code stands for a reduced amount of coding. No-code platforms require no kno
 
 ## Tool
 
-1.  [GitHub Web Editor](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor)
+1. [GitHub Web Editor](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor)
 
 The web-based editor introduces a new, lightweight editing experience that runs entirely in your browser. With the web editor, you can navigate files and source code repositories from GitHub and make and commit code changes. In addition, you can open any repository, fork, or pull request in the editor.
 

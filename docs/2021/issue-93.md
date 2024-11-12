@@ -125,13 +125,13 @@ A blog about using Docker Compose for a dev environment here, not using it in pr
 
 ## Comments
 
-1.  Some employees working part-time (but paid full-time salary), or even working on side hustle startups, while on a full-time salary
-    --[Why do executives want employees back to the office?](https://twitter.com/jowyang/status/1402383567498321922)
+1. Some employees working part-time (but paid full-time salary), or even working on side hustle startups, while on a full-time salary
+   --[Why do executives want employees back to the office?](https://twitter.com/jowyang/status/1402383567498321922)
 
-2.  Europe’s communication needs are currently almost exclusively delivered by Chinese hardware that connects us to US-based platforms.
-    --[Europe's Software Problem](https://berthub.eu/articles/posts/europes-software-problem/)
+2. Europe’s communication needs are currently almost exclusively delivered by Chinese hardware that connects us to US-based platforms.
+   --[Europe's Software Problem](https://berthub.eu/articles/posts/europes-software-problem/)
 
-3.  I live in Europe for the quality of life, come from a third-world country, and I see how kids and adults are spoiled here.
+3. I live in Europe for the quality of life, come from a third-world country, and I see how kids and adults are spoiled here.
 
 At least for the strong countries in west EU, lifestyle is very relaxed and any ambitious is frowned upon, it is extremely demotivating, not to mention bureaucracy. Corporations and regulations will just drive your small company out of the market no matter what.
 

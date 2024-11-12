@@ -107,10 +107,10 @@ Such opportunities also exist in betting markets such as PredictIt and Betfair.
 
 ## Comments
 
-1.  Save Like A Pessimist, Invest Like An Optimist
-    --[Morgan Housel](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)
+1. Save Like A Pessimist, Invest Like An Optimist
+   --[Morgan Housel](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)
 
-2.  Littlewood defines a miracle as an exceptional event of special significance occurring at a frequency of one in a million. He assumes that during the hours in which a human is awake and alert, a human will see or hear one "event" per second, which may be either exceptional or unexceptional. Additionally, Littlewood supposes that a human is alert for about eight hours per day.
+2. Littlewood defines a miracle as an exceptional event of special significance occurring at a frequency of one in a million. He assumes that during the hours in which a human is awake and alert, a human will see or hear one "event" per second, which may be either exceptional or unexceptional. Additionally, Littlewood supposes that a human is alert for about eight hours per day.
 
 As a result, a human will in 35 days have experienced under these suppositions about one million events. Accepting this definition of a miracle, one can expect to observe one miraculous event for every 35 days' time, on average – and therefore, according to this reasoning, seemingly miraculous events are actually commonplace.
 --[Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law)

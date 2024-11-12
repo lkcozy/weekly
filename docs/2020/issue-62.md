@@ -143,12 +143,17 @@ A debate guide in a collaborative approach.
 
 ## Comments
 
-1.  There are only two hard things in Computer Science: cache invalidation and naming things.
-    --[Phil Karlton](https://github.com/gruhn/awesome-naming)
+1. There are only two hard things in Computer Science: cache invalidation and naming things.
+   --[Phil Karlton](https://github.com/gruhn/awesome-naming)
 
-2.  Debates are viewed as a battle of the wits in which egos are put on display, and there can be only one "winner." Instead, an argument should be a collaboration between two people to find the truth."
-    --[Beginner's Guide to Arguing Constructively](https://www.liamrosen.com/arguments.html)
+2. Debates are viewed as a battle of the wits in which egos are put on display, and there can be only one "winner." Instead, an argument should be a collaboration between two people to find the truth."
+   --[Beginner's Guide to Arguing Constructively](https://www.liamrosen.com/arguments.html)
 
 ## Review
 
-[The week of 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)
+- [The week of 2024(Issue-265)](../2024/issue-265.md)
+- [The week of 2023(Issue-213)](../2023/issue-213.md)
+- [The week of 2022(Issue-162)](../2022/issue-162.md)
+- [The week of 2021(Issue-110)](../2021/issue-110.md)
+- [The week of 2020(Issue-62)](../2020/issue-62.md)
+- [The week of 2019(Issue-14)](../2019/issue-14.md)

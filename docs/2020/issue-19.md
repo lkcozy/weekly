@@ -59,7 +59,7 @@ Time series forecasting can broadly be categorized into the following categories
 
 ## Tool
 
-1.  [OpenVINOv](https://docs.openvinotoolkit.org/latest/index.html)
+1. [OpenVINOv](https://docs.openvinotoolkit.org/latest/index.html)
 
 ![](https://docs.openvinotoolkit.org/latest/OpenVINO-diagram.png)
 

@@ -51,7 +51,7 @@ The components are designed as loose-coupled modules, and each component could b
 
 ## Tool
 
-1.  [Algorand](https://www.algorand.com/)
+1. [Algorand](https://www.algorand.com/)
 
 ![](https://file.publish.vn/amberblocks/2021-10/algo-ecosystem-1635517917906.jpg)
 

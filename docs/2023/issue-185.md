@@ -66,10 +66,10 @@ DockerLabs provides over 500 interactive tutorials and guides for developers of 
 
 ## Comments
 
-1.  Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.
-    --[Steve Jobs](https://fs.blog/brain-food/april-23-2023/)
+1. Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.
+   --[Steve Jobs](https://fs.blog/brain-food/april-23-2023/)
 
-2.  One way to become luckier is to show up consistently.
+2. One way to become luckier is to show up consistently.
 
 When people trust that you’ll do what you say when you say it, not only will they want to work with you, but they’ll want you to be successful. You can’t build anything meaningful when you show up inconsistently.
 

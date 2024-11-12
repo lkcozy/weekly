@@ -84,13 +84,13 @@ The common business model of open-source software is `providing a free,open sour
 
 ## Comments
 
-1.  Great minds discuss ideas; average minds discuss events; small minds discuss people.
-    --[Eleanor Roosevelt](https://www.azquotes.com/author/12603-Eleanor_Roosevelt)
-2.  For our own success to be real, it must contribute to the success of others.
-    --Ditto
+1. Great minds discuss ideas; average minds discuss events; small minds discuss people.
+   --[Eleanor Roosevelt](https://www.azquotes.com/author/12603-Eleanor_Roosevelt)
+2. For our own success to be real, it must contribute to the success of others.
+   --Ditto
 
-3.  You don't sharpen your skills with resources, books, or articles. You sharpen your skills with practice. If you want to get better, go do the thing.
-    --[Jason Fried](https://twitter.com/jasonfried/status/1338626702264582146)
+3. You don't sharpen your skills with resources, books, or articles. You sharpen your skills with practice. If you want to get better, go do the thing.
+   --[Jason Fried](https://twitter.com/jasonfried/status/1338626702264582146)
 
 ## Review
 

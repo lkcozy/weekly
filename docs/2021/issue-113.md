@@ -93,12 +93,12 @@ In this article, we looked at the basic building blocks of a Solidity contract a
 
 ## Comments
 
-1.  If an email is sent from me with explicit directions, there are only three actions allowed by managers.
-    Email me back to explain why what I said was incorrect. Sometimes, I'm just plain wrong!
-    Request further clarification if what I said was ambiguous.
-    Execute the directions.
-    If none of the above are done, that manager will be asked to resign immediately.
-    --[Elon Musk](https://www.cnbc.com/2021/11/19/elon-musk-emails-at-tesla-in-october-2021-music-direct-orders.html)
+1. If an email is sent from me with explicit directions, there are only three actions allowed by managers.
+   Email me back to explain why what I said was incorrect. Sometimes, I'm just plain wrong!
+   Request further clarification if what I said was ambiguous.
+   Execute the directions.
+   If none of the above are done, that manager will be asked to resign immediately.
+   --[Elon Musk](https://www.cnbc.com/2021/11/19/elon-musk-emails-at-tesla-in-october-2021-music-direct-orders.html)
 
 ## Review
 

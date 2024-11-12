@@ -75,11 +75,11 @@ The most dangerous traps now are new behaviors that bypass our alarms about self
 
 ## Comments
 
-1.  Pick the fastest-growing company you can find. When you're young, care more about building human quickly and not so much about financial capital. Go where other intelligent people are.
-    --[Miscellaneous unsolicited (and possibly biased) career advice](https://erikbern.com/2019/09/26/misc-unsolicited-career-advice.html)
+1. Pick the fastest-growing company you can find. When you're young, care more about building human quickly and not so much about financial capital. Go where other intelligent people are.
+   --[Miscellaneous unsolicited (and possibly biased) career advice](https://erikbern.com/2019/09/26/misc-unsolicited-career-advice.html)
 
-2.  The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.
-    --[How to Lose Time and Money](http://paulgraham.com/selfindulgence.html)
+2. The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.
+   --[How to Lose Time and Money](http://paulgraham.com/selfindulgence.html)
 
-3.  The most dangerous traps now are new behaviours that bypass our alarms about self-indulgence by mimicking more virtuous types. And the worst thing is, they're not even funny.
-    --Ditto
+3. The most dangerous traps now are new behaviours that bypass our alarms about self-indulgence by mimicking more virtuous types. And the worst thing is, they're not even funny.
+   --Ditto

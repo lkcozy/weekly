@@ -93,11 +93,11 @@ Ridiculously Uncomplicated macOS Python Statusbar apps.
 
 ## Comments
 
-1.  The situations of Asian countries and the United States differ substantially in the details, but both face the same core problem: how to offer many people as possible a decent job with a family wage.
-    --[Crises of Elite Competition in the East and West](https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/)
+1. The situations of Asian countries and the United States differ substantially in the details, but both face the same core problem: how to offer many people as possible a decent job with a family wage.
+   --[Crises of Elite Competition in the East and West](https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/)
 
-2.  Any kind of important book should immediately be read twice, partly because one grasps the matter in its entirely the second time, and only really understands the beginning when the end is known; and partly because in reading it the second time one's temper and mood are different, so that one gets another impression; it may be that one see the matter in another light.
-    --[Arthur Schopenhauer: On Reading and Books](https://fs.blog/schopenhauer-on-reading/)
+2. Any kind of important book should immediately be read twice, partly because one grasps the matter in its entirely the second time, and only really understands the beginning when the end is known; and partly because in reading it the second time one's temper and mood are different, so that one gets another impression; it may be that one see the matter in another light.
+   --[Arthur Schopenhauer: On Reading and Books](https://fs.blog/schopenhauer-on-reading/)
 
 ## Review
 

@@ -116,7 +116,7 @@ This tutorial introduces six fundamental building blocks of architecting games i
 
 ## Comments
 
-1.  If you want to start a company someday, consider starting it earlier than you think. The odds are you won't hit it big the first time, but the potential upside is enormous, and the base case—improving your skills, network, and reputation—likely creates more optionality than working for a big company, making the decision worth it from a long-term career perspective.
+1. If you want to start a company someday, consider starting it earlier than you think. The odds are you won't hit it big the first time, but the potential upside is enormous, and the base case—improving your skills, network, and reputation—likely creates more optionality than working for a big company, making the decision worth it from a long-term career perspective.
 
 Ultimately, if your goal is to be a founder, the bigger risk is not that you fail right away. It's that, if you don't start enough companies, you don't get enough actual shots on goal to actually create a big company.
 --[Starting a Company is Less Risky Than You Think](https://eriktorenberg.substack.com/p/starting-a-company-is-less-risky)

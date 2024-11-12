@@ -88,11 +88,11 @@ Tutorial on getting started with Blockchain on IBM Bluemix
 
 ## Comments
 
-1.  Some come at life as a series of transactions. Some come at life as about building relationships. You can have a successful life doing transactions, but the only way to have a great life is on the relationship side.
-    --[Jim Collins: Relationships vs. Transactions](https://fs.blog/knowledge-podcast/jim-collins-2/)
+1. Some come at life as a series of transactions. Some come at life as about building relationships. You can have a successful life doing transactions, but the only way to have a great life is on the relationship side.
+   --[Jim Collins: Relationships vs. Transactions](https://fs.blog/knowledge-podcast/jim-collins-2/)
 
-2.  A powerful trick is writing something people intuitively know but haven't yet put into words. It works because readers learn something new without having to expend much energy questioning whether it's true.
-    --[A Few Thoughts On Writing](https://www.collaborativefund.com/blog/writing/)
+2. A powerful trick is writing something people intuitively know but haven't yet put into words. It works because readers learn something new without having to expend much energy questioning whether it's true.
+   --[A Few Thoughts On Writing](https://www.collaborativefund.com/blog/writing/)
 
 ## Review
 

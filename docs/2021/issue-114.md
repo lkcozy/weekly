@@ -106,20 +106,20 @@ The path isn't a straight line; It's a spiral. You continually come back to thin
 
 ## Comments
 
-1.  More people determine the fates of others without having to pay the consequences. Skin in the game means you own your own risk. It means people who make decisions in any walk of life should never be insulated from the consequences of those decisions, period. If you're a helicopter repairman, you should be a helicopter rider.
-    —-[Never Borrowed a Cent](https://click.convertkit-mail4.com/o8ulogovw3iqh0l502av/qvh8h7h8oegxm5tl/aHR0cHM6Ly93d3cuZXNxdWlyZS5jb20vbGlmZXN0eWxlL21vbmV5L2ExOTE4MTMwMC9uYXNzaW0tbmljaG9sYXMtdGFsZWItbW9uZXktYWR2aWNlLw==)
+1. More people determine the fates of others without having to pay the consequences. Skin in the game means you own your own risk. It means people who make decisions in any walk of life should never be insulated from the consequences of those decisions, period. If you're a helicopter repairman, you should be a helicopter rider.
+   —-[Never Borrowed a Cent](https://click.convertkit-mail4.com/o8ulogovw3iqh0l502av/qvh8h7h8oegxm5tl/aHR0cHM6Ly93d3cuZXNxdWlyZS5jb20vbGlmZXN0eWxlL21vbmV5L2ExOTE4MTMwMC9uYXNzaW0tbmljaG9sYXMtdGFsZWItbW9uZXktYWR2aWNlLw==)
 
-2.  What I've learned in business and in life is you've got to be a competitive compromiser. And that requires kindness, empathy, ingenuity but the same level of aggressive, competitive spirit.
-    --[Paul Rabil: Confidence and Competition](https://fs.blog/knowledge-podcast/paul-rabil/)
+2. What I've learned in business and in life is you've got to be a competitive compromiser. And that requires kindness, empathy, ingenuity but the same level of aggressive, competitive spirit.
+   --[Paul Rabil: Confidence and Competition](https://fs.blog/knowledge-podcast/paul-rabil/)
 
-3.  Knowledge sticks in our memories easier if it attaches to something we understand.
-    --[Farnam Street](https://fs.blog/remember-books/)
+3. Knowledge sticks in our memories easier if it attaches to something we understand.
+   --[Farnam Street](https://fs.blog/remember-books/)
 
-4.  "Man, every minute this thing gets done sooner, we can start generating cash." We do not have that mentality in the West.
-    --[Willy Shih](https://www.theverge.com/2021/8/31/22648372/willy-shih-chip-shortage-tsmc-samsung-ps5-decoder-interview)
+4. "Man, every minute this thing gets done sooner, we can start generating cash." We do not have that mentality in the West.
+   --[Willy Shih](https://www.theverge.com/2021/8/31/22648372/willy-shih-chip-shortage-tsmc-samsung-ps5-decoder-interview)
 
-5.  Serial-position effect is the tendency of a person to recall the first and last items in a series best, and the middle items worst.
-    --[Wikipedia](https://en.wikipedia.org/wiki/Serial-position_effect)
+5. Serial-position effect is the tendency of a person to recall the first and last items in a series best, and the middle items worst.
+   --[Wikipedia](https://en.wikipedia.org/wiki/Serial-position_effect)
 
 ## Review
 

@@ -30,7 +30,7 @@ An AI system is helping aircraft avoid bad weather, restricted airspace, and clo
 
 **Results**: The system shaves off an average of 5.3 minutes from 63 percent of flights. That saved an estimated 480,000 gallons of fuel, reducing the airline’s carbon dioxide emissions by 4,600 tons.
 
-2.  [Emulate text style in images in one shot](https://ai.facebook.com/blog/ai-can-now-emulate-text-style-in-images-in-one-shot-using-just-a-single-word/)
+2. [Emulate text style in images in one shot](https://ai.facebook.com/blog/ai-can-now-emulate-text-style-in-images-in-one-shot-using-just-a-single-word/)
 
 ![](https://scontent.fyyc2-1.fna.fbcdn.net/v/t39.2365-6/196363799_197223952277885_6519656961885957234_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=vhGHXXFUfeIAX9desJ8&_nc_ht=scontent.fyyc2-1.fna&oh=f42a2eaf782e0a3a96cd3e9bb62568f6&oe=60F7A784)
 

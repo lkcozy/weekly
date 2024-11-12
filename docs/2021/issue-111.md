@@ -139,17 +139,17 @@ Often, the answer will be right in some ways and wrong in others, but even so, i
 
 ## Comments
 
-1.  Web3 combines the decentralized, community-governed ethos of Web1 with the advanced, modern functionality of Web2. Web3 is the internet owned by the builders and users, orchestrated with tokens.
-    --[Why Web3 Matters](https://future.a16z.com/why-web3-matters/)
+1. Web3 combines the decentralized, community-governed ethos of Web1 with the advanced, modern functionality of Web2. Web3 is the internet owned by the builders and users, orchestrated with tokens.
+   --[Why Web3 Matters](https://future.a16z.com/why-web3-matters/)
 
-2.  NFT projects are just MLMs(Multi-Level Marketing) for tech elites, 1% of salespeople take 50% of the money. Over 80% of salespeople have nobody below them and thus lose money.
-    --[Evan Armstrong](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
+2. NFT projects are just MLMs(Multi-Level Marketing) for tech elites, 1% of salespeople take 50% of the money. Over 80% of salespeople have nobody below them and thus lose money.
+   --[Evan Armstrong](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
 
-3.  Learning X will make you a better programmer. But overwhelmingly, the thing that made me better at programming was doing lots of programming, and especially working on problems that pushed the limits of my abilities.
-    --[Things unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
+3. Learning X will make you a better programmer. But overwhelmingly, the thing that made me better at programming was doing lots of programming, and especially working on problems that pushed the limits of my abilities.
+   --[Things unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
 
-4.  Jevons paradox is the observation that fuel efficiency gains tend to increase, not decrease, fuel use.
-    --[Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+4. Jevons paradox is the observation that fuel efficiency gains tend to increase, not decrease, fuel use.
+   --[Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
 
 ## Review
 

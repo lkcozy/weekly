@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 101,2021-11-05
+# GISer's Weekly Issue 110,2021-11-05
 
 ## GeoSpatial
 
@@ -87,15 +87,19 @@ The top 3 things we can learn:
 ## Comments
 
 1. Being self-sufficient is not necessarily about being able to build the most whiz-bang application entirely by yourself - collaboration is still crucial for complex systems - but about having enough tools to progress, understand and unblock yourself as needed.
-    --[Full Stack or Self-Sufficient?](https://tomgamon.com/posts/self-sufficiency/?newsletter)
+   --[Full Stack or Self-Sufficient?](https://tomgamon.com/posts/self-sufficiency/?newsletter)
 
 2. Management isn't a promotion up the ladder; it's a separate, specific role that relates to individual contributors.
-    --[Leadership isn't confined to managers; it's also crucial on the technical track.](https://leaddev.com/career-paths-progression-promotion/management-isnt-promotion)
+   --[Leadership isn't confined to managers; it's also crucial on the technical track.](https://leaddev.com/career-paths-progression-promotion/management-isnt-promotion)
 
 3. It is well-known in user research that if you ask a user if they want a new feature, that they will often scream, "YES". Why wouldn't someone want more features after all? Although they may not actually use it.
-    --[When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
+   --[When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
 
 ## Review
 
-- [The week of 2020(Issue-61)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-61.md)
-- [The week of 2019(Issue-13)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-13.md)
+- [The week of 2024(Issue-265)](../2024/issue-265.md)
+- [The week of 2023(Issue-213)](../2023/issue-213.md)
+- [The week of 2022(Issue-162)](../2022/issue-162.md)
+- [The week of 2021(Issue-110)](../2021/issue-110.md)
+- [The week of 2020(Issue-62)](../2020/issue-62.md)
+- [The week of 2019(Issue-14)](../2019/issue-14.md)

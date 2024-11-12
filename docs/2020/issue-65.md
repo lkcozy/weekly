@@ -153,13 +153,13 @@ This site offers free copyright background music from YouTube and can be used fo
 
 ## Comments
 
-1.  Work is central to the Human Experience. It provides income, identity and meaning. The trauma of a job loss is second only that to the death of a loved one.
-    --[The Future of Work](https://rishad.substack.com/p/the-future-of-work)
+1. Work is central to the Human Experience. It provides income, identity and meaning. The trauma of a job loss is second only that to the death of a loved one.
+   --[The Future of Work](https://rishad.substack.com/p/the-future-of-work)
 
-2.  It's dangerous to make your job your life's priority right now because the risk of losing your job is increasing. Times have changed, and there are fewer and fewer stable jobs. Unemployment will be commonplace, and life can no longer depend on a specific job. Therefore, we should assume that we will change jobs many times, work for many companies, do many things, and there is maybe an unemployment period in the middle.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-138.md)
+2. It's dangerous to make your job your life's priority right now because the risk of losing your job is increasing. Times have changed, and there are fewer and fewer stable jobs. Unemployment will be commonplace, and life can no longer depend on a specific job. Therefore, we should assume that we will change jobs many times, work for many companies, do many things, and there is maybe an unemployment period in the middle.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-138.md)
 
-3.  Life is a journey, and different jobs or companies are just the villages we stayed in along the way. They are not the central axis of life. Please don't mistake it for a place where you can settle down. Most people don't have this kind of luck. Instead of focusing on finding a good job/company, focus on achieving the following three goals:
+3. Life is a journey, and different jobs or companies are just the villages we stayed in along the way. They are not the central axis of life. Please don't mistake it for a place where you can settle down. Most people don't have this kind of luck. Instead of focusing on finding a good job/company, focus on achieving the following three goals:
 
 - Purposes: What do you want to accomplish in life?
 - Growth: How to ensure that your skills continue to grow?

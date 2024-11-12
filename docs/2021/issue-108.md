@@ -99,10 +99,10 @@ A Three.js-based webpage 3D home model.
 
 ## Comments
 
-1.  Cross-platform UI technologies prioritize coordinated featurefulness over polished UX
-    --[The Persistent Gravity of Cross Platform](https://allenpike.com/2021/gravity-of-cross-platform-apps)
+1. Cross-platform UI technologies prioritize coordinated featurefulness over polished UX
+   --[The Persistent Gravity of Cross Platform](https://allenpike.com/2021/gravity-of-cross-platform-apps)
 
-2.  Earn More. Spend less. But the two concepts work against each other and require different soft skills.
+2. Earn More. Spend less. But the two concepts work against each other and require different soft skills.
 
 To increase your earning potential, you need to free your time for activities that make more money- this often requires spending money (e.g. eating out to save time, paying to have your shirts pressed, etc). Reducing your expenses requires the elimination of excess, or being conservative with your existing resources... this also has a cost. It's a mindset that will keep you from making more money.
 

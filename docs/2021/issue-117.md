@@ -88,8 +88,8 @@ Not only is it possible to connect to AWS Lambda via WebSockets using MQTT or AW
 
 ## Comments
 
-1.  A principle to live by, for both design and code: What’s the simplest way to do this, which is also the simplest way to use this for the end user. Seems common sense but we overcomplicated by default.
-    --[fabrizio rinaldi](https://twitter.com/linuz90/status/1473640958168293388)
+1. A principle to live by, for both design and code: What’s the simplest way to do this, which is also the simplest way to use this for the end user. Seems common sense but we overcomplicated by default.
+   --[fabrizio rinaldi](https://twitter.com/linuz90/status/1473640958168293388)
 
 ## Review
 

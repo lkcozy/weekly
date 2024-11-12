@@ -74,7 +74,7 @@ A simple service to get cute dogs as placeholders for your websites and designs.
 
 ## Resources
 
-1.  [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet](https://blog.devgenius.io/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheat-7ad14bbb0a9b)
+1. [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet](https://blog.devgenius.io/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheat-7ad14bbb0a9b)
 
 ![](https://imgur.com/a/HzPp8s0)
 

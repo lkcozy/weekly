@@ -128,15 +128,15 @@ Neural networks are robust deep learning models capable of synthesizing large am
 
 ## Comments
 
-1.  I used to believe in the notion that front-line programmers could freely choose software tools and then "bottom-up" drive adoption across the enterprise. However, this idea is unrealistic. `Front-line programmers can't influence technology selection and purchasing decisions, and decision makers are afraid of taking responsibility for bad decisions.` You will take full responsibility for choosing an unknown software that doesn't support the business well, or the software itself has defects.
-    --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-137.md)
+1. I used to believe in the notion that front-line programmers could freely choose software tools and then "bottom-up" drive adoption across the enterprise. However, this idea is unrealistic. `Front-line programmers can't influence technology selection and purchasing decisions, and decision makers are afraid of taking responsibility for bad decisions.` You will take full responsibility for choosing an unknown software that doesn't support the business well, or the software itself has defects.
+   --[ruanyf](https://github.com/ruanyf/weekly/blob/master/docs/issue-137.md)
 
-2.  You can get some guarantee by choosing technologies backed by a large company. Those technologies may not be advanced, imperfect, or even boring. But it's guaranteed to be actively maintained and developed with a large ecosystem and community, as well as been tested in a large business environment. Enterprises like such technology, which can reduce the risk of technology selection. In case of an accident, it's not the decision-makers' responsibility.
-    --[Ditto](https://github.com/ruanyf/weekly/blob/master/docs/issue-137.md)
+2. You can get some guarantee by choosing technologies backed by a large company. Those technologies may not be advanced, imperfect, or even boring. But it's guaranteed to be actively maintained and developed with a large ecosystem and community, as well as been tested in a large business environment. Enterprises like such technology, which can reduce the risk of technology selection. In case of an accident, it's not the decision-makers' responsibility.
+   --[Ditto](https://github.com/ruanyf/weekly/blob/master/docs/issue-137.md)
 
-3.  Nobody ever got fired for choosing Java.
+3. Nobody ever got fired for choosing Java.
 
-4.  You should find a good boss who can teach you how to be a human being, do things right, and do things properly.
+4. You should find a good boss who can teach you how to be a human being, do things right, and do things properly.
 
 ## Review
 

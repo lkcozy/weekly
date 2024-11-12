@@ -117,9 +117,9 @@ CMD [ "npm", "start" ]
 >   that is recommended by Scout and use that in the FROM line.
 >   This stage should do then do three things.
 >
-> 1.  it copies the node_modules directory from the deps stage.
-> 2.  it copies the dist directory from the build stage.
-> 3.  it then runs npm start
+> 1. it copies the node_modules directory from the deps stage.
+> 2. it copies the dist directory from the build stage.
+> 3. it then runs npm start
 
 > If you need to use a RUN statement containing npm ci always
 > add the argument --mount=type=cache,target=/root/.npm to the RUN instruction.
