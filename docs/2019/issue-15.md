@@ -112,3 +112,12 @@ The concept could be formalized into the equation `L = D * T,` where `L` is luck
 
 2. With all due respect: we are completely clueless about how long things should take.
    --[Dear Startup: You have no idea how much that costs.](https://kyleprifogle.com/dear-startup/)
+
+## Review
+
+- [The week of 2024(Issue-266)](../2024/issue-266.md)
+- [The week of 2023(Issue-214)](../2023/issue-214.md)
+- [The week of 2022(Issue-163)](../2022/issue-163.md)
+- [The week of 2021(Issue-111)](../2021/issue-111.md)
+- [The week of 2020(Issue-63)](../2020/issue-63.md)
+- [The week of 2019(Issue-15)](../2019/issue-15.md)

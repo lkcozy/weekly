@@ -153,5 +153,9 @@ Often, the answer will be right in some ways and wrong in others, but even so, i
 
 ## Review
 
-- [The week of 2020(Issue-62)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-62.md)
-- [The week of 2019(Issue-14)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-14.md)
+- [The week of 2024(Issue-266)](../2024/issue-266.md)
+- [The week of 2023(Issue-214)](../2023/issue-214.md)
+- [The week of 2022(Issue-163)](../2022/issue-163.md)
+- [The week of 2021(Issue-111)](../2021/issue-111.md)
+- [The week of 2020(Issue-63)](../2020/issue-63.md)
+- [The week of 2019(Issue-15)](../2019/issue-15.md)

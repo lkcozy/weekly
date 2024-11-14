@@ -123,6 +123,21 @@ The author discovers the effectiveness of keeping a work journal to combat these
 
 The author emphasizes that this practice has significantly improved their productivity and focus over the past 3-4 months.
 
+3. [Tech Org Defaults](https://avivby.medium.com/tech-org-defaults-d84f50c04622)
+
+Aviv Ben-Yosef is spot on, having guidelines and defaults for team structure and report lines is extremely useful as you scale the company: It reduces tension when a decision needs to be made, and it improves the Design Review you can pull around Org Design when an opportunity introduces itself.
+
+Leading an engineering team involves difficult decisions about team structure and personnel, and having default guidelines can help leaders make informed choices without overthinking.
+
+- Prefer full-stack engineers over specialized roles to allow for flexibility and task shifting in small teams.
+- Avoid hiring specialists who might take responsibilities away from others and harm team quality.
+- Opt for cross-functional end-to-end teams over dedicated frontend and backend teams to ensure faster progress and fewer imbalances.
+- Avoid useless abstractions that add unnecessary overhead and limit ownership and agency among team members.
+- Build teams with enough critical mass (around four people) to warrant their existence, instead of having nano-teams with little gain.
+- Aim for a core engineering team of around six people initially to iterate quickly and expand the organization wisely.
+- Only create new teams with a clear business reason to exist, to avoid teams that are disconnected from business value.
+- Start with a consistent work medium for all team members to simplify hiring, onboarding, culture, and management.
+
 ## Comments
 
 1. The hard part isn’t knowing what to do; it’s doing it daily, whether you feel like it or not.

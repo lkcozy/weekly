@@ -8,6 +8,28 @@
 
 Seismic Explorer is an earthquake map that identifies earthquakes greater than 5.2 magnitude since 1980 (more than 100,000 in total), allows you to clearly see the earthquake zone, and also allows you to see the earthquakes that have occurred in a certain area
 
+## AI/ML
+
+1. [AI Hear](https://hear.thucydides.net/)
+
+![](https://hear.thucydides.net/_astro/homepage001.BtBpL6Ez_1FnqC7.webp)
+
+A private, locally-run software. One-click real-time translation in multiple languages, managing audio, translations, and timelines—even offline in classrooms, subways, malls, or outdoors. No data collection, privacy protected.
+
+2. [CR-Mentor](https://github.com/Gijela/CR-Mentor)
+
+![](https://camo.githubusercontent.com/99a7c411d44c5b1fbcd60f685bb9f269a49060747b97570e14d2d69e03c110d5/68747470733a2f2f6f766c7878626477696d6869676f656a786b716e2e73757061626173652e636f2f73746f726167652f76312f6f626a6563742f7075626c69632f746573742d6275636b65742d6170692f446966795f44534c2f656e2d686f6d65506167652e706e67)
+
+As a Code Review mentor, it not only provides code review for all programming languages, but also customizes review standards and focus areas based on best practices accumulated in the knowledge base.
+
+Through continuous accumulation of knowledge base and deep learning of LLM, CR-Mentor can effectively improve team code quality, significantly reducing review time and error rates by about 50%
+
+3. [5ire](https://5ire.app/)
+
+![](https://5ire.app/hero.png)
+
+A Cross-platform LLMs Desktop Client, supports OpenAI, Azure OpenAI, Anthropic, Google, Baidu, Moonshot, Doubao, Grok, DeepSeek and Ollama.
+
 ## Tool
 
 1. [Kill the Newsletter!](https://kill-the-newsletter.com/)

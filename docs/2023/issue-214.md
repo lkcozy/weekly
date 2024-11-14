@@ -83,7 +83,9 @@ Changing your trajectory is a choice.
 
 ## Review
 
-- [The week of 2022(Issue-162)](../2022/issue-162.md)
-- [The week of 2021(Issue-110)](../2021/issue-110.md)
-- [The week of 2020(Issue-62)](../2020/issue-62.md)
-- [The week of 2020(Issue-15)](../2019/issue-15.md)
+- [The week of 2024(Issue-266)](../2024/issue-266.md)
+- [The week of 2023(Issue-214)](../2023/issue-214.md)
+- [The week of 2022(Issue-163)](../2022/issue-163.md)
+- [The week of 2021(Issue-111)](../2021/issue-111.md)
+- [The week of 2020(Issue-63)](../2020/issue-63.md)
+- [The week of 2019(Issue-15)](../2019/issue-15.md)
