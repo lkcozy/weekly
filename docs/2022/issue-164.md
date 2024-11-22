@@ -87,6 +87,9 @@ Over time, different API styles are released. Each of them has its patterns of s
 
 ## Review
 
-- [The week of 2021(Issue-113)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-113.md)
-- [The week of 2020(Issue-63)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-63.md)
-- [The week of 2019(Issue-6)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-6.md)
+- [The week of 2024(Issue-267)](../2024/issue-267.md)
+- [The week of 2023(Issue-215)](../2023/issue-215.md)
+- [The week of 2022(Issue-164)](../2022/issue-164.md)
+- [The week of 2021(Issue-112)](../2021/issue-112.md)
+- [The week of 2020(Issue-64)](../2020/issue-64.md)
+- [The week of 2019(Issue-16)](../2019/issue-16.md)
