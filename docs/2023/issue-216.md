@@ -52,25 +52,22 @@ Boring tasks, unrealistic deadlines, last-minute priority changes, and insuffici
 
 1. The person who aligns themselves with the general principles of the world goes further and faster than the person who doesn’t.
    --[Alignment: The Key to Success Nobody Ever Taught You](https://fs.blog/alignment/)
-
 2. If someone looked at how you spent your time over the last year, would what they see as your priorities match what you see as your priorities?
    --[Brain Food](https://fs.blog/brain-food/november-19-2023/)
-
 3. Ninety percent of success can be boiled down to consistently doing the obvious thing for an uncommonly long period of time without convincing yourself that you’re smarter than you are.
    --[Brain Food](https://fs.blog/brain-food/november-19-2023/)
-
 4. The manager is still asking the team to do things. Having to ask a team to do something is often a sign of a bug in the organization. An organizational smell. What’s stopping the team self-organizing to the most important work? What information were the team missing to help them spot that X&Y were more important? What skills or perspectives are they missing to be able to make the best choices?
    --[Supporting Sustainability](https://benjiweber.co.uk/blog/2022/01/30/supporting-sustainability/)
-
 5. Set deadlines for when and how a decision will be made in advance. This might look like: “I will leave this RFC open for comments until X date; if nobody has objected to the proposed solution by then, I will begin implementing it.
    --[How to Put the Plus in ‘Staff+’ Engineer](https://github.com/readme/guides/staff-engineers)
-
 6. 10x engineers blah blah blah who cares. The engineers that impress me the most are the ones that fearlessly dive into code, domains they know absolutely nothing about and end up producing amazing work in a short amount of time anyways. Truly awe-inspiring every time I see it.
    --[X User](https://twitter.com/mitchellh/status/1727735093001916492)
 
 ## Review
 
-- [The week of 2022(Issue-164)](../2022/issue-164.md)
-- [The week of 2021(Issue-112)](../2021/issue-112.md)
-- [The week of 2020(Issue-64)](../2020/issue-64.md)
-- [The week of 2020(Issue-17)](../2019/issue-17.md)
+- [The week of 2024(Issue-268)](../2024/issue-268.md)
+- [The week of 2023(Issue-216)](../2023/issue-216.md)
+- [The week of 2022(Issue-165)](../2022/issue-165.md)
+- [The week of 2021(Issue-113)](../2021/issue-113.md)
+- [The week of 2020(Issue-65)](../2020/issue-65.md)
+- [The week of 2019(Issue-17)](../2019/issue-17.md)

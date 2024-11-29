@@ -5,9 +5,6 @@
 1. [The Gray-Green Urban Divide: How Wealth and Poverty are Visible from Space](https://www.geographyrealm.com/gray-green-urban-divide-wealth-poverty-visible-space/)
 
 ![](https://cdn.shortpixel.ai/client2/q_lossy,ret_img,w_700/https://www.geographyrealm.com/wp-content/uploads/2016/08/Dar-es-Salaam-Tanzania.jpg)
-## AI/ML
-
-
 
 ## Research
 
@@ -82,3 +79,12 @@ The author showed how to automate table prebuilding and to scale down of write c
 
 2. Cobra effect (a.k.a, perverse incentive) is an incentive that has an unintended and undesirable result contrary to its designers' intentions. The term cobra effect came from British colonial India. The government offered a bounty for every dead cobra. Initially, this was a successful strategy; large numbers of cobras were killed for the reward. Eventually, however, enterprising people began to breed cobras for income. The government finally scrapped the program. When breeders set their snakes free, the wild cobra population further increased.
    --[Wikipedia](https://en.wikipedia.org/wiki/Perverse_incentive#Cobra_effect)
+
+## Review
+
+- [The week of 2024(Issue-268)](../2024/issue-268.md)
+- [The week of 2023(Issue-216)](../2023/issue-216.md)
+- [The week of 2022(Issue-165)](../2022/issue-165.md)
+- [The week of 2021(Issue-113)](../2021/issue-113.md)
+- [The week of 2020(Issue-65)](../2020/issue-65.md)
+- [The week of 2019(Issue-17)](../2019/issue-17.md)
