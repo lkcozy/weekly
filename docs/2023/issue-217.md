@@ -104,5 +104,5 @@ Role of managers: Managers need to create clarity for each employee on the optim
 - [The week of 2023(Issue-217)](../2023/issue-217.md)
 - [The week of 2022(Issue-166)](../2022/issue-166.md)
 - [The week of 2021(Issue-114)](../2021/issue-114.md)
-- [The week of 2020(Issue-66)](../2020/issue-66.md)
-- [The week of 2019(Issue-18)](../2019/issue-18.md)
+- [The week of 2020(Issue-63)](../2020/issue-63.md)
+- [The week of 2019(Issue-15)](../2019/issue-15.md)

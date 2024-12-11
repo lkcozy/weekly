@@ -147,13 +147,11 @@ As a product manager, the author challenges common beliefs such as the role of p
 
 3. Theorizing is not nearly as effective as trying. --Charles F. Kettering on talking vs doing
 
-4.
-
 ## Review
 
 - [The week of 2024(Issue-269)](../2024/issue-269.md)
 - [The week of 2023(Issue-217)](../2023/issue-217.md)
 - [The week of 2022(Issue-166)](../2022/issue-166.md)
 - [The week of 2021(Issue-114)](../2021/issue-114.md)
-- [The week of 2020(Issue-66)](../2020/issue-66.md)
-- [The week of 2019(Issue-18)](../2019/issue-18.md)
+- [The week of 2020(Issue-63)](../2020/issue-63.md)
+- [The week of 2019(Issue-15)](../2019/issue-15.md)

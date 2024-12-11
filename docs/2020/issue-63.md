@@ -122,7 +122,7 @@ As a result, a human will in 35 days have experienced under these suppositions a
 
 - [The week of 2024(Issue-266)](../2024/issue-266.md)
 - [The week of 2023(Issue-214)](../2023/issue-214.md)
-- [The week of 2022(Issue-163)](../2022/issue-163.md)
-- [The week of 2021(Issue-111)](../2021/issue-111.md)
-- [The week of 2020(Issue-63)](../2020/issue-63.md)
-- [The week of 2019(Issue-15)](../2019/issue-15.md)
+- [The week of 2022(Issue-161)](../2022/issue-161.md)
+- [The week of 2021(Issue-110)](../2021/issue-110.md)
+- [The week of 2020(Issue-61)](../2020/issue-61.md)
+- [The week of 2019(Issue-13)](../2019/issue-13.md)

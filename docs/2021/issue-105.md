@@ -72,7 +72,7 @@ The author shares some insights that he has learned since transitioning into a t
 
 - [The week of 2024(Issue-260)](../2024/issue-260.md)
 - [The week of 2023(Issue-208)](../2023/issue-208.md)
-- [The week of 2022(Issue-157)](../2022/issue-157.md)
-- [The week of 2021(Issue-105)](../2021/issue-105.md)
-- [The week of 2020(Issue-57)](../2020/issue-57.md)
-- [The week of 2019(Issue-9)](../2019/issue-9.md)
+- [The week of 2022(Issue-155)](../2022/issue-155.md)
+- [The week of 2021(Issue-104)](../2021/issue-104.md)
+- [The week of 2020(Issue-55)](../2020/issue-55.md)
+- [The week of 2019(Issue-7)](../2019/issue-7.md)

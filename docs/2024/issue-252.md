@@ -157,4 +157,3 @@ Hmm, the marketing team doesn’t seem to have a strong strategy. I hope they’
 - [The week of 2022(Issue-149)](../2022/issue-149.md)
 - [The week of 2021(Issue-97)](../2021/issue-97.md)
 - [The week of 2020(Issue-49)](../2020/issue-49.md)
-- [The week of 2019(Issue-1)](../2019/issue-1.md)

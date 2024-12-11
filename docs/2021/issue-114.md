@@ -123,9 +123,9 @@ The path isn't a straight line; It's a spiral. You continually come back to thin
 
 ## Review
 
-- [The week of 2024(Issue-269)](../2024/issue-269.md)
-- [The week of 2023(Issue-217)](../2023/issue-217.md)
-- [The week of 2022(Issue-166)](../2022/issue-166.md)
+- [The week of 2024(Issue-270)](../2024/issue-270.md)
+- [The week of 2023(Issue-218)](../2023/issue-218.md)
+- [The week of 2022(Issue-165)](../2022/issue-165.md)
 - [The week of 2021(Issue-114)](../2021/issue-114.md)
-- [The week of 2020(Issue-66)](../2020/issue-66.md)
-- [The week of 2019(Issue-18)](../2019/issue-18.md)
+- [The week of 2020(Issue-65)](../2020/issue-65.md)
+- [The week of 2019(Issue-17)](../2019/issue-17.md)

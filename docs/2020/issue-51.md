@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 51
+# GISer's Weekly Issue 51, 2021-09-01
 
 ## GeoSpatial
 

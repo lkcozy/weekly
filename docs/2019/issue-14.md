@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 14
+# GISer's Weekly Issue 14, 2019-11-25
 
 ## GeoSpatial
 
@@ -91,7 +91,7 @@ This site provides 24 high-quality Covid illustrations. Free for commercial and 
 
 - [The week of 2024(Issue-265)](../2024/issue-265.md)
 - [The week of 2023(Issue-213)](../2023/issue-213.md)
-- [The week of 2022(Issue-162)](../2022/issue-162.md)
-- [The week of 2021(Issue-110)](../2021/issue-110.md)
-- [The week of 2020(Issue-62)](../2020/issue-62.md)
-- [The week of 2019(Issue-14)](../2019/issue-14.md)
+- [The week of 2022(Issue-160)](../2022/issue-160.md)
+- [The week of 2021(Issue-109)](../2021/issue-109.md)
+- [The week of 2020(Issue-60)](../2020/issue-60.md)
+- [The week of 2019(Issue-12)](../2019/issue-12.md)

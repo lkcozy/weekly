@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 6
+# GISer's Weekly Issue 6, 2019-09-23
 
 ## GeoSpatial
 

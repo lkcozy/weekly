@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 96
+# GISer's Weekly Issue 96, 2022-08-01
 
 ## GeoSpatial
 

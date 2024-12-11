@@ -32,7 +32,7 @@ grep -nri gis docs | cat -n
 
 ## 🐲 2024
 
-**December**: [Reading Fragments](fragments/2024.12.md) | [Issue #269](docs/2024/issue-269.md) 🚀
+**December**: [Reading Fragments](fragments/2024.12.md) | [Issue #270](docs/2024/issue-270.md) 🚀 | [Issue #269](docs/2024/issue-269.md)
 
 **November**: [Reading Fragments](fragments/2024.11.md) | [Issue #268](docs/2024/issue-268.md) | [Issue #267](docs/2024/issue-267.md) | [Issue #266](docs/2024/issue-266.md) | [Issue #265](docs/2024/issue-265.md)
 
@@ -170,7 +170,7 @@ grep -nri gis docs | cat -n
 
 **September**: [Issue #6](docs/2019/issue-6.md) | [Issue #5](docs/2019/issue-5.md) | [Issue #4](docs/2019/issue-4.md) | [Issue #3](docs/2019/issue-3.md)
 
-**August**: [Issue #2](docs/2020/issue-2.md) | [Issue #1](docs/2020/issue-1.md)
+**August**: [Issue #2](docs/2019/issue-2.md) | [Issue #1](docs/2019/issue-1.md)
 
 ## 🎉 Create A New Issue
 

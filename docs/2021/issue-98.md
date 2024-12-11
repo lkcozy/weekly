@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 98
+# GISer's Weekly Issue 98, 2022-08-15
 
 ## GeoSpatial
 
@@ -86,9 +86,9 @@ Use graphics to explain the types of SQL Join, simple and easy to understand.
 
 ## Review
 
-- [The week of 2024(Issue-253)](../2024/issue-253.md)
-- [The week of 2023(Issue-201)](../2023/issue-201.md)
-- [The week of 2022(Issue-150)](../2022/issue-150.md)
+- [The week of 2024(Issue-254)](../2024/issue-254.md)
+- [The week of 2023(Issue-202)](../2023/issue-202.md)
+- [The week of 2022(Issue-151)](../2022/issue-151.md)
 - [The week of 2021(Issue-98)](../2021/issue-98.md)
-- [The week of 2020(Issue-50)](../2020/issue-50.md)
-- [The week of 2019(Issue-2)](../2019/issue-2.md)
+- [The week of 2020(Issue-49)](../2020/issue-49.md)
+- [The week of 2019(Issue-1)](../2019/issue-1.md)

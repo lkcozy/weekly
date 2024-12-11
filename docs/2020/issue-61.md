@@ -140,7 +140,7 @@ Plug-and-play implementation of an Apache Spark custom data source for AWS Dynam
 
 - [The week of 2024(Issue-264)](../2024/issue-264.md)
 - [The week of 2023(Issue-212)](../2023/issue-212.md)
-- [The week of 2022(Issue-161)](../2022/issue-161.md)
-- [The week of 2021(Issue-109)](../2021/issue-109.md)
-- [The week of 2020(Issue-61)](../2020/issue-61.md)
-- [The week of 2019(Issue-13)](../2019/issue-13.md)
+- [The week of 2022(Issue-159)](../2022/issue-159.md)
+- [The week of 2021(Issue-108)](../2021/issue-108.md)
+- [The week of 2020(Issue-59)](../2020/issue-59.md)
+- [The week of 2019(Issue-11)](../2019/issue-11.md)

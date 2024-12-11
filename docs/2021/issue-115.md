@@ -102,5 +102,9 @@ Here are seven tricks with GitHub actions that changed the author's CI/CD pipeli
 
 ## Review
 
-- [The week of 2020(Issue-63)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-63.md)
-- [The week of 2019(Issue-15)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-15.md)
+- [The week of 2024(Issue-270)](../2024/issue-270.md)
+- [The week of 2023(Issue-218)](../2023/issue-218.md)
+- [The week of 2022(Issue-167)](../2022/issue-167.md)
+- [The week of 2021(Issue-115)](../2021/issue-115.md)
+- [The week of 2020(Issue-64)](../2020/issue-64.md)
+- [The week of 2019(Issue-16)](../2019/issue-16.md)

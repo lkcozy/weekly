@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 11
+# GISer's Weekly Issue 11, 2019-11-04
 
 ## GeoSpatial
 
@@ -98,7 +98,7 @@ git-quick-stats is a simple and efficient way to access various statistics in a 
 
 - [The week of 2024(Issue-262)](../2024/issue-262.md)
 - [The week of 2023(Issue-210)](../2023/issue-210.md)
-- [The week of 2022(Issue-159)](../2022/issue-159.md)
-- [The week of 2021(Issue-107)](../2021/issue-107.md)
-- [The week of 2020(Issue-59)](../2020/issue-59.md)
-- [The week of 2019(Issue-11)](../2019/issue-11.md)
+- [The week of 2022(Issue-157)](../2022/issue-157.md)
+- [The week of 2021(Issue-106)](../2021/issue-106.md)
+- [The week of 2020(Issue-57)](../2020/issue-57.md)
+- [The week of 2019(Issue-9)](../2019/issue-9.md)

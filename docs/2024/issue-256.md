@@ -191,9 +191,9 @@ The concept emphasizes that **management styles should vary according to the TRM
 
 ## Review
 
-- [The week of 2024(Issue-256)](../2024/issue-256.md)
-- [The week of 2023(Issue-204)](../2023/issue-204.md)
-- [The week of 2022(Issue-153)](../2022/issue-153.md)
+- [The week of 2024(Issue-257)](../2024/issue-257.md)
+- [The week of 2023(Issue-205)](../2023/issue-205.md)
+- [The week of 2022(Issue-152)](../2022/issue-152.md)
 - [The week of 2021(Issue-101)](../2021/issue-101.md)
-- [The week of 2020(Issue-53)](../2020/issue-53.md)
-- [The week of 2019(Issue-5)](../2019/issue-5.md)
+- [The week of 2020(Issue-52)](../2020/issue-52.md)
+- [The week of 2019(Issue-4)](../2019/issue-4.md)

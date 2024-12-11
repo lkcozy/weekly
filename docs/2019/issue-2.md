@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 2
+# GISer's Weekly Issue 2, 2019-08-26
 
 ## GeoSpatial
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 1
+# GISer's Weekly Issue 1, 2019-08-19
 
 ## GeoSpatial
 
@@ -85,9 +85,9 @@ This method won't work 100% of the time, but it will work more than most people 
 
 ## Review
 
-- [The week of 2024(Issue-252)](../2024/issue-252.md)
-- [The week of 2023(Issue-200)](../2023/issue-200.md)
-- [The week of 2022(Issue-149)](../2022/issue-149.md)
-- [The week of 2021(Issue-97)](../2021/issue-97.md)
+- [The week of 2024(Issue-254)](../2024/issue-254.md)
+- [The week of 2023(Issue-202)](../2023/issue-202.md)
+- [The week of 2022(Issue-151)](../2022/issue-151.md)
+- [The week of 2021(Issue-98)](../2021/issue-98.md)
 - [The week of 2020(Issue-49)](../2020/issue-49.md)
 - [The week of 2019(Issue-1)](../2019/issue-1.md)

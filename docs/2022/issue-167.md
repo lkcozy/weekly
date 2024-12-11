@@ -136,6 +136,9 @@ Siddhartha's journey is a metaphor for the universal human search for meaning an
 
 ## Review
 
-- [The week of 2021(Issue-115)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-115.md)
-- [The week of 2020(Issue-64)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-64.md)
-- [The week of 2019(Issue-16)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-16.md)
+- [The week of 2024(Issue-270)](../2024/issue-270.md)
+- [The week of 2023(Issue-218)](../2023/issue-218.md)
+- [The week of 2022(Issue-167)](../2022/issue-167.md)
+- [The week of 2021(Issue-115)](../2021/issue-115.md)
+- [The week of 2020(Issue-64)](../2020/issue-64.md)
+- [The week of 2019(Issue-16)](../2019/issue-16.md)

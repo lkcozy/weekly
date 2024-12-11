@@ -114,7 +114,7 @@ If there was only one rule to wealth creation: you need more coming in than goin
 
 - [The week of 2024(Issue-263)](../2024/issue-263.md)
 - [The week of 2023(Issue-211)](../2023/issue-211.md)
-- [The week of 2022(Issue-160)](../2022/issue-160.md)
-- [The week of 2021(Issue-108)](../2021/issue-108.md)
-- [The week of 2020(Issue-60)](../2020/issue-60.md)
-- [The week of 2019(Issue-12)](../2019/issue-12.md)
+- [The week of 2022(Issue-158)](../2022/issue-158.md)
+- [The week of 2021(Issue-107)](../2021/issue-107.md)
+- [The week of 2020(Issue-58)](../2020/issue-58.md)
+- [The week of 2019(Issue-10)](../2019/issue-10.md)

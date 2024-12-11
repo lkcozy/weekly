@@ -90,7 +90,7 @@ An open-source set of Emoji.
 
 - [The week of 2024(Issue-261)](../2024/issue-261.md)
 - [The week of 2023(Issue-209)](../2023/issue-209.md)
-- [The week of 2022(Issue-158)](../2022/issue-158.md)
-- [The week of 2021(Issue-106)](../2021/issue-106.md)
-- [The week of 2020(Issue-58)](../2020/issue-58.md)
-- [The week of 2019(Issue-10)](../2019/issue-10.md)
+- [The week of 2022(Issue-156)](../2022/issue-156.md)
+- [The week of 2021(Issue-105)](../2021/issue-105.md)
+- [The week of 2020(Issue-56)](../2020/issue-56.md)
+- [The week of 2019(Issue-8)](../2019/issue-8.md)
