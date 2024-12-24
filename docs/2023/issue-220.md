@@ -121,7 +121,9 @@ Changes
 
 ## Review
 
-- [The week of 2022(Issue-168)](../2022/issue-168.md)
-- [The week of 2021(Issue-116)](../2021/issue-116.md)
-- [The week of 2020(Issue-68)](../2020/issue-68.md)
-- [The week of 2020(Issue-21)](../220/issue-21.md)
+- [The week of 2024(Issue-272)](../2024/issue-272.md)
+- [The week of 2023(Issue-220)](../2023/issue-220.md)
+- [The week of 2022(Issue-169)](../2022/issue-169.md)
+- [The week of 2021(Issue-117)](../2021/issue-117.md)
+- [The week of 2020(Issue-66)](../2020/issue-66.md)
+- [The week of 2019(Issue-18)](../2019/issue-18.md)
