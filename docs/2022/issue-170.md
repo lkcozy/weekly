@@ -92,6 +92,9 @@ Poor kids aren't visiting the carnival. They're the ones working it.
 
 ## Review
 
-- [The week of 2021(Issue-118)](https://github.com/lkcozy/weekly/blob/master/docs/2021/issue-118.md)
-- [The week of 2020(Issue-66)](https://github.com/lkcozy/weekly/blob/master/docs/2020/issue-66.md)
-- [The week of 2019(Issue-18)](https://github.com/lkcozy/weekly/blob/master/docs/2019/issue-18.md)
+- [The week of 2024(Issue-273)](../2024/issue-273.md)
+- [The week of 2023(Issue-221)](../2023/issue-221.md)
+- [The week of 2022(Issue-170)](../2022/issue-170.md)
+- [The week of 2021(Issue-118)](../2021/issue-118.md)
+- [The week of 2020(Issue-67)](../2020/issue-67.md)
+- [The week of 2019(Issue-19)](../2019/issue-19.md)

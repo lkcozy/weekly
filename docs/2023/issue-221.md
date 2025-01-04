@@ -82,7 +82,9 @@ Zen is an open-source system-wide ad-blocker and privacy guard for Windows, macO
 
 ## Review
 
-- [The week of 2022(Issue-169)](../2022/issue-169.md)
-- [The week of 2021(Issue-117)](../2021/issue-117.md)
-- [The week of 2020(Issue-69)](../2020/issue-69.md)
-- [The week of 2020(Issue-22)](../220/issue-22.md)
+- [The week of 2024(Issue-273)](../2024/issue-273.md)
+- [The week of 2023(Issue-221)](../2023/issue-221.md)
+- [The week of 2022(Issue-170)](../2022/issue-170.md)
+- [The week of 2021(Issue-118)](../2021/issue-118.md)
+- [The week of 2020(Issue-67)](../2020/issue-67.md)
+- [The week of 2019(Issue-19)](../2019/issue-19.md)
