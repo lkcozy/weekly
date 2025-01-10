@@ -1,5 +1,18 @@
 # GISer's Weekly Issue 273, 2024-12-30
 
+## GeoSpatial
+
+1. [AI for weather forecasting](https://geoaiunpacked.substack.com/p/geoai-unpacked-2-ai-for-weather-forecasting)
+
+![](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F628e8cef-0348-4937-b0b7-0e58c046ac93_640x240.gif)
+
+This issue explores the topic of AI for weather forecasting.
+
+- Weather forecasting plays a crucial role in societal resilience and economic activities.
+- Advances in supercomputing and AI algorithms have led to more accurate and precise weather predictions.
+- AI-based weather forecasting has revolutionized the field, offering faster predictions and tailored forecasts.
+- Private weather forecasting companies face challenges in scaling due to competition from government agencies, commoditized markets, and customized solutions.
+
 ## AI/ML
 
 1. [AI SDK](https://github.com/vercel/ai)
@@ -167,5 +180,5 @@ Key takeaways:
 - [The week of 2023(Issue-221)](../2023/issue-221.md)
 - [The week of 2022(Issue-170)](../2022/issue-170.md)
 - [The week of 2021(Issue-118)](../2021/issue-118.md)
-- [The week of 2020(Issue-67)](../2020/issue-66.md)
-- [The week of 2019(Issue-19)](../2019/issue-18.md)
+- [The week of 2020(Issue-66)](../2020/issue-66.md)
+- [The week of 2019(Issue-18)](../2019/issue-18.md)

@@ -117,7 +117,8 @@ The MIT CS course to teach you how to master essential software development tool
 
 ## Review
 
-- [The week of 2024(Issue-222)](../2024/issue-22.md)
+- [The week of 2025(Issue-274)](../2025/issue-274.md)
+- [The week of 2024(Issue-222)](../2024/issue-222.md)
 - [The week of 2023(Issue-171)](../2023/issue-171.md)
 - [The week of 2022(Issue-119)](../2022/issue-119.md)
 - [The week of 2021(Issue-67)](../2021/issue-67.md)

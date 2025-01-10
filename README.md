@@ -4,6 +4,7 @@ Keep track of GeoSpatial & IoT & AI/ML & other interesting content worth sharing
 
 - [🌏 GISer Weekly Updates](#-giser-weekly-updates)
   - [🔎 Search](#-search)
+  - [🐍 2025](#-2025)
   - [🐲 2024](#-2024)
   - [🐰 2023](#-2023)
   - [🐯 2022](#-2022)
@@ -30,9 +31,13 @@ For example，search `GIS` related content。
 grep -nri gis docs | cat -n
 ```
 
+## 🐍 2025
+
+**January**: [Reading Fragments](fragments/2025.01.md) | [Issue #274](docs/2025/issue-274.md)🚀 |
+
 ## 🐲 2024
 
-**December**: [Reading Fragments](fragments/2024.12.md) | [Issue #273](docs/2024/issue-273.md) 🚀| [Issue #272](docs/2024/issue-272.md) | [Issue #271](docs/2024/issue-271.md) | [Issue #270](docs/2024/issue-270.md) | [Issue #269](docs/2024/issue-269.md)
+**December**: [Reading Fragments](fragments/2024.12.md) | [Issue #273](docs/2024/issue-273.md) | [Issue #272](docs/2024/issue-272.md) | [Issue #271](docs/2024/issue-271.md) | [Issue #270](docs/2024/issue-270.md) | [Issue #269](docs/2024/issue-269.md)
 
 **November**: [Reading Fragments](fragments/2024.11.md) | [Issue #268](docs/2024/issue-268.md) | [Issue #267](docs/2024/issue-267.md) | [Issue #266](docs/2024/issue-266.md) | [Issue #265](docs/2024/issue-265.md)
 
