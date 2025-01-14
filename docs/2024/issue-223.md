@@ -140,7 +140,8 @@ Code reviews are an essential part of the software development process, as they 
 
 ## Review
 
-- [The week of 2024(Issue-223)](../2024/issue-23.md)
+- [The week of 2025(Issue-275)](../2025/issue-275.md)
+- [The week of 2024(Issue-223)](../2024/issue-223.md)
 - [The week of 2023(Issue-172)](../2023/issue-172.md)
 - [The week of 2022(Issue-120)](../2022/issue-120.md)
 - [The week of 2021(Issue-68)](../2021/issue-68.md)
