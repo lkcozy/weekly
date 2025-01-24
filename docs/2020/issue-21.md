@@ -137,6 +137,7 @@ If Apple is a designer culture, and Google is an engineer culture, then I'd say 
 
 ## Review
 
+- [The week of 2025(Issue-276)](../2025/issue-276.md)
 - [The week of 2024(Issue-224)](../2024/issue-224.md)
 - [The week of 2023(Issue-173)](../2023/issue-173.md)
 - [The week of 2022(Issue-121)](../2022/issue-121.md)
