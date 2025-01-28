@@ -62,6 +62,16 @@ Key characteristics of good software engineers include:
 
 2. Bad bosses keep people stuck in dead-end jobs. Good bosses create opportunities for people to grow and advance. Great bosses encourage people to pursue growth and advancement even if it means leaving for another organization.
 
+Bureaucracies make everyone feel productive while doing very little useful work.
+
+3. Your mistakes aren’t the best teacher—just the most expensive. You can start at the bottom of the mountain and make every mistake from scratch on the way to the top, or you can take a sherpa with you and master the best of what other people have already figured out. The successful learn vicariously; the foolish insist on firsthand pain.
+
+4. Being brilliant won’t save you if no one can count on you. It can be hard to appreciate just how much reliability impacts opportunity. It’s fun to outperform people who are way smarter than you by being more reliable than they are. Reliability isn’t just a virtue – it’s a competitive advantage that compounds over time.
+
+5. Real integrity is doing the right thing, knowing that nobody’s going to know whether you did it or not. --Oprah Winfrey on character
+
+6. We should not try to alter circumstances but to adapt ourselves to them as they really are, just as sailors do. They don’t try to change the winds or the sea but ensure that they are always ready to adapt themselves to conditions. In a flat calm they use the oars; with a following breeze they hoist full sail; in a head wind they shorten sail or heave to. Adapt yourself to circumstances in the same way. --Greek philosopher Bion of Borysthenes on adapting yourself to circumstances
+
 ## Review
 
 - [The week of 2025(Issue-276)](../2025/issue-276.md)
