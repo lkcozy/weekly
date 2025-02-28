@@ -7,7 +7,9 @@
 #
 ######################################################################
 
-issue_no=$1
+latest_tag=$(git describe --tags --abbrev=0)
+issue_no=$((${latest_tag//[!0-9]/} + 1))
+echo $issue_no
 issue_tag=''
 
 if [ -z "$issue_no" ]; then

@@ -181,7 +181,7 @@ grep -nri gis docs | cat -n
 
 ## 🎉 Create A New Issue
 
-Release `./scripts/release.sh <issue-number>`
+Release `./scripts/release.sh`
 
 or
 
