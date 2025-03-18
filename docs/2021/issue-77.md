@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 77
+# AI-GISer's Weekly Issue 77
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ But there is a critical `communication gap` between authorities and citizens.
 
 The Deploy Solutions presents a "space app" software solution that demonstrates specific and practical ways satellite imagery, AI, web portals, geospatial data analysis and reporting tools, cloud-hosted infrastructure, and other features can be combined a working software solution.
 
-## AI/ML
+## AI
 
 1. [Old Drugs for New Ailments](https://www.deeplearning.ai/the-batch/issue-83/)
 

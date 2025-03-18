@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 115,2021-12-10
+# AI-GISer's Weekly Issue 115,2021-12-10
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ Decentraland is an Ethereum-powered virtual reality platform. You purchase plots
 
 Walkthrough an infinite, procedurally generated city.
 
-## AI/ML
+## AI
 
 1. [2021: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/best_AI_papers_2021)
 

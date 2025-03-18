@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 254, 2024-08-18
+# AI-GISer's Weekly Issue 254, 2024-08-18
 
 ## GeoSpatial
 
@@ -34,7 +34,7 @@ Triplit is an open-source database that syncs data between server and browser in
 
 Triplit provides a real-time syncing datastore that you can drop into your app as a Typescript package. Triplit handles storing your data on the server and intelligently syncs your queries to your clients.
 
-## AI/ML
+## AI
 
 1. [Cursor AI Code Editor](https://www.cursor.com/)
 

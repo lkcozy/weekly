@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 36
+# AI-GISer's Weekly Issue 36
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ Around the world, governments are either easing or continuing movement restricti
 
 Mobility data has so quickly become such an essential element of monitoring the COVID-19 response. However, mobility data can be hard to work with and interpret. It is available in varying geographic coverage and resolution depending on the provider. And the data can be incomplete and hold bias from different user bases. Fortunately, several efforts like the [COVID-19 Mobility Data Network](https://www.covid19mobility.org/) and the [SafeGraph COVID-19 Data Consortium](https://www.safegraph.com/covid-19-data-consortium) show that rapid collaboration is possible in a crisis while keeping data protection in place.
 
-## AI/ML
+## AI
 
 1. [Fast.ai Courses](https://course.fast.ai/index.html)
 

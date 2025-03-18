@@ -26,7 +26,7 @@ Blockchain could make the data more secure by distributing the data. Blockchain 
 - Today’s data explosion needs analysis
 - Peer2Peer geospatial learning reduces the time of execution
 
-## AI/ML
+## AI
 
 1. [Algorithms for Orcas](https://www.deeplearning.ai/the-batch/issue-92/)
 

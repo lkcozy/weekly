@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 80
+# AI-GISer's Weekly Issue 80
 
 ## GeoSpatial
 
@@ -30,7 +30,7 @@ It allows downloading or sharing results instead of processing entire data archi
 
 Climate Engine could also provide early warning indicators of climate impacts such as drought, wildfire, ecological stress, and agricultural production based on a comprehensive set of variables.
 
-## AI/ML
+## AI
 
 1. [Why ML should be written as pipelines from the get-go](https://towardsdatascience.com/why-ml-should-be-written-as-pipelines-from-the-get-go-b2d95003f998)
 

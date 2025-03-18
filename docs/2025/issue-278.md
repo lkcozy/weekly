@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 278, 2025-02-03
+# AI-GISer's Weekly Issue 278, 2025-02-03
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@
 
 An interactive heatmap showing total compensation pay ranges across Europe, organized by countries, with insights on salary percentiles, breakdown of compensation components, and top paying companies.
 
-## AI/ML
+## AI
 
 1. [Company Researcher](https://github.com/exa-labs/company-researcher)
 

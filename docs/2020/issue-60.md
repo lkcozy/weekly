@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 60
+# AI-GISer's Weekly Issue 60
 
 ## GeoSpatial
 
@@ -111,7 +111,7 @@ TopoJSON is a JSON format for encoding geographic data structures into a shared 
 }
 ```
 
-## AI/ML
+## AI
 
 1. [Building Sites Meld Real and Virtual](https://blog.deeplearning.ai/blog/the-batch-ai-predicts-the-vote-face-recognition-looks-for-criminals-model-cow-makes-milk-transformers-prove-theorems)
 

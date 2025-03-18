@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 58
+# AI-GISer's Weekly Issue 58
 
 ## GeoSpatial
 
@@ -36,7 +36,7 @@ A women-led volunteer advocacy group, People for the People’s focus is to “e
 
 To help include more voters, People for the People has developed 50 new mapping and data visualization applications that provide resources and information to make informed decisions as well as to encourage more engagement with topics that impact them.
 
-## AI/ML
+## AI
 
 1. [Battling Bias in Synthetic Data](https://blog.deeplearning.ai/blog/the-batch-ai-researchers-under-fire-rl-agents-in-danger-bias-in-synthetic-data-one-neuron-to-rule-them-all)
 

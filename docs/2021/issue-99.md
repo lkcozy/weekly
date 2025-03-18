@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 99, 2022-08-22
+# AI-GISer's Weekly Issue 99, 2022-08-22
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ According to ICS data, about 1.6 million people work aboard international commer
 
 ![](https://www.visualcapitalist.com/wp-content/uploads/2021/08/afghanistan-map-explainer-1.jpg)
 
-## AI/ML
+## AI
 
 1. [Outstanding in the Field](https://read.deeplearning.ai/the-batch/issue-105/)
 

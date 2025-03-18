@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 9, 2019-10-14
+# AI-GISer's Weekly Issue 9, 2019-10-14
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ Alibaba Group and the United Nations World Food Program (WFP) will launch a digi
 
 The Hunger Map LIVE will bring together publicly available information on food security, nutrition, conflict, weather and macro-economic data to show a holistic picture of the food security situation, using machine-learning technology to make informed predictions on food security even in areas where data is currently limited, according to a release. Advanced data-visualization tools then display the information on an interactive map at the global, country and sub-national levels.
 
-## AI/ML
+## AI
 
 1. [AI Interview System](https://www.telegraph.co.uk/news/2019/09/27/ai-facial-recognition-used-first-time-job-interviews-uk-find/)
 

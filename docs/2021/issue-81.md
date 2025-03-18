@@ -32,7 +32,7 @@ At first glance, the design seems unique, but it makes perfect sense when you th
 
 Humans just got one more reason to journey to outer space. There'sThere's a rare asteroid the size of Massachusetts orbiting between Mars and Jupiter, and it's made entirely of iron and nickel.
 
-## AI/ML
+## AI
 
 1. [Large Language Models for Chinese](https://www.deeplearning.ai/the-batch/issue-87/)
 

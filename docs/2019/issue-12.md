@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 12, 2019-11-11
+# AI-GISer's Weekly Issue 12, 2019-11-11
 
 ## GeoSpatial
 
@@ -62,7 +62,7 @@ For Russia, this pipeline diversifies its export customer base. Russia’s econo
 
 In sum, the Power of Siberia is a win-win project that helps both countries mitigate their respective strategic vulnerabilities & boost economic growth.
 
-## AI/ML
+## AI
 
 1. [Taloflow](https://www.taloflow.ai/)
 

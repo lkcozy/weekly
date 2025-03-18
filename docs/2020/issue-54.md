@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 54
+# AI-GISer's Weekly Issue 54
 
 ## GeoSpatial
 
@@ -42,7 +42,7 @@ All major under water communication cables
 
 In this tutorial, the author will guide you through setting BigQuery Sandbox for free, processing spatial data with familiar PostGIS/Spatial SQL interface and visualize it right in the cloud.
 
-## AI/ML
+## AI
 
 1. [The Internet in a Knowledge Graph](https://www.technologyreview.com/2020/09/04/1008156/knowledge-graph-ai-reads-web-machine-learning-natural-language-processing/)
 

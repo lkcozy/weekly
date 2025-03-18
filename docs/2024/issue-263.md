@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 263, 2024-10-21
+# AI-GISer's Weekly Issue 263, 2024-10-21
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 Freshwater Ecoregions of the World, (FEOW) provides a new global biogeographic regionalization of the Earth’s freshwater biodiversity. The interactive map allows users to explore and visualize various freshwater ecoregions across the globe. Users can likely zoom in and out, click on specific regions, and access detailed information about each ecoregion, including its unique characteristics, biodiversity, and conservation status
 
-## AI/ML
+## AI
 
 1. [CyberScraper](https://github.com/itsOwen/CyberScraper-2077)
 

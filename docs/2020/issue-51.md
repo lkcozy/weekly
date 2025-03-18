@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 51, 2021-09-01
+# AI-GISer's Weekly Issue 51, 2021-09-01
 
 ## GeoSpatial
 
@@ -31,7 +31,7 @@ With just those three distance values, you would be able to determine a region t
 
 GPS requires minimum distances to 3 satellites to get a fix on your location. As we are already known, GPS signals include the satellite location and the time according to the satellite's internal clock. If we measure the time that we receive the message and compare the difference in time to when the message was sent from the satellite, we can figure out how long the message was in transit. Additionally, knowing that all of these signals are sent at the speed of light, we can multiply these two values together to compute your straight line distance to a particular satellite.
 
-## AI/ML
+## AI
 
 1. [Facial recognition for animals](https://www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html)
 

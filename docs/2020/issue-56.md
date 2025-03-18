@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 56
+# AI-GISer's Weekly Issue 56
 
 ## GeoSpatial
 
@@ -28,7 +28,7 @@ For instance, video or photograph data can be taken, turned into an augmented re
 
 Google's Scene Viewer has become one of the more popular platforms that developers are using to embed 3D models and images used for augmented reality-based searches and product views.
 
-## AI/ML
+## AI
 
 1. [Mapping the Inferno](https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/)
 

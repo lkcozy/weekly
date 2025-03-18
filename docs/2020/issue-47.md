@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 47, 2021-08-02
+# AI-GISer's Weekly Issue 47, 2021-08-02
 
 ## GeoSpatial
 
@@ -37,7 +37,7 @@ Citizen volunteers were outfitted with a small instrument mounted to their vehic
 
 The study continues to show a correlation between low-income neighbourhoods and industrial areas of cities and above-average temperatures. Lower-income neighbourhoods are more likely to have an abundance of paved surfaces, fewer trees, and fewer green spaces that all increase temperatures in that area. A lack of air conditioning can also influence the number of heat-related deaths or health issues that a neighbourhood faces during heat waves.
 
-## AI/ML
+## AI
 
 1. [AR Cut & Paste](https://github.com/cyrildiagne/ar-cutpaste)
 

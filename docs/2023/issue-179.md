@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 179, 2023-03-06
+# AI-GISer's Weekly Issue 179, 2023-03-06
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ The article discusses the shifting population center of the United States, which
 
 This visual ranked the economic output of the top 15 U.S. cities from New York City to Minneapolis, using data from the U.S. Bureau of Economic Analysis. The data covers 2021, which is the most recent release from BEA.
 
-## AI/ML
+## AI
 
 1. [BibiGPT](https://github.com/JimmyLv/BibiGPT)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 2, 2019-08-26
+# AI-GISer's Weekly Issue 2, 2019-08-26
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ A new study has found that at various times the British have invaded almost 90 p
 
 The scarce availability of accurate and up-to-date human settlement data remains a major challenge. In recent research, a method that deploys DeepVGI, a classification method using multi-layer recursive learning, and crowdsourcing from geo-tagged images on MapSwipe, a popular map crowdsourcing site, are used together. In this case, DeepVGI classifies urban and non-urban spaces and designates spaces into given categories. Crowdsourcing by those in communities helps to validate and identify other features not easily identified on satellite imagery.
 
-## AI/ML
+## AI
 
 1. [The Future of Artificial Intelligence in Firefighting](https://www.fireengineering.com/articles/2018/10/artificial-intelligence-firefighting.html#gref)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 105, 2021-09-24
+# AI-GISer's Weekly Issue 105, 2021-09-24
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ OGC API: EDR makes it easy for users to access subsets of spatial 'big data' thr
 
 OGC APIs are modern, modular, flexible, simple-yet-powerful "building blocks for location" that make it easy for anyone to publish or consume geospatial data on the FAIR web: Findable, Accessible, Interoperable, and Reusable.
 
-## AI/ML
+## AI
 
 1. [Driverless Delivery in High Gear](https://read.deeplearning.ai/the-batch/issue-110/)
 

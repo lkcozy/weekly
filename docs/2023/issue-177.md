@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 177, 2023-02-20
+# AI-GISer's Weekly Issue 177, 2023-02-20
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ This technical guide details how you can create your own orthorectified (aka sat
 
 Satellite-track is a program for tracking satellite orbit, developed by cesium, vue and satelliteJS. It supports satellite and satellite constellation orbit display within the next 24 hours (performance considerations); Custom satellite orbit data (TLE) loading is also supported, TLE data is from celestrak;
 
-## AI/ML
+## AI
 
 1. [Framework for A Foreign Language Teaching Software for Children Utilizing AR, Voicebots and ChatGPT (Large Language Models)](https://dergipark.org.tr/en/download/article-file/2864638)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 18, 2019-12-30
+# AI-GISer's Weekly Issue 18, 2019-12-30
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ The images on Mapillary are available for anyone to explore. The images and the 
 
 iNaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe.
 
-## AI/ML
+## AI
 
 1. [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 162, 2022-11-07
+# AI-GISer's Weekly Issue 162, 2022-11-07
 
 ## GeoSpatial
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 45
+# AI-GISer's Weekly Issue 45
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ A study by Esri UK found the sidewalk widths to be a potential problem as lockdo
 
 In Tempe, Arizona, GIS has become central to the city's decision-making process. It has now used testing results from wastewater, which is seen as a form of mass testing for the COVID-19 virus presence and rate detection, and integrated the data with the city's GIS system to help with decision-making. The intent is to not only use this to monitor COVID-19 in the city, particularly as cases rise in Arizona, but the lessons learned could enable the city to expand using GIS in controlling other diseases in the future, particularly as mass testing and decisions have to be closely linked and making decisions from testing have to be done sometimes in real-time
 
-## AI/ML
+## AI
 
 1. [Football Clubs Are Turning to AI for an Assist](https://www.wired.com/story/european-football-clubs-are-turning-to-ai-for-an-assist/)
 

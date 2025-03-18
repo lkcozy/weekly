@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 186, 2023-04-30
+# AI-GISer's Weekly Issue 186, 2023-04-30
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ This article presents six geospatial programming projects that can help beginner
 
 This article provides an overview of WebGIS, which is an advanced form of Geographic Information Systems available on web platforms. It explains what WebGIS is, how it works, and its applications. The article also discusses the tools, technologies, and frameworks used for WebGIS and focuses on Free and Open-Source Software for Geospatial Applications.
 
-## AI/ML
+## AI
 
 1. [Bark](https://github.com/suno-ai/bark)
 

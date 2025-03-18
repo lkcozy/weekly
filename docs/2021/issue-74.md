@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 74
+# AI-GISer's Weekly Issue 74
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ Specifically, Mapflow is an application that:
 - Provides a `single dashboard for managing AI-assisted mapping flows.`
 - Allows you to `run post-processings` by adding new blocks related to the appropriate "mapping flow" — like polygonization, merging with Openstreetmap, etc. for "buildings detection."
 
-## AI/ML
+## AI
 
 1. [Automation spectrum](https://www.deeplearning.ai/the-batch/issue-80/)
 

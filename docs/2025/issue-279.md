@@ -1,6 +1,6 @@
-# GISer's Weekly Issue 279, 2025-02-10
+# AI-GISer's Weekly Issue 279, 2025-02-10
 
-## AI/ML
+## AI
 
 1. [Cursor vs Windsurf vs GitHub Copilot](https://www.builder.io/blog/cursor-vs-windsurf-vs-github-copilot)
 

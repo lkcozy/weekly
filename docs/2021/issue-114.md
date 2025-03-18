@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 114, 2021-12-03
+# AI-GISer's Weekly Issue 114, 2021-12-03
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Ultra-wideband (UWB) is a radio-based communication technology for short-range u
 
 UWB enables devices to communicate with each other without the need for line of sight, which means IoT can finally become a reality in places other than our homes and offices.
 
-## AI/ML
+## AI
 
 1. [AI Goes Underground](https://read.deeplearning.ai/the-batch/issue-120/)
 

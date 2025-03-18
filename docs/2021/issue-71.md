@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 71
+# AI-GISer's Weekly Issue 71
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ Machine Learning and data mining, aided by high powered computing, form the foun
 
 `GeoAI is increasingly being used to model and capture the environment around us, linking locations` in which we live and work, or people/elements we interact with, to explore their potential role in influencing health outcomes. Extensive research into GeoAI being used for hypothesis generation, conducting new data linkages and predicting disease occurrence. Evaluation of hypotheticals helps people answer questions like "what if" — What if there were no stay at home orders? What if we open restaurants? What if we open public transport? This facilitates the evaluation of possible policy decisions.
 
-## AI/ML
+## AI
 
 1. [Convolutional Neural Network](https://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/)
 

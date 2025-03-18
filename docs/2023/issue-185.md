@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 185, 2023-04-23
+# AI-GISer's Weekly Issue 185, 2023-04-23
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ In this graphic, Arijit Gupta uses data from various sources including Wikipedia
 
 The research demonstrates the potential of using remote sensing and machine learning techniques to map green spaces in urban areas. The methodology involves using convolutional neural networks to classify green spaces and Bayesian logistic regression to determine public access. The methodology was found to be fairly accurate, but uncertainty remains in some areas due to unclear results from OSM data.
 
-## AI/ML
+## AI
 
 1. [Autodoc](https://github.com/context-labs/autodoc)
 

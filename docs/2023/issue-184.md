@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 184, 2023-04-19
+# AI-GISer's Weekly Issue 184, 2023-04-19
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ As a local government, utilizing GIS can help you better communicate that data t
 
 Placemaker is a tool to allow users to draw accurately on a map, without the need to download complicated software or have prior GIS experience. Placemaker allows Digventures to present a series of reference layers of data (LiDAR, an historical map, and existing HER datasets) on a map, and makes drawing accurate shapes on the map as easy as using something like Microsoft Paint.
 
-## AI/ML
+## AI
 
 1. [Bearly AI](https://bearly.ai/)
 

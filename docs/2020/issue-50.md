@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 50, 2021-08-23
+# AI-GISer's Weekly Issue 50, 2021-08-23
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ In general, it was clear early on in the pandemic that many maps such as the Joh
 
 The COVID-19 pandemic has taught many of us the importance of having accurate health data provided in an informative spatial format or maps. Maps did create a lot of confusion and misunderstanding of the pandemic, perhaps often driven by a lack of good data and poor choices in displaying information and appearances choices for maps relative to the available data.
 
-## AI/ML
+## AI
 
 1. [shift-ctrl-f](shift-ctrl-f)
 

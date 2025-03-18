@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 151, 2022-08-21
+# AI-GISer's Weekly Issue 151, 2022-08-21
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 This plugin enables QGIS software to access dynamic data from sensors using [SensorThings API protocol](https://www.ogc.org/standards/sensorthings).
 
-## AI/ML
+## AI
 
 1. [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
 

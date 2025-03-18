@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 169, 2022-12-25
+# AI-GISer's Weekly Issue 169, 2022-12-25
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ Using data from BP's Statistical Review of World Energy, the above infographic p
 
 Every four minutes, approximately 1,000 babies are born across the globe. This graphic by Pratap Vardhan (Stats of India) paints a picture of the world's demographics, showing which countries are most likely to welcome the next 1,000 babies based on population and birth rates as of 2022 estimates.
 
-## AI/ML
+## AI
 
 1. [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 

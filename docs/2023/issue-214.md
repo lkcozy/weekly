@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 214, 2023-11-12
+# AI-GISer's Weekly Issue 214, 2023-11-12
 
 ## GeoSpatial
 
@@ -12,7 +12,7 @@ There is a fictional island known as Null Island at zero latitude and zero longi
 
 ![](https://www.geographyrealm.com/wp-content/uploads/2015/09/Null_Island_2017-curran-graham.jpg)
 
-## AI/ML
+## AI
 
 1. [ChartGen AI](https://www.einblick.ai/chartgenai/)
 

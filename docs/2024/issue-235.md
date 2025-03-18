@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 235, 2024-04-07
+# AI-GISer's Weekly Issue 235, 2024-04-07
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ Luxembourg, Europe’s financial services capital, has the highest average salar
 
 Bulgaria records the lowest average salary in this dataset at €8/hour.
 
-## AI/ML
+## AI
 
 1. [Generative-Ai-For-Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 

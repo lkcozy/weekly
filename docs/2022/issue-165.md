@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 165, 2022-11-28
+# AI-GISer's Weekly Issue 165, 2022-11-28
 
 ## GeoSpatial
 
@@ -10,7 +10,7 @@ It can be challenging to comprehend the true sizes of megacities or the global s
 
 Created using the EU's population density data and mapping tool Aerialod by Alasdair Rae, the 3D-rendered maps highlight demographic trends and geographic constraints.
 
-## AI/ML
+## AI
 
 1. [AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying)
 

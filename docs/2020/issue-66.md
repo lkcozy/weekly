@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 66
+# AI-GISer's Weekly Issue 66
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ It describes a framework for the ongoing work of the OGC and their specification
 
 The Esri Field Maps is an all-in-one app that uses data-driven maps to help fieldworkers perform mobile data collection and editing, find assets and information, and report their real-time locations.
 
-## AI/ML
+## AI
 
 1. [Better Crowd Counts](https://blog.deeplearning.ai/blog/the-batch-government-ai-falls-short-face-recognition-for-bears-research-papers-in-one-sentence-counting-crowds)
 

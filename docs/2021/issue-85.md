@@ -42,7 +42,7 @@ Some features of the solution include:
 - Scalable, robust, and secure intelligent solution
 - Environmental responsibility
 
-## AI/ML
+## AI
 
 1. [Super-Human Quality Control](https://www.deeplearning.ai/the-batch/issue-91/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 268, 2024-11-24
+# AI-GISer's Weekly Issue 268, 2024-11-24
 
 ## GeoSpatial
 
@@ -13,7 +13,7 @@ New research suggests that an ancient branch of the Nile River once flowed throu
 - The findings support the theory that Egyptians moved materials by water rather than using wheels.
 - The study highlights the wetter climate and higher Nile volume in ancient Egypt.
 
-## AI/ML
+## AI
 
 1. [Infography](https://infography.in/)
 

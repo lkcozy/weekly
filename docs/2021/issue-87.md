@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 87
+# AI-GISer's Weekly Issue 87
 
 ## GeoSpatial
 
@@ -29,7 +29,7 @@ A Python package for geospatial analysis and interactive mapping in a Jupyter en
 
 [Leafmap tutorials on YouTube](https://www.youtube.com/c/QiushengWu)
 
-## AI/ML
+## AI
 
 1. [Face Recognition for the Masses](https://www.deeplearning.ai/the-batch/issue-93/)
 

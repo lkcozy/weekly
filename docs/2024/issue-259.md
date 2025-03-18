@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 259, 2024-09-23
+# AI-GISer's Weekly Issue 259, 2024-09-23
 
 ## GeoSpatial
 
@@ -19,7 +19,7 @@ The Pacific Ocean is the primary source of wild-caught fish, with 58.41% of ocea
 - Indian Ocean ranks third, with snapper and mackerel being major catches.
 - The Arctic and Southern Oceans have very minimal fishing activity due to low temperatures.
 
-## AI/ML
+## AI
 
 1. [A Walkthrough of the GenAI Landscape](https://blog.bytebytego.com/i/148873922/the-ultimate-walkthrough-of-the-generative-ai-landscape)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 187, 2023-05-08
+# AI-GISer's Weekly Issue 187, 2023-05-08
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ The paper highlights the need for more research on the interpretability of GeoAI
 
 Spatially explicit models are models that incorporate spatial information into their analysis, allowing for a more detailed understanding of the spatial patterns and relationships within a given area. These models consider the location and spatial relationships of different features and variables, and can be used to analyze and predict spatial phenomena such as land use changes, natural hazards, and urban dynamics.
 
-## AI/ML
+## AI
 
 1. [Chart GPT](https://www.chartgpt.dev/)
 

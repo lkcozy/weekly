@@ -36,7 +36,7 @@ Geospatial standards, at their core, are what we agree on as a community. The lo
 **Where are Geospatial Standards Still Needed?**
 While it may seem that now we have over 100 standards that we have reached perhaps a plateau of a need for standards, the reality is we need more, particularly as new technologies and tools are coming online or made available almost every day.
 
-## AI/ML
+## AI
 
 1. [Wreck Recognition](https://www.deeplearning.ai/the-batch/issue-89/)
 

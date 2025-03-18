@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 222, 2024-01-08
+# AI-GISer's Weekly Issue 222, 2024-01-08
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 GeoFS is a web-based flight simulator that lets you fly anywhere in the world with realistic physics and weather. You can choose from 30 aircraft, join multiplayer sessions, and subscribe to HD aerial images for photo-realistic landscape.
 
-## AI/ML
+## AI
 
 1. [6 Types of AI Agents: Exploring the Future of Intelligent Machines](https://www.simform.com/blog/types-of-ai-agents/)
 

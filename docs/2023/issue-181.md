@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 181, 2023-03-25
+# AI-GISer's Weekly Issue 181, 2023-03-25
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ For those students who already have a good baseline knowledge of GIS and are loo
 
 [Learn GIS for Free](https://www.gislounge.com/learn-gis-for-free/)
 
-## AI/ML
+## AI
 
 1. [Gamma](https://gamma.app/)
 

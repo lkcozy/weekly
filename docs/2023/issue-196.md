@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 196, 2023-07-09
+# AI-GISer's Weekly Issue 196, 2023-07-09
 
 ## GeoSpatial
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 75
+# AI-GISer's Weekly Issue 75
 
 ## GeoSpatial
 
@@ -31,7 +31,7 @@ Esri has created the "[Explore Mars](https://explore-mars.esri.com/)!" site. Lik
 
 As a software engineer, geospatial problems are common and having GIS experience is critical. Software engineers often do not consider, for instance, `implications of geospatial data, including geocoding tasks or coordinate transformations. Knowing something about the spatial processes affected by such operations provides advantages for a software engineer `because you can see the purpose and potential issues` with the tasks and not just simply being able to program the operation.
 
-## AI/ML
+## AI
 
 1. [Covid-19 Triage](https://www.deeplearning.ai/the-batch/issue-81/)
 

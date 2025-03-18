@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 73
+# AI-GISer's Weekly Issue 73
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ The road to virtualizing the world and highly accurate 4D maps representing time
 
 > A voxel (a portmanteau of the words volumetric and pixel) is a volume element, representing a value on a regular grid in three-dimensional space.
 
-## AI/ML
+## AI
 
 1. [Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free)
 

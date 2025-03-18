@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 231, 2024-03-10
+# AI-GISer's Weekly Issue 231, 2024-03-10
 
 ## GeoSpatial
 
@@ -31,7 +31,7 @@ ParadeDB is good fit for:
 - search: full text search or similarity (i.e. vector) search
 - analytics: leverage the Apache Parquet
 
-## AI/ML
+## AI
 
 1. [Anthropic Prompt library](https://docs.anthropic.com/claude/prompt-library)
 

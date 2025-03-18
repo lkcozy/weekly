@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 275, 2025-01-13
+# AI-GISer's Weekly Issue 275, 2025-01-13
 
 ## GeoSpatial
 
@@ -33,7 +33,7 @@ Pan sharpening is a technique in GIS and remote sensing that combines high-resol
 - Pan sharpening involves aligning images, applying fusion algorithms, and fine-tuning the resulting image.
 - Benefits include improved visualization and analysis, while limitations include spectral distortion and computational intensity.
 
-## AI/ML
+## AI
 
 1. [Olares](https://github.com/beclab/Olares)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 119, 2021-12-31
+# AI-GISer's Weekly Issue 119, 2021-12-31
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ Recently, NASA and the European Space Agency (ESA) released a new open source an
 
 With MAAP, the data are now combined and offer users a large body of data that can now better understand how our planet is changing through a common user interface. The tool is currently limited in covering Earth Science topics using data from NASA and ESA, but this will greatly expand over the next year.
 
-## AI/ML
+## AI
 
 1. [Mocking Bird](https://github.com/babysor/MockingBird)
 

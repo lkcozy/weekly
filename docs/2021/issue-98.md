@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 98, 2022-08-15
+# AI-GISer's Weekly Issue 98, 2022-08-15
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Project '44 helps historians, students, and families learn more about the wartim
 
 The what3words API is a fast and straightforward interface that converts 3-word addresses to coordinates and vice versa. In addition, it features a powerful AutoSuggest function, which can validate user input and limit it to certain geographic areas.
 
-## AI/ML
+## AI
 
 1. [AI Sees Race in X-Rays](https://read.deeplearning.ai/the-batch/issue-104/)
 

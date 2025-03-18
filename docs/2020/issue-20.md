@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 20
+# AI-GISer's Weekly Issue 20
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ Since there are many (and increasing) needs of IoT devices in different vertical
 
 Google Earth provides a timeline of satellite photos to see how the exact location has changed from 1984 to 2020, with more than a dozen official locations currently available.
 
-## AI/ML
+## AI
 
 1. [Lobe.ai](https://www.lobe.ai/)
 

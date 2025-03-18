@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 68
+# AI-GISer's Weekly Issue 68
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ console.log(union);
 var strGeom = new OpenLayers.Format.WKT(union);
 ```
 
-## AI/ML
+## AI
 
 1. [DALL·E](https://openai.com/blog/dall-e/)
 

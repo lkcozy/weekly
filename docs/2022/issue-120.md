@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 120, 2022-01-14
+# AI-GISer's Weekly Issue 120, 2022-01-14
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ The differences of it from the first two can be perceived in three basic aspects
 
 The third law is an important addition to the other two and provides a potentially transformative way to address the rigid requirements on samples in geographic analysis.
 
-## AI/ML
+## AI
 
 1. [Stopping Guns at the Gate](https://read.deeplearning.ai/the-batch/issue-127/)
 

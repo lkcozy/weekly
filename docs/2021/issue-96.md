@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 96, 2022-08-01
+# AI-GISer's Weekly Issue 96, 2022-08-01
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ Plotly is a powerful visualization library that provides amazing capabilities li
 
 In this article, you will be using the San Francisco Airbnb listings dataset from Kaggle to visually analyze the relation between prices, types of accommodations, and their areas. Then, by simply looking at the map, we shall see how the area affects the price.
 
-## AI/ML
+## AI
 
 1. [Meet the New Smart-Cities Champ](https://read.deeplearning.ai/the-batch/issue-102/)
 

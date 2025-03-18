@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 265, 2024-11-04
+# AI-GISer's Weekly Issue 265, 2024-11-04
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 Seismic Explorer is an earthquake map that identifies earthquakes greater than 5.2 magnitude since 1980 (more than 100,000 in total), allows you to clearly see the earthquake zone, and also allows you to see the earthquakes that have occurred in a certain area
 
-## AI/ML
+## AI
 
 1. [AI Hear](https://hear.thucydides.net/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 155, 2022-09-16
+# AI-GISer's Weekly Issue 155, 2022-09-16
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ As both human and economic losses caused by floods continue, nations worldwide m
 
 An OpenStreetMap-based project for creating a map of the world's railway infrastructure.
 
-## AI/ML
+## AI
 
 1. [What would RBG (probably) say?](https://ask-rbg.ai/)
 

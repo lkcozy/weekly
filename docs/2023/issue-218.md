@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 218, 2023-12-10
+# AI-GISer's Weekly Issue 218, 2023-12-10
 
 ## GeoSpatial
 
@@ -12,7 +12,7 @@ Carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) are greenhouse gases
 
 Other gases might have opposite effects, such as reflecting visible light but letting infrareds through. For example, sulfur dioxide (SO2) is a known reflector of sunlight. Just a tiny amount can cool the Earth. This is how volcanoes do it.
 
-## AI/ML
+## AI
 
 1. [AI Image Captions](https://felix.link/apps/captions)
 

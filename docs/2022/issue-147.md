@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 147, 2022-07-24
+# AI-GISer's Weekly Issue 147, 2022-07-24
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ WhiteboxTools doesn't compete with QGIS and ArcGIS/Pro, but rather it extends th
 
 SenseNet's mission is to revolutionize data collection and analysis for remote areas with limited or no cellular/Internet connectivity.
 
-## AI/ML
+## AI
 
 1. [DALL-E 2](https://newatlas.com/computers/dall-e-2-ai-art/)
 

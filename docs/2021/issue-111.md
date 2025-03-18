@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 111, 2021-11-12
+# AI-GISer's Weekly Issue 111, 2021-11-12
 
 ## GeoSpatial
 
@@ -29,7 +29,7 @@ A map projection is a way to flatten the globe's surface onto a screen. While fl
 
 But Mercator distorts the size of regions on lower zoom levels, like when looking at data on a national or global overview map.
 
-## AI/ML
+## AI
 
 1. [Finding Useful Points in Space](https://read.deeplearning.ai/the-batch/issue-117/)
 

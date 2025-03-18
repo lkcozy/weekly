@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 171, 2023-01-08
+# AI-GISer's Weekly Issue 171, 2023-01-08
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ A buffer in GIS is a reclassification based on distance: classification of withi
 
 Buffering involves measuring the distance outward in all directions from an object. Buffering can be done on all three types of vector data: point, line, and area. The resulting buffer is a polygon file.
 
-## AI/ML
+## AI
 
 1. [Amazing AI](https://sindresorhus.com/amazing-ai)
 

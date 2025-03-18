@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 93
+# AI-GISer's Weekly Issue 93
 
 ## GeoSpatial
 
@@ -46,7 +46,7 @@ cuxfilter ( ku-cross-filter ) is a RAPIDS framework to connect web visualization
 
 The deadly heatwave was a one-in-a-1,000-year event.
 
-## AI/ML
+## AI
 
 1. [Lighter Traffic Ahead](https://read.deeplearning.ai/the-batch/issue-99/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 143, 2022-06-23
+# AI-GISer's Weekly Issue 143, 2022-06-23
 
 ## GeoSpatial
 
@@ -25,7 +25,7 @@ Cloud-native vector formats leverage the byte serving feature of HTTP, which all
 
 Earth Clock (originally Google Earth Clock, 2011) is a digital clock assembled from views of Earth from above that resemble numbers.
 
-## AI/ML
+## AI
 
 1. [Monte Carlo simulation of the approximation of number pi (π)](https://towardsdev.com/good-beginner-exercise-for-improving-programming-monte-carlo-simulation-of-the-approximation-of-838dc17eb6bc)
 

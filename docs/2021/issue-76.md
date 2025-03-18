@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 76
+# AI-GISer's Weekly Issue 76
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ The map reveals how different income levels between states directly play into th
 
 `This suggests that runaway housing prices aren't the only contributor to the affordability crisis. Wages are an equally important factor to consider.`
 
-## AI/ML
+## AI
 
 1. [Drones For Defense ](https://www.deeplearning.ai/the-batch/issue-82/)
 

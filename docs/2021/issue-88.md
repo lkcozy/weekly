@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 88
+# AI-GISer's Weekly Issue 88
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ Super-resolution enhances images using deep learning artificial intelligence. Th
 
 Ecoregions are currently used to split the land on Earth into zones with similar geography. These ecoregions are comparable in terms of geography and ecology, as well as solar radiation and precipitation level. The ecoregion is a concatenation of ecological region. There are 846 ecoregions found on land. These 846 ecoregions are categorized into 14 biomes and eight biogeographic realms. Six of the biomes are forest, and eight are non-forested.
 
-## AI/ML
+## AI
 
 1. [One Model for Vision-Language](https://www.deeplearning.ai/the-batch/issue-94/)
 

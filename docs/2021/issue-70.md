@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 70
+# AI-GISer's Weekly Issue 70
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ With Lidar, and other sensors now added in vehicles, automobiles have even more 
 
 We can expect AR to become more common in navigation and even more useful as we navigate. In the future, we might be using AR to determine what turns to make, for instance, when the visibility of an area is not yet clear.
 
-## AI/ML
+## AI
 
 1. [Norfair](https://github.com/tryolabs/norfair)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 107,2021-10-15
+# AI-GISer's Weekly Issue 107,2021-10-15
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ On this second map, the sea level increased by +1000m.
 
 ![](https://ahstat.github.io/images/2014-1-11-Topography/world1000.png)
 
-## AI/ML
+## AI
 
 1. [DeepFaceLive](https://github.com/iperov/DeepFaceLive)
 

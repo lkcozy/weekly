@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 244, 2024-06-09
+# AI-GISer's Weekly Issue 244, 2024-06-09
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 The free administrative boundary data of provinces, cities and counties in China. The API interface is updated in real time, which is suitable for map applications such as echarts.
 
-## AI/ML
+## AI
 
 1. [DocSolver - Create a ChatGPT Chatbot for Your PDF Files](https://github.com/ai-hermes/doc-solver)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 30
+# AI-GISer's Weekly Issue 30
 
 ## GeoSpatial
 
@@ -34,7 +34,7 @@ New research has also looked at how wearable devices, which have GPS capabilitie
 
 Ito World is a transport information company based in the UK. They aimed to make cities smarter and transport systems more intelligent by delivering real-time transit data feeds and data visualization design services.
 
-## AI/ML
+## AI
 
 1. [VidPress: Baidu's New AI Tool Creating Videos from a URL with One-Click](http://research.baidu.com/Blog/index-view?id=134)
 

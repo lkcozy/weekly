@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 190, 2023-05-26
+# AI-GISer's Weekly Issue 190, 2023-05-26
 
 ## GeoSpatial
 

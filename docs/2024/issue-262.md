@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 262, 2024-10-14
+# AI-GISer's Weekly Issue 262, 2024-10-14
 
 ## GeoSpatial
 
@@ -12,7 +12,7 @@ The map highlights the top tech talent hubs in North America in 2023, with the B
 - Canadian cities, such as Ottawa, Toronto, and Vancouver, are experiencing high tech job growth rates.
 - Toronto added the most tech talent jobs in North America, with a strong focus on AI talent.
 
-## AI/ML
+## AI
 
 1. [bolt.new](https://bolt.new/)
 

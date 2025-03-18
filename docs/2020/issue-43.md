@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 43
+# AI-GISer's Weekly Issue 43
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ Snow on top of sea ice plays an important role in the rate in which ice can melt
 
 Textures.js is a javascript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization.
 
-## AI/ML
+## AI
 
 1. [Robot Chef](https://www.sixthtone.com/news/1005845/)
 

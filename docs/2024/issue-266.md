@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 266, 2024-11-12
+# AI-GISer's Weekly Issue 266, 2024-11-12
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 KeepTrack.Space is an open-source platform that allows users to track satellites and space debris in real-time. It is designed for non-engineers, providing a user-friendly interface to simulate and analyze orbital data. The tool can handle simulations of up to 2.5 million pieces of debris, making it suitable for educational purposes, operations centers, and outreach programs.
 
-## AI/ML
+## AI
 
 1. [Srcbook](https://github.com/srcbookdev/srcbook)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 135, 2022-04-29
+# AI-GISer's Weekly Issue 135, 2022-04-29
 
 ## GeoSpatial
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 39
+# AI-GISer's Weekly Issue 39
 
 ## GeoSpatial
 
@@ -51,7 +51,7 @@ var poly = lookup.search(1, 2);
 console.log(poly.properties.id); // bar
 ```
 
-## AI/ML
+## AI
 
 1. [AI Does the Dishes](https://dishcraft.com/)
 

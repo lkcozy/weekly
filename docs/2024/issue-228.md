@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 228, 2024-02-18
+# AI-GISer's Weekly Issue 228, 2024-02-18
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ Furthermore, the integration of AI and machine learning technologies holds the p
 
 The incorporation of IoT innovations in conjunction with crowdsourcing methodologies yields a more detailed and holistic understanding of environments and societal interactions.
 
-## AI/ML
+## AI
 
 1. [Albus](https://albus.org/)
 

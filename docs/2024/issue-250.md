@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 250, 2024-07-22
+# AI-GISer's Weekly Issue 250, 2024-07-22
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Sparkgeo addresses geospatial challenges with open and independent solutions, in
 - WMS and pre-existing tile retrieval methods offer flexibility and performance benefits for generating and delivering images.
 - The Tile ID API supports XYZ, TMS, and Quadkey tiling schemes to provide identifiers for each tile in PNG or JPEG format.
 
-## AI/ML
+## AI
 
 1. [Jobright.ai](https://jobright.ai/)
 

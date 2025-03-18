@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 35
+# AI-GISer's Weekly Issue 35
 
 ## GeoSpatial
 
@@ -36,7 +36,7 @@ These sensors are machine-washable and can be integrated into clothing that appe
 
 The sensor-embed garments are ideal for monitoring people who are ill, either at home or in the hospital, as well as athletes or astronauts.
 
-## AI/ML
+## AI
 
 1. [AI speeds up the search for COVID-19 treatments and vaccines](https://news.northwestern.edu/stories/2020/05/ai-tool-speeds-up-search-for-covid-19-treatments-and-vaccines/?fj=1)
 

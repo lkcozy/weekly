@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 260, 2024-09-30
+# AI-GISer's Weekly Issue 260, 2024-09-30
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ Leaflet is a free, open-source JavaScript library for creating interactive and r
 - It is data provider agnostic, allowing you to source map tiles from third-party providers such as OpenStreetMap.
 - Leaflet has a vibrant community, comprehensive documentation, minimal learning curve, and a small bundle size with good performance optimizations.
 
-## AI/ML
+## AI
 
 1. [Cherry Studio](https://github.com/kangfenmao/cherry-studio)
 

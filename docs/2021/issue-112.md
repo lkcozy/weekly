@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 113,2021-11-19
+# AI-GISer's Weekly Issue 113,2021-11-19
 
 ## GeoSpatial
 

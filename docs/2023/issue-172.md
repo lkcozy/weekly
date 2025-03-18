@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 172, 2023-01-16
+# AI-GISer's Weekly Issue 172, 2023-01-16
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ A cool dynamic 3D planet new tab supports Search, Clock, Weather and custom.
 
 What does the city of the future look like in the USA? Let's take a trip to Any City USA of the mid-21st century. With a look at the existing situation, current trends, and recent government policy, let's take a look at where we'll work, how we'll get around, and where and who we'll live with in the coming decades.
 
-## AI/ML
+## AI
 
 1. [Image Creator](https://cn.bing.com/create)
 

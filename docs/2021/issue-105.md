@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 105,2021-10-01
+# AI-GISer's Weekly Issue 105,2021-10-01
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ A look at what it takes to incorporate 3D models of buildings, terrain, and envi
 
 Spatial storytelling has been employed by media organizations worldwide to raise awareness of recent events, and public and private organizations are analysing massive volumes of location data to lessen the catastrophic and often fatal effects of extreme weather.
 
-## AI/ML
+## AI
 
 1. [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 

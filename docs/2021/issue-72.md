@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 72
+# AI-GISer's Weekly Issue 72
 
 ## GeoSpatial
 
@@ -27,7 +27,7 @@ Carto predicts 3 Spatial Data Science trends in 2021. These trends can play a vi
 - `Next Gen Data Warehouses`:Next generation data warehouses, such as BigQuery, Snowflake, Redshift, and Azure Synapse Analytics, provide processing power that can be leveraged through SQL or Python notebooks, which have three key characteristics that make the game changers from previous generations
 - `Data Democratization`: Data democratization means that everybody has access to data, and there are no gatekeepers that create a bottleneck at the gateway to the data.
 
-## AI/ML
+## AI
 
 1. [Eyes On Drivers](https://www.deeplearning.ai/the-batch/issue-78/)
 

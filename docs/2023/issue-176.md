@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 176, 2023-02-07
+# AI-GISer's Weekly Issue 176, 2023-02-07
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Using data from the United States Geological Survey (USGS), creator PythonMaps m
 
 Boeing delivered the last Boeing 747 aircraft, and this model was no longer produced. As a memorial, the plane drew the flight trajectory of "747" in the sky.
 
-## AI/ML
+## AI
 
 1. [How does ChatGPT work?](https://blog.bytebytego.com/p/ep-44-how-does-chatgpt-work)
 

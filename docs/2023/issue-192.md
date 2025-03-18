@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 192, 2023-06-10
+# AI-GISer's Weekly Issue 192, 2023-06-10
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ The graphic shows the change in residential property prices with data from the B
 
 Global housing prices rose an average of 6% annually, between Q4 2021 and Q4 2022.In real terms that take inflation into account, prices actually fell 2% for the first decline in 12 years. Despite a surge in interest rates and mortgage costs, housing markets were noticeably stable. Real prices remain 7% above pre-pandemic levels.
 
-## AI/ML
+## AI
 
 1. [Tabby](https://github.com/TabbyML/tabby)
 

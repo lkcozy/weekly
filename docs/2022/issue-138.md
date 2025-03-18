@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 138, 2022-05-23
+# AI-GISer's Weekly Issue 138, 2022-05-23
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ Lidar (light detection and ranging) is a typical remote sensing technique used t
 
 The built-in lidar scanners on the new iPhone and iPad Pros provide an easy, hand-held way to create 3D models of objects of interest rapidly. The 3D model combines lidar and photogrammetry (pictures taken from different object views to create a 3D reconstruction). The lidar provides a known scale, and the photos provide texture for the 3D models.
 
-## AI/ML
+## AI
 
 1. [Recognizing Workplace Hazards](https://read.deeplearning.ai/the-batch/issue-145/)
 

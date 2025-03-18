@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 133, 2022-04-15
+# AI-GISer's Weekly Issue 133, 2022-04-15
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ Mini Tokyo 3D is a real-time 3D map of Tokyo's public transit. Trains in motion 
 
 An online data visualization and distribution platform focused on the geography and dynamics of economic activities.
 
-## AI/ML
+## AI
 
 1. [AI Enters the Radiology Department](https://read.deeplearning.ai/the-batch/issue-140/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 57
+# AI-GISer's Weekly Issue 57
 
 ## GeoSpatial
 
@@ -34,7 +34,7 @@ From what he says, it is clear that different skills are needed to making a good
 
 This is a look at 100 years of California wildfires aggregated into 100-square-mile cells. Cells are colour-coded by the cumulative burn area within each. In many cases, a cell's 100-year accumulation of burns represents more than 100% of its area.
 
-## AI/ML
+## AI
 
 1. [RL Agents: SOS!](https://www.agence.ai/)
 

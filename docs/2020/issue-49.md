@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 49, 2021-08-16
+# AI-GISer's Weekly Issue 49, 2021-08-16
 
 ## GeoSpatial
 
@@ -28,7 +28,7 @@ They're also hierarchical, though not as strictly as the squares and geohashes (
 
 This blog post outlines the technical details of the H3 system (and is the source of the above images)
 
-## AI/ML
+## AI
 
 1. [Computer Vision Recipes](https://github.com/microsoft/computervision-recipes)
 

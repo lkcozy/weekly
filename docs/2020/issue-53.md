@@ -1,4 +1,4 @@
-# GISer's Weekly Issue
+# AI-GISer's Weekly Issue
 
 ## GeoSpatial
 
@@ -36,7 +36,7 @@ TerraLens 3DWeb™ is a JavaScript library that allows developers to easily crea
 - Predictive analytics will drive the next industrial revolution
 - Are video games the bar to which industry should aspire?
 
-## AI/ML
+## AI
 
 1. [CML](https://github.com/iterative/cml)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 245, 2024-06-17
+# AI-GISer's Weekly Issue 245, 2024-06-17
 
 ## GeoSpatial
 
@@ -13,7 +13,7 @@ The article discusses the income needed for single adults to live comfortably in
 - West Virginia is the least expensive for a single adult, with an estimated income of $78,790 annually.
 - To live comfortably in the top five states, individuals would need to earn nearly double the U.S. median income for single, full-time workers.
 
-## AI/ML
+## AI
 
 1. [LM Studio](https://lmstudio.ai/)
 

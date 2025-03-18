@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 153, 2022-09-04
+# AI-GISer's Weekly Issue 153, 2022-09-04
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ Ventusky is a solution that lets you check the weather forecast for any location
 
 This map shows the world's flight paths and airports. It maps 10,000 airports and 67,663 routes linking those airports.
 
-## AI/ML
+## AI
 
 1. [AI Background Generator](https://www.photoroom.com/backgrounds/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 269, 2024-12-01
+# AI-GISer's Weekly Issue 269, 2024-12-01
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ This chart tracks how the share of total venture capital deal value changed arou
 
 A big reason for Asia’s growing share is China. It became the world’s manufacturer in the 2000s, eclipsed Japan as the second-largest economy in 2010, and has in recent years, seen a growing tech sector emerge.
 
-## AI/ML
+## AI
 
 1. [Netron](https://github.com/lutzroeder/netron)
 

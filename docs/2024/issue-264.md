@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 264, 2024-10-28
+# AI-GISer's Weekly Issue 264, 2024-10-28
 
 ## GeoSpatial
 
@@ -21,7 +21,7 @@ Authored by Jack Dangermond, Esri's founder, "The Power of Where" serves as a co
 - Chapters on geographic data, spatial analysis, and data visualization
 - Case studies covering various industries such as agriculture, urban planning, and social justice
 
-## AI/ML
+## AI
 
 1. [Crawl4AI](https://github.com/unclecode/crawl4ai)
 

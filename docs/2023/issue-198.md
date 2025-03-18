@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 198, 2023-07-23
+# AI-GISer's Weekly Issue 198, 2023-07-23
 
 ## GeoSpatial
 
@@ -23,7 +23,7 @@ Livestock, including meat, dairy, and eggs, make up a significant portion of the
 - Sheep populations are highest in North and Central Africa, the Middle East, Central Asia, Australia, New Zealand, and the UK.
 - Goats are concentrated in North India, North China, Mongolia, and many African countries.
 
-## AI/ML
+## AI
 
 1. [ReVision](https://marketplace.visualstudio.com/items?itemName=XiaodiYan.revision)
 

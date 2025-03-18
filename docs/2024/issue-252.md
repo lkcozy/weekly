@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 252, 2024-08-05
+# AI-GISer's Weekly Issue 252, 2024-08-05
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Primary features:
   - Extended MQTT Capabilities
   - Automatic synchronization of Datastream->phenomenonTime with linked Observation->phenomenonTime
 
-## AI/ML
+## AI
 
 1. [Outfitify](https://outfitify.tech/)
 

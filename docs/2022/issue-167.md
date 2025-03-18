@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 167, 2022-12-12
+# AI-GISer's Weekly Issue 167, 2022-12-12
 
 ## GeoSpatial
 
@@ -38,7 +38,7 @@ GIS reveals all.
 
 ![](https://www.visualcapitalist.com/wp-content/uploads/2022/11/Every-AirBnB-Listing-in-Megacities-Visual-Capitalist-Preyash-Sha-1200.jpeg)
 
-## AI/ML
+## AI
 
 1. [ChatGPT](https://openai.com/blog/chatgpt/)
 

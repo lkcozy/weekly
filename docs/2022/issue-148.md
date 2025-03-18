@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 148, 2022-07-30
+# AI-GISer's Weekly Issue 148, 2022-07-30
 
 ## GeoSpatial
 
@@ -31,7 +31,7 @@ This map shows you how far you can travel from each station in Europe in less th
 
 GIS data can be separated into two categories: **spatially referenced data**, which is represented by **vector** and **raster** forms (including imagery) and **attribute tables**, which are represented in tabular format.
 
-## AI/ML
+## AI
 
 1. [Auto Diagnosis](https://read.deeplearning.ai/the-batch/military-ai-spending-grows-automated-talent-scout-drive-thru-car-inspection-humanized-training-for-robots/)
 

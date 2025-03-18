@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 168, 2022-12-17
+# AI-GISer's Weekly Issue 168, 2022-12-17
 
 ## GeoSpatial
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 203, 2023-08-28
+# AI-GISer's Weekly Issue 203, 2023-08-28
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ On Aug. 24, 2023, BRICS announced that it would formally accept six new members 
 
 3. [Powering the future with our new Solar API](https://cloud.google.com/blog/products/maps-platform/powering-future-our-new-solar-api)
 
-## AI/ML
+## AI
 
 1. [Transmate](https://transmate.ai/)
 

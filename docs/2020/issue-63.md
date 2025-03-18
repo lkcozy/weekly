@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 63
+# AI-GISer's Weekly Issue 63
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ Indoor Mapping Data Format (referenced throughout this document as "IMDF") provi
 
 This release also has an extension model that enables a venue, organization, or even industry to create useful features and validations not available in the current private or public use specification.
 
-## AI/ML
+## AI
 
 1. [Kris](https://krisp.ai/)
 

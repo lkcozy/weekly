@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 205, 2023-09-10
+# AI-GISer's Weekly Issue 205, 2023-09-10
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ The tutorial also suggests potential improvements to the app to improve performa
 
 Titiler, pronounced tee-tiler (ti is the diminutive version of the french petit which means small), is a set of python modules that focus on creating FastAPI application for dynamic tiling.
 
-## AI/ML
+## AI
 
 1. [Whisper Web](https://huggingface.co/spaces/Xenova/whisper-web)
 

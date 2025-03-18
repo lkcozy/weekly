@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 199, 2023-07-30
+# AI-GISer's Weekly Issue 199, 2023-07-30
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 The article discusses a new world record for the longest line of sight photograph, which was taken of the Barre des Ecrins in the Alps from the Pic de Finestrelles in the Pyrenees.The photograph set a new world record for the farthest photograph of a landscape at 443 kilometers
 
-## AI/ML
+## AI
 
 1. [OpenCat](https://github.com/PetoiCamp/OpenCat)
 
@@ -93,7 +93,6 @@ A software architect is responsible for making high-level design choices and set
 
 3. Patience only works if you do. Doing the work + patience = results. Planning to work + patience = you’re just waiting.
    --[X User](https://twitter.com/JamesClear/status/1679128514006601728)
-
 
 ## Review
 

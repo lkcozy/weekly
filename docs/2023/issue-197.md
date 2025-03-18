@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 197, 2023-07-16
+# AI-GISer's Weekly Issue 197, 2023-07-16
 
 ## GeoSpatial
 
@@ -12,7 +12,7 @@ For example, Felt lets you upload anything! That’s a bold promise, you can upl
 
 Felt is also the first and only flagship sustaining member of the QGIS project, they are supporting the development of a build and open-source tiling engine, Tippecanoe.
 
-## AI/ML
+## AI
 
 1. [NoteGPT](https://chrome.google.com/webstore/detail/notegpt-summary-with-chat/baecjmoceaobpnffgnlkloccenkoibbb)
 

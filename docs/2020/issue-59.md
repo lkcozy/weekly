@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 59
+# AI-GISer's Weekly Issue 59
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ Using this process, they trained generative models on map tiles from several cit
 
 ![](https://opendot.github.io/ml4a-invisible-cities/assets/images/invisible_cities_patchwork_02.jpg)
 
-## AI/ML
+## AI
 
 1. [Face Recognition Face-Off](https://blog.deeplearning.ai/blog/the-batch-turning-tables-on-face-recognition-testing-gpt-3-recognizing-disinformation-detecting-deepfakes)
 

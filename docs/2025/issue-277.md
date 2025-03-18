@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 277, 2025-01-27
+# AI-GISer's Weekly Issue 277, 2025-01-27
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 PyPSA is an open source toolbox for simulating and optimising modern power and energy systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks. PyPSA is designed to scale well with large networks and long time series.
 
-## AI/ML
+## AI
 
 1. [Dear Software Engineer: It's Time to Reclaim Your Role](https://annievella.com/posts/dear-software-engineer/)
 

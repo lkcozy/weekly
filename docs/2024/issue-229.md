@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 22, 2024-02-21
+# AI-GISer's Weekly Issue 22, 2024-02-21
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ Yellow dots mark the source, while purple, orange, and yellow shading shows how 
 
 > Methane is a potent greenhouse gas that's responsible for nearly a third of global warming. Nearly 40% of manmade methane comes from oil, gas, and coal operations.
 
-## AI/ML
+## AI
 
 1. [AI Image to Music Generator](https://imagetomusic.top/)
 

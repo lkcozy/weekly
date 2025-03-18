@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 181, 2023-06-04
+# AI-GISer's Weekly Issue 181, 2023-06-04
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Canada's boreal zone is a vast vegetative belt and is a crucial regulator of the
 
 The article discusses the various ways in which we visualize the world, including maps, globes, and satellite imagery. It examines the advantages and limitations of using globes versus maps, the different types of map projections and the distortions they introduce, and the categorizations of these projections into cylindrical, conic, azimuthal, and pseudocylindrical. The article also provides examples of specific map projections within each category.
 
-## AI/ML
+## AI
 
 1. [Zoo](https://github.com/replicate/zoo)
 

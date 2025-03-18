@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 94
+# AI-GISer's Weekly Issue 94
 
 ## GeoSpatial
 
@@ -36,7 +36,7 @@ Rockley Photonics, a silicon photonics technology company, has launched its comp
 
 The sensor module and associated reference designs for consumer products integrate hardware and application firmware to enable wearable devices to monitor multiple biomarkers, including core body temperature, blood pressure, body hydration, alcohol level, lactate, and glucose trends, among other variables.
 
-## AI/ML
+## AI
 
 1. [Walking the Dog](https://read.deeplearning.ai/the-batch/issue-100/)
 

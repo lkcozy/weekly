@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 79
+# AI-GISer's Weekly Issue 79
 
 ## GeoSpatial
 
@@ -28,7 +28,7 @@ There are some applications for AR headsets. One is their use in mixed reality w
 
 Critics say that increased use of these devices can make workers more dependent on technology and less on traditional know-how.
 
-## AI/ML
+## AI
 
 1. [Tesla Safety Under Investigation](https://www.deeplearning.ai/the-batch/issue-85/)
 

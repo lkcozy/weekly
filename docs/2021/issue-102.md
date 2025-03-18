@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 102, 2021-09-10
+# AI-GISer's Weekly Issue 102, 2021-09-10
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ One Concern analyzes data sources including Google Street View and satellite ima
 
 Icon font set for use with GIS and spatial analysis tools
 
-## AI/ML
+## AI
 
 1. [Solar System](https://read.deeplearning.ai/the-batch/issue-108/)
 

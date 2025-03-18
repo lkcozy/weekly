@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 274, 2025-01-06
+# AI-GISer's Weekly Issue 274, 2025-01-06
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 Provides comprehensive demographic and visual data for countries and regions around the world, and also provides visual data for dimensions such as educational military environments
 
-## AI/ML
+## AI
 
 1. [AI SDK](https://github.com/vercel/ai)
 

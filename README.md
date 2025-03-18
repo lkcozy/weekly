@@ -1,8 +1,8 @@
-# 🌏 GISer Weekly Updates
+# 🌏 AI-GISer Weekly Updates
 
-Keep track of GeoSpatial & IoT & AI/ML & other interesting content worth sharing every week.
+Keep track of & AI & GeoSpatial & IoT, and other interesting content worth sharing every week.
 
-- [🌏 GISer Weekly Updates](#-giser-weekly-updates)
+- [🌏 AI-GISer Weekly Updates](#-ai-giser-weekly-updates)
   - [🔎 Search](#-search)
   - [🐍 2025](#-2025)
   - [🐲 2024](#-2024)
@@ -33,7 +33,7 @@ grep -nri gis docs | cat -n
 
 ## 🐍 2025
 
-**February**: [Reading Fragments](fragments/2024.02.md) | [Issue #278](docs/2025/issue-278.md)🚀
+**February**: [Reading Fragments](fragments/2024.02.md) | [Issue #280](docs/2025/issue-280.md)🚀 | [Issue #279](docs/2025/issue-279.md) | [Issue #278](docs/2025/issue-278.md)
 
 **January**: [Reading Fragments](fragments/2025.01.md) | [Issue #277](docs/2025/issue-277.md) | [Issue #276](docs/2025/issue-276.md) | [Issue #275](docs/2025/issue-275.md) | [Issue #274](docs/2025/issue-274.md)
 

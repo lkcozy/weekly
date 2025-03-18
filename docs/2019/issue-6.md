@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 6, 2019-09-23
+# AI-GISer's Weekly Issue 6, 2019-09-23
 
 ## GeoSpatial
 
@@ -40,7 +40,7 @@ The author shows how to animate 17,000+ public libraries in the US on maps with 
 
 Thanks to Trump, we’ve got a better idea of the capabilities of US Surveillance satellites. Trump's tweet unwittingly revealed some of the capabilities of a top-secret satellite called USA 224, an optical reconnaissance satellite.
 
-## AI/ML
+## AI
 
 1. [AI Farmbots Want Jobs Americans Don't](https://www.cnn.com/2019/09/04/business/robot-farmers/index.html?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77004961&_hsenc=p2ANqtz-8d2U4S4iDBzB0IS5LFTVCl6Ip3Ybv7ct1TEh-pTLn5sPUgwEZLX1dx7qZuplNR2PcZrKtZcRC6w_j_ajRLKntFiO1VVA&_hsmi=77004961)
 

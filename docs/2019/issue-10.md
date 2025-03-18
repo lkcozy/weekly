@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 10, 2019-10-21
+# AI-GISer's Weekly Issue 10, 2019-10-21
 
 ## GeoSpatial
 
@@ -58,7 +58,7 @@ Melbourne, Sydney and New York fit better into the North American cities we have
 
 The large Asian cities of Beijing, Shanghai, Chongqing, Chengdu and Seoul have very high density centres supported by high large high density surrounding areas. Tokyo and Jakarta are different in that they are lacking the very high density spikes but have uniform high density throughout the city. Mexico City, as well as the South American cities on our list follow a similar pattern of fairly uniform high density. Cape Town looks almost North American like a smaller version of New York. Lagos has some fairly large very-high density areas, which sets it apart from the Asian giants that typically have smaller very-high density spikes.
 
-## AI/ML
+## AI
 
 1. [The Drone Racing League](https://thedroneracingleague.com/)
 

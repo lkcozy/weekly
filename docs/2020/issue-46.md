@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 46
+# AI-GISer's Weekly Issue 46
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ The COVID-19 pandemic highlights the importance of GIS and spatial analysis of p
 
 There are, of course, lessons learned that have helped the next generation of tools be thought about based on needs. It is clear that spatiotemporal modelling and analysis will be critical to the healthcare system, allowing real-time tracking of infections and forecasting. A second need is also to allow systems to be interactive and enable data sharing.
 
-## AI/ML
+## AI
 
 1. [Scientific Discovery on a Roll](https://www.nature.com/articles/s41586-020-2442-2)
 

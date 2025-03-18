@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 41
+# AI-GISer's Weekly Issue 41
 
 ## GeoSpatial
 
@@ -34,7 +34,7 @@ Invasive species can have a devastating impact on economies and the environment.
 
 Increasingly, researchers are finding many different platforms suitable for tracking invasive species. Multispectral satellites such as Landsat 7 ETM offers one possibility. Invasive species such as tamarix (Tamarix spp.) can cause a lot of damage because it is difficult to remove from riparian regions in the western United States. Using normalized difference vegetation index (NDVI) to take advantage of the fact that tamarix sprouts its leaves early in the spring and sheds its leaves late in autumn has allowed researchers to track how this plant has moved along rivers and regions in Colorado.
 
-## AI/ML
+## AI
 
 1. [What Were We Talking About?](https://blog.deeplearning.ai/blog/the-batch-nlp-special-issue-powerful-techniques-from-amazon-apple-facebook-google-microsoft-salesforce)
 

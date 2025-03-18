@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 159, 2022-10-17
+# AI-GISer's Weekly Issue 159, 2022-10-17
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ In this paper, we'll explore how you can prepare your business for IoT, AI, and 
 
 IoT is transforming a world of things into a world of data.
 
-## AI/ML
+## AI
 
 1. [Practical Deep Learning](https://course.fast.ai/)
 

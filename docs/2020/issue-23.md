@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 23
+# AI-GISer's Weekly Issue 23
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ At the more expensive end of the list, we have countries where the infrastructur
 
 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.
 
-## AI/ML
+## AI
 
 1. [Packing Robots Get a Grip](https://www.prnewswire.com/news-releases/covariant-launches-from-stealth-to-bring-universal-ai-to-robots-300995185.html)
 

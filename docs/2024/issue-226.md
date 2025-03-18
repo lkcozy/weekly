@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 226, 2024-02-05
+# AI-GISer's Weekly Issue 226, 2024-02-05
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ Automobile sensors in self-driving cars use camera data, radar, and LiDAR to det
 
 ![](<https://images.interestingengineering.com/1200x675/filters:format(webp)/img/iea/Xm6lqvDbwD/800px-ouster-os1-64-lidar-point-cloud-of-intersection-of-folsom-and-dore-st-san-francisco.png>)
 
-## AI/ML
+## AI
 
 1. [Noi](https://github.com/lencx/Noi)
 

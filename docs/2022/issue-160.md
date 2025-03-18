@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 160, 2022-10-24
+# AI-GISer's Weekly Issue 160, 2022-10-24
 
 ## GeoSpatial
 
@@ -37,7 +37,7 @@ The idea has been discussed recently due to the development of blockchain and de
 
 In Web 3.0, the ownership change may lead to some major innovations.
 
-## AI/ML
+## AI
 
 1. [Deep Learning Interviews book](https://github.com/BoltzmannEntropy/interviews.ai)
 

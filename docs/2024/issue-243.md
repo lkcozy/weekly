@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 242, 2024-06-05
+# AI-GISer's Weekly Issue 242, 2024-06-05
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ The Geofence Algorithm
 > Calculate the closest point within the boundary relative to the current position of the cursor
 > Reset the coordinates of the marker to prevent it from escaping
 
-## AI/ML
+## AI
 
 1. [Experts.js](https://github.com/metaskills/experts)
 

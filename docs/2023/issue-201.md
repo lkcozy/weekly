@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 201, 2023-08-13
+# AI-GISer's Weekly Issue 201, 2023-08-13
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 Rendered.ai is the Platform as a service for creating synthetic data. The platform uses industry-standard models and techniques to generate a variety of synthetic imagery.
 
-## AI/ML
+## AI
 
 1. [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw/tree/main)
 

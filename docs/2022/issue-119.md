@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 119, 2022-01-07
+# AI-GISer's Weekly Issue 119, 2022-01-07
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ First-order impacts (number of COVID-19 cases) lead to the second-order effects.
 
 ![](https://hbr.org/resources/images/article_assets/2022/01/Jan22_05_1040543454-2.jpg)
 
-## AI/ML
+## AI
 
 1. [Robots in the Workplace](https://read.deeplearning.ai/the-batch/issue-126/)
 

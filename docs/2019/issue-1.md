@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 1, 2019-08-19
+# AI-GISer's Weekly Issue 1, 2019-08-19
 
 ## GeoSpatial
 
@@ -53,7 +53,7 @@ Kepler.gl is a powerful open source geospatial analysis tool for large-scale dat
 
 Planet Analytics is a platform from the satellite imagery provider that provides road detection, building detection, and vessel detection & tracking.
 
-## AI/ML
+## AI
 
 1.[Prediction Machines: The Simple Economics of AI](https://www.youtube.com/watch?v=ByvPp5xGL1I&amp=&t=2569s)
 

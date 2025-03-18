@@ -1,4 +1,4 @@
-# GISer's Weekly Issue
+# AI-GISer's Weekly Issue
 
 ## GeoSpatial
 
@@ -34,7 +34,7 @@ Numbeo is the world’s largest cost of living database. Numbeo is also a crowd-
 
 In this tutorial, the author extends deck.gl's ArcLayer to build an AnimatedArcLayer that mimics the visuals of air traffic.
 
-## AI/ML
+## AI
 
 1. [More Data for Medical AI](https://www.nature.com/articles/s41598-019-52737-x)
 

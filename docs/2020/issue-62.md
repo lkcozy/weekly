@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 62
+# AI-GISer's Weekly Issue 62
 
 ## GeoSpatial
 
@@ -30,7 +30,7 @@ Sentinel-6 uses radar pulses that are transmitted and received using a timing ar
 
 This arrangement allows for unfocussed synthetic aperture radar (SAR) data processing to be performed. The altimeter synthesizes a large antenna as it flies forward by exploiting the Doppler characteristics of the return echoes.
 
-## AI/ML
+## AI
 
 1. [Very Short, Did Read](https://blog.deeplearning.ai/blog/the-batch-government-ai-falls-short-face-recognition-for-bears-research-papers-in-one-sentence-counting-crowds)
 

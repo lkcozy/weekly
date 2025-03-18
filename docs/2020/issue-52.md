@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 52
+# AI-GISer's Weekly Issue 52
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ Starlink is the company's ambitious plan to build an interconnected network of a
 
 The author introduces WebGL (through three.js) to make an interactive globe in a browser.
 
-## AI/ML
+## AI
 
 1. [Credit Where It's Due](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.17301.html)
 

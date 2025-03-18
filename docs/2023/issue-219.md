@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 219, 2023-12-16
+# AI-GISer's Weekly Issue 219, 2023-12-16
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 
-## AI/ML
+## AI
 
 1. [Data Version Control](https://github.com/iterative/dvc)
 

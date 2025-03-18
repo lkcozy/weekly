@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 126, 2022-02-26
+# AI-GISer's Weekly Issue 126, 2022-02-26
 
 ## GeoSpatial
 
@@ -28,7 +28,7 @@ Blockchain scalability was a big problem. But, most of the current debate concer
 
 A web dashboard and SQL Editor for Postgres.
 
-## AI/ML
+## AI
 
 1. [Unsupervised Anomaly detection on Spotify data: K-Means vs Local Outlier Factor](https://towardsdatascience.com/unsupervised-anomaly-detection-on-spotify-data-k-means-vs-local-outlier-factor-f96ae783d7a7)
 

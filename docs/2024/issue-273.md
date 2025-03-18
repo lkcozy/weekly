@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 273, 2024-12-30
+# AI-GISer's Weekly Issue 273, 2024-12-30
 
 ## GeoSpatial
 
@@ -13,7 +13,7 @@ This issue explores the topic of AI for weather forecasting.
 - AI-based weather forecasting has revolutionized the field, offering faster predictions and tailored forecasts.
 - Private weather forecasting companies face challenges in scaling due to competition from government agencies, commoditized markets, and customized solutions.
 
-## AI/ML
+## AI
 
 1. [AI SDK](https://github.com/vercel/ai)
 

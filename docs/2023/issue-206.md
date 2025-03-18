@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 206, 2023-09-17
+# AI-GISer's Weekly Issue 206, 2023-09-17
 
 ## GeoSpatial
 
@@ -10,7 +10,7 @@ Using data from the National Centers for Environment Information (NCES), this ar
 
 The 2010 earthquake in Haiti, with hundreds of aftershocks, claimed over 300,000 lives, making it the deadliest earthquake of the 21st century.
 
-## AI/ML
+## AI
 
 1. [Build your own AI Meme Generator & learn how to use OpenAI's function calls](https://wasp-lang.dev/blog/2023/10/17/ai-meme-generator-how-to-use-openai-function-call#tldr)
 

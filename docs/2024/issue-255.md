@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 255, 2024-08-26
+# AI-GISer's Weekly Issue 255, 2024-08-26
 
 ## GeoSpatial
 
@@ -12,7 +12,7 @@ Researchers used a multi-layered approach, incorporating climate models, satelli
 
 GIS and system dynamics modeling can help predict evolving weather conditions and energy source reliability, allowing for optimal deployment of renewable energy.
 
-## AI/ML
+## AI
 
 1. [js-pytorch](https://github.com/eduardoleao052/js-pytorch)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 261, 2024-10-07
+# AI-GISer's Weekly Issue 261, 2024-10-07
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 An open-source framework that enables rapid implementation of your 3D visualization projects [tres.js three.js vue3 ts]
 
-## AI/ML
+## AI
 
 1. [KaibanJS](https://github.com/kaiban-ai/KaibanJS)
 

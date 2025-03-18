@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 25
+# AI-GISer's Weekly Issue 25
 
 ## GeoSpatial
 

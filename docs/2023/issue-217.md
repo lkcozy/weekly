@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 21, 2023-12-02
+# AI-GISer's Weekly Issue 21, 2023-12-02
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 Pelias is a search engine for places worldwide, powered by open data. It turns addresses and place names into geographic coordinates, and turns geographic coordinates into places and addresses. With Pelias, you’re able to turn your users’ place searches into actionable geodata and transform your geodata into real places.
 
-## AI/ML
+## AI
 
 1. [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 

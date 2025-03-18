@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 139, 2022-05-31
+# AI-GISer's Weekly Issue 139, 2022-05-31
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ We see the population becoming more concentrated near the equator. In particular
 
 ![](https://www.visualcapitalist.com/wp-content/uploads/2022/05/VC-Alasdair-Rae-World-Population-by-Latitude-Chart-Small.png)
 
-## AI/ML
+## AI
 
 1. [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete)
 

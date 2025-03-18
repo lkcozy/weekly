@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 29
+# AI-GISer's Weekly Issue 29
 
 ## GeoSpatial
 
@@ -44,7 +44,7 @@ Note:
 
 ![](https://miro.medium.com/max/846/1*gBVQrx8BLUKV-Xiqb8ZvYg.png)
 
-## AI/ML
+## AI
 
 1. [Assaia Apron AI](https://assaia.com/)
 

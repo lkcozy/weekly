@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 11, 2019-11-04
+# AI-GISer's Weekly Issue 11, 2019-11-04
 
 ## GeoSpatial
 
@@ -54,7 +54,7 @@ The globes are designed to be printed in A3, but A4 is fine too. But generally, 
 
 The 2019 Fall Foliage Map is the ultimate visual planning guide to the annual progressive changing of the leaves. While no tool can be 100% accurate, this tool is meant to help travellers better time their trips to have the best opportunity of catching peak colour each year.
 
-## AI/ML
+## AI
 
 1. [Streamlit](https://github.com/streamlit/streamlit)
 

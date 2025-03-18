@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 225, 2024-01-27
+# AI-GISer's Weekly Issue 225, 2024-01-27
 
 ## GeoSpatial
 
@@ -13,7 +13,7 @@ Georeferencing in QGIS is the process of aligning a digital image of a map with 
 - Ground control points are used to align the map with real-world coordinates.
 - After georeferencing, the scanned map can be used with other spatial data in GIS applications.
 
-## AI/ML
+## AI
 
 1. [Replicate](https://replicate.com/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 91
+# AI-GISer's Weekly Issue 91
 
 ## GeoSpatial
 
@@ -52,7 +52,7 @@ GDAL is an open-source geospatial data processing library used for raster and ve
 
 This library is used by many leading geospatial software packages and is the foundation of several GIS stacks.
 
-## AI/ML
+## AI
 
 1. [AI Wildfire Detection Systems](https://abc7news.com/wildfire-ai-artificial-intelligence-sonoma-county/10763475/)
 

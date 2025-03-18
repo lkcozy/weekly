@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 249, 2024-07-15
+# AI-GISer's Weekly Issue 249, 2024-07-15
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ Determining longitude was historically difficult until the invention of the mari
 
 The International Date Line marks the transition between calendar days and passes through the Pacific Ocean.
 
-## AI/ML
+## AI
 
 1. [302.AI](https://302.ai/en/)
 

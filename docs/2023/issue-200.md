@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 200, 2023-08-06
+# AI-GISer's Weekly Issue 200, 2023-08-06
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ To find all the points within a certain radius of a location, we only need to se
 
 The Geospatial Data Abstraction Library (GDAL) is a critical piece of GIS software used for raster and vector geospatial operations.
 
-## AI/ML
+## AI
 
 1. [ChatHub](https://github.com/chathub-dev/chathub)
 

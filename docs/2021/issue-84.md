@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 84
+# AI-GISer's Weekly Issue 84
 
 ## GeoSpatial
 
@@ -25,7 +25,7 @@ The Webinar discusses how you can ensure your IoT data architecture is structure
 
 Skydio 3D Scan™ is a first-of-its-kind adaptive scanning software to automate the data capture process needed to generate 3D models with comprehensive coverage and ultra-high resolution. Perform higher quality inspections faster with minimal pilot training.
 
-## AI/ML
+## AI
 
 1. [Banking on Computer Vision](https://www.deeplearning.ai/the-batch/issue-90/)
 

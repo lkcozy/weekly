@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 21
+# AI-GISer's Weekly Issue 21
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ The result shows that the European air quality is split in two between West and 
 
 GeoViews is a Python library that makes it easy to explore and visualize any data that includes geographic locations.
 
-## AI/ML
+## AI
 
 1. [Elements of AI](https://course.elementsofai.com/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 7, 2019-10-01
+# AI-GISer's Weekly Issue 7, 2019-10-01
 
 ## GeoSpatial
 
@@ -44,7 +44,7 @@ In their pipeline, each pySpark application produces a dataset persisted in a hi
 
 They partition all the resulting datasets by both a temporal and spatial dimension to speed up the data processing.
 
-## AI/ML
+## AI
 
 1. [CivDrone](https://www.therobotreport.com/civdrone-disrupt-construction-workflows/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77292076&_hsenc=p2ANqtz-8wnDkftYh9yYEu5NBRT2-vBShPpXQuAl4Y77Oo25PtTjm_OSNCu-ajGt_TvFbdL5aO_DetLu6x44QumwclucM2G9cVRw&_hsmi=77292076)
 

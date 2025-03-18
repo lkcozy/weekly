@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 13, 2022-05-06
+# AI-GISer's Weekly Issue 13, 2022-05-06
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ This repo contains some basic examples on how to query Locations and HistoricalL
 
 Docker stack to set up a LoRaWAN infrastructure including a FROST-Server on a Raspberry Pi
 
-## AI/ML
+## AI
 
 1. [An Agile Framework for AI Projects — Development, QA, Deployment and Maintenance](https://towardsdatascience.com/an-agile-framework-for-ai-projects-development-cbe115ba86a2)
 

@@ -1,6 +1,6 @@
-# GISer's Weekly Issue 276, 2025-01-20
+# AI-GISer's Weekly Issue 276, 2025-01-20
 
-## AI/ML
+## AI
 
 1. [Plandex](https://github.com/plandex-ai/plandex)
 

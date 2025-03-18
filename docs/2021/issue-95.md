@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 95
+# AI-GISer's Weekly Issue 95
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ Awesome GIS collects geospatial-related sources, including cartographic tools, a
 
 OmniSciDB is an open-source SQL-based, relational, columnar database engine that leverages modern hardware's entire performance and parallelism (both CPUs and GPUs) to enable querying of multi-billion row datasets in milliseconds, without the need for indexing, pre-aggregation, or downsampling.
 
-## AI/ML
+## AI
 
 1. [Listening to the Brain](https://read.deeplearning.ai/the-batch/issue-101/)
 

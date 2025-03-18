@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 247, 2024-06-30
+# AI-GISer's Weekly Issue 247, 2024-06-30
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ The article discusses the need for a digital twin of the built environment, enco
 
 The author's server receives thousands of malicious accesses every day, and this article describes how he visualizes the physical location of these IP addresses.
 
-## AI/ML
+## AI
 
 1. [Gateway](https://github.com/Portkey-AI/gateway)
 

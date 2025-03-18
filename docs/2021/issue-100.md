@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 100,2021-08-27
+# AI-GISer's Weekly Issue 100,2021-08-27
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ Cos4Cloud will create a minimum viable ecosystem where the citizen observatories
 
 To enable greater compatibility when creating Citizen Science data using the SensorThings API, an extension to the SensorThings Data Model was created, built, and delivered.
 
-## AI/ML
+## AI
 
 1. [Wake Up and Smell the AI](https://read.deeplearning.ai/the-batch/issue-106/)
 

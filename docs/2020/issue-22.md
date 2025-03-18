@@ -1,4 +1,4 @@
-# GISer's Weekly Issue
+# AI-GISer's Weekly Issue
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ The Submarine Cable Map is a free and regularly updated resource from TeleGeogra
 
 It provides the IP Geolocation APIs, which allow you to identify users' geographical locations. IP location helps customize web experiences, prevent fraud, ensure regulatory compliance, and more.
 
-## AI/ML
+## AI
 
 1. [Binder](https://mybinder.org/)
 

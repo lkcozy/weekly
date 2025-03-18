@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 230, 2024-03-06
+# AI-GISer's Weekly Issue 230, 2024-03-06
 
 ## GeoSpatial
 
@@ -38,7 +38,7 @@ While image description extraction and text-to-speech are interesting from a tec
 - Alt-text generation: the best advice for making visual elements more accessible to users with visual impairments is to provide alt-text that can be read by screen readers. However, there are scenarios where alt-text cannot be generated beforehand. For example, some apps automatically move the map view to a new location based on search criteria. In this case, contextual alt-text can be generated on-the-fly using a method like map-to-speech.
 - Vision enhancement: despite a cartographer’s best intentions, there is always a trade-off between detail and legibility. In cases where there are necessary small details on a map, the map-to-speech method may benefit users with low-vision.
 
-## AI/ML
+## AI
 
 1. [PandasAI](https://github.com/Sinaptik-AI/pandas-ai)
 

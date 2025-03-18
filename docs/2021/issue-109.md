@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 109, 2021-11-02
+# AI-GISer's Weekly Issue 109, 2021-11-02
 
 ## GeoSpatial
 
@@ -29,7 +29,7 @@ The Building Energy Mapping and Analytics Concept Development Study (BEMA-CDS) a
 
 With the thriving world population, a change in the system is required now, more than ever. Implementing IoT in the agriculture business can bring an extremely positive change.
 
-## AI/ML
+## AI
 
 1. [Artistry Is Obsolete](https://read.deeplearning.ai/the-batch/issue-115/)
 

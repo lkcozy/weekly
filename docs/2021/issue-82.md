@@ -41,7 +41,7 @@ One of the most desired features of The Things Network Stack is the `ability to 
 
 For commercial use, The Things Industries offers V3 with additional services, such as LoRaWAN FOTA, monitoring and alerting, multi-tenancy, multi-region private deployments and peering with the public and other private networks.
 
-## AI/ML
+## AI
 
 1. [Toward Better Video Search](https://www.deeplearning.ai/the-batch/issue-88/)
 

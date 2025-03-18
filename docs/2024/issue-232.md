@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 232, 2024-03-18
+# AI-GISer's Weekly Issue 232, 2024-03-18
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ Proj4js is a JavaScript library to transform point coordinates from one coordina
 
 Reframing geospatial skills in terms of data science and IT can increase marketability and potentially address disparities in compensation, emphasizing the importance of skill development, communication, and finding real-world value in geospatial work. Proactive professional development by learning new skills aligned with market demands is essential.
 
-## AI/ML
+## AI
 
 1. [Add AI To Your Toolkit in 10 Minutes](https://www.builder.io/blog/add-ai-in-10-minutes)
 

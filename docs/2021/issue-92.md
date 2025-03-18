@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 92
+# AI-GISer's Weekly Issue 92
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ A curated list of Google Earth Engine resources.
 
 A tutorial introduces several types of geospatial data and enumerates essential Earth Engine functions for analyzing and visualizing them.
 
-## AI/ML
+## AI
 
 1. [Flight Paths Optimized](https://read.deeplearning.ai/the-batch/issue-98/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 195, 2023-07-01
+# AI-GISer's Weekly Issue 195, 2023-07-01
 
 ## GeoSpatial
 
@@ -8,7 +8,7 @@
 
 LocationSimulator is a macOS app (10.15.x and later) which allows spoofing the location of an iOS or iPhoneSimulator device. The target audience of this project are developers who want to test their location service based application. I do not encourage the use of this application to cheat in iOS games and I do not provide support for these games. If you use this application outside of the intended purposes, you are on your own.
 
-## AI/ML
+## AI
 
 1. [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/AI-For-Beginners)
 

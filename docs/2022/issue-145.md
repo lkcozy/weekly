@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 145, 2022-07-11
+# AI-GISer's Weekly Issue 145, 2022-07-11
 
 ## GeoSpatial
 

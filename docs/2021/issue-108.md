@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 108, 2021-10-22
+# AI-GISer's Weekly Issue 108, 2021-10-22
 
 ## GeoSpatial
 

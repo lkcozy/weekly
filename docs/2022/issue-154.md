@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 154, 2022-09-09
+# AI-GISer's Weekly Issue 154, 2022-09-09
 
 ## GeoSpatial
 
@@ -29,7 +29,7 @@ These Best Practices do not seek to govern the use of UML within the OGC. Howeve
 
 Random Street View is a street mapping platform offering people to get random street view images of popular places.
 
-## AI/ML
+## AI
 
 1. [Background Remover - PhotoRoom](https://www.photoroom.com/background-remover/)
 

@@ -40,7 +40,7 @@ Actual photographs of the sun setting over calm water look more like this:
 
 Notice the shortened reflection. This happens because of `the curvature of the earth`, and by measuring the size of this effect, it is possible to `infer the ratio of the earth’s radius to the camera’s height above the water`.
 
-## AI/ML
+## AI
 
 1. [Deep Learning Do It Yourself!](https://dataflowr.github.io/website/)
 

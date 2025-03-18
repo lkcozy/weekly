@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 180, 2023-03-18
+# AI-GISer's Weekly Issue 180, 2023-03-18
 
 ## GeoSpatial
 

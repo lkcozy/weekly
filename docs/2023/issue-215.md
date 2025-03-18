@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 215, 2023-11-18
+# AI-GISer's Weekly Issue 215, 2023-11-18
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ They also discuss the process of creating realistic continent shapes using Voron
 
 Lastly, the author discusses adding height variation to the land and simulating erosion to make the world look more realistic.
 
-## AI/ML
+## AI
 
 1. [Flawless](https://flawless.is/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 238, 2024-04-28
+# AI-GISer's Weekly Issue 238, 2024-04-28
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ The article discusses the use of geospatial technologies in various fields, focu
 - Building a GIS portfolio and gaining hands-on experience through internships are crucial for job readiness.
 - Specializing in a field that utilizes geospatial technology or advancing programming skills can enhance career prospects in GIS.
 
-## AI/ML
+## AI
 
 1. [lobehub/lobe-vidol](https://github.com/lobehub/lobe-vidol)
 

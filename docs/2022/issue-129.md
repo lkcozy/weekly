@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 129, 2022-03-21
+# AI-GISer's Weekly Issue 129, 2022-03-21
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Terrain2STL creates STL files using the SRTM3 dataset from 2000, which has a res
 
 Open Infrastructure Map views the world's infrastructure, such as power stations, power lines, wind turbines, mapped in the OpenStreetMap database.
 
-## AI/ML
+## AI
 
 1. [SikuliX](https://github.com/RaiMan/SikuliX1)
 

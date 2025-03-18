@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 175, 2023-02-05
+# AI-GISer's Weekly Issue 175, 2023-02-05
 
 ## GeoSpatial
 
@@ -10,7 +10,7 @@ In Canada, the Rocky Mountains to the west and freezing cold temperatures in the
 
 Though population spikes in Western Canada are growing rapidly, highly populous urban centers are noticeably concentrated along the St. Lawrence River, with the Greater Toronto Area accounting for more than one-sixth of the country’s 39 million people.
 
-## AI/ML
+## AI
 
 1. [There's An AI For That](https://theresanaiforthat.com/)
 

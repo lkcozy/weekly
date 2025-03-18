@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 251, 2024-07-28
+# AI-GISer's Weekly Issue 251, 2024-07-28
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ In 2024, nine of the world’s 10 busiest ports are located in Asia, underscorin
 
 Due to supply chain shifts and deeper integration, intraregional trade within Asia has grown significantly. In the 1990s, over 70% of Asian exports by value went beyond the region, with containers being shipped back mostly empty. By comparison, roughly 60% of exports in Asia are traded within the region today.
 
-## AI/ML
+## AI
 
 1. [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
 

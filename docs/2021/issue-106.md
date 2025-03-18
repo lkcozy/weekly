@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 106,2021-10-08
+# AI-GISer's Weekly Issue 106,2021-10-08
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Uses USGS NHDPlus data and their NLDI API to visualize the path of a rain drople
 
 Open Topography is an online portal for imagery and lidar data that lets users create their deliverables based on that same data. A web-based interface provides access to everything from global DEM data like Shuttle radar topography mission (SRTM) data sets through to state and national lidar collections.
 
-## AI/ML
+## AI
 
 1. [How Artificial Intelligence Completed Beethoven's Unfinished Tenth Symphony](https://www.smithsonianmag.com/innovation/how-artificial-intelligence-completed-beethovens-unfinished-10th-symphony-180978753/)
 

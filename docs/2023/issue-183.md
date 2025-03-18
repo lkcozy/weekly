@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 183, 2023-04-10
+# AI-GISer's Weekly Issue 183, 2023-04-10
 
 ## GeoSpatial
 
@@ -12,7 +12,7 @@ Journeai offers hyper-personalized trip recommendation services that integrate w
 
 CubeTrek is your GPS-Tracks in 3D. Topography is what makes skiing, hiking, trail running, and mountain biking so exhilarating. You work hard and break a sweat climbing those vertical distances, but unfortunately, your tracking software only displays a mundane 2D map.
 
-## AI/ML
+## AI
 
 1. [RoboPianist](https://kevinzakka.github.io/robopianist-demo/)
 

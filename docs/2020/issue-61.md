@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 61
+# AI-GISer's Weekly Issue 61
 
 ## GeoSpatial
 
@@ -67,7 +67,7 @@ For instance, for the vaccine candidates most likely to be developed in the near
 
 Esri has given example scenarios and planning tools that show the spatial challenges of providing a vaccine to different states; however, we are also likely to see many challenges given the demand, need for better infrastructure to transport a potential vaccine, and the high costs associated with purchasing and developing enough doses to enable most people to have access
 
-## AI/ML
+## AI
 
 1. [Unsupervised Prejudice](https://blog.deeplearning.ai/blog/the-batch-bias-in-surprising-places-retail-models-adjust-to-covid-faster-transformers-ai-patents-explode)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 69
+# AI-GISer's Weekly Issue 69
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ Unfolded Studio is an online geospatial data analysis platform built based on a 
 
 The SpatioTemporal Asset Catalog (STAC) specification provides a common language to describe a range of geospatial information to be indexed and discovered more easily. A "spatiotemporal asset" is any file representing `information about the earth captured in a certain space and time.`
 
-## AI/ML
+## AI
 
 1. [The Fax About Tracking Covid](https://blog.deeplearning.ai/blog/the-batch-propagandists-lie-about-ai-language-models-grok-images-machines-triage-covid-cases-world-models-shrink)
 

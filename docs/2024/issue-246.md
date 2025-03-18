@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 246, 2024-06-24
+# AI-GISer's Weekly Issue 246, 2024-06-24
 
 ## GeoSpatial
 
@@ -50,7 +50,7 @@ This articles uses a real-world railway dataset to demonstrate key features of D
 - Queries reveal insights like the busiest railway stations in the Netherlands, the top-3 busiest stations for summer months, and querying Parquet files through HTTPS or S3.
 - DuckDB's efficient query execution on remote files, such as Parquet, is demonstrated by running complex queries with minimal network traffic and time.
 
-## AI/ML
+## AI
 
 1. [Luma AI Video Generator](https://lunaai.video/)
 

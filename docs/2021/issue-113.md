@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 113,2021-11-26
+# AI-GISer's Weekly Issue 113,2021-11-26
 
 ## GeoSpatial
 
@@ -34,7 +34,7 @@ Storage of existing carbon in Earth's natural biomes and sediments will be criti
 
 One way to achieve this is to map locations of stored carbon and aim to keep that stored carbon in a state where it is not released into the atmosphere.
 
-## AI/ML
+## AI
 
 1. [Deep Learning for Deep Frying](https://read.deeplearning.ai/the-batch/issue-119-2/)
 

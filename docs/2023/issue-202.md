@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 202, 2023-08-20
+# AI-GISer's Weekly Issue 202, 2023-08-20
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ Key Takeaways:
 - Alaska is the only state that extends into the Arctic Circle and has coastlines on two different oceans.
 - Arizona is the only state that contains segments of all four North American deserts.
 
-## AI/ML
+## AI
 
 1. [Novel](https://github.com/steven-tey/novel)
 

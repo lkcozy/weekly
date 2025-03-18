@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 188, 2023-05-15
+# AI-GISer's Weekly Issue 188, 2023-05-15
 
 ## GeoSpatial
 
@@ -10,7 +10,7 @@ The paper proposes an interoperable and service-oriented approach for real-time 
 
 The paper proposes a method to improve the interpretability of geospatial artificial intelligence (GeoAI) models, particularly deep learning models, by generating saliency maps using integrated gradients. This method can help researchers and practitioners better understand how the model makes decisions and identify potential biases or errors. The paper sheds new light on using machine learning techniques for modeling spatial processes and shows that XGBoost has the ability to extract local spatial effects similar to those of classic models.
 
-## AI/ML
+## AI
 
 1. [cli-gpt](https://github.com/MagicCube/cli-gpt)
 

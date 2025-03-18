@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 267, 2024-11-18
+# AI-GISer's Weekly Issue 267, 2024-11-18
 
 ## GeoSpatial
 

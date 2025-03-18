@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 227, 2024-02-10
+# AI-GISer's Weekly Issue 227, 2024-02-10
 
 ## GeoSpatial
 
@@ -33,7 +33,7 @@ Mapping APIs in JavaScript offers a powerful way to bring maps to life within we
 - Geocode and reverse geocode
 - Perform spatial analysis
 
-## AI/ML
+## AI
 
 1. [LangChain.js](https://github.com/langchain-ai/langchainjs)
 

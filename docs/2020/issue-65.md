@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 65
+# AI-GISer's Weekly Issue 65
 
 ## GeoSpatial
 
@@ -60,7 +60,7 @@ OD Cost Matrix: This type of network uses two sets of locations to find the dist
 
 For example, it can list the routes and directions for all stores and warehouses. In emergency dispatching, one set of locations consists of the incident, and the other set is all the available fire stations.
 
-## AI/ML
+## AI
 
 1. [Crowdsourcing Against Coronavirus](https://blog.deeplearning.ai/blog/the-batch-new-coronavirus-treatments-reimagining-robotaxis-opening-historical-archives-streamlining-simulations)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 130, 2022-03-26
+# AI-GISer's Weekly Issue 130, 2022-03-26
 
 ## GeoSpatial
 

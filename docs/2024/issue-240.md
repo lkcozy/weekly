@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 240, 2024-05-12
+# AI-GISer's Weekly Issue 240, 2024-05-12
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ GIS data refers to information that is explicitly linked to locations on the Ear
 - Raster data can be continuous or discrete, with floating point values allowing for high precision but requiring more storage and processing power.
 - Different sources of GIS data include government agencies, commercial providers, remote sensing, and open-source platforms.
 
-## AI/ML
+## AI
 
 1. [node-mlx](https://github.com/frost-beta/node-mlx)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 253, 2024-08-18
+# AI-GISer's Weekly Issue 253, 2024-08-18
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ The article discusses various options for obtaining user location in programming
 
 Different methods of obtaining user location have their pros and cons, including issues with user accuracy, reliability, and privacy concerns, which must be considered when implementing location-based features.
 
-## AI/ML
+## AI
 
 1. [AI-assisted web development project](https://github.com/selfboot/ai_gallery)
 

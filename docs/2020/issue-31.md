@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 31
+# AI-GISer's Weekly Issue 31
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ Supply chains are affected by worker sickness, slower deliveries, and delays cau
 
 One area that is particularly likely to aid further disruptions in global supply chains is the automated integration of IoT into small-scale and large-scale assessments of when food items and supplies reach a given area. The potential of IoT is that as supplies are handled by distributors or dispatched, information is automatically sent over the network, and real-time analytics can determine if the level of supply is likely to cause problems or may need changing to meet demand. Devices that use IoT can range to many different items, which is why many see this as a great potential for better data capture. Satellite data can help track shipments from more macro-level views, such as monitoring ports and ships coming into harbours, but the total volume of supply may be under- or over-estimated, simply relying on satellite data. Forecast models are potentially better updated using real-time IoT updates, although shipping information from satellite monitoring could potentially act as a type of early warning that shipping is either lower or higher than normal, baseline levels
 
-## AI/ML
+## AI
 
 1. [Musical Robot Learns to Sing](https://spectrum.ieee.org/automaton/robotics/robotics-software/musical-robot-shimon-sing-album-dropping-on-spotify?utm_campaign=The+Batch&utm_source=hs_email&utm_medium=email&utm_content=85262546&_hsenc=p2ANqtz-9rJgTHHwdF8WyZvJGe759Ki8oUej8bJvugo7YL2k3BFy7ynyDYoG9JPDr-lwRWJjDcSrQaOJFgvq1-3R2mWJGmrysWLg&_hsmi=85262546)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 272, 2024-12-23
+# AI-GISer's Weekly Issue 272, 2024-12-23
 
 ## GeoSpatial
 
@@ -13,7 +13,7 @@ There is a geographic point in the Bering Strait where the United States and Rus
 - Little Diomede belongs to the United States, while Big Diomede is part of Russia, separated by the International Date Line.
 - The political separation of the Diomede Islands occurred during the Cold War, and they have different populations and climates.
 
-## AI/ML
+## AI
 
 1. [Midscene.js](https://github.com/web-infra-dev/midscene)
 

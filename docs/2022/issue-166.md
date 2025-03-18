@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 166, 2022-12-05
+# AI-GISer's Weekly Issue 166, 2022-12-05
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Google maps' street view but for Zelda Breath of The Wild. The author explains h
 
 Essentials of Geographic Information Systems illustrates how GIS is used to ask questions, inform choices, and guide policy. From melting the polar ice caps to privacy issues associated with mapping, this book provides a gentle yet substantive introduction to the use and application of digital maps, mapping, and GIS.
 
-## AI/ML
+## AI
 
 1. [Peregrine](https://play.ht/blog/introducing-truly-realistic-text-to-speech-with-emotion-and-laughter/)
 

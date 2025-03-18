@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 237, 2024-04-22
+# AI-GISer's Weekly Issue 237, 2024-04-22
 
 ## GeoSpatial
 
@@ -12,7 +12,7 @@ The article discusses the importance of satellite imagery options and remote sen
 - The tool allows users to explore spectral profiles of materials, objects, and features acquired by satellite imagery.
 - The tool has been recently updated with improved user interfaces and analysis functions, allowing users to compare different spectral signatures and sensor information for satellites.
 
-## AI/ML
+## AI
 
 1. [Suno AI API](https://github.com/gcui-art/suno-api)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 37
+# AI-GISer's Weekly Issue 37
 
 ## GeoSpatial
 
@@ -43,7 +43,7 @@ Visits to Parks in Los Angeles County during the month of April. The brown indic
 
 Visits to parks in Los Angeles further emphasize the spatial heterogeneity of the city. Neighborhoods like Beverly Hills, Santa Monica, and Burbank all had over 50% fewer visits to parks in April than they did in January. Other parts of the city, however, experienced increases in visits to parks during the same period.
 
-## AI/ML
+## AI
 
 1. [Human-Level X-Ray Diagnosis](https://arxiv.org/abs/2004.09167)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 8, 2019-10-07
+# AI-GISer's Weekly Issue 8, 2019-10-07
 
 ## GeoSpatial
 
@@ -50,7 +50,7 @@ Distributive flow maps curl like fingers branching off to their destination depi
 
 Word maps assign dominant keywords to features filling in the area of the map. Word placement is key for this type of map in terms of rotation, scaling and skewing. Large words suggest an important topic, whereas small words put less emphasis on a keyword.
 
-## AI/ML
+## AI
 
 1.[Quantum Supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/)
 

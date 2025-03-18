@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 42
+# AI-GISer's Weekly Issue 42
 
 ## GeoSpatial
 
@@ -36,7 +36,7 @@ An interactive map to display the center of a polygon with four different librar
 
 A very interesting website that allows you to experience online driving and listening to the radio at the same time. Use the driver's point of view, play the street view, with speed and street noise switches, coupled with the local radio station. Dozens of cities are currently supported, including Beijing and Wuhan.
 
-## AI/ML
+## AI
 
 1. [Once-for-All](https://arxiv.org/abs/1908.09791)
 

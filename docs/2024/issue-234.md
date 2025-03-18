@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 234, 2024-04-06
+# AI-GISer's Weekly Issue 234, 2024-04-06
 
 ## GeoSpatial
 
@@ -10,7 +10,7 @@ A new versatile time series model called UniTS (Unified Time Series model), it w
 
 The authors of the model hope that UniTS will enhance researchers’ capacity to streamline the analysis of temporal patterns from a collection of datasets, whether it’s for financial forecasting, healthcare diagnostics, or environmental conservation.
 
-## AI/ML
+## AI
 
 1. [CleanConnect.ai](https://cleanconnect.ai/)
 

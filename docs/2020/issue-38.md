@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 38
+# AI-GISer's Weekly Issue 38
 
 ## GeoSpatial
 
@@ -54,7 +54,7 @@ It is possible that the same geometry contains different levels of detail.
 
 Mappa.js allows you to overlay a canvas on top of a tilemap. It also provides a set of tools for working with static maps, interactive tilemaps and geo-data, among other tools useful when building geolocation-based visual representations.
 
-## AI/ML
+## AI
 
 1. [Playing With GANs](https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/)
 

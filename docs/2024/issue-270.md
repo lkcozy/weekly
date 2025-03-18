@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 270, 2024-12-09
+# AI-GISer's Weekly Issue 270, 2024-12-09
 
 ## GeoSpatial
 
@@ -13,7 +13,7 @@ A father creates an app called PyMyFlySpy to track his flight's progress and sha
 - The decision to use an extension instead of a scraper was made to avoid irritating airlines and ensure the app does not harm the server.
 - Future work includes implementing event subscriptions for triggering actions based on flight data.
 
-## AI/ML
+## AI
 
 1. [UICloner Extension](https://github.com/AndySpider/uicloner-extension)
 

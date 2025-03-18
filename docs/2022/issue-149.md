@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 149, 2022-08-07
+# AI-GISer's Weekly Issue 149, 2022-08-07
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ Geographic coordinate systems allow for the measurements of distances and determ
 
 The universal transverse Mercator (UTM) is a geographic coordinate system and the most prevalent plane grid system used.
 
-## AI/ML
+## AI
 
 1. [Truss](https://github.com/basetenlabs/truss)
 

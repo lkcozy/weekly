@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 89
+# AI-GISer's Weekly Issue 89
 
 ## GeoSpatial
 
@@ -28,7 +28,7 @@ Understanding how to identify territories based on an urbanity typology and synt
 
 In this research, the author created a geographical model to categorize urbanity levels globally and at a high resolution.
 
-## AI/ML
+## AI
 
 1. [3D Scene Synthesis for the Real World](https://www.deeplearning.ai/the-batch/issue-95/)
 

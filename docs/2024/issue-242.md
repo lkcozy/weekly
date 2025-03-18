@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 242, 2024-05-25
+# AI-GISer's Weekly Issue 242, 2024-05-25
 
 ## GeoSpatial
 
@@ -13,7 +13,7 @@ Why Learn Programming for GIS?
 - Enhanced Analysis: Programming enables more complex data analysis than is possible with standard GIS tools, including integrating algorithms that can predict trends and patterns.
 - Career Advancement: Proficiency in programming can open up higher-level job opportunities in GIS fields, as it adds a highly valued skill to your portfolio.
 
-## AI/ML
+## AI
 
 1. [Harnessing ChatGPT as Your Writing Assistant: A Step-by-Step Guide](https://markus.oberlehner.net/blog/harnessing-chatgpt-as-your-writing-assistant-a-step-by-step-guide/)
 

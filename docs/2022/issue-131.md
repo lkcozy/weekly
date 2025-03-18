@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 131, 2022-04-02
+# AI-GISer's Weekly Issue 131, 2022-04-02
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ Automated techniques that read data from scanned pictures have made significant 
 
 These techniques are able to recognize and search for place names, but they also provide us with the capacity to retrieve data that has been virtually absent from current maps.
 
-## AI/ML
+## AI
 
 1. [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
 

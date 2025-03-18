@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 258, 2024-09-17
+# AI-GISer's Weekly Issue 258, 2024-09-17
 
 ## GeoSpatial
 
@@ -24,7 +24,7 @@ The study revealed significant disparities in urban vegetation cooling benefits:
 - Cities in the Global South have approximately 70% of the cooling capacity of those in the Global North (2.5°C vs. 3.6°C on average)
 - The average person in Global South cities benefits less from this cooling (2.2°C vs. 3.4°C).
 
-## AI/ML
+## AI
 
 1. [LangSync](https://github.com/LangSync/cli)
 

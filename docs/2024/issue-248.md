@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 248, 2024-07-08
+# AI-GISer's Weekly Issue 248, 2024-07-08
 
 ## GeoSpatial
 
@@ -6,7 +6,7 @@
 
 DNSChecked.com is a free, ad-free, high-performance DNS resolution propagation detection tool. It can quickly check DNS propagation for any domain name.
 
-## AI/ML
+## AI
 
 1. [How to generate realistic people in Stable Diffusion](https://stable-diffusion-art.com/realistic-people/)
 

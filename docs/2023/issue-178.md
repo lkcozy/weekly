@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 178, 2023-02-27
+# AI-GISer's Weekly Issue 178, 2023-02-27
 
 ## GeoSpatial
 
@@ -22,7 +22,7 @@ In recent years, video streaming has become an integral part of global entertain
 
 This website collects a lot of interesting photos from Google Street View, and randomly displays them one at a time.
 
-## AI/ML
+## AI
 
 1. [Hello History](https://www.hellohistory.ai/)
 

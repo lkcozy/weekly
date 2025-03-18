@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 44
+# AI-GISer's Weekly Issue 44
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ How GIS Professionals Should Market Themselves
 
 The MapScaping Podcast is a weekly podcast featuring interesting people doing amazing work in the geospatial world. During each podcast, they interview experts and feature people that will help you learn more about GIS, geospatial, remote sensing and earth observation.
 
-## AI/ML
+## AI
 
 1. [AI Beach Life Saving system](https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 26
+# AI-GISer's Weekly Issue 26
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ SpaceX provides the satellite launch service, where individuals can purchase the
 
 This service is mainly aimed at customers who want to launch a small satellite with an insufficient budget. SpaceX carried the customer's satellite through the excess space on the rocket based on its own one-shot multiple satellite technology. In this way, SpaceX can occupy the satellite launch market. Although it's not cheap for individuals, it's the easiest way to launch a satellite with the lowest price.
 
-## AI/ML
+## AI
 
 1. [Poultry in Motion](https://www.wsj.com/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602)
 

@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 97, 2022-08-08
+# AI-GISer's Weekly Issue 97, 2022-08-08
 
 ## GeoSpatial
 
@@ -40,7 +40,7 @@ geojsonCoords({
 
 Extract coordinates from GeoJSON.
 
-## AI/ML
+## AI
 
 1. [Olympic AI](https://read.deeplearning.ai/the-batch/issue-103/)
 

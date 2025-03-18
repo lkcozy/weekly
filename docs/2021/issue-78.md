@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 78
+# AI-GISer's Weekly Issue 78
 
 ## GeoSpatial
 
@@ -26,7 +26,7 @@ The company has launched and operated 5 IoT gateway in space. Every satellite la
 
 [Lacuna Roadmap](https://www.youtube.com/watch?v=3769Xc46eUY)
 
-## AI/ML
+## AI
 
 1. [From Model-centric to Data-centric AI](https://www.deeplearning.ai/the-batch/issue-84/)
 

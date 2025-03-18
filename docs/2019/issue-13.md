@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 13, 2019-11-18
+# AI-GISer's Weekly Issue 13, 2019-11-18
 
 ## GeoSpatial
 

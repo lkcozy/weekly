@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 256, 2024-09-03
+# AI-GISer's Weekly Issue 256, 2024-09-03
 
 ## GeoSpatial
 
@@ -19,7 +19,7 @@ The article highlights the cities in Canada and the U.S. that experienced the hi
 - Major U.S. cities like New York, Chicago, and Los Angeles saw significant population decreases in 2023.
 - Despite population losses in major U.S. cities, not a single large central city in Canada saw a net population loss in 2023.
 
-## AI/ML
+## AI
 
 1. [Watson AI note taker](https://www.guillaume.sh/watson)
 

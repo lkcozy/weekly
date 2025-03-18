@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 101,2021-09-03
+# AI-GISer's Weekly Issue 101,2021-09-03
 
 ## GeoSpatial
 
@@ -20,7 +20,7 @@ Marxan, the top conservation planning software, is now available on the cloud en
 
 Big screen data visualization demos.
 
-## AI/ML
+## AI
 
 1. [Full-Bodied With Hints of Forest Fire](https://read.deeplearning.ai/the-batch/issue-107/)
 

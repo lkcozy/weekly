@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 208, 2023-09-30
+# AI-GISer's Weekly Issue 208, 2023-09-30
 
 ## GeoSpatial
 

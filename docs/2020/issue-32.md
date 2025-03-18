@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 32
+# AI-GISer's Weekly Issue 32
 
 ## GeoSpatial
 
@@ -62,7 +62,7 @@ This tool builds on [GeoPandas](https://www.gislounge.com/working-with-gis-data-
 
 Live visualization of novel COVID-19 outbreak
 
-## AI/ML
+## AI
 
 1. [Where Are the Live Bombs?](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0229826&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=85609380&_hsenc=p2ANqtz--Wf5UhwUq9QcladcjgkFzXyGZ0QJk4EiYZuFCO8Ac-6n8cT1QfB-5fckyOyqfEujnNfTuzu9j8XXBsv56pX55iVkf_Iw&_hsmi=85609380)
 

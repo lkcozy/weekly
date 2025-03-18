@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 207, 2023-09-24
+# AI-GISer's Weekly Issue 207, 2023-09-24
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ This tutorial explains how to create a 2.5D map using ArcGIS Pro and OpenStreetM
 
 > ArcGIS Pro is a mapping software that allows users to create visually appealing 2.5D maps, which display a three-dimensional landscape representation on a two-dimensional plane.
 
-## AI/ML
+## AI
 
 1. [FinChat](https://finchat.io/)
 

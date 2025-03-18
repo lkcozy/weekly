@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 48, 2021-08-09
+# AI-GISer's Weekly Issue 48, 2021-08-09
 
 ## GeoSpatial
 
@@ -41,7 +41,7 @@ This article discusses different ways of reading and visualizing these images wi
 
 The authors use the [Earth Engine](https://earthengine.google.com/) and the Assisted Classification Model to identify dumpsites receiving domestic waste. The model consists of "teaching" our code what dumpsites look like with training samples in a collection of satellite imagery, and telling it to search for more automatically.
 
-## AI/ML
+## AI
 
 1. [Detectron2](https://github.com/facebookresearch/detectron2)
 

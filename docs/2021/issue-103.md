@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 103, 2021-09-17
+# AI-GISer's Weekly Issue 103, 2021-09-17
 
 ## GeoSpatial
 
@@ -18,7 +18,7 @@ This updated version of CityGML supports GML, JSON, and database schemas. In add
 
 LiDAR stands for light detection and ranging and is a remote sensing method that is increasingly used in combination with drones. LiDAR from drones uses scanners while flying, shooting out pulses of light, travelling to the ground, penetrating through vegetation, getting down to the bottom and returning to the scanner.
 
-## AI/ML
+## AI
 
 1. [Rules for Recommenders](https://read.deeplearning.ai/the-batch/issue-109/)
 

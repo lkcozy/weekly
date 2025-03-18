@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 90
+# AI-GISer's Weekly Issue 90
 
 ## GeoSpatial
 
@@ -37,7 +37,7 @@ Here are four reasons why the OGC June Member Meeting will focus on defence and 
 
 National Geographic announced that it is officially recognizing the body of water surrounding the Antarctic as the Southern Ocean, making it the fifth ocean alongside the Arctic, Atlantic, Indian, and Pacific.
 
-## AI/ML
+## AI
 
 1. [Computers Making Computers](https://www.deeplearning.ai/the-batch/issue-96/)
 
@@ -135,10 +135,10 @@ A paper model of China's Tiangong Space Station. You can download a [PDF file fr
 ## Comments
 
 1. Something bizarre I have noticed in junior-almost-senior engineers is that they pride themselves in obfuscating and writing "highly complex" logic with no documentation. It's almost like they are demonstrating their new abilities in the worst way possible.
-    --[Hacker News Reader](https://news.ycombinator.com/item?id=27333947)
+   --[Hacker News Reader](https://news.ycombinator.com/item?id=27333947)
 
 2. I've learned to be honest with my manager. Not too honest, but honest enough where I can be authentic at work. What's the worse that can happen? He fire me? I'll just pick up a new job in 2 weeks.
-    --[Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
+   --[Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 
 ## Review
 

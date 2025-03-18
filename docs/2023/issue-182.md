@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 182, 2023-04-02
+# AI-GISer's Weekly Issue 182, 2023-04-02
 
 ## GeoSpatial
 
@@ -16,7 +16,7 @@ The website updates daily with orbit data from Space-Track.org and uses the exce
 
 NASA's Solar System Interactive is a live look at the solar system, its planets, moons, comets, and asteroids, as well as the real-time locations of dozens of NASA missions.
 
-## AI/ML
+## AI
 
 1. [ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
 

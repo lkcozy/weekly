@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 152, 2022-08-27
+# AI-GISer's Weekly Issue 152, 2022-08-27
 
 ## GeoSpatial
 
@@ -32,7 +32,7 @@ Earth.fm is an online community that listens to natural sounds from across the g
 
 Privacy Tools provides the most popular guides that fight surveillance with encryption and privacy tools.
 
-## AI/ML
+## AI
 
 1. [One Cool Robot](https://read.deeplearning.ai/the-batch/issue-159/)
 

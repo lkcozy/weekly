@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 40
+# AI-GISer's Weekly Issue 40
 
 ## GeoSpatial
 
@@ -34,7 +34,7 @@ Esri is tracking COVID-19 trends at the county level. Updated daily based on dat
 
 Propublica is tracking the trajectory of each state’s positive coronavirus testing rate per 100,000 residents. Laid out in a tile grid map format, simple arrows show if each state, D.C., and Puerto Rico are trending higher, lower, or plateaued when it comes to positive coronavirus test results compared to the prior two weeks. Users can play the timeline tool at the bottom to see the arrows adjust each week based on testing results. For example, the week of April 10 showed many of the Northeastern coastal states trending sharply upward during that period. Click on each state brings the user to more detailed metrics about that state such as testing rates, ICU bed availability, and hospital visits for flu-like symtoms.
 
-## AI/ML
+## AI
 
 1. [Underwater Atlas](https://blog.deeplearning.ai/blog/the-batch-ais-progress-problem-recognizing-masked-faces-mapping-underwater-ecosystems-augmenting-features)
 

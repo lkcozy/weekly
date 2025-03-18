@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 236, 2024-04-14
+# AI-GISer's Weekly Issue 236, 2024-04-14
 
 ## GeoSpatial
 
@@ -14,7 +14,7 @@ Texas is the leading U.S. exporter to major global economies. The state leads in
 
 The site contains more than 100,000 rare map images from the 16th century to the 21st century
 
-## AI/ML
+## AI
 
 1. [Suno Ai Prompt Generator](https://sunoprompt.com/)
 

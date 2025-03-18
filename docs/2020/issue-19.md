@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 19
+# AI-GISer's Weekly Issue 19
 
 ## GeoSpatial
 
@@ -27,7 +27,7 @@ To send a greeting, type the message, and you will be able to see where every bu
 ![](https://www.uncommongoods.com/images/items/23400/234330000002_1_640px.jpg)
 Take a mental stroll through familiar streets with this rock's glass, etched with your city's distinct grid.
 
-## AI/ML
+## AI
 
 1. [The Five Big Ideas in Artificial Intelligence](https://ai4k12.org/resources/big-ideas-poster/)
 

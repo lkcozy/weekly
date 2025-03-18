@@ -1,4 +1,4 @@
-# GISer's Weekly Issue 141, 2022-06-11
+# AI-GISer's Weekly Issue 141, 2022-06-11
 
 ## GeoSpatial
 
@@ -49,7 +49,7 @@ The architecture of these APIs allows developers to implement "just enough geo" 
 
 This website allows you to find a public piano to play.
 
-## AI/ML
+## AI
 
 1. [Mintlify Doc Writer](https://marketplace.visualstudio.com/items?itemname=mintlify.document)
 
