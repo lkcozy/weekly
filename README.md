@@ -33,7 +33,9 @@ grep -nri gis docs | cat -n
 
 ## 🐍 2025
 
-**February**: [Reading Fragments](fragments/2024.02.md) | [Issue #280](docs/2025/issue-280.md)🚀 | [Issue #279](docs/2025/issue-279.md) | [Issue #278](docs/2025/issue-278.md)
+**March**: [Reading Fragments](fragments/2025.03.md) | [Issue #284](docs/2025/issue-284.md)🚧 | [Issue #283](docs/2025/issue-283.md) 🚀 | [Issue #282](docs/2025/issue-282.md) | [Issue #281](docs/2025/issue-281.md)
+
+**February**: [Reading Fragments](fragments/2025.02.md) | [Issue #280](docs/2025/issue-280.md) | [Issue #279](docs/2025/issue-279.md) | [Issue #278](docs/2025/issue-278.md)
 
 **January**: [Reading Fragments](fragments/2025.01.md) | [Issue #277](docs/2025/issue-277.md) | [Issue #276](docs/2025/issue-276.md) | [Issue #275](docs/2025/issue-275.md) | [Issue #274](docs/2025/issue-274.md)
 
