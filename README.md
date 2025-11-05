@@ -33,7 +33,21 @@ grep -nri gis docs | cat -n
 
 ## 🐍 2025
 
-**March**: [Reading Fragments](fragments/2025.03.md) | [Issue #284](docs/2025/issue-284.md)🚧 | [Issue #283](docs/2025/issue-283.md) 🚀 | [Issue #282](docs/2025/issue-282.md)
+**October**: [Reading Fragments](fragments/2025.10.md) | 🚀 [Issue #316](docs/2025/issue-316.md) | 🚧 [Issue #315](docs/2025/issue-315.md) | 🚧 [Issue #314](docs/2025/issue-314.md) | 🚧 [Issue #313](docs/2025/issue-313.md)
+
+**September**: [Reading Fragments](fragments/2025.09.md) | 🚧 [Issue #312](docs/2025/issue-312.md) | 🚧 [Issue #311](docs/2025/issue-311.md) | 🚧 [Issue #310](docs/2025/issue-310.md) | 🚧 [Issue #309](docs/2025/issue-309.md) | 🚧 [Issue #308](docs/2025/issue-308.md)
+
+**August**: [Reading Fragments](fragments/2025.08.md) | 🚧 [Issue #307](docs/2025/issue-307.md) | 🚧 [Issue #306](docs/2025/issue-306.md) | 🚧 [Issue #305](docs/2025/issue-305.md) | 🚧 [Issue #304](docs/2025/issue-304.md)
+
+**July**: [Reading Fragments](fragments/2025.07.md) | 🚧 [Issue #303](docs/2025/issue-303.md) | 🚧 [Issue #302](docs/2025/issue-302.md) | 🚧 [Issue #301](docs/2025/issue-301.md) | 🚧 [Issue #300](docs/2025/issue-300.md)
+
+**June**: [Reading Fragments](fragments/2025.06.md) | 🚧 [Issue #299](docs/2025/issue-299.md) | 🚧 [Issue #298](docs/2025/issue-298.md) | 🚧 [Issue #297](docs/2025/issue-297.md) | 🚧 [Issue #296](docs/2025/issue-296.md) | 🚧 [Issue #295](docs/2025/issue-295.md)
+
+**May**: [Reading Fragments](fragments/2025.05.md) | 🚧 [Issue #294](docs/2025/issue-294.md) | 🚧 [Issue #293](docs/2025/issue-293.md) | 🚧 [Issue #292](docs/2025/issue-292.md) | 🚧 [Issue #291](docs/2025/issue-291.md)
+
+**April**: [Reading Fragments](fragments/2025.04.md) | 🚧 [Issue #290](docs/2025/issue-290.md) | 🚧 [Issue #289](docs/2025/issue-289.md) | 🚧 [Issue #288](docs/2025/issue-288.md) | 🚧 [Issue #287](docs/2025/issue-287.md)
+
+**March**: [Reading Fragments](fragments/2025.03.md) | 🚧 [Issue #286](docs/2025/issue-286.md) | [Issue #285](docs/2025/issue-285.md) | [Issue #284](docs/2025/issue-284.md) | [Issue #283](docs/2025/issue-283.md) | [Issue #282](docs/2025/issue-282.md)
 
 **February**: [Reading Fragments](fragments/2025.02.md) | [Issue #281](docs/2025/issue-281.md) | [Issue #280](docs/2025/issue-280.md) | [Issue #279](docs/2025/issue-279.md) | [Issue #278](docs/2025/issue-278.md)
 
