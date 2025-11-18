@@ -39,5 +39,5 @@ else
     touch "$new_issue_path"
     echo "${release_note}"
 
-    code "$new_issue_path"
+    cursor "$new_issue_path"
 fi

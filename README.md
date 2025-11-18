@@ -33,7 +33,9 @@ grep -nri gis docs | cat -n
 
 ## 🐍 2025
 
-**October**: [Reading Fragments](fragments/2025.10.md) | 🚀 [Issue #316](docs/2025/issue-316.md) | 🚧 [Issue #315](docs/2025/issue-315.md) | 🚧 [Issue #314](docs/2025/issue-314.md) | 🚧 [Issue #313](docs/2025/issue-313.md)
+**November**: [Reading Fragments](fragments/2025.11.md) | 🚀 [Issue #317](docs/2025/issue-317.md)
+
+**October**: [Reading Fragments](fragments/2025.10.md) | [Issue #316](docs/2025/issue-316.md) | 🚧 [Issue #315](docs/2025/issue-315.md) | 🚧 [Issue #314](docs/2025/issue-314.md) | 🚧 [Issue #313](docs/2025/issue-313.md)
 
 **September**: [Reading Fragments](fragments/2025.09.md) | 🚧 [Issue #312](docs/2025/issue-312.md) | 🚧 [Issue #311](docs/2025/issue-311.md) | 🚧 [Issue #310](docs/2025/issue-310.md) | 🚧 [Issue #309](docs/2025/issue-309.md) | 🚧 [Issue #308](docs/2025/issue-308.md)
 
